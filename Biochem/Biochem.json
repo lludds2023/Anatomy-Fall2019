@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "ecd2a994-ddb1-11e9-b071-acde48001122",
-    "deck_config_uuid": "ecd69ed2-ddb1-11e9-a2d5-acde48001122",
+    "crowdanki_uuid": "8eba3d06-ddb9-11e9-b6bc-acde48001122",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ecd69ed2-ddb1-11e9-a2d5-acde48001122",
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -33,7 +33,7 @@
                     7
                 ],
                 "order": 1,
-                "perDay": 20,
+                "perDay": 400,
                 "separate": true
             },
             "replayq": true,
@@ -55,7 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "name": "Microbiology",
+    "name": "Biochem",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -115,49 +115,28 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "what is microbiology",
-                "<div><div><div><div><div><div>the branch of science that deals with microorganisms</div></div></div></div></div></div>"
+                "Who is Mcclean",
+                "Doctor<div><br></div>"
             ],
             "flags": 0,
-            "guid": "fm0/82fM}p",
+            "guid": "sD.lQA|Q5!",
             "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
             "tags": []
+<<<<<<< HEAD
+=======
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "who invented pasteurization",
-                "Louis Pasteur"
+                "Gus",
+                "Moretta<div><br></div>"
             ],
             "flags": 0,
-            "guid": "I0p$(s%5b*",
+            "guid": "nh{.5<Y~-Y",
             "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
             "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What is my last name",
-                "Microbiology"
-            ],
-            "flags": 0,
-            "guid": "g)g4&J`lJP",
-            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "what is amyyyyyy like?",
-                "She is nice"
-            ],
-            "flags": 0,
-            "guid": "oSIMM^,>YT",
-            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
-            "tags": []
+>>>>>>> 5867b3dc511f859b49b38f5e2fdbc4c3eec2c30f
         }
     ]
 }

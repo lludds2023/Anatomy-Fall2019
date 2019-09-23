@@ -1,39 +1,41 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "ecd2a994-ddb1-11e9-b071-acde48001122",
-    "deck_config_uuid": "ecd69ed2-ddb1-11e9-a2d5-acde48001122",
+    "crowdanki_uuid": "c2ecc9e8-ddb4-11e9-b94a-dca9046e6170",
+    "deck_config_uuid": "c2f6871e-ddb4-11e9-9a12-dca9046e6170",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "ecd69ed2-ddb1-11e9-a2d5-acde48001122",
+            "crowdanki_uuid": "c2f6871e-ddb4-11e9-9a12-dca9046e6170",
             "dyn": false,
             "lapse": {
                 "delays": [
-                    10
+                    1,
+                    10,
+                    15
                 ],
-                "leechAction": 0,
+                "leechAction": 1,
                 "leechFails": 8,
                 "minInt": 1,
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Active material",
             "new": {
                 "bury": false,
                 "delays": [
                     1,
-                    10
+                    30
                 ],
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    2,
                     7
                 ],
                 "order": 1,
-                "perDay": 20,
+                "perDay": 600,
                 "separate": true
             },
             "replayq": true,
@@ -41,11 +43,10 @@
                 "bury": false,
                 "ease4": 1.3,
                 "fuzz": 0.05,
-                "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 200
+                "perDay": 100
             },
             "timer": 0
         }
@@ -55,11 +56,65 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "name": "Microbiology",
+    "mid": 1482125806877,
+    "name": "D1 Anatomy",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+            "crowdanki_uuid": "c31c8bda-ddb4-11e9-bc12-dca9046e6170",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: left;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\usepackage[utf8]{inputenc}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-f45e8",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}",
+                    "scratchPad": 0
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -83,7 +138,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-e76dc",
+            "name": "Basic-e6d10",
             "req": [
                 [
                     0,
@@ -115,48 +170,36 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "what is microbiology",
-                "<div><div><div><div><div><div>the branch of science that deals with microorganisms</div></div></div></div></div></div>"
+                "Greek origin of the word anatomy",
+                "To cut"
             ],
             "flags": 0,
-            "guid": "fm0/82fM}p",
-            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+            "guid": "ns#`qZS`6K",
+            "note_model_uuid": "c31c8bda-ddb4-11e9-bc12-dca9046e6170",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "who invented pasteurization",
-                "Louis Pasteur"
+                "The plane slice throgh the centerline height-wise",
+                "mid-seggital plane"
             ],
             "flags": 0,
-            "guid": "I0p$(s%5b*",
-            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+            "guid": "u||8]0K[e{",
+            "note_model_uuid": "c31c8bda-ddb4-11e9-bc12-dca9046e6170",
             "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is my last name",
-                "Microbiology"
+                "pull&nbsp;",
+                "download&nbsp;"
             ],
             "flags": 0,
-            "guid": "g)g4&J`lJP",
-            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "what is amyyyyyy like?",
-                "She is nice"
-            ],
-            "flags": 0,
-            "guid": "oSIMM^,>YT",
-            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+            "guid": "u=&z53#OSC",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
         }
     ]
