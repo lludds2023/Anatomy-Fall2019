@@ -146,6 +146,18 @@
             "guid": "g)g4&J`lJP",
             "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "what is amyyyyyy like?",
+                "She is nice"
+            ],
+            "flags": 0,
+            "guid": "oSIMM^,>YT",
+            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+            "tags": []
         }
     ]
 }
