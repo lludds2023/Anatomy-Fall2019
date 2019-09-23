@@ -122,6 +122,18 @@
             "guid": "sD.lQA|Q5!",
             "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gus",
+                "Moretta<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "nh{.5<Y~-Y",
+            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+            "tags": []
         }
     ]
 }
