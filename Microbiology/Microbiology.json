@@ -83,59 +83,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-5bff3",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-54415",
+            "name": "Basic-e76dc",
             "req": [
                 [
                     0,
@@ -191,12 +139,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "This is practice",
-                "Hi this is practice&nbsp;"
+                "What is my last name",
+                "Microbiology"
             ],
             "flags": 0,
-            "guid": "fO{i^E~L$C",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "guid": "g)g4&J`lJP",
+            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
             "tags": []
         }
     ]
