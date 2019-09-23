@@ -1,0 +1,443 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "4eb3a4e8-db3e-11e9-9496-f2189854675e",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 400,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "paste-1b2905eff87f67a16bc8b6f47f58654f71167083.jpg",
+        "paste-cd36aa3dfa5d50d033850ec0e06ccf1967db4caa.jpg"
+    ],
+    "mid": "1567809318564",
+    "name": "Anatomy-Fall2019",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Thirteen organic vitamins</div>",
+                "<div>Water-soluble vitamins (B1, B2, B3, B5, B6, B7, B9, B12, C)</div> <div>Fat-soluble vitamins (A, D, E, K)</div>"
+            ],
+            "flags": 0,
+            "guid": "E>#w4jS%N)",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Sixteen essential minerals</div>",
+                "<div>Major minerals: Ca, P, K, Na, Cl, Mg, and S</div> <div>Trace minerals: Fe, I, Zn, Cr, Se, F, Mo, Cu, and Mn</div>"
+            ],
+            "flags": 0,
+            "guid": "gXLv]GUwlu",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Do minerals yield energy?",
+                "No"
+            ],
+            "flags": 0,
+            "guid": "GnxC5|gGRi",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>What are the percentages of the energy used in the body? (Pie chart)</div>",
+                "<img src=\"paste-1b2905eff87f67a16bc8b6f47f58654f71167083.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "xU%g3HW|:d",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the typical advised percentage of caloric intake from carbs, fat, and protein?",
+                "<div>•For adults</div> <div>–45-65% of their total calories from carbohydrates</div> <div>–20-35% from fat</div> <div>–10-35% from protein</div>"
+            ],
+            "flags": 0,
+            "guid": "P=`~@FYR>8",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "10 leading causes of death in 2017",
+                "<div>1.Diseases of heart (heart disease) </div> <div>●</div> <div>2.Malignant neoplasms (cancer) </div> <div>●</div> <div>3.Accidents (unintentional injuries) </div> <div>●</div> <div>4.Chronic lower respiratory diseases </div> <div>●</div> <div>5.Cerebrovascular diseases (stroke) </div> <div>●</div> <div>6.Alzheimer disease </div> <div>●</div> <div>7.Diabetes mellitus (diabetes) </div> <div><br></div> <div>8.Influenza and pneumonia </div> <div><br></div> <div>9.Nephritis, nephrotic syndrome and nephrosis (kidney disease) </div> <div><br></div> <div>10.Intentional self-harm (suicide)</div>"
+            ],
+            "flags": 0,
+            "guid": "zKYx?.eF>|",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "which vitamin is technically not a vitamin because we can synthesize it?",
+                "Vitamin D"
+            ],
+            "flags": 0,
+            "guid": "i|TGYDL&WX",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Only fat soluble vitamin with a coenzyme function",
+                "Vitamin K"
+            ],
+            "flags": 0,
+            "guid": "LU?#20IkK-",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Are fat soluble vitamins readily excreted in urine?",
+                "No, they are stored in liver &amp; adipose tissue"
+            ],
+            "flags": 0,
+            "guid": "JP/=wcCp^J",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B1 can be degraded by&nbsp;",
+                "heat"
+            ],
+            "flags": 0,
+            "guid": "t|^A*|Jda1",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B2 (riboflavin) can be destroyed by&nbsp;",
+                "UV light"
+            ],
+            "flags": 0,
+            "guid": "r^7.`,EMDa",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B5 (pantothenic acid) can be destroyed by...",
+                "Food processing"
+            ],
+            "flags": 0,
+            "guid": "fUnRJ`euz[",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B6 (pyroxidine) can be destroyed by&nbsp;",
+                "Heat"
+            ],
+            "flags": 0,
+            "guid": "K~HBj`egm1",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B9 (folic acid) can be destroyed by",
+                "Heat and Oxygen"
+            ],
+            "flags": 0,
+            "guid": "r:.J#S;Cbu",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B12 (cobalamin) can be destroyed by&nbsp;",
+                "Microwave"
+            ],
+            "flags": 0,
+            "guid": "dt5c7!f7Xr",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin C can be destroyed by&nbsp;",
+                "Heat and Oxygen"
+            ],
+            "flags": 0,
+            "guid": "f/|U07|1CT",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B3 also is called",
+                "Niain"
+            ],
+            "flags": 0,
+            "guid": "k7BM*`s1Ze",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B7 is also called&nbsp;",
+                "Biotin"
+            ],
+            "flags": 0,
+            "guid": "FR0&GJ0!W=",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which vitamin is vital to fetus",
+                "B9 (folic acid)&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "jlp/B^qAmP",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin b2 serves as coenzyme in energy metabolism. Which of these are they",
+                "FMN (Flavin mononucleotide), FAD (Flavin adenine dinucleotide)"
+            ],
+            "flags": 0,
+            "guid": "cCffHdM>Kt",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are deficiencies in Riboflavin",
+                "dermatitis<div>cheilosis (fissuring at the corners of the mouth)</div><div>glossitis (tongue appearing smooth and purplish)</div>"
+            ],
+            "flags": 0,
+            "guid": "HJ`0^1i/v_",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is vitamin B3",
+                "Niacin"
+            ],
+            "flags": 0,
+            "guid": "EV66@L^&X7",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the coenzyme forms of Niacin",
+                "NAD and NADP"
+            ],
+            "flags": 0,
+            "guid": "e0n&hrgTsS",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a deficiency in Vitamin B3 look like?",
+                "Pellagra: disease of the skin, GI, and CNS<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "g$e4T:CvS7",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-cd36aa3dfa5d50d033850ec0e06ccf1967db4caa.jpg\"><div>What is this?</div>",
+                "Pellagra"
+            ],
+            "flags": 0,
+            "guid": "wg~5A8=f.`",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vitamin B5 is also known as? What coenzyme is it part of?",
+                "Pantothenic acid, coenzyme A"
+            ],
+            "flags": 0,
+            "guid": "Avs4lh}#+$",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the ankicrowd gonna look like?",
+                "Radical"
+            ],
+            "flags": 0,
+            "guid": "fumqY-Flx%",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        }
+    ]
+}
