@@ -179,12 +179,21 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+<<<<<<< HEAD
                 "Gus is rad",
                 "yah"
             ],
             "flags": 0,
             "guid": "y(ofc&7EH!",
             "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+=======
+                "Gus",
+                "Moretta<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "nh{.5<Y~-Y",
+            "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
             "tags": []
         }
     ]
