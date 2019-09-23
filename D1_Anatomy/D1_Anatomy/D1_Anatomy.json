@@ -87,6 +87,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage{amssymb,amsmath}\n\\usepackage[utf8]{inputenc}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "name": "Basic-d5a6b",
 =======
             "name": "Basic-3560d",
@@ -94,6 +95,9 @@
 =======
             "name": "Basic-3560d",
 >>>>>>> 5867b3dc511f859b49b38f5e2fdbc4c3eec2c30f
+=======
+            "name": "Basic-3560d",
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
             "req": [
                 [
                     0,
@@ -124,6 +128,7 @@
             "__type__": "NoteModel",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
 =======
             "crowdanki_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
@@ -131,6 +136,9 @@
 =======
             "crowdanki_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
 >>>>>>> 5867b3dc511f859b49b38f5e2fdbc4c3eec2c30f
+=======
+            "crowdanki_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -156,6 +164,7 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "name": "Basic-42470",
 =======
             "name": "Basic-9e0c8",
@@ -163,6 +172,9 @@
 =======
             "name": "Basic-9e0c8",
 >>>>>>> 5867b3dc511f859b49b38f5e2fdbc4c3eec2c30f
+=======
+            "name": "Basic-9e0c8",
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
             "req": [
                 [
                     0,
@@ -220,6 +232,7 @@
             "fields": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "To the window, to the ____",
                 "wall"
             ],
@@ -229,6 +242,8 @@
 =======
 =======
 >>>>>>> 5867b3dc511f859b49b38f5e2fdbc4c3eec2c30f
+=======
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
                 "a",
                 "a"
             ],
@@ -236,9 +251,12 @@
             "guid": "e]~dW+wHx%",
             "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 1e2930fa742b777f67f8b429dff0843d83c70f26
 =======
 >>>>>>> 5867b3dc511f859b49b38f5e2fdbc4c3eec2c30f
+=======
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
             "tags": []
         }
     ]

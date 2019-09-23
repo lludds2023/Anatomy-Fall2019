@@ -123,7 +123,10 @@
             "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
             "tags": []
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
         },
         {
             "__type__": "Note",
@@ -136,7 +139,10 @@
             "guid": "nh{.5<Y~-Y",
             "note_model_uuid": "ecd6b7fa-ddb1-11e9-9fce-acde48001122",
             "tags": []
+<<<<<<< HEAD
 >>>>>>> 5867b3dc511f859b49b38f5e2fdbc4c3eec2c30f
+=======
+>>>>>>> 355db9123768b9de590c76e610acb42b01f12298
         }
     ]
 }
