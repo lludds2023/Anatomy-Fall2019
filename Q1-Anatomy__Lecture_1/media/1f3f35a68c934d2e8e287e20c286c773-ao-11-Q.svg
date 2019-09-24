@@ -1,0 +1,24 @@
+<svg height="450" width="800" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-1" stroke="#2D2D2D" width="131.64557" x="106.32911" y="127.8481"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-2" stroke="#2D2D2D" width="131.64557" x="105.37974" y="150"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-3" stroke="#2D2D2D" width="131.64557" x="105.22152" y="172.46836"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-4" stroke="#2D2D2D" width="65.18987" x="105.85444" y="233.86076"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-5" stroke="#2D2D2D" width="66.4557" x="104.27215" y="256.01266"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-6" stroke="#2D2D2D" width="81.64557" x="104.58861" y="278.79747"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-7" stroke="#2D2D2D" width="62.02532" x="103.00632" y="300.94937"/>
+  <g id="1f3f35a68c934d2e8e287e20c286c773-ao-8">
+   <rect fill="#FFEBA2" height="18.35443" stroke="#2D2D2D" width="122.78481" x="104.27215" y="193.98735"/>
+   <rect fill="#FFEBA2" height="18.35443" stroke="#2D2D2D" width="55.6962" x="662.18354" y="193.98734"/>
+  </g>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-9" stroke="#2D2D2D" width="96.20253" x="103.16456" y="321.51898"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-10" stroke="#2D2D2D" width="56.96202" x="104.11392" y="343.67088"/>
+  <rect class="qshape" fill="#FF7E7E" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-11" stroke="#2D2D2D" width="89.2405" x="104.11392" y="365.18987"/>
+  <rect fill="#FFEBA2" height="18.35443" id="1f3f35a68c934d2e8e287e20c286c773-ao-12" stroke="#2D2D2D" width="115.82279" x="104.11393" y="386.70886"/>
+ </g>
+</svg>
