@@ -83,20 +83,82 @@
         "b5c3750f23434da58820eae1287657df-oa-1-A.svg",
         "b5c3750f23434da58820eae1287657df-oa-1-Q.svg",
         "b5c3750f23434da58820eae1287657df-oa-O.svg",
+        "paste-043d184efdfa3e31bcada8320768ab10ca097398.jpg",
+        "paste-1e059a422e26b24c2374d1e1f1da11045013ae99.jpg",
         "paste-59992531d290b75e08d1c44313504284411937ae.jpg",
+        "paste-59df6f751ee3dabe1f0253d7fecdd3b1be09442c.jpg",
         "paste-600cfec48ea89b4be22423918751b32be93c49af.jpg",
         "paste-78e3a7d470b6e04152b2f6a8e3c35a504bddf898.jpg",
+        "paste-8771696f5698c2f5f8d561eebf0b95d585f5ca97.jpg",
         "paste-8e94f28e8d371ec7ed92acb862acf1c981686105.jpg",
         "paste-c5d187c95b876adfdfa568f23847a60195e4fce1.jpg",
+        "paste-f5b64e3317fd7e79491bc017797ffcec8e243684.jpg",
         "paste-fe730983f84279bb241d8ee4384072679dcb282e.jpg",
         "tmpejdil6fj.png",
         "tmppkrnaez2.png",
         "tmptek4_pzf.png",
         "tmpxo6qawmq.png"
     ],
-    "mid": "1526331433461",
+    "mid": "1569208585718",
     "name": "Q1-Dental Fundamentals::Lecture 2",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "incisor,",
+                "lingual",
+                "maxillary,",
+                "view,"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
@@ -204,7 +266,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-46a29",
             "req": [
                 [
                     0,
@@ -261,7 +323,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-51f6b",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -304,7 +366,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            "name": "Basic-e7615",
             "req": [
                 [
                     0,
@@ -332,6 +394,42 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Location (#s)&nbsp;</b>in mouth and <b>Characteristics (3)&nbsp;</b>of Maxillary Lateral Incisors&nbsp;",
+                "<img src=\"paste-1e059a422e26b24c2374d1e1f1da11045013ae99.jpg\"><div><br></div><div>1. Smaller in all dimensions EXCEPT root length</div><div>2. generally more rounded</div><div>3. displays more variation in form</div>"
+            ],
+            "flags": 0,
+            "guid": "@p`QabPSy",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "10",
+                "7,",
+                "incisor,",
+                "maxillary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Development timeline for Maxillary Incisors:&nbsp;<div><br></div><div>beginning calcification:</div><div>completion of enamel:</div><div>eruption:</div><div>root completion:</div>",
+                "1 year<div>4-5 years</div><div>8-9 years</div><div>11 years</div>"
+            ],
+            "flags": 0,
+            "guid": "t(@3vuv8m]",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "10,",
+                "7,",
+                "development",
+                "incisor,",
+                "maxillary,",
+                "tooth"
+            ]
+        },
         {
             "__type__": "Note",
             "data": "",
@@ -667,6 +765,65 @@
             "guid": "EGq3+#dEc|",
             "note_model_uuid": "714ed4b4-df0f-11e9-a2b7-38f9d3c666dc",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Labial View Mesial Outline of Maxillary Lateral Incisor<div><img src=\"paste-59df6f751ee3dabe1f0253d7fecdd3b1be09442c.jpg\"><br></div><div>1. More or Less convexity than mesial of central incisor?&nbsp;</div><div><br></div><div>2. HOC is at (.....)</div>",
+                "1. More<div>2. Incisal Third</div>"
+            ],
+            "flags": 0,
+            "guid": "jE+Vls@e?S",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Labial View Distal Outline of Maxillary Lateral Incisor<div><img src=\"paste-f5b64e3317fd7e79491bc017797ffcec8e243684.jpg\"><br></div><div>1. DI corner is more/less rounded than MI</div><div>2. HOC is at junction of (.....) to the middle of the middle third</div>",
+                "1. More (most rounded incisal corner*)<div>2. Incisal-middle third</div>"
+            ],
+            "flags": 0,
+            "guid": "JaX9xX!`!n",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "incisor",
+                "maxillary,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Labial View Incisal Edge of Maxillary Lateral Incisor<div><img src=\"paste-043d184efdfa3e31bcada8320768ab10ca097398.jpg\"><div>1. Typically has (...) mamelons</div><div>2. Labial HOC location is (...)<br><div><br></div></div></div>",
+                "1. two<div>2. cervical third</div>"
+            ],
+            "flags": 0,
+            "guid": "Q*icv]I1of",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "incisor,",
+                "maxillary,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lingal View of Maxillary Lateral Incisor<img src=\"paste-8771696f5698c2f5f8d561eebf0b95d585f5ca97.jpg\"><div>1. Marginal ridges are more/less prominent?</div><div>2. Lingual fossa deeper/shallower?</div><div>3. Linguo-gingival fissure sometimes/always present?</div><div>4. Height of contour at which location?</div>",
+                "1. more<div>2. deeper</div><div>3. sometimes</div><div>4. cervical third</div>"
+            ],
+            "flags": 0,
+            "guid": "k<KL)sN>g`",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "incisor,",
+                "lingual",
+                "maxillary,",
+                "view,"
+            ]
         }
     ]
 }
