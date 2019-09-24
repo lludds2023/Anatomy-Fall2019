@@ -54,8 +54,218 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg",
+        "paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg"
+    ],
     "name": "Q1-Microbiology::Lecture 1",
-    "note_models": [],
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "incisor,",
+                "lingual",
+                "maxillary,",
+                "view,"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2 purposes of the Nucleic Acid Test (NAT) or Nucleic Acid Amplification Test (NAAT)",
+                "1. detect and amplify nucleic acid of the pathogen<div><br></div><div>2. shorten the window period (time between infection and positive results)</div>"
+            ],
+            "flags": 0,
+            "guid": "ctPdJM07@U",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "Acid",
+                "Based",
+                "NAAT,",
+                "NAT,",
+                "Nucleic",
+                "Nucleic,",
+                "Techniques",
+                "Techniques,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are susceptibility tests used for?&nbsp;",
+                "As a guide in choosing antimicrobial therapy since some microbes show unpredictable sensitivity patterns to various antibiotics"
+            ],
+            "flags": 0,
+            "guid": "CKT@akQ@(C",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "susceptibility,",
+                "test,",
+                "tests,",
+                "therapy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Kirby Bauer Disk Diffusion Method?&nbsp;",
+                "Tests organisms resistance to a drug by placing exact amounts of different antimicrobial agents on a culture disc inoculated with the microbe to be tested. Then after 24-48 hours, you see how large the zone of inhibition is.&nbsp;<div><br></div><div>Larger zone of inhibition = more sensitive the microbe is to the drug</div>"
+            ],
+            "flags": 0,
+            "guid": "Q0AggxB7Dk",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "diffusion,",
+                "disk",
+                "kirby,",
+                "susceptibility,",
+                "test",
+                "tests,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Explain the Minimal Inhibitory Concentration test...",
+                "<div>A dilution technique where different concentrations of an antibiotic are used to find the minimal inhibitory concentration (MIC) that inhibits bacterial growth.</div><div><br></div><div><br></div><img src=\"paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "tubtZ)36[f",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "dilution,",
+                "inhibitory,",
+                "minimal",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacteriostatics VS Bactericidal Drug Graph",
+                "<img src=\"paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "qhkOpaiXgX",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Agents that kill bacteria are...",
+                "bactericidals"
+            ],
+            "flags": 0,
+            "guid": "yN!LYgf/:>",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Drugs that arrest growth and replication of bacteria are...",
+                "bacteriostatics&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "muNE{33K#C",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "An antibiotic can be (____) for one organism and (____) for another organism.",
+                "bacteriostatic<div><br></div><div>bactericidal</div>"
+            ],
+            "flags": 0,
+            "guid": "CBk6h/a^zt",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        }
+    ]
 }
