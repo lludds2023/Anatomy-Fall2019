@@ -54,8 +54,1437 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-1-A.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-1-Q.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-4-A.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-4-Q.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-5-A.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-5-Q.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-8-A.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-8-Q.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-9-A.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-9-Q.svg",
+        "13b9dd72f7614359a228b140eb1bcdf6-ao-O.svg",
+        "6bdc085f2a2c4eaab5eb0bcac621f729-oa-1-A.svg",
+        "6bdc085f2a2c4eaab5eb0bcac621f729-oa-1-Q.svg",
+        "6bdc085f2a2c4eaab5eb0bcac621f729-oa-O.svg",
+        "Screen Shot 2019-09-24 at 2.08.03 PM.png",
+        "Screen Shot 2019-09-24 at 3.03.39 PM.png",
+        "a7f0390361dd4f46b6731478f340ba78-oa-1-A.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-1-Q.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-2-A.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-2-Q.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-3-A.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-3-Q.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-4-A.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-4-Q.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-5-A.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-5-Q.svg",
+        "a7f0390361dd4f46b6731478f340ba78-oa-O.svg",
+        "b5c3750f23434da58820eae1287657df-oa-1-A.svg",
+        "b5c3750f23434da58820eae1287657df-oa-1-Q.svg",
+        "b5c3750f23434da58820eae1287657df-oa-O.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-1-A.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-1-Q.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-2-A.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-2-Q.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-3-A.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-3-Q.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-4-A.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-4-Q.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-5-A.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-5-Q.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-6-A.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-6-Q.svg",
+        "ea4884ba8678435c931bbaac65149073-ao-O.svg",
+        "paste-043d184efdfa3e31bcada8320768ab10ca097398.jpg",
+        "paste-166272d63955ee9822fac939d5e1861fcc7fdbfe.jpg",
+        "paste-1e059a422e26b24c2374d1e1f1da11045013ae99.jpg",
+        "paste-59992531d290b75e08d1c44313504284411937ae.jpg",
+        "paste-59df6f751ee3dabe1f0253d7fecdd3b1be09442c.jpg",
+        "paste-600cfec48ea89b4be22423918751b32be93c49af.jpg",
+        "paste-78e3a7d470b6e04152b2f6a8e3c35a504bddf898.jpg",
+        "paste-8771696f5698c2f5f8d561eebf0b95d585f5ca97.jpg",
+        "paste-8e94f28e8d371ec7ed92acb862acf1c981686105.jpg",
+        "paste-c5d187c95b876adfdfa568f23847a60195e4fce1.jpg",
+        "paste-f5b64e3317fd7e79491bc017797ffcec8e243684.jpg",
+        "paste-fe730983f84279bb241d8ee4384072679dcb282e.jpg",
+        "tmpejdil6fj.png",
+        "tmppkrnaez2.png",
+        "tmptek4_pzf.png",
+        "tmpxo6qawmq.png"
+    ],
+    "mid": "1569208585718",
     "name": "Q1-Dental Fundamentals:: Lecture 2",
-    "note_models": [],
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "amino acid? ",
+                    "ord": 11,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-46a29",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [
+                "OChem",
+                "Reaction",
+                "Suzuki",
+                "Synthesis"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3dc7eb82-ddbe-11e9-9b1f-38f9d3c666dc",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-51f6b",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "714ed4b4-df0f-11e9-a2b7-38f9d3c666dc",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-e7615",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-3f8cd",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "incisor,",
+                "lingual",
+                "maxillary,",
+                "view,"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In humans the {{c1::maxillary}} incisors are larger than the {{c1::mandibular}} incisors.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u~J2bhy*OM",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Incisors are important in {{c1::esthetics}}, {{c1::mastication}}, and {{c1::phonetics::asking for functions}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B6pO^lJL@(",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ea4884ba8678435c931bbaac65149073-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-09-24 at 2.08.03 PM.png\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-1-A.svg\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H=Sq<&yaS7",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ea4884ba8678435c931bbaac65149073-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-09-24 at 2.08.03 PM.png\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-2-A.svg\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O80Qg<UL<w",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ea4884ba8678435c931bbaac65149073-ao-3",
+                "",
+                "<img src=\"Screen Shot 2019-09-24 at 2.08.03 PM.png\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-3-A.svg\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t~#J=NONbg",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ea4884ba8678435c931bbaac65149073-ao-4",
+                "",
+                "<img src=\"Screen Shot 2019-09-24 at 2.08.03 PM.png\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-4-A.svg\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j(I@TGZdrg",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ea4884ba8678435c931bbaac65149073-ao-5",
+                "",
+                "<img src=\"Screen Shot 2019-09-24 at 2.08.03 PM.png\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-5-A.svg\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g(.ovY;t[I",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ea4884ba8678435c931bbaac65149073-ao-6",
+                "",
+                "<img src=\"Screen Shot 2019-09-24 at 2.08.03 PM.png\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-6-A.svg\" />",
+                "<img src=\"ea4884ba8678435c931bbaac65149073-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rd9g;6==z:",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In refrence to your permanent maxillary central incisors the {{c1::I-C}} &gt; {{c1::M-D}} &gt; {{c1::F-L}} in width.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m9@,_4LORs",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which tooth has the widest mesial to distal measurment of all anterior teeth? What is the M-D almost as wide as?&nbsp;",
+                "<b>&nbsp;Maxillary central incisors</b>. The Mesial-Distal width is almost as wide as the Incisal edge-CEJ width.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "O$hMvU1a+n",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the developmental timeline for maxillary central incisors: when is the beginning of calcification, completion of enamel, eruption, and root completion?&nbsp;",
+                "Beginning of calcification: 3-4 months<div>Completion of Enamel: 4-5 years&nbsp;</div><div>Eruption: 7-8 years&nbsp;</div><div>Root Completion: 10 years&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "D0m6&F)KKm",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The basic crown shape of a maxillary central incisor is a {{c1::trapezoid}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FHXI2[:xKu",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Compared to other incisors the {{c1::M-D}} and {{c1::I-C}} dimensions are nearly equal.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D1.5n(Gu&}",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is unique about the <u>facial cervical (CE) line</u> on maxillary central incisors?&nbsp;",
+                "The <u>facial CE line curvature</u> is <b>more flat</b> on maxillary central incisors than any other anterior teeth.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "D^?5_3,AD6",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The incisal edge is {{c1::perpendicular}} to the long axis on maxillary central incisors.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e&>tV_W_:$",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where are the height of contours (HOC's) on each surface of a maxillary central incisor?&nbsp;<div><br></div>",
+                "Facial: cervical third<div>Lingual: cervical third&nbsp;</div><div>Mesial: incisal third&nbsp;</div><div>Distal: junction of incisal-middle third&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "pB4#e$jTuY",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mamelons visible in newly erupted teeth occur: {{c1::MF}}, {{c1::MidF}}, {{c1::DF}} on a maxillary central incisor.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N:?},3#R}u",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial outiline is {{c1::straight}} while the distal outline is {{c1::more convex}} for a maxillary central incisor.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EO#n]17nB8",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13b9dd72f7614359a228b140eb1bcdf6-ao-1",
+                "",
+                "<img src=\"tmpxo6qawmq.png\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-1-A.svg\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "udI>?}C8!_",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13b9dd72f7614359a228b140eb1bcdf6-ao-4",
+                "",
+                "<img src=\"tmpxo6qawmq.png\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-4-A.svg\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "pw>CfCAfS",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13b9dd72f7614359a228b140eb1bcdf6-ao-5",
+                "",
+                "<img src=\"tmpxo6qawmq.png\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-5-A.svg\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Cw?gs*UvgY",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13b9dd72f7614359a228b140eb1bcdf6-ao-8",
+                "",
+                "<img src=\"tmpxo6qawmq.png\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-8-A.svg\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "DXL;EgW{[.",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13b9dd72f7614359a228b140eb1bcdf6-ao-9",
+                "",
+                "<img src=\"tmpxo6qawmq.png\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-9-A.svg\" />",
+                "<img src=\"13b9dd72f7614359a228b140eb1bcdf6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mPb%iXS2t<",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How to tell right from left lateral incisor:&nbsp;<div><br></div><div>-{{c1::Mesio-incisal::MI/DI}} corner sharper than {{c1::Disto-incisal::MI/DI}} corner</div><div><br></div><div>-{{c1::Mesial::M/D}} cervical enamel line is {{c2::greater::greater/lesser}} than {{c1::distal::M/D}}</div><div><br></div><div>-{{c1::Mesial::M/D}} HOC more {{c2::incisal::cervical/medial/incisal}} than {{c1::distal::M/D}}</div><div><br></div><div>-{{c1::Distal::M/D}} outline more {{c2::convex::concave/convex}}&nbsp;</div><div><br></div><div>-{{c2::Apex}} of root deflects {{c1::distally::mesially/distally}}</div>",
+                "Slide 42"
+            ],
+            "flags": 0,
+            "guid": "z}yUX8YNxC",
+            "note_model_uuid": "3dc7eb82-ddbe-11e9-9b1f-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b5c3750f23434da58820eae1287657df-oa-1",
+                "",
+                "<img src=\"tmpejdil6fj.png\" />",
+                "<img src=\"b5c3750f23434da58820eae1287657df-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b5c3750f23434da58820eae1287657df-oa-1-A.svg\" />",
+                "<img src=\"b5c3750f23434da58820eae1287657df-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "u*1K76OUT0",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6bdc085f2a2c4eaab5eb0bcac621f729-oa-1",
+                "",
+                "<img src=\"tmppkrnaez2.png\" />",
+                "<img src=\"6bdc085f2a2c4eaab5eb0bcac621f729-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6bdc085f2a2c4eaab5eb0bcac621f729-oa-1-A.svg\" />",
+                "<img src=\"6bdc085f2a2c4eaab5eb0bcac621f729-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "iAn2xjwRt,",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a7f0390361dd4f46b6731478f340ba78-oa-1",
+                "",
+                "<img src=\"tmptek4_pzf.png\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-1-Q.svg\" />",
+                "Slide 35",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-1-A.svg\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Gj7@|c09mw",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a7f0390361dd4f46b6731478f340ba78-oa-2",
+                "",
+                "<img src=\"tmptek4_pzf.png\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-2-Q.svg\" />",
+                "Slide 35",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-2-A.svg\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "rNr{RzZJj)",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a7f0390361dd4f46b6731478f340ba78-oa-3",
+                "",
+                "<img src=\"tmptek4_pzf.png\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-3-Q.svg\" />",
+                "Slide 35",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-3-A.svg\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L}p@YWmiV1",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a7f0390361dd4f46b6731478f340ba78-oa-4",
+                "",
+                "<img src=\"tmptek4_pzf.png\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-4-Q.svg\" />",
+                "Slide 35",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-4-A.svg\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "l_gZ@^{P<I",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a7f0390361dd4f46b6731478f340ba78-oa-5",
+                "",
+                "<img src=\"tmptek4_pzf.png\">",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-5-Q.svg\" />",
+                "Slide 35",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-5-A.svg\" />",
+                "<img src=\"a7f0390361dd4f46b6731478f340ba78-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "jPb/,5ZSao",
+            "note_model_uuid": "714ead0c-df0f-11e9-870e-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the two differences between the distal and medial views of the lateral incisors?&nbsp;",
+                "-HOC more cervical (closer to middle 1/3)<div>-CE line curvature less than mesial&nbsp;</div><div><br></div><div><img src=\"paste-600cfec48ea89b4be22423918751b32be93c49af.jpg\"><br></div><div>Slide 36</div>"
+            ],
+            "flags": 0,
+            "guid": "Om<[JP6Ytu",
+            "note_model_uuid": "714ed4b4-df0f-11e9-a2b7-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does the incisal view of the lateral incisors differ from the central incisors?&nbsp;",
+                "More convex than central, creating a rounded triangular outline<div><br></div><div><img src=\"paste-59992531d290b75e08d1c44313504284411937ae.jpg\"><br></div><div>Slide 37</div>"
+            ],
+            "flags": 0,
+            "guid": "h0o$qs,ns4",
+            "note_model_uuid": "714ed4b4-df0f-11e9-a2b7-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do the MD and FL dimensions of a lateral incisor compare?&nbsp;",
+                "MD is greater than or equal to FL dimensions&nbsp;<div><br></div><div><img src=\"paste-8e94f28e8d371ec7ed92acb862acf1c981686105.jpg\"><br></div><div><br></div><div>Slide 37</div>"
+            ],
+            "flags": 0,
+            "guid": "fHYwQZES=F",
+            "note_model_uuid": "714ed4b4-df0f-11e9-a2b7-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The root of a lateral incisor is:&nbsp;<div><br><div>-{{c1::single}} rooted</div><div><br></div><div>-wider {{c1::FL::MD/FL}} than {{c1::MD::MD/FL}}</div><div><br></div><div>-cross-section is more {{c1::ovoid::triangular/ovoid/circular}} than central incisor</div><div><br></div><div>-apical third may deflect {{c1::distally::distally/mesially}}</div></div>",
+                "<img src=\"paste-fe730983f84279bb241d8ee4384072679dcb282e.jpg\"><div>Slide 38</div>"
+            ],
+            "flags": 0,
+            "guid": "Mjcm]gZ0P}",
+            "note_model_uuid": "3dc7eb82-ddbe-11e9-9b1f-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What's a peg tooth and which tooth tends to have this condition?&nbsp;",
+                "<b>Lateral incisor </b>that's not fully formed and <b>conical </b>in shape. May have congenital origin.&nbsp;<div><img src=\"paste-78e3a7d470b6e04152b2f6a8e3c35a504bddf898.jpg\"><br></div><div>Slide 39</div>"
+            ],
+            "flags": 0,
+            "guid": "tzOwF]U+,C",
+            "note_model_uuid": "714ed4b4-df0f-11e9-a2b7-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How to tell if you have a maxillary lateral vs. central",
+                "<div>-smaller in size than central except for root length<br></div><div><div><br></div><div>-distinct lingual anatomy (deeper lingual fossa, lingual pit)</div><div><br></div><div>-incisal, mesial, distal outlines are more rounded&nbsp;</div></div><div><br></div><div><img src=\"paste-c5d187c95b876adfdfa568f23847a60195e4fce1.jpg\"><br></div><div>Slide 40</div>"
+            ],
+            "flags": 0,
+            "guid": "EGq3+#dEc|",
+            "note_model_uuid": "714ed4b4-df0f-11e9-a2b7-38f9d3c666dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The DI angle is {{c1::more rounded}} than the MI angle of a maxillary central incisor.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j74/}X5hZ:",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The Mesial-Distal width is {{c1::slightly narrower}} on the lingual surface of a maxillary central incisor compared to the facial surface.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e*al$:6N-2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lingual surface of a maxillary central incisor has {{c1::convexity}} and {{c1::concavity::talking about shape}}.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z(Pw<bEoI=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The CE curvature is greater on the {{c1::lingual surface}} compared to the {{c1::facial/labial surface}} of the maxillary central incisors.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HjbD_I$^9.",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::mesial::surface}} CE curvature on the {{c2::maxillary central incisors::tooth type}} is greatest of any tooth.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q%U^]]DTG.",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When looking at a maxillary central incisor with a mesial view the facial outline is {{c1::slightly convex}} and the incisal 2/3 is {{c1::nearly flat.}}&nbsp;",
+                "<img src=\"Screen Shot 2019-09-24 at 3.03.39 PM.png\">"
+            ],
+            "flags": 0,
+            "guid": "wK-B;Zd!hI",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When looking at a maxillary central incisor with a mesial view, the lingual outline is {{c1::S-Shape}}. The concave portion occurs {{c1::incisally::location}} and the convex portion occurs {{c1::cervically::location.}}&nbsp;",
+                "<img src=\"paste-166272d63955ee9822fac939d5e1861fcc7fdbfe.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "grTHg}BAn,",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The incisal edge of a maxillary central incisor slopes {{c1::lingually}}.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H5f9thoBWU",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::distal}} CE line curvature is less than the {{c1::mesial}} CE line curvature in both maxillary central and lateral incisors.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z~~900*9eR",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The incisal edge is {{c1::midway}} faciolingually on a maxillary central incisor.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HvKpeaRNPk",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the characteristics of a maxiallary central incisor root? What shape is the cross section at the cervical end of the root? What is the ratio of crown to root?&nbsp;",
+                "Single root, concical, staight<div>At the cervical end of the root the cross-section is roughly triangular.&nbsp;</div><div>2/5 Crown, 3/5 root</div>"
+            ],
+            "flags": 0,
+            "guid": "E-y;4.lrR9",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Location (#s)&nbsp;</b>in mouth and <b>Characteristics (3)&nbsp;</b>of Maxillary Lateral Incisors&nbsp;",
+                "<img src=\"paste-1e059a422e26b24c2374d1e1f1da11045013ae99.jpg\"><div><br></div><div>1. Smaller in all dimensions EXCEPT root length</div><div>2. generally more rounded</div><div>3. displays more variation in form</div>"
+            ],
+            "flags": 0,
+            "guid": "@p`QabPSy",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "10",
+                "7,",
+                "incisor,",
+                "maxillary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Development timeline for Maxillary Incisors:&nbsp;<div><br></div><div>beginning calcification:</div><div>completion of enamel:</div><div>eruption:</div><div>root completion:</div>",
+                "1 year<div>4-5 years</div><div>8-9 years</div><div>11 years</div>"
+            ],
+            "flags": 0,
+            "guid": "t(@3vuv8m]",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "10,",
+                "7,",
+                "development",
+                "incisor,",
+                "maxillary,",
+                "tooth"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Labial View Mesial Outline of Maxillary Lateral Incisor<div><img src=\"paste-59df6f751ee3dabe1f0253d7fecdd3b1be09442c.jpg\"><br></div><div>1. More or Less convexity than mesial of central incisor?&nbsp;</div><div><br></div><div>2. HOC is at (.....)</div>",
+                "1. More<div>2. Incisal Third</div>"
+            ],
+            "flags": 0,
+            "guid": "jE+Vls@e?S",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Labial View Distal Outline of Maxillary Lateral Incisor<div><img src=\"paste-f5b64e3317fd7e79491bc017797ffcec8e243684.jpg\"><br></div><div>1. DI corner is more/less rounded than MI</div><div>2. HOC is at junction of (.....) to the middle of the middle third</div>",
+                "1. More (most rounded incisal corner*)<div>2. Incisal-middle third</div>"
+            ],
+            "flags": 0,
+            "guid": "JaX9xX!`!n",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "incisor",
+                "maxillary,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Labial View Incisal Edge of Maxillary Lateral Incisor<div><img src=\"paste-043d184efdfa3e31bcada8320768ab10ca097398.jpg\"><div>1. Typically has (...) mamelons</div><div>2. Labial HOC location is (...)<br><div><br></div></div></div>",
+                "1. two<div>2. cervical third</div>"
+            ],
+            "flags": 0,
+            "guid": "Q*icv]I1of",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "incisor,",
+                "maxillary,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lingal View of Maxillary Lateral Incisor<img src=\"paste-8771696f5698c2f5f8d561eebf0b95d585f5ca97.jpg\"><div>1. Marginal ridges are more/less prominent?</div><div>2. Lingual fossa deeper/shallower?</div><div>3. Linguo-gingival fissure sometimes/always present?</div><div>4. Height of contour at which location?</div>",
+                "1. more<div>2. deeper</div><div>3. sometimes</div><div>4. cervical third</div>"
+            ],
+            "flags": 0,
+            "guid": "k<KL)sN>g`",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "incisor,",
+                "lingual",
+                "maxillary,",
+                "view,"
+            ]
+        }
+    ]
 }
