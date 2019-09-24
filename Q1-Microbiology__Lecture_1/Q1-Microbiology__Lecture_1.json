@@ -55,14 +55,122 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg",
+        "paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg",
+        "paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg",
         "paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg",
-        "paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg"
+        "paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg",
+        "paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg",
+        "paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg",
+        "paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg",
+        "paste-e81197298c0ed248244c97af0f6ee5e25b02be71.jpg"
     ],
+    "mid": "1568404909436",
     "name": "Q1-Microbiology::Lecture 1",
     "note_models": [
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-8b577",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "incisor,",
+                "lingual",
+                "maxillary,",
+                "view,"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -97,12 +205,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "incisor,",
-                "lingual",
-                "maxillary,",
-                "view,"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -266,6 +369,246 @@
                 "susceptibility,",
                 "tests"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Microbiology labs are increasingly using&nbsp;{{c1::automated}} methods to identify bacterial pathogens.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OH2!Zf=dPL",
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Example of automated systems&nbsp;biochemical identification (2)",
+                "1) Vitek test card containing test wells<div>2) Color of well changes with time</div><div><br></div><div><img src=\"paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "E>%}HA9>Ut",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do immunologic methods take advantage of in detection of microorganisms?",
+                "specifity of <b>antigen-antibody</b> binding"
+            ],
+            "flags": 0,
+            "guid": "Bz)KAxhXkd",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is it useful to use immunologic methods for detecting microorganisms? (2)",
+                "1) infecting microorganism is difficult or impossible to isolate<div>2) previous infection needs to be documented</div>"
+            ],
+            "flags": 0,
+            "guid": "h@?{l7j&us",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Most methods for determining whether antibodies or antigens are present in a patients' sera or other body fluid require a type of&nbsp;{{c1::immunoassay}} procedure.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q(UyLJcF&F",
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do immunologic detection methods look for? (2)",
+                "1) detection of microbial <b>antigen</b> with known antiserum (antibodies)<div>2) detection of serum <b>antibodies</b></div>"
+            ],
+            "flags": 0,
+            "guid": "nsFI-V7Od9",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the 6 immunologic detection methods?",
+                "1. Quellung Reaction<div>2. Agglutination tests</div><div>3. Complement fixation tests</div><div>4. ELISA tests</div><div>5. Western blotting</div><div>6. Fluorescent Antibody Test</div>"
+            ],
+            "flags": 0,
+            "guid": "f<(j61H0F/",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does the Quellung Reaction detect microorganisms?",
+                "Makes bacteria with <b><font color=\"#ff0000\">capsule more visible</font></b>&nbsp;(appears swollen) when organisms are treated with serum that contains specific antibodies.<div><br><div><b>capsule does not actually swell</b></div><div><b>Quellung = swelling in German</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "j31dw_`9vm",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does the Latex Agglutination Test detect microorganisms?",
+                "- latex and other particles can be coated with <b>antibody (for antigen detection)</b> or <b>antigen (for antibody detection)</b><div>- addition of antigen to antibody coated latex beads causes <b>agglutination </b>that can be visibly observed</div><div><img src=\"paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "EGEUk5?y%E",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does <b>complement fixation</b> detect microorganisms?",
+                "- detects patients serum antibody, directed against a specific pathogen by the <b>ability of the antibody to bind complement</b>.<div>- solution turns <font color=\"#ff00ff\"><b>pink</b></font> if negative</div><div>- initially, serum is heated to destroy patients' natural complemenet but not their antibody.</div><div><img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "JbWwHuUu@0",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5 Steps of Complement Fixation",
+                "1. <b>serum is heated</b> to destroy patients' natural complement but not their antibody<div>2. fixed amount of <b>antigen is added</b> to test serum (if antibody is present, immune complexes will form)</div><div>3. <b>complement is added</b> to mixture and will fix and sequester complexes if they are present.</div><div>4. RBCs and subagglutinating amounts of anti-erythrocyte antibody are added.</div><div>5. If complement has not been bound anti-erythrocyte antibody plus complement will lyse the RBCs to make liquid pink (negative result)</div><div>&nbsp; &nbsp; If complement was bound by the immune complexes, RBCs will not lyse. (positive result)</div><div>&nbsp;&nbsp;<img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"></div>"
+            ],
+            "flags": 0,
+            "guid": "ABfjE+oK]m",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does ELISA stand for?",
+                "Enzyme Linked ImmunoSorbent Assay"
+            ],
+            "flags": 0,
+            "guid": "B6dQW7jT#f",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does ELISA detect microorganisms?",
+                "- in the assay, antigen of interest is <b>immobilized by direct adsorption</b> to the assay plate <b>or by first attaching a capture antibody to the plate surface.</b><div>- antigen is detected by using an enzyme conjugated primary antibody (direct detection)</div><div>&nbsp; &nbsp;or a matched set of unlabeled primary and conjugated secondary antibodies (indirect detection)</div><div>- read in a microplate reader</div><div><br></div><div><img src=\"paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg\"><br></div><div><font color=\"#ff0000\">Ag: Unknown Antigen</font></div><div><font color=\"#ff0000\">E: Enzyme (converts substrate into a colored product)</font></div>"
+            ],
+            "flags": 0,
+            "guid": "zwWS3UrzSz",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In ELISA detection what are the advantages and disadvantages of Direct Detection?",
+                "<b>advantage:</b> only one antibody is needed and it requires less time to complete assay.<div><b>disadvantage: </b>less flexibility in choice of enzyme-substrate detection system, and a labeled antibody must be created for each ELISA experiment</div>"
+            ],
+            "flags": 0,
+            "guid": "cLapjQp%(g",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In ELISA detection what are the advantages and disadvantages of <b>Indirect Detection</b>?",
+                "<b>advantage:&nbsp;</b> flexibility and choice availability of secondary antibodies and enzyme-substrate detection systems.<div><br></div><div><b>disadvantage:</b> the potential for non-specific cross-reactivity of the secondary antibody.</div><div><br></div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "q%RE$9a-$.",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In ELISA detection what are the advantages and disadvantages of Capture Assay?",
+                "<b>advantage:</b> High sensitivity; 2-5 times more sensitive than direct or indirect ELISA<div><br></div><div><b>disadvantage:</b> cross reactivity may occur between the capture and detection antibodies</div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "plAK=%6Qvl",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does Western Blotting detect microorganisms?",
+                "similarly to ELISA except more specific as gel electrophoresis protein separation is initially performed.<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "g,Ac:=ddQV",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Outline the 6 steps in Western Blotting&nbsp;",
+                "<div><br></div><img src=\"paste-e81197298c0ed248244c97af0f6ee5e25b02be71.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "vAX[byZ$K!",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The SDS page in western blotting gel electrophoresis makes protein&nbsp;{{c1::negative}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q!fIxVb+{m",
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Steps in Fluorescent Antibody Tests (2)",
+                "1) add fluorescent labeled antiviral antibodies to microscope slide with tissue or cells<div>2) view with a fluorescent microscope</div><div><br></div><div><img src=\"paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ns}_o#m#!Z",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
         }
     ]
 }
