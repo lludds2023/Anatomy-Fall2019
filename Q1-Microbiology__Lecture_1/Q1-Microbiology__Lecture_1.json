@@ -1,613 +1,1373 @@
 {
-    "__type__": "Deck",
-    "children": [],
-    "crowdanki_uuid": "4da62b70-df14-11e9-8099-a683e769f5fb",
-    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "4da62b70-df14-11e9-8099-a683e769f5fb", 
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb", 
     "deck_configurations": [
         {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
-            "dyn": false,
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb", 
+            "dyn": false, 
             "lapse": {
                 "delays": [
                     10
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
                 "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
+            }, 
+            "maxTaken": 60, 
+            "name": "Default", 
             "new": {
-                "bury": false,
+                "bury": false, 
                 "delays": [
-                    1,
+                    1, 
                     10
-                ],
-                "initialFactor": 2500,
+                ], 
+                "initialFactor": 2500, 
                 "ints": [
-                    1,
-                    1,
+                    1, 
+                    1, 
                     7
-                ],
-                "order": 1,
-                "perDay": 500,
+                ], 
+                "order": 1, 
+                "perDay": 500, 
                 "separate": true
-            },
-            "replayq": true,
+            }, 
+            "replayq": true, 
             "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "minSpace": 1,
+                "bury": false, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "hardFactor": 1.2, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
                 "perDay": 200
-            },
+            }, 
             "timer": 0
         }
-    ],
-    "desc": "",
-    "dyn": 0,
-    "extendNew": 10,
-    "extendRev": 50,
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
     "media_files": [
-        "paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg",
-        "paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg",
-        "paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg",
-        "paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg",
-        "paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg",
-        "paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg",
-        "paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg",
-        "paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg",
-        "paste-e81197298c0ed248244c97af0f6ee5e25b02be71.jpg"
-    ],
-    "mid": "1568404909436",
-    "name": "Q1-Microbiology::Lecture 1",
+        "paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg", 
+        "paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg", 
+        "aee99f4fc0d14dbd99f6a07ce49425f1-oa-1-Q.svg", 
+        "e38502ecb8004bafbe85f76d2e6ae315-oa-1-Q.svg", 
+        "paste-14529874362369.png", 
+        "paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-3-Q.svg", 
+        "aee99f4fc0d14dbd99f6a07ce49425f1-oa-2-Q.svg", 
+        "9dd29141269f45599375f2c0a622a33f-oa-2-Q.svg", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-1-Q.svg", 
+        "tmphQn4aU.png", 
+        "paste-e81197298c0ed248244c97af0f6ee5e25b02be71.jpg", 
+        "tmpeZiKpP.png", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-2-A.svg", 
+        "9dd29141269f45599375f2c0a622a33f-oa-2-A.svg", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-3-A.svg", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-2-Q.svg", 
+        "9dd29141269f45599375f2c0a622a33f-oa-O.svg", 
+        "paste-55387898249217.png", 
+        "paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg", 
+        "paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg", 
+        "paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg", 
+        "9dd29141269f45599375f2c0a622a33f-oa-1-Q.svg", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-O.svg", 
+        "e38502ecb8004bafbe85f76d2e6ae315-oa-O.svg", 
+        "aee99f4fc0d14dbd99f6a07ce49425f1-oa-1-A.svg", 
+        "e38502ecb8004bafbe85f76d2e6ae315-oa-1-A.svg", 
+        "paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg", 
+        "aee99f4fc0d14dbd99f6a07ce49425f1-oa-O.svg", 
+        "tmpCoATi6.png", 
+        "aee99f4fc0d14dbd99f6a07ce49425f1-oa-2-A.svg", 
+        "tmpgnMqZb.png", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-1-A.svg", 
+        "paste-7447473291265.png", 
+        "paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg", 
+        "9dd29141269f45599375f2c0a622a33f-oa-1-A.svg"
+    ], 
+    "mid": "1568404909436", 
+    "name": "Q1-Microbiology::Lecture 1", 
     "note_models": [
         {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n\n.nightMode .cloze{\n font-weight: bold;\n color: red;\n}", 
             "flds": [
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Hide others on the back side", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze (Hide all)-8ef4c", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}\n\n<script>\nvar createCookie = function(name, value, days) {\n    var expires;\n    if (days) {\n        var date = new Date();\n        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));\n        expires = \"; expires=\" + date.toGMTString();\n    }\n    else {\n        expires = \"\";\n    }\n    document.cookie = name + \"=\" + value + expires + \"; path=/\";\n}\nfunction getCookie(c_name) {\n    if (document.cookie.length > 0) {\n        c_start = document.cookie.indexOf(c_name + \"=\");\n        if (c_start != -1) {\n            c_start = c_start + c_name.length + 1;\n            c_end = document.cookie.indexOf(\";\", c_start);\n            if (c_end == -1) {\n                c_end = document.cookie.length;\n            }\n            return unescape(document.cookie.substring(c_start, c_end));\n        }\n    }\n    return \"\";\n}\nfunction getRandomElms(){\n    var ul = document.querySelectorAll('ul.shuffle');\n    return ul\n}\nfunction getRandArr(elm, array){\n    for (var i = elm.children.length; i >= 0; i--) {\n        rand = Math.random() * i | 0;\n        array.push(rand)\n    }\n}\nfunction shuffleWithArr(elm, array){\n    elm.style.backgroundColor = \"inherit\"\n    for (var i = elm.children.length; i >= 0; i--) {\n        elm.appendChild(elm.children[array[i]]);\n    }\n}\nfunction run() {\n    var elms = getRandomElms()\n    var isFront = document.getElementById(\"front\");\n    for (var i = 0; i < elms.length; i++) {\n        var idxArr = [];\n        elm = elms[i]\n        if (isFront) {\n            getRandArr(elm, idxArr);\n            // convert idxArr array to a JSON string to be stored\n            var json_str = JSON.stringify(idxArr);\n            // persist the idxArr order and correct answers\n            createCookie('idxArr' + i, json_str);\n            var stored_data = idxArr\n        } else {\n            // get the idxArr order\n            var json_data = getCookie('idxArr' + i);\n            // get the array back from storage\n            var stored_data = JSON.parse(json_data);\n        }\n        shuffleWithArr(elm, stored_data)\n    }\n}\nrun();\n</script>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze (Hide all)", 
+                    "ord": 0, 
+                    "qfmt": "<div id=\"front\">\n\n\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n\n</div>\n\n<script>\nvar createCookie = function(name, value, days) {\n    var expires;\n    if (days) {\n        var date = new Date();\n        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));\n        expires = \"; expires=\" + date.toGMTString();\n    }\n    else {\n        expires = \"\";\n    }\n    document.cookie = name + \"=\" + value + expires + \"; path=/\";\n}\nfunction getCookie(c_name) {\n    if (document.cookie.length > 0) {\n        c_start = document.cookie.indexOf(c_name + \"=\");\n        if (c_start != -1) {\n            c_start = c_start + c_name.length + 1;\n            c_end = document.cookie.indexOf(\";\", c_start);\n            if (c_end == -1) {\n                c_end = document.cookie.length;\n            }\n            return unescape(document.cookie.substring(c_start, c_end));\n        }\n    }\n    return \"\";\n}\nfunction getRandomElms(){\n    var ul = document.querySelectorAll('ul.shuffle');\n    return ul\n}\nfunction getRandArr(elm, array){\n    for (var i = elm.children.length; i >= 0; i--) {\n        rand = Math.random() * i | 0;\n        array.push(rand)\n    }\n}\nfunction shuffleWithArr(elm, array){\n    elm.style.backgroundColor = \"inherit\"\n    for (var i = elm.children.length; i >= 0; i--) {\n        elm.appendChild(elm.children[array[i]]);\n    }\n}\nfunction run() {\n    var elms = getRandomElms()\n    var isFront = document.getElementById(\"front\");\n    for (var i = 0; i < elms.length; i++) {\n        var idxArr = [];\n        elm = elms[i]\n        if (isFront) {\n            getRandArr(elm, idxArr);\n            // convert idxArr array to a JSON string to be stored\n            var json_str = JSON.stringify(idxArr);\n            // persist the idxArr order and correct answers\n            createCookie('idxArr' + i, json_str);\n            var stored_data = idxArr\n        } else {\n            // get the idxArr order\n            var json_data = getCookie('idxArr' + i);\n            // get the array back from storage\n            var stored_data = JSON.parse(json_data);\n        }\n        shuffleWithArr(elm, stored_data)\n    }\n}\nrun();\n</script>\n", 
+                    "scratchPad": false
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ID (hidden)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Header", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Image", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question Mask", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Footer", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 1", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 2", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Answer Mask", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original Mask", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 20, 
                     "sticky": false
                 }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-8b577",
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Image Occlusion Enhanced-dce10", 
             "req": [
                 [
-                    0,
-                    "all",
+                    0, 
+                    "all", 
+                    [
+                        2
+                    ]
+                ]
+            ], 
+            "sortf": 1, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "IO Card", 
+                    "ord": 0, 
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n", 
+                    "scratchPad": false
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black; \n\n\n text-align: left; \n padding-left: 30px ;\n\n\n;\n\n\n}\n\n\n.cloze {\n font-weight: bold;\n color: blue;\n\n\n}\n\n\n.nightMode .cloze{\n font-weight: bold;\n color: red;\n\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze-dce10", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "\n{{cloze:Text}}<br>\n{{Extra}}\n<br>{{Sources}}\n\n\n<script>\nvar createCookie = function(name, value, days) {\n    var expires;\n    if (days) {\n        var date = new Date();\n        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));\n        expires = \"; expires=\" + date.toGMTString();\n    }\n    else {\n        expires = \"\";\n    }\n    document.cookie = name + \"=\" + value + expires + \"; path=/\";\n}\nfunction getCookie(c_name) {\n    if (document.cookie.length > 0) {\n        c_start = document.cookie.indexOf(c_name + \"=\");\n        if (c_start != -1) {\n            c_start = c_start + c_name.length + 1;\n            c_end = document.cookie.indexOf(\";\", c_start);\n            if (c_end == -1) {\n                c_end = document.cookie.length;\n            }\n            return unescape(document.cookie.substring(c_start, c_end));\n        }\n    }\n    return \"\";\n}\nfunction getRandomElms(){\n    var ul = document.querySelectorAll('ul.shuffle');\n    return ul\n}\nfunction getRandArr(elm, array){\n    for (var i = elm.children.length; i >= 0; i--) {\n        rand = Math.random() * i | 0;\n        array.push(rand)\n    }\n}\nfunction shuffleWithArr(elm, array){\n    elm.style.backgroundColor = \"inherit\"\n    for (var i = elm.children.length; i >= 0; i--) {\n        elm.appendChild(elm.children[array[i]]);\n    }\n}\nfunction run() {\n    var elms = getRandomElms()\n    var isFront = document.getElementById(\"front\");\n    for (var i = 0; i < elms.length; i++) {\n        var idxArr = [];\n        elm = elms[i]\n        if (isFront) {\n            getRandArr(elm, idxArr);\n            // convert idxArr array to a JSON string to be stored\n            var json_str = JSON.stringify(idxArr);\n            // persist the idxArr order and correct answers\n            createCookie('idxArr' + i, json_str);\n            var stored_data = idxArr\n        } else {\n            // get the idxArr order\n            var json_data = getCookie('idxArr' + i);\n            // get the array back from storage\n            var stored_data = JSON.parse(json_data);\n        }\n        shuffleWithArr(elm, stored_data)\n    }\n}\nrun();\n</script>\n\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "<div id=\"front\">\n{{cloze:Text}}\n</div>\n\n<script>\nvar createCookie = function(name, value, days) {\n    var expires;\n    if (days) {\n        var date = new Date();\n        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));\n        expires = \"; expires=\" + date.toGMTString();\n    }\n    else {\n        expires = \"\";\n    }\n    document.cookie = name + \"=\" + value + expires + \"; path=/\";\n}\nfunction getCookie(c_name) {\n    if (document.cookie.length > 0) {\n        c_start = document.cookie.indexOf(c_name + \"=\");\n        if (c_start != -1) {\n            c_start = c_start + c_name.length + 1;\n            c_end = document.cookie.indexOf(\";\", c_start);\n            if (c_end == -1) {\n                c_end = document.cookie.length;\n            }\n            return unescape(document.cookie.substring(c_start, c_end));\n        }\n    }\n    return \"\";\n}\nfunction getRandomElms(){\n    var ul = document.querySelectorAll('ul.shuffle');\n    return ul\n}\nfunction getRandArr(elm, array){\n    for (var i = elm.children.length; i >= 0; i--) {\n        rand = Math.random() * i | 0;\n        array.push(rand)\n    }\n}\nfunction shuffleWithArr(elm, array){\n    elm.style.backgroundColor = \"inherit\"\n    for (var i = elm.children.length; i >= 0; i--) {\n        elm.appendChild(elm.children[array[i]]);\n    }\n}\nfunction run() {\n    var elms = getRandomElms()\n    var isFront = document.getElementById(\"front\");\n    for (var i = 0; i < elms.length; i++) {\n        var idxArr = [];\n        elm = elms[i]\n        if (isFront) {\n            getRandArr(elm, idxArr);\n            // convert idxArr array to a JSON string to be stored\n            var json_str = JSON.stringify(idxArr);\n            // persist the idxArr order and correct answers\n            createCookie('idxArr' + i, json_str);\n            var stored_data = idxArr\n        } else {\n            // get the idxArr order\n            var json_data = getCookie('idxArr' + i);\n            // get the array back from storage\n            var stored_data = JSON.parse(json_data);\n        }\n        shuffleWithArr(elm, stored_data)\n    }\n}\nrun();\n</script>", 
+                    "scratchPad": false
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic-8b577", 
+            "req": [
+                [
+                    0, 
+                    "all", 
                     [
                         0
                     ]
                 ]
-            ],
-            "sortf": 0,
+            ], 
+            "sortf": 0, 
             "tags": [
-                "incisor,",
-                "lingual",
-                "maxillary,",
+                "incisor,", 
+                "lingual", 
+                "maxillary,", 
                 "view,"
-            ],
+            ], 
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
                     "qfmt": "{{Front}}"
                 }
-            ],
-            "type": 0,
+            ], 
+            "type": 0, 
             "vers": []
-        },
+        }, 
         {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
             "flds": [
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
                     "sticky": false
-                },
+                }, 
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
                     "sticky": false
                 }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
-            "sortf": 0,
-            "tags": [],
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic-5d834", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        0
+                    ]
+                ]
+            ], 
+            "sortf": 0, 
+            "tags": [], 
             "tmpls": [
                 {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
+                    "qfmt": "{{Front}}"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze-c6479", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
                     "qfmt": "{{cloze:Text}}"
                 }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
+            ], 
+            "type": 1, 
             "vers": []
         }
-    ],
+    ], 
     "notes": [
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "2 purposes of the Nucleic Acid Test (NAT) or Nucleic Acid Amplification Test (NAAT)",
+                "Initiation of infectious disease<div><br /></div><div>Most of the cases by microbes {{c3::<cz_hide>!</cz_hide>colonizing}}&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Skin</cloze2>::surface}}</div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Mucous membrane</cloze2>::surface}}</div><div><br /></div></blockquote><div>Exception</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Direct introduction into</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Bloodstream</cloze2>}}</div><div>{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>Internal organs</cloze2>}}</div></blockquote></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "HfvqIB1_6L", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Initiation of infectious disease<div><br /></div><div>Colonization of microbes</div><div>Possible scenarios:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Elimination</cloze2>}} of the microbe, host {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>not effected</cloze2>}}</div><div>Host develops {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Infectious disease</cloze2>::physiological condition}}</div><div>Host becomes {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>carrier</cloze2>}} (transient or prolonged)</div><div><br /></div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ej_l.;VW<Y", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Infectious disease</div><div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote>Definition:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>When foreign microorganisms</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Cause {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>tissue damage</cloze2>}}</div><div>Impair {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>body function</cloze2>}}</div></blockquote></blockquote><div><br /></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "s5C8,_,YjZ", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Classification</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Bacteria: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Pro</cloze2>}}karyotes</li><li>Fungi: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Eu</cloze2>}}karyotes</li><li>Protozoa: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Eu</cloze2>}}karyotes</li><li>Helminths: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Eu</cloze2>}}karyotes</li><li>Human: {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>Eu</cloze2>}}karyotes</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "FbJ&oP4[q|", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Prokaryotic Pathogens</div><div><br /></div><div>Typical bacteria</div><div>Common shapes:</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::Bacillus}}</li><li>{{c2::Coccus}}</li><li>{{c3::Spirillus}}</li></ul><div>Exception: \"{{c4::Pleomorphic}}\" (No {{c5::distinct shape}})</div></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "K!U/ttW+NS", 
+            "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Prokaryotic Pathogens</div><div><br /></div><div>Typical&nbsp;</div><div>Bacteria cell wall:</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Gram {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>-</cloze2>}} ({{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>thick</cloze2>::thick/thin}} cell wall): &nbsp;<img src=\"paste-7447473291265.png\" /></li><li>Gram {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>+</cloze2>}} ({{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>thin</cloze2>::thick/thin}} cell wall):<img src=\"paste-14529874362369.png\" /></li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "s13yVq4O<n", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "aee99f4fc0d14dbd99f6a07ce49425f1-oa-1", 
+                "", 
+                "<img src=\"tmpCoATi6.png\" />", 
+                "<img src=\"aee99f4fc0d14dbd99f6a07ce49425f1-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"aee99f4fc0d14dbd99f6a07ce49425f1-oa-1-A.svg\" />", 
+                "<img src=\"aee99f4fc0d14dbd99f6a07ce49425f1-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "iY0lNaGFNa", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "298256b38ec047aa9e90c0e1a768f658-ao-1", 
+                "", 
+                "<img src=\"tmphQn4aU.png\" />", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-1-A.svg\" />", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "DVdD]KMP0p", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "298256b38ec047aa9e90c0e1a768f658-ao-2", 
+                "", 
+                "<img src=\"tmphQn4aU.png\" />", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-2-A.svg\" />", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "PVJ8uJ;`GO", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "298256b38ec047aa9e90c0e1a768f658-ao-3", 
+                "", 
+                "<img src=\"tmphQn4aU.png\" />", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-3-A.svg\" />", 
+                "<img src=\"298256b38ec047aa9e90c0e1a768f658-ao-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "o8j!^D4I)e", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "aee99f4fc0d14dbd99f6a07ce49425f1-oa-2", 
+                "", 
+                "<img src=\"tmpCoATi6.png\" />", 
+                "<img src=\"aee99f4fc0d14dbd99f6a07ce49425f1-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"aee99f4fc0d14dbd99f6a07ce49425f1-oa-2-A.svg\" />", 
+                "<img src=\"aee99f4fc0d14dbd99f6a07ce49425f1-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "mb(F|6-Tod", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Fungi</div><div><br /></div><div>Characteristics</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Eu</cloze2>}}karyotic</li><li>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Uni- or multi</cloze2>}}cellular</li><li>Reproduction: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>asexual, sexaul, or both</cloze2>::sexual/asexual}}</li><li>Produces {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>spores</cloze2>}} for {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>dispersal</cloze2>}} and survival in unfavorable conditions</li><li>Photosynthesis: {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>not</cloze2>}}</li><li>{{c7::<cz_hide>!</cz_hide>Saprophytic}}: Feed on {{c8::<cz_hide>!</cz_hide>dead or decaying}} matter</li><li>Pathogenic disease range from {{c9::<cloze2_w class='cz-9'></cloze2_w><cloze2 class='cz-9'>skin infection to systemic infections</cloze2>::extent}}</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "D-]//v1L+M", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Fungi</div><div><br /></div><div>Medically important fungi:</div><div><br /></div><div>Disease: Causal agent: affected sites</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Candidiasis: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Candida Albicans</cloze2>}} (Affected area/s: {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>Vagina, mouth</cloze2>}})</li><li>Cryptococcosis: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Cryptococcus neoformans</cloze2>}} (Affected area/s: {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>Lungs, Meninges, Wound/skins</cloze2>}})</li><li>Histoplasmosis: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Histoplasma Capsulatum</cloze2>}}&nbsp;(Affected area/s:&nbsp;{{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>lungs</cloze2>}})</li><li>Aspergillosis: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Aspergillus niger</cloze2>}}&nbsp;(Affected area/s:&nbsp;{{c9::<cloze2_w class='cz-9'></cloze2_w><cloze2 class='cz-9'>Lungs</cloze2>}})</li><li>Blastomycosis: {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>Blastomyces dermatitidis</cloze2>}}&nbsp;&nbsp;(Affected area/s:&nbsp;{{c10::<cloze2_w class='cz-10'></cloze2_w><cloze2 class='cz-10'>lungs</cloze2>}})</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "x}E8L(-ci{", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Protozoa</div><div><br /></div><div>Characteristics</div><div><br /></div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Eu</cloze2>}}karyotic</li><li>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Uni</cloze2>::#}}cellular</li><li>Photosynthesis: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>not</cloze2>}}</li><li>Live style: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Free living and parasitic</cloze2>}}</li><li>{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>Intra- and extra</cloze2>::intra/extra}}cellular parasites in blood, urogenital regions, or intestine</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Pr-(mGQL=v", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Protozoa</div><div><br /></div><div>Medically important species</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Giardia lamblia: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Intestine</cloze2>}}</li><li>Trichomoniasis vaginalis: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Urogenital</cloze2>}}</li><li>Trypoanosoma sp.: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Blood and tissues</cloze2>}}</li><li>Leishmania sp.: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Blood and tissues</cloze2>}}</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "f;W`H:~Ywl", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths: \"{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Worms</cloze2>::layman term}}\"</div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "i>{f+F*)~t", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths:&nbsp;</div><div><br /></div><div>Characteristics</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Layman term: \"{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Worms</cloze2>}}\"</li><li>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Eu</cloze2>}}karyotic</li><li>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Multi</cloze2>::#}}cellular</li><li>Livestyle: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>parasitic</cloze2>}}</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "t3a4n+Q<as", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths:&nbsp;</div><div><br /></div><div>divided into following groups:</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::Nematodes}}: {{c4::Roundworms}}</li><li>{{c2::Cestodes}}: {{c5::Tapeworms}}</li><li>{{c3::Trematodes}}: {{c6::Flukes}}</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "rxVPcaS0Mo", 
+            "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths:&nbsp;</div><div><br /></div><div>divided into following groups:</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Nematodes</cloze2>}}: Roundworms</li><li>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Cestodes</cloze2>}}: Tapeworms</li><li>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Trematodes</cloze2>}}: Flukes</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "g=32D7fNm;", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c1::<cz_hide>!</cz_hide>Enterobiasis}}</div><div><br /></div><div>Most common {{c3::<cz_hide>!</cz_hide>helminth}} infection in US</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Symptoms: {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">Anal itching</cloze2>}}</li><li>Causal agent: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">Enterobious vermicularis</cloze2>}} (\"{{c5::<cloze2_w class=\"cz-5\"></cloze2_w><cloze2 class=\"cz-5\">pinworms</cloze2>}}\", belonging to group: {{c6::nematodes}})</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "grG#M-62!P", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths</div><div><br /></div><div>Species: groups</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Enterobious vermicularis: {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">nematodes</cloze2>}}</li><li>Trichinella spiralis: {{c8::Nematodes}}</li><li>Ascaris lumbricoides: {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">nematodes</cloze2>}}</li><li>Echinococcus granulosus: {{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">Cestodes</cloze2>}}</li><li>Taenia sp.: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">Cestodes</cloze2>}}</li><li>Schistosoma sp.: {{c5::<cloze2_w class=\"cz-5\"></cloze2_w><cloze2 class=\"cz-5\">Trematodes</cloze2>}}</li><li>Paragonimus westermani: {{c6::<cloze2_w class=\"cz-6\"></cloze2_w><cloze2 class=\"cz-6\">Trematodes</cloze2>}}</li><li>Clonorchis sinensis: {{c7::<cloze2_w class=\"cz-7\"></cloze2_w><cloze2 class=\"cz-7\">Trematodes</cloze2>}}</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "DUo85-brp+", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Ingestion of {{c3::<cz_hide>!</cz_hide>undercooked pork}} poses significant risk of {{c1::<cz_hide>!</cz_hide>Trichinella spiralis}} (belonging to group {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>nematodes</cloze2>}}) infection.&nbsp;", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "hbfCS5BKoL", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths groups:</div><div><br /></div><div>Characteristics:</div><table style=\"font-size: 1em; width: 100%; border-collapse: collapse;\">\n<thead><tr><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Helminth group</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Shape</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Segments</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Digesive system (y/n)</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Parasitic target</th></tr></thead>\n<tbody><tr><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c1::Nematodes}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c4::Elongated, tapered ends}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c7::Yes}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c10::Yes}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c13::any part of body}}</td></tr><tr><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c2::Cestodes}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c5::Ribbon-like}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c8::No}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c11::No}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c14::primarily intestine}}</td></tr><tr><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c3::Trematodes}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c6::Flat, leaf like}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c9::n/a}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c12::No}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c15::various organ}}</td></tr></tbody></table>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "gAFCu}S.e>", 
+            "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths groups:</div><div><br /></div><div>Characteristics:</div><table style=\"font-size: 1em; width: 100%; border-collapse: collapse;\">\n<thead><tr><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Helminth group</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Shape</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Segments</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Digesive system (y/n)</th><th align=\"left\" style=\"width: 20%; padding: 5px;border-bottom: 2px solid #00B3FF\">Parasitic target</th></tr></thead>\n<tbody><tr><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Nematodes</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">Elongated, tapered ends</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>Yes</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c10::<cloze2_w class='cz-10'></cloze2_w><cloze2 class='cz-10'>Yes</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c13::<cloze2_w class='cz-13'></cloze2_w><cloze2 class='cz-13'>any part of body</cloze2>}}</td></tr><tr><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Cestodes</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">Ribbon-like</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>No</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c11::<cloze2_w class='cz-11'></cloze2_w><cloze2 class='cz-11'>No</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c14::<cloze2_w class='cz-14'></cloze2_w><cloze2 class='cz-14'>primarily intestine</cloze2>}}</td></tr><tr><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Trematodes</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">Flat, leaf-like</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c9::<cloze2_w class='cz-9'></cloze2_w><cloze2 class='cz-9'>n/a</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c12::<cloze2_w class='cz-12'></cloze2_w><cloze2 class='cz-12'>No</cloze2>}}</td><td style=\"text-align: 20; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c15::<cloze2_w class='cz-15'></cloze2_w><cloze2 class='cz-15'>various organ</cloze2>}}</td></tr></tbody></table>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "kl,oj87E&^", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Helminths groups:</div><div><br /></div><div>Transmission routes</div><div style=\"text-align: -webkit-left;\"><b><br /></b></div><div style=\"text-align: -webkit-left;\"><b>Group Ingestion Dircet skin penetration&nbsp;</b></div><table style=\"font-size: 1em; width: 100%; border-collapse: collapse;\">\n<thead><tr><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\">Helminth group</th><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\">Ingestion</th><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\">Direct Skin penetration</th></tr></thead>\n<tbody><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">Nematodes</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Yes</cloze2>}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Yes</cloze2>}}</td></tr><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">Cestodes</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Yes</cloze2>}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>No</cloze2>}}</td></tr><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">Trematodes</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Yes</cloze2>}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>Yes</cloze2>}}</td></tr></tbody></table>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "q2ej.@%9%J", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Ingestion of raw or undercooked {{c2::fish or crustacean}} significantly raises the risk of {{c1::trematodes::helminth group}} infection", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Ng*YqJoby$", 
+            "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<img src=\"paste-55387898249217.png\" /><div><br /></div><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Enterobious vermicularis</cloze2>}} (\"{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>pinworm</cloze2>}}\") infection</div><div>Location: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Anus</cloze2>}}</div><div><br /></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "zfdug@N{|i", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Viruses&nbsp;<div><br /></div><div>Characteristic</div><div><br /></div><div>\"{{c1::Obligate::necessity}} {{c2::Intracellular::location}} {{c3::parasites::Life style}}\"</div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "kC|x*W3ph{", 
+            "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Viruses&nbsp;<div><br /></div><div>Characteristics</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Replication: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>host cell</cloze2>}} necessary</li><li>Cellular structure: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>no</cloze2>::y/n}}</li><li>Nucleic acid: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>DNA or R</cloze2>::DNA/RNA}}NA</li><li>Arrangement: Nucleic acid surrounded by {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>protein coat</cloze2>}}</li><li>Some coated with membrane derived from {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>host cell membrane</cloze2>}}</li></ul></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "iHnkxt.^Y2", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Virus Particle: \"{{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>Virion</cloze2>}}\"", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "MJxO.3TM(%", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "e38502ecb8004bafbe85f76d2e6ae315-oa-1", 
+                "", 
+                "<img src=\"tmpgnMqZb.png\" />", 
+                "<img src=\"e38502ecb8004bafbe85f76d2e6ae315-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"e38502ecb8004bafbe85f76d2e6ae315-oa-1-A.svg\" />", 
+                "<img src=\"e38502ecb8004bafbe85f76d2e6ae315-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "fQ3hDZq<Ae", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9dd29141269f45599375f2c0a622a33f-oa-1", 
+                "", 
+                "<img src=\"tmpeZiKpP.png\" />", 
+                "<img src=\"9dd29141269f45599375f2c0a622a33f-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9dd29141269f45599375f2c0a622a33f-oa-1-A.svg\" />", 
+                "<img src=\"9dd29141269f45599375f2c0a622a33f-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "g#OJD}sW2<", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "9dd29141269f45599375f2c0a622a33f-oa-2", 
+                "", 
+                "<img src=\"tmpeZiKpP.png\" />", 
+                "<img src=\"9dd29141269f45599375f2c0a622a33f-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"9dd29141269f45599375f2c0a622a33f-oa-2-A.svg\" />", 
+                "<img src=\"9dd29141269f45599375f2c0a622a33f-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "deZZ![hr5U", 
+            "note_model_uuid": "5e8e700a-df23-11e9-8f66-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "2 purposes of the Nucleic Acid Test (NAT) or Nucleic Acid Amplification Test (NAAT)", 
                 "1. detect and amplify nucleic acid of the pathogen<div><br></div><div>2. shorten the window period (time between infection and positive results)</div>"
-            ],
-            "flags": 0,
-            "guid": "ctPdJM07@U",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "ctPdJM07@U", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "Acid",
-                "Based",
-                "NAAT,",
-                "NAT,",
-                "Nucleic",
-                "Nucleic,",
-                "Techniques",
+                "Acid", 
+                "Based", 
+                "NAAT,", 
+                "NAT,", 
+                "Nucleic", 
+                "Nucleic,", 
+                "Techniques", 
                 "Techniques,"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "What are susceptibility tests used for?&nbsp;",
+                "What are susceptibility tests used for?&nbsp;", 
                 "As a guide in choosing antimicrobial therapy since some microbes show unpredictable sensitivity patterns to various antibiotics"
-            ],
-            "flags": 0,
-            "guid": "CKT@akQ@(C",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "CKT@akQ@(C", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "susceptibility,",
-                "test,",
-                "tests,",
+                "susceptibility,", 
+                "test,", 
+                "tests,", 
                 "therapy"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "What is the Kirby Bauer Disk Diffusion Method?&nbsp;",
+                "What is the Kirby Bauer Disk Diffusion Method?&nbsp;", 
                 "Tests organisms resistance to a drug by placing exact amounts of different antimicrobial agents on a culture disc inoculated with the microbe to be tested. Then after 24-48 hours, you see how large the zone of inhibition is.&nbsp;<div><br></div><div>Larger zone of inhibition = more sensitive the microbe is to the drug</div>"
-            ],
-            "flags": 0,
-            "guid": "Q0AggxB7Dk",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "Q0AggxB7Dk", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "diffusion,",
-                "disk",
-                "kirby,",
-                "susceptibility,",
-                "test",
+                "diffusion,", 
+                "disk", 
+                "kirby,", 
+                "susceptibility,", 
+                "test", 
                 "tests,"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Explain the Minimal Inhibitory Concentration test...",
+                "Explain the Minimal Inhibitory Concentration test...", 
                 "<div>A dilution technique where different concentrations of an antibiotic are used to find the minimal inhibitory concentration (MIC) that inhibits bacterial growth.</div><div><br></div><div><br></div><img src=\"paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg\">"
-            ],
-            "flags": 0,
-            "guid": "tubtZ)36[f",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "tubtZ)36[f", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "antibiotic,",
-                "dilution,",
-                "inhibitory,",
-                "minimal",
-                "susceptibility,",
+                "antibiotic,", 
+                "dilution,", 
+                "inhibitory,", 
+                "minimal", 
+                "susceptibility,", 
                 "tests"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Bacteriostatics VS Bactericidal Drug Graph",
+                "Bacteriostatics VS Bactericidal Drug Graph", 
                 "<img src=\"paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg\">"
-            ],
-            "flags": 0,
-            "guid": "qhkOpaiXgX",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "qhkOpaiXgX", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
+                "antibiotic,", 
+                "bactericidal,", 
+                "bacteriostatic,", 
+                "susceptibility,", 
                 "tests"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Agents that kill bacteria are...",
+                "Agents that kill bacteria are...", 
                 "bactericidals"
-            ],
-            "flags": 0,
-            "guid": "yN!LYgf/:>",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "yN!LYgf/:>", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
+                "antibiotic,", 
+                "bactericidal,", 
+                "bacteriostatic,", 
+                "susceptibility,", 
                 "tests"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Drugs that arrest growth and replication of bacteria are...",
+                "Drugs that arrest growth and replication of bacteria are...", 
                 "bacteriostatics&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "muNE{33K#C",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "muNE{33K#C", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
+                "antibiotic,", 
+                "bactericidal,", 
+                "bacteriostatic,", 
+                "susceptibility,", 
                 "tests"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "An antibiotic can be (____) for one organism and (____) for another organism.",
+                "An antibiotic can be (____) for one organism and (____) for another organism.", 
                 "bacteriostatic<div><br></div><div>bactericidal</div>"
-            ],
-            "flags": 0,
-            "guid": "CBk6h/a^zt",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            ], 
+            "flags": 0, 
+            "guid": "CBk6h/a^zt", 
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
             "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
+                "antibiotic,", 
+                "bactericidal,", 
+                "bacteriostatic,", 
+                "susceptibility,", 
                 "tests"
             ]
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Microbiology labs are increasingly using&nbsp;{{c1::automated}} methods to identify bacterial pathogens.",
+                "Microbiology labs are increasingly using&nbsp;{{c1::automated}} methods to identify bacterial pathogens.", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "OH2!Zf=dPL",
-            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "OH2!Zf=dPL", 
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Example of automated systems&nbsp;biochemical identification (2)",
+                "Example of automated systems&nbsp;biochemical identification (2)", 
                 "1) Vitek test card containing test wells<div>2) Color of well changes with time</div><div><br></div><div><img src=\"paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "E>%}HA9>Ut",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "E>%}HA9>Ut", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "What do immunologic methods take advantage of in detection of microorganisms?",
+                "What do immunologic methods take advantage of in detection of microorganisms?", 
                 "specifity of <b>antigen-antibody</b> binding"
-            ],
-            "flags": 0,
-            "guid": "Bz)KAxhXkd",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "Bz)KAxhXkd", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "When is it useful to use immunologic methods for detecting microorganisms? (2)",
+                "When is it useful to use immunologic methods for detecting microorganisms? (2)", 
                 "1) infecting microorganism is difficult or impossible to isolate<div>2) previous infection needs to be documented</div>"
-            ],
-            "flags": 0,
-            "guid": "h@?{l7j&us",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "h@?{l7j&us", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Most methods for determining whether antibodies or antigens are present in a patients' sera or other body fluid require a type of&nbsp;{{c1::immunoassay}} procedure.",
+                "Most methods for determining whether antibodies or antigens are present in a patients' sera or other body fluid require a type of&nbsp;{{c1::immunoassay}} procedure.", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "Q(UyLJcF&F",
-            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "Q(UyLJcF&F", 
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "What do immunologic detection methods look for? (2)",
+                "What do immunologic detection methods look for? (2)", 
                 "1) detection of microbial <b>antigen</b> with known antiserum (antibodies)<div>2) detection of serum <b>antibodies</b></div>"
-            ],
-            "flags": 0,
-            "guid": "nsFI-V7Od9",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "nsFI-V7Od9", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "What are the 6 immunologic detection methods?",
+                "What are the 6 immunologic detection methods?", 
                 "1. Quellung Reaction<div>2. Agglutination tests</div><div>3. Complement fixation tests</div><div>4. ELISA tests</div><div>5. Western blotting</div><div>6. Fluorescent Antibody Test</div>"
-            ],
-            "flags": 0,
-            "guid": "f<(j61H0F/",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "f<(j61H0F/", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "How does the Quellung Reaction detect microorganisms?",
+                "How does the Quellung Reaction detect microorganisms?", 
                 "Makes bacteria with <b><font color=\"#ff0000\">capsule more visible</font></b>&nbsp;(appears swollen) when organisms are treated with serum that contains specific antibodies.<div><br><div><b>capsule does not actually swell</b></div><div><b>Quellung = swelling in German</b></div></div>"
-            ],
-            "flags": 0,
-            "guid": "j31dw_`9vm",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "j31dw_`9vm", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "How does the Latex Agglutination Test detect microorganisms?",
+                "How does the Latex Agglutination Test detect microorganisms?", 
                 "- latex and other particles can be coated with <b>antibody (for antigen detection)</b> or <b>antigen (for antibody detection)</b><div>- addition of antigen to antibody coated latex beads causes <b>agglutination </b>that can be visibly observed</div><div><img src=\"paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
-            ],
-            "flags": 0,
-            "guid": "EGEUk5?y%E",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "EGEUk5?y%E", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "How does <b>complement fixation</b> detect microorganisms?",
+                "How does <b>complement fixation</b> detect microorganisms?", 
                 "- detects patients serum antibody, directed against a specific pathogen by the <b>ability of the antibody to bind complement</b>.<div>- solution turns <font color=\"#ff00ff\"><b>pink</b></font> if negative</div><div>- initially, serum is heated to destroy patients' natural complemenet but not their antibody.</div><div><img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "JbWwHuUu@0",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "JbWwHuUu@0", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "5 Steps of Complement Fixation",
+                "5 Steps of Complement Fixation", 
                 "1. <b>serum is heated</b> to destroy patients' natural complement but not their antibody<div>2. fixed amount of <b>antigen is added</b> to test serum (if antibody is present, immune complexes will form)</div><div>3. <b>complement is added</b> to mixture and will fix and sequester complexes if they are present.</div><div>4. RBCs and subagglutinating amounts of anti-erythrocyte antibody are added.</div><div>5. If complement has not been bound anti-erythrocyte antibody plus complement will lyse the RBCs to make liquid pink (negative result)</div><div>&nbsp; &nbsp; If complement was bound by the immune complexes, RBCs will not lyse. (positive result)</div><div>&nbsp;&nbsp;<img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"></div>"
-            ],
-            "flags": 0,
-            "guid": "ABfjE+oK]m",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "ABfjE+oK]m", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "What does ELISA stand for?",
+                "What does ELISA stand for?", 
                 "Enzyme Linked ImmunoSorbent Assay"
-            ],
-            "flags": 0,
-            "guid": "B6dQW7jT#f",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "B6dQW7jT#f", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "How does ELISA detect microorganisms?",
+                "How does ELISA detect microorganisms?", 
                 "- in the assay, antigen of interest is <b>immobilized by direct adsorption</b> to the assay plate <b>or by first attaching a capture antibody to the plate surface.</b><div>- antigen is detected by using an enzyme conjugated primary antibody (direct detection)</div><div>&nbsp; &nbsp;or a matched set of unlabeled primary and conjugated secondary antibodies (indirect detection)</div><div>- read in a microplate reader</div><div><br></div><div><img src=\"paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg\"><br></div><div><font color=\"#ff0000\">Ag: Unknown Antigen</font></div><div><font color=\"#ff0000\">E: Enzyme (converts substrate into a colored product)</font></div>"
-            ],
-            "flags": 0,
-            "guid": "zwWS3UrzSz",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "zwWS3UrzSz", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "In ELISA detection what are the advantages and disadvantages of Direct Detection?",
+                "In ELISA detection what are the advantages and disadvantages of Direct Detection?", 
                 "<b>advantage:</b> only one antibody is needed and it requires less time to complete assay.<div><b>disadvantage: </b>less flexibility in choice of enzyme-substrate detection system, and a labeled antibody must be created for each ELISA experiment</div>"
-            ],
-            "flags": 0,
-            "guid": "cLapjQp%(g",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "cLapjQp%(g", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "In ELISA detection what are the advantages and disadvantages of <b>Indirect Detection</b>?",
+                "In ELISA detection what are the advantages and disadvantages of <b>Indirect Detection</b>?", 
                 "<b>advantage:&nbsp;</b> flexibility and choice availability of secondary antibodies and enzyme-substrate detection systems.<div><br></div><div><b>disadvantage:</b> the potential for non-specific cross-reactivity of the secondary antibody.</div><div><br></div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "q%RE$9a-$.",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "q%RE$9a-$.", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "In ELISA detection what are the advantages and disadvantages of Capture Assay?",
+                "In ELISA detection what are the advantages and disadvantages of Capture Assay?", 
                 "<b>advantage:</b> High sensitivity; 2-5 times more sensitive than direct or indirect ELISA<div><br></div><div><b>disadvantage:</b> cross reactivity may occur between the capture and detection antibodies</div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "plAK=%6Qvl",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "plAK=%6Qvl", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "How does Western Blotting detect microorganisms?",
+                "How does Western Blotting detect microorganisms?", 
                 "similarly to ELISA except more specific as gel electrophoresis protein separation is initially performed.<div><br></div>"
-            ],
-            "flags": 0,
-            "guid": "g,Ac:=ddQV",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "g,Ac:=ddQV", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Outline the 6 steps in Western Blotting&nbsp;",
+                "Outline the 6 steps in Western Blotting&nbsp;", 
                 "<div><br></div><img src=\"paste-e81197298c0ed248244c97af0f6ee5e25b02be71.jpg\">"
-            ],
-            "flags": 0,
-            "guid": "vAX[byZ$K!",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "vAX[byZ$K!", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "The SDS page in western blotting gel electrophoresis makes protein&nbsp;{{c1::negative}}",
+                "The SDS page in western blotting gel electrophoresis makes protein&nbsp;{{c1::negative}}", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "q!fIxVb+{m",
-            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "q!fIxVb+{m", 
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Steps in Fluorescent Antibody Tests (2)",
+                "Steps in Fluorescent Antibody Tests (2)", 
                 "1) add fluorescent labeled antiviral antibodies to microscope slide with tissue or cells<div>2) view with a fluorescent microscope</div><div><br></div><div><img src=\"paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "Ns}_o#m#!Z",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            ], 
+            "flags": 0, 
+            "guid": "Ns}_o#m#!Z", 
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d", 
             "tags": []
         }
     ]
