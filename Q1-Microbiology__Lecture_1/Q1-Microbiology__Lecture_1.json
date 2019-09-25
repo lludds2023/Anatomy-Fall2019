@@ -268,6 +268,101 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170",
             "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n\n.nightMode .cloze{\n font-weight: bold;\n color: red;\n}",
             "flds": [
@@ -613,7 +708,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-67c9d",
             "req": [
                 [
                     0,
@@ -813,7 +908,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-4e6fe",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -1218,6 +1313,270 @@
             "flags": 0,
             "guid": "Ns}_o#m#!Z",
             "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The success of culturing depends on appropriate collection and transport techniques and on the selection of appropriate {{c1::culture media }}, because some organisms require specific nutrients.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J#_Uwoqs#V",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "All clinically important bacteria are {{c1::heterotrophs}}, meaning they require organic carbon for growth.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QA2u-#;VXy",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Organisms that require either a large number of growth factors or must be supplied with very specific ones are reffered to as {{c1::fastidious.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P9/;XOuCS_",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::obligate aerobes}} {{c2::require oxygen for growth&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rIo[e5@GSt",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Obligate anaerobes}} {{c2::require anaerobic enviornment for growth.&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E{%~ZWm5A/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Facultative anaerobes}} {{c2::have the ability to grow anaerobically, but grow better with O2}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j~Yny&Iu%.",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Aerotolerant Anaerobes}} {{c2::do not use oxygen for growth but can tolerate it.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Az!g[`l3`?",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Microaerophiles}} {{c2::require oxygen concentrations lower than O2 found in the air&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lupb>[@@(T",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Solid Medium (also known as {{c1::nutirent agar}}) is used for {{c1::isolating bacterium}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rW&[ZBsy~i",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Liquid Medium (also known as {{c1::nutrient broth}}) is used to {{c2::grow larger quantitiies of a bacterium that have already been isolated as a pure culture.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C<*X^{@-fd",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is defined media?&nbsp;",
+                "contains known quantities of all ingredients&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "c_ik$9EmIO",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is undefined media (complex)?&nbsp;",
+                "contains complex ingredients in unknown proportions"
+            ],
+            "flags": 0,
+            "guid": "Kd*6wX[,)t",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Enriched media",
+                "contains the nutrients required to support the growth of a wide variety of organisms"
+            ],
+            "flags": 0,
+            "guid": "wSOqft*.q&",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Selective media",
+                "used for growth of only selected microorganisms&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "tpxu0pcnVX",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Differential media:&nbsp;",
+                "used to differentiate one microorganism type from another growing on the same medium.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "d{!,R@(1dN",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Reducing media",
+                "used for growth of obligate anaerobes&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "w2B1bb)p!5",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Single-enzyme tests provide {{c1::presumptive}} identification.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D%Pg91(R/_",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does a catalase test reveal?&nbsp;<div>What are examples of catalase + and catalase - organisms?&nbsp;</div>",
+                "A catalase test differnetiates between gram + bacteria that contain the enzyme catalase. If the organism is catalase positive it will rapidly produce bubbles when exposed to H2O2. H2O2 will be converted to H2O + O2 by catalase.&nbsp;<div><br></div><div>Catalase + organsim: Staphylococci&nbsp;</div><div>Catalase - organism: Streptococci and Enterococci&nbsp;</div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "G&p]$85)*d",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is an oxidase test?&nbsp;",
+                "A single enzyme test that differentiates between gram negative bacteria. A dark oxidized product results from cytochrome c oxidase activity (a positive fro this test).&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "gg0<N);3+8",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a coagulase test?&nbsp;",
+                "A coagulase test is a single enzyme test that is used to differentiate staphylococcus aureus (coagulase positive) from other staphylococci (coagulase negative).&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "n3|w{In1vG",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a urease test? What color will the PH indicator turn if the organism contains urease?&nbsp;",
+                "A urease test helps to identigy species that contain the enzyme urease. Since urease hydrolyzes urea into ammonia and carbon dioxide, the alkalinity can be testested with PH indicators to determine the presence of urease. The PH indicator will <b>turn dark&nbsp;</b> if the organism contains urease because more NH3 is being produced and thus the alkalinity is higher.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "v{J<a:$mj[",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a metabolic pathway test?&nbsp;",
+                "A metabolic pathway test measures the presence of metabolic pathways in a bacterial isolate.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "k#)i}<C/xi",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
             "tags": []
         },
         {
