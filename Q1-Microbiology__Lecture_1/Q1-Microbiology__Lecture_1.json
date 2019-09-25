@@ -55,6 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "114987-004-88CFED38.jpg",
         "298256b38ec047aa9e90c0e1a768f658-ao-1-A.svg",
         "298256b38ec047aa9e90c0e1a768f658-ao-1-Q.svg",
         "298256b38ec047aa9e90c0e1a768f658-ao-2-A.svg",
@@ -62,6 +63,7 @@
         "298256b38ec047aa9e90c0e1a768f658-ao-3-A.svg",
         "298256b38ec047aa9e90c0e1a768f658-ao-3-Q.svg",
         "298256b38ec047aa9e90c0e1a768f658-ao-O.svg",
+        "8039-004-03678E93.jpg",
         "9d11389a02354f44896d51c33fd4a26e-ao-1-A.svg",
         "9d11389a02354f44896d51c33fd4a26e-ao-1-Q.svg",
         "9d11389a02354f44896d51c33fd4a26e-ao-2-A.svg",
@@ -80,6 +82,8 @@
         "9dd29141269f45599375f2c0a622a33f-oa-2-A.svg",
         "9dd29141269f45599375f2c0a622a33f-oa-2-Q.svg",
         "9dd29141269f45599375f2c0a622a33f-oa-O.svg",
+        "Bacteroides_biacutis_01.jpg",
+        "Pneumococcus_CDC_PHIL_ID1003.jpg",
         "aee99f4fc0d14dbd99f6a07ce49425f1-oa-1-A.svg",
         "aee99f4fc0d14dbd99f6a07ce49425f1-oa-1-Q.svg",
         "aee99f4fc0d14dbd99f6a07ce49425f1-oa-2-A.svg",
@@ -88,6 +92,7 @@
         "e38502ecb8004bafbe85f76d2e6ae315-oa-1-A.svg",
         "e38502ecb8004bafbe85f76d2e6ae315-oa-1-Q.svg",
         "e38502ecb8004bafbe85f76d2e6ae315-oa-O.svg",
+        "ecoli-1184px.jpg",
         "paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg",
         "paste-14529874362369.png",
         "paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg",
@@ -106,9 +111,161 @@
         "tmpgnMqZb.png",
         "tmphQn4aU.png"
     ],
-    "mid": "1567042635087",
+    "mid": "1568381491280",
     "name": "Q1-Microbiology::Lecture 1",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-8b577",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "incisor,",
+                "lingual",
+                "maxillary,",
+                "view,"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-c6479",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-5d834",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170",
@@ -351,158 +508,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-8b577",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [
-                "incisor,",
-                "lingual",
-                "maxillary,",
-                "view,"
-            ],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-c6479",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-5d834",
-            "req": [
-                [
-                    0,
-                    "all",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
-                    "qfmt": "{{Front}}"
-                }
-            ],
-            "type": 0,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "8871143d-de99-11e9-85cc-3c6aa78689e9",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
@@ -660,7 +665,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-bb7a3",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -703,7 +708,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic (type in the answer)",
+            "name": "Basic (type in the answer)-5634a",
             "req": [
                 [
                     0,
@@ -755,7 +760,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            "name": "Basic-9afc8",
             "req": [
                 [
                     0,
@@ -781,9 +786,440 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2 purposes of the Nucleic Acid Test (NAT) or Nucleic Acid Amplification Test (NAAT)",
+                "1. detect and amplify nucleic acid of the pathogen<div><br></div><div>2. shorten the window period (time between infection and positive results)</div>"
+            ],
+            "flags": 0,
+            "guid": "ctPdJM07@U",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "Acid",
+                "Based",
+                "NAAT,",
+                "NAT,",
+                "Nucleic",
+                "Nucleic,",
+                "Techniques",
+                "Techniques,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are susceptibility tests used for?&nbsp;",
+                "As a guide in choosing antimicrobial therapy since some microbes show unpredictable sensitivity patterns to various antibiotics"
+            ],
+            "flags": 0,
+            "guid": "CKT@akQ@(C",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "susceptibility,",
+                "test,",
+                "tests,",
+                "therapy"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Kirby Bauer Disk Diffusion Method?&nbsp;",
+                "Tests organisms resistance to a drug by placing exact amounts of different antimicrobial agents on a culture disc inoculated with the microbe to be tested. Then after 24-48 hours, you see how large the zone of inhibition is.&nbsp;<div><br></div><div>Larger zone of inhibition = more sensitive the microbe is to the drug</div>"
+            ],
+            "flags": 0,
+            "guid": "Q0AggxB7Dk",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "diffusion,",
+                "disk",
+                "kirby,",
+                "susceptibility,",
+                "test",
+                "tests,"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Explain the Minimal Inhibitory Concentration test...",
+                "<div>A dilution technique where different concentrations of an antibiotic are used to find the minimal inhibitory concentration (MIC) that inhibits bacterial growth.</div><div><br></div><div><br></div><img src=\"paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "tubtZ)36[f",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "dilution,",
+                "inhibitory,",
+                "minimal",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bacteriostatics VS Bactericidal Drug Graph",
+                "<img src=\"paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "qhkOpaiXgX",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Agents that kill bacteria are...",
+                "bactericidals"
+            ],
+            "flags": 0,
+            "guid": "yN!LYgf/:>",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Drugs that arrest growth and replication of bacteria are...",
+                "bacteriostatics&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "muNE{33K#C",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "An antibiotic can be (____) for one organism and (____) for another organism.",
+                "bacteriostatic<div><br></div><div>bactericidal</div>"
+            ],
+            "flags": 0,
+            "guid": "CBk6h/a^zt",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": [
+                "antibiotic,",
+                "bactericidal,",
+                "bacteriostatic,",
+                "susceptibility,",
+                "tests"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Microbiology labs are increasingly using&nbsp;{{c1::automated}} methods to identify bacterial pathogens.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OH2!Zf=dPL",
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Example of automated systems&nbsp;biochemical identification (2)",
+                "1) Vitek test card containing test wells<div>2) Color of well changes with time</div><div><br></div><div><img src=\"paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "E>%}HA9>Ut",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do immunologic methods take advantage of in detection of microorganisms?",
+                "specifity of <b>antigen-antibody</b> binding"
+            ],
+            "flags": 0,
+            "guid": "Bz)KAxhXkd",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is it useful to use immunologic methods for detecting microorganisms? (2)",
+                "1) infecting microorganism is difficult or impossible to isolate<div>2) previous infection needs to be documented</div>"
+            ],
+            "flags": 0,
+            "guid": "h@?{l7j&us",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Most methods for determining whether antibodies or antigens are present in a patients' sera or other body fluid require a type of&nbsp;{{c1::immunoassay}} procedure.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q(UyLJcF&F",
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do immunologic detection methods look for? (2)",
+                "1) detection of microbial <b>antigen</b> with known antiserum (antibodies)<div>2) detection of serum <b>antibodies</b></div>"
+            ],
+            "flags": 0,
+            "guid": "nsFI-V7Od9",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the 6 immunologic detection methods?",
+                "1. Quellung Reaction<div>2. Agglutination tests</div><div>3. Complement fixation tests</div><div>4. ELISA tests</div><div>5. Western blotting</div><div>6. Fluorescent Antibody Test</div>"
+            ],
+            "flags": 0,
+            "guid": "f<(j61H0F/",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does the Quellung Reaction detect microorganisms?",
+                "Makes bacteria with <b><font color=\"#ff0000\">capsule more visible</font></b>&nbsp;(appears swollen) when organisms are treated with serum that contains specific antibodies.<div><br><div><b>capsule does not actually swell</b></div><div><b>Quellung = swelling in German</b></div></div>"
+            ],
+            "flags": 0,
+            "guid": "j31dw_`9vm",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does the Latex Agglutination Test detect microorganisms?",
+                "- latex and other particles can be coated with <b>antibody (for antigen detection)</b> or <b>antigen (for antibody detection)</b><div>- addition of antigen to antibody coated latex beads causes <b>agglutination </b>that can be visibly observed</div><div><img src=\"paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "EGEUk5?y%E",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does <b>complement fixation</b> detect microorganisms?",
+                "- detects patients serum antibody, directed against a specific pathogen by the <b>ability of the antibody to bind complement</b>.<div>- solution turns <font color=\"#ff00ff\"><b>pink</b></font> if negative</div><div>- initially, serum is heated to destroy patients' natural complemenet but not their antibody.</div><div><img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "JbWwHuUu@0",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5 Steps of Complement Fixation",
+                "1. <b>serum is heated</b> to destroy patients' natural complement but not their antibody<div>2. fixed amount of <b>antigen is added</b> to test serum (if antibody is present, immune complexes will form)</div><div>3. <b>complement is added</b> to mixture and will fix and sequester complexes if they are present.</div><div>4. RBCs and subagglutinating amounts of anti-erythrocyte antibody are added.</div><div>5. If complement has not been bound anti-erythrocyte antibody plus complement will lyse the RBCs to make liquid pink (negative result)</div><div>&nbsp; &nbsp; If complement was bound by the immune complexes, RBCs will not lyse. (positive result)</div><div>&nbsp;&nbsp;<img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"></div>"
+            ],
+            "flags": 0,
+            "guid": "ABfjE+oK]m",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does ELISA stand for?",
+                "Enzyme Linked ImmunoSorbent Assay"
+            ],
+            "flags": 0,
+            "guid": "B6dQW7jT#f",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does ELISA detect microorganisms?",
+                "- in the assay, antigen of interest is <b>immobilized by direct adsorption</b> to the assay plate <b>or by first attaching a capture antibody to the plate surface.</b><div>- antigen is detected by using an enzyme conjugated primary antibody (direct detection)</div><div>&nbsp; &nbsp;or a matched set of unlabeled primary and conjugated secondary antibodies (indirect detection)</div><div>- read in a microplate reader</div><div><br></div><div><img src=\"paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg\"><br></div><div><font color=\"#ff0000\">Ag: Unknown Antigen</font></div><div><font color=\"#ff0000\">E: Enzyme (converts substrate into a colored product)</font></div>"
+            ],
+            "flags": 0,
+            "guid": "zwWS3UrzSz",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In ELISA detection what are the advantages and disadvantages of Direct Detection?",
+                "<b>advantage:</b> only one antibody is needed and it requires less time to complete assay.<div><b>disadvantage: </b>less flexibility in choice of enzyme-substrate detection system, and a labeled antibody must be created for each ELISA experiment</div>"
+            ],
+            "flags": 0,
+            "guid": "cLapjQp%(g",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In ELISA detection what are the advantages and disadvantages of <b>Indirect Detection</b>?",
+                "<b>advantage:&nbsp;</b> flexibility and choice availability of secondary antibodies and enzyme-substrate detection systems.<div><br></div><div><b>disadvantage:</b> the potential for non-specific cross-reactivity of the secondary antibody.</div><div><br></div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "q%RE$9a-$.",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In ELISA detection what are the advantages and disadvantages of Capture Assay?",
+                "<b>advantage:</b> High sensitivity; 2-5 times more sensitive than direct or indirect ELISA<div><br></div><div><b>disadvantage:</b> cross reactivity may occur between the capture and detection antibodies</div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "plAK=%6Qvl",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does Western Blotting detect microorganisms?",
+                "similarly to ELISA except more specific as gel electrophoresis protein separation is initially performed.<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "g,Ac:=ddQV",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Outline the 6 steps in Western Blotting&nbsp;",
+                "<div><br></div><img src=\"paste-e81197298c0ed248244c97af0f6ee5e25b02be71.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "vAX[byZ$K!",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The SDS page in western blotting gel electrophoresis makes protein&nbsp;{{c1::negative}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q!fIxVb+{m",
+            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Steps in Fluorescent Antibody Tests (2)",
+                "1) add fluorescent labeled antiviral antibodies to microscope slide with tissue or cells<div>2) view with a fluorescent microscope</div><div><br></div><div><img src=\"paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "Ns}_o#m#!Z",
+            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "data": "",
@@ -1281,394 +1717,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "2 purposes of the Nucleic Acid Test (NAT) or Nucleic Acid Amplification Test (NAAT)",
-                "1. detect and amplify nucleic acid of the pathogen<div><br></div><div>2. shorten the window period (time between infection and positive results)</div>"
-            ],
-            "flags": 0,
-            "guid": "ctPdJM07@U",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "Acid",
-                "Based",
-                "NAAT,",
-                "NAT,",
-                "Nucleic",
-                "Nucleic,",
-                "Techniques",
-                "Techniques,"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What are susceptibility tests used for?&nbsp;",
-                "As a guide in choosing antimicrobial therapy since some microbes show unpredictable sensitivity patterns to various antibiotics"
-            ],
-            "flags": 0,
-            "guid": "CKT@akQ@(C",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "susceptibility,",
-                "test,",
-                "tests,",
-                "therapy"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What is the Kirby Bauer Disk Diffusion Method?&nbsp;",
-                "Tests organisms resistance to a drug by placing exact amounts of different antimicrobial agents on a culture disc inoculated with the microbe to be tested. Then after 24-48 hours, you see how large the zone of inhibition is.&nbsp;<div><br></div><div>Larger zone of inhibition = more sensitive the microbe is to the drug</div>"
-            ],
-            "flags": 0,
-            "guid": "Q0AggxB7Dk",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "diffusion,",
-                "disk",
-                "kirby,",
-                "susceptibility,",
-                "test",
-                "tests,"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Explain the Minimal Inhibitory Concentration test...",
-                "<div>A dilution technique where different concentrations of an antibiotic are used to find the minimal inhibitory concentration (MIC) that inhibits bacterial growth.</div><div><br></div><div><br></div><img src=\"paste-2be367060a4842c9d9f585ac0cd44ae95838510d.jpg\">"
-            ],
-            "flags": 0,
-            "guid": "tubtZ)36[f",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "antibiotic,",
-                "dilution,",
-                "inhibitory,",
-                "minimal",
-                "susceptibility,",
-                "tests"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Bacteriostatics VS Bactericidal Drug Graph",
-                "<img src=\"paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg\">"
-            ],
-            "flags": 0,
-            "guid": "qhkOpaiXgX",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
-                "tests"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Agents that kill bacteria are...",
-                "bactericidals"
-            ],
-            "flags": 0,
-            "guid": "yN!LYgf/:>",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
-                "tests"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Drugs that arrest growth and replication of bacteria are...",
-                "bacteriostatics&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "muNE{33K#C",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
-                "tests"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "An antibiotic can be (____) for one organism and (____) for another organism.",
-                "bacteriostatic<div><br></div><div>bactericidal</div>"
-            ],
-            "flags": 0,
-            "guid": "CBk6h/a^zt",
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
-            "tags": [
-                "antibiotic,",
-                "bactericidal,",
-                "bacteriostatic,",
-                "susceptibility,",
-                "tests"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Microbiology labs are increasingly using&nbsp;{{c1::automated}} methods to identify bacterial pathogens.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "OH2!Zf=dPL",
-            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Example of automated systems&nbsp;biochemical identification (2)",
-                "1) Vitek test card containing test wells<div>2) Color of well changes with time</div><div><br></div><div><img src=\"paste-16dc3d2fc4d043e2e1b4e8e08d30f0a7f49dff07.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "E>%}HA9>Ut",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What do immunologic methods take advantage of in detection of microorganisms?",
-                "specifity of <b>antigen-antibody</b> binding"
-            ],
-            "flags": 0,
-            "guid": "Bz)KAxhXkd",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "When is it useful to use immunologic methods for detecting microorganisms? (2)",
-                "1) infecting microorganism is difficult or impossible to isolate<div>2) previous infection needs to be documented</div>"
-            ],
-            "flags": 0,
-            "guid": "h@?{l7j&us",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Most methods for determining whether antibodies or antigens are present in a patients' sera or other body fluid require a type of&nbsp;{{c1::immunoassay}} procedure.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Q(UyLJcF&F",
-            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What do immunologic detection methods look for? (2)",
-                "1) detection of microbial <b>antigen</b> with known antiserum (antibodies)<div>2) detection of serum <b>antibodies</b></div>"
-            ],
-            "flags": 0,
-            "guid": "nsFI-V7Od9",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What are the 6 immunologic detection methods?",
-                "1. Quellung Reaction<div>2. Agglutination tests</div><div>3. Complement fixation tests</div><div>4. ELISA tests</div><div>5. Western blotting</div><div>6. Fluorescent Antibody Test</div>"
-            ],
-            "flags": 0,
-            "guid": "f<(j61H0F/",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "How does the Quellung Reaction detect microorganisms?",
-                "Makes bacteria with <b><font color=\"#ff0000\">capsule more visible</font></b>&nbsp;(appears swollen) when organisms are treated with serum that contains specific antibodies.<div><br><div><b>capsule does not actually swell</b></div><div><b>Quellung = swelling in German</b></div></div>"
-            ],
-            "flags": 0,
-            "guid": "j31dw_`9vm",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "How does the Latex Agglutination Test detect microorganisms?",
-                "- latex and other particles can be coated with <b>antibody (for antigen detection)</b> or <b>antigen (for antibody detection)</b><div>- addition of antigen to antibody coated latex beads causes <b>agglutination </b>that can be visibly observed</div><div><img src=\"paste-0dc29a0ce7f5fb01a6ecc18fbdb4628c131cd887.jpg\"><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
-            ],
-            "flags": 0,
-            "guid": "EGEUk5?y%E",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "How does <b>complement fixation</b> detect microorganisms?",
-                "- detects patients serum antibody, directed against a specific pathogen by the <b>ability of the antibody to bind complement</b>.<div>- solution turns <font color=\"#ff00ff\"><b>pink</b></font> if negative</div><div>- initially, serum is heated to destroy patients' natural complemenet but not their antibody.</div><div><img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "JbWwHuUu@0",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "5 Steps of Complement Fixation",
-                "1. <b>serum is heated</b> to destroy patients' natural complement but not their antibody<div>2. fixed amount of <b>antigen is added</b> to test serum (if antibody is present, immune complexes will form)</div><div>3. <b>complement is added</b> to mixture and will fix and sequester complexes if they are present.</div><div>4. RBCs and subagglutinating amounts of anti-erythrocyte antibody are added.</div><div>5. If complement has not been bound anti-erythrocyte antibody plus complement will lyse the RBCs to make liquid pink (negative result)</div><div>&nbsp; &nbsp; If complement was bound by the immune complexes, RBCs will not lyse. (positive result)</div><div>&nbsp;&nbsp;<img src=\"paste-aee0f2f3c53ba97530a837ce82156ea967925c50.jpg\"></div>"
-            ],
-            "flags": 0,
-            "guid": "ABfjE+oK]m",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What does ELISA stand for?",
-                "Enzyme Linked ImmunoSorbent Assay"
-            ],
-            "flags": 0,
-            "guid": "B6dQW7jT#f",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "How does ELISA detect microorganisms?",
-                "- in the assay, antigen of interest is <b>immobilized by direct adsorption</b> to the assay plate <b>or by first attaching a capture antibody to the plate surface.</b><div>- antigen is detected by using an enzyme conjugated primary antibody (direct detection)</div><div>&nbsp; &nbsp;or a matched set of unlabeled primary and conjugated secondary antibodies (indirect detection)</div><div>- read in a microplate reader</div><div><br></div><div><img src=\"paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg\"><br></div><div><font color=\"#ff0000\">Ag: Unknown Antigen</font></div><div><font color=\"#ff0000\">E: Enzyme (converts substrate into a colored product)</font></div>"
-            ],
-            "flags": 0,
-            "guid": "zwWS3UrzSz",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "In ELISA detection what are the advantages and disadvantages of Direct Detection?",
-                "<b>advantage:</b> only one antibody is needed and it requires less time to complete assay.<div><b>disadvantage: </b>less flexibility in choice of enzyme-substrate detection system, and a labeled antibody must be created for each ELISA experiment</div>"
-            ],
-            "flags": 0,
-            "guid": "cLapjQp%(g",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "In ELISA detection what are the advantages and disadvantages of <b>Indirect Detection</b>?",
-                "<b>advantage:&nbsp;</b> flexibility and choice availability of secondary antibodies and enzyme-substrate detection systems.<div><br></div><div><b>disadvantage:</b> the potential for non-specific cross-reactivity of the secondary antibody.</div><div><br></div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "q%RE$9a-$.",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "In ELISA detection what are the advantages and disadvantages of Capture Assay?",
-                "<b>advantage:</b> High sensitivity; 2-5 times more sensitive than direct or indirect ELISA<div><br></div><div><b>disadvantage:</b> cross reactivity may occur between the capture and detection antibodies</div><div><br></div><div><img src=\"paste-bcb2ad23bed4e79696871bc29cfff2f5f5e5c957.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "plAK=%6Qvl",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "How does Western Blotting detect microorganisms?",
-                "similarly to ELISA except more specific as gel electrophoresis protein separation is initially performed.<div><br></div>"
-            ],
-            "flags": 0,
-            "guid": "g,Ac:=ddQV",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Outline the 6 steps in Western Blotting&nbsp;",
-                "<div><br></div><img src=\"paste-e81197298c0ed248244c97af0f6ee5e25b02be71.jpg\">"
-            ],
-            "flags": 0,
-            "guid": "vAX[byZ$K!",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "The SDS page in western blotting gel electrophoresis makes protein&nbsp;{{c1::negative}}",
-                ""
-            ],
-            "flags": 0,
-            "guid": "q!fIxVb+{m",
-            "note_model_uuid": "957b3774-df20-11e9-b453-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Steps in Fluorescent Antibody Tests (2)",
-                "1) add fluorescent labeled antiviral antibodies to microscope slide with tissue or cells<div>2) view with a fluorescent microscope</div><div><br></div><div><img src=\"paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "Ns}_o#m#!Z",
-            "note_model_uuid": "03b436ec-df13-11e9-b024-e7a44d9b819d",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "9d11389a02354f44896d51c33fd4a26e-ao-1",
                 "",
                 "<img src=\"tmp1vdelbqh.png\" />",
@@ -1933,6 +1981,282 @@
             "flags": 0,
             "guid": "w1GTy&0wYD",
             "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The human body is continuously inhabited by many different microbes. These microbes are termed “normal microbiota\" (formerly 'normal flora') or “{{c1::commensals}}”</div>",
+                "<div>Under normal circumstances in a healthy individual, they are <u>harmless</u> and may even be beneficial</div><div><br></div><div><div>A healthy newborn enters the world in essentially sterile condition, but, after birth, it rapidly acquires normal microbiota from food and the environment, including from other humans</div></div>"
+            ],
+            "flags": 0,
+            "guid": "hJi(lZRIuD",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The human {{c1::microbiome}} is the total number and diversity of microbes in and on the human body</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oQNrNl=HRP",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>It is&nbsp;difficult to define the human microbiome because it varies from person to person due to some factors like:</div><div><br></div><div>1) {{c1::Physiologic differences}}</div><div>2) {{c1::Diet}}</div><div>3) {{c1::Age}}</div><div>4) {{c1::Geographic habitat}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IB1SqF*r!L",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The most common sites of the body inhabited by normal microbiota are those in contact or in communication with the outside world such as:</div><div><br></div> <div></div> <div>1) {{c1::Skin}}</div> <div></div> <div></div> <div>2) {{c1::Eye}}</div> <div></div> <div></div> <div>3) {{c1::Mouth}} and {{c1::nose}}</div> <div></div> <div></div> <div>4) {{c1::Intestinal tract}}</div> <div></div> <div></div> <div>5) {{c1::Urogenital tract}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yWHXQP91-8",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Staphylococcus epidermidis,&nbsp;Staphylococcus aureus, and&nbsp;Propionibacterium acnes are normal microbiota species typically found on the&nbsp;{{c1::skin}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v.}ADiJ_dv",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Staphylococcus epidermidis}}</div><div><br></div><div>Makes up 90% of skin aerobes</div> <div>Reside in the outer layers of the skin</div> <div></div> <div>Can <u>colonize on plastic catheters </u>and medical devices that penetrate the skin</div><div><br></div><div>Gram + cocci</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M^}J-5-^aI",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Staphylococcus aureus}}</div><div><br></div><div>A type of microbiota that tends to cause&nbsp;<u>skin infections</u><br></div><div><br></div><div>Gram + cocci</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B6fRtaW3~R",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Propionibacterium acnes}}</div><div><br></div><div>Generally <u>anerobic</u></div> <div>Reside in deeper layers of the skin, hair follicles, sweat glands and sebaceous glands</div> <div></div><u>Associated with acne</u><br><div><u><br></u></div><div>Gram + bacilli</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wmO?>1]6p|",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Microbiota that are found on the eye are:</div><div><br></div><div>1.{{c1::Staphylococcus epidermidis}}</div> <div>2.{{c2::Staphylococcus aureus}}</div> <div>3.{{c3::Corynebacterium species}}</div> <div>4.{{c4::Streptococcus pneumoniae}}</div>",
+                "Other organisms that normally inhabit the skin also occur but at a lower frequency"
+            ],
+            "flags": 0,
+            "guid": "BkFP!lj@}t",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The two main microbiota that exist in the mouth and nose are:</div><div><br></div><div>1) {{c1::Streptococcus mutans}}</div><div>2) {{c1::Streptococcus pneumoniae}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q9W9aEV(!?",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c3::Streptococcus mutans}}</div><div><br></div> <div>&nbsp; - colonize the {{c1::teeth}} and {{c1::gingival tissue}}</div><div>&nbsp; - promotes the formation of {{c4::plaque}}<br></div> <div>&nbsp; - can enter the bloodstream following dental surgery and colonize damaged or prosthetic {{c2::heart valves}},&nbsp;leading to potentially fatal infective endocarditis</div>",
+                "<img src=\"114987-004-88CFED38.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "G?FS<*KtVv",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Streptococcus pneumoniae}}</div><div><br></div><div>&nbsp; - colonize the {{c2::respiratory tracts}}, {{c2::sinuses}}, and {{c2::nasal cavity}}<br></div> <div>&nbsp; - can especially affect the elderly and immunocompromised</div>",
+                "<img src=\"Pneumococcus_CDC_PHIL_ID1003.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "gOx=%T~5]e",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The density of microbes in the stomach is relatively {{c1::low::high or low?}}</div>",
+                "This is due to the low pH"
+            ],
+            "flags": 0,
+            "guid": "t/-;/~Go,.",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The microbiota density increases along the&nbsp;{{c1::alimentary}} canal",
+                "<img src=\"8039-004-03678E93.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "u#&Hz}NUhk",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The microbiota in the&nbsp;{{c1::gut}} has the largest numbers of bacteria and the greatest number of species compared to other areas of the body.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e=+Lv_I)0",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Some 20% of the fecal mass consists of many different species of bacteria,&nbsp;<u>&gt; 90% of which are&nbsp;</u>{{c1::anaerobes::aerobes or anerobes?}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t3R@*@=+9i",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Bacteroides}} species constitute a significant percentage of the {{c2::large intestine}}</div>",
+                "ie. Bacteriodes fragilis - causes intra-abdominal abcesses<div><img src=\"Bacteroides_biacutis_01.jpg\"></div>"
+            ],
+            "flags": 0,
+            "guid": "p8Ks~.jE=_",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Lactobacillus}} species maintains the low pH of the vagina</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x&|S.<bSm|",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lactobacillus species maintains the {{c1::low pH of the vagina}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tx^7d$[u+P",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Candida albicans}} is a yeast-like fungus that can overgrow in the absence of normal vaginal flora.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u8QgQOc~r:",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Some of the beneficial functions of normal microbiota are:<div><br></div><div>1)&nbsp;{{c1::competition}} with pathogenic microbes for nutrients and receptor sites</div><div>2) the production of&nbsp;{{c2::antimicrobial substances}}</div><div>3) act as a stimulus for&nbsp;{{c3::the development of the immune system}}</div><div>4) gut bacteria provides&nbsp;{{c4::nutrients}} that otherwise the body cannot produce</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "znC^l2-odd",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::E. coli}} is a gut microbiota that provides us with&nbsp;{{c2::vitamin K}}",
+                "<img src=\"ecoli-1184px.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "xRkr,R`q4l",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Some harmful effects of microbiota occur:<div><br></div><div>1) When normal microbiota organisms are displaced from their normal site to an abnormal site. ({{c1::Opportunistic infection}})</div><div>2) When normal microbiota populations {{c2::diminish}} and potential pathogens gain a competitive advantage</div><div>3) When ingested food substances are converted to {{c3::carcinogenic derivatives}} by bacteria in the colon</div><div>4) When normal microbiota overgrow and become {{c4::pathogenic}} in immunocompromised individuals</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f@FAm1Y5yf",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
             "tags": []
         }
     ]
