@@ -1,0 +1,1104 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "ba07c5c0-ddc1-11e9-93a1-a683e769f5fb",
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    7
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "10b7a82916de45d9b50428315aa8fcc8-ao-1-A.svg",
+        "10b7a82916de45d9b50428315aa8fcc8-ao-1-Q.svg",
+        "10b7a82916de45d9b50428315aa8fcc8-ao-2-A.svg",
+        "10b7a82916de45d9b50428315aa8fcc8-ao-2-Q.svg",
+        "10b7a82916de45d9b50428315aa8fcc8-ao-O.svg",
+        "da950b3d95994a00b8786317eb7d4199-ao-1-A.svg",
+        "da950b3d95994a00b8786317eb7d4199-ao-1-Q.svg",
+        "da950b3d95994a00b8786317eb7d4199-ao-2-A.svg",
+        "da950b3d95994a00b8786317eb7d4199-ao-2-Q.svg",
+        "da950b3d95994a00b8786317eb7d4199-ao-3-A.svg",
+        "da950b3d95994a00b8786317eb7d4199-ao-3-Q.svg",
+        "da950b3d95994a00b8786317eb7d4199-ao-O.svg",
+        "paste-0dfc008d0549a0a24093d7e79f81d8d578ab7260.jpg",
+        "paste-0e3a0e5f3886652407a439eaf9d3646d1329041b.jpg",
+        "paste-299d4bb5dbcbe60ba27d13b36de58d31541c5956.jpg",
+        "paste-2dd062d3891ed67351b723d5aa57b9bdb88d3a70.jpg",
+        "paste-44a51b72cb412bc8497d0ad7925f745ce15d6254.jpg",
+        "paste-712e7fec4dfc1254bd16ce2ef4877df3021f0baa.jpg",
+        "paste-b47ee73322dc8f38a35589c85f52f005157399b7.jpg",
+        "paste-f5902ffcd77139becee6415dbb4615f393350da4.jpg",
+        "tmp9d3u9ccl.png",
+        "tmpbole9n34.png"
+    ],
+    "mid": "1569339279932",
+    "name": "Q1-Anatomy::Lecture 2",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the cell is the&nbsp;{{c1::structural}} and&nbsp;{{c2::functional}} unit of the body&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G:!r3w.;~O",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "some cells secrete components of an&nbsp;{{c1::extraceullar matrix}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F(&=)WdOll",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Two types of organisms on earth:",
+                "1. prokaryotes (bacteria) 2. eukaryotes (everyting else)&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "eschW[6OA,",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "which group of cells has a nucleus?",
+                "eukaroytes&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "q3,_%IV~B~",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "which group of cells has a cell wall?",
+                "prokaryotes"
+            ],
+            "flags": 0,
+            "guid": "N1~kBan}#p",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "which is larger, eukaryotes or prokaryotes?",
+                "eukaryotes"
+            ],
+            "flags": 0,
+            "guid": "us~K/*;6A(",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "basic DNA structure of prokaryotic cells",
+                "circular, with plasmids"
+            ],
+            "flags": 0,
+            "guid": "FRyxngER3^",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "all cells originate from a&nbsp;{{c1::zygote}} which undergoes repeated cell divisions",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Grz(Ly/WJJ",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "prokaryotic cells undergo&nbsp;{{c1::fission}} reproduction and eukaryotic cells undergo&nbsp;{{c2::mitotic}} reproduction",
+                ""
+            ],
+            "flags": 0,
+            "guid": "en4tSX*eWl",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "undifferentiated cells whcih have not yet reached their mature form&nbsp;",
+                "stem cells"
+            ],
+            "flags": 0,
+            "guid": "Ek=mfvv6>T",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cell differentiation brings about changes in...<div>1.&nbsp;{{c1::shape and size of cell}}</div><div>2.&nbsp;{{c1::membrane specializations}}</div><div>3.&nbsp;{{c1::organelles}}</div><div>4.&nbsp;{{c1::proteins expressed in the cell}}<br>5.&nbsp;{{c1::cellular function}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uP#3=T)P}8",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cytoplasm consists of:",
+                "everything inside the cell except the nucleus; cytosol, organelles, cytoskeleton and inclusions&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "e)PHSESg]!",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "what is the plasma membrane",
+                "selective barrier between inside and outside of the cell&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "uk(w,uU:9H",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4 main functions of the plasma membrane",
+                "1. regulates passage of materials in and out of cell<div>2. facilitates transport of molecules across the membrane</div><div>3. maintains ion concentrations inside the cell</div><div>4. carries out regulatory and recognition functions</div>"
+            ],
+            "flags": 0,
+            "guid": "pK>wi|%y#{",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the plasma membrane is&nbsp;{{c1::7.5 nm}} thick",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kUh>k{9b#G",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "10b7a82916de45d9b50428315aa8fcc8-ao-1",
+                "",
+                "<img src=\"tmpbole9n34.png\" />",
+                "<img src=\"10b7a82916de45d9b50428315aa8fcc8-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"10b7a82916de45d9b50428315aa8fcc8-ao-1-A.svg\" />",
+                "<img src=\"10b7a82916de45d9b50428315aa8fcc8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "D4-bhdM&UT",
+            "note_model_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "10b7a82916de45d9b50428315aa8fcc8-ao-2",
+                "",
+                "<img src=\"tmpbole9n34.png\" />",
+                "<img src=\"10b7a82916de45d9b50428315aa8fcc8-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"10b7a82916de45d9b50428315aa8fcc8-ao-2-A.svg\" />",
+                "<img src=\"10b7a82916de45d9b50428315aa8fcc8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "haT5{2)qkk",
+            "note_model_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "integral proteins",
+                "embedded in the phsopholipid bilayer&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "ed.o<u%8kr",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "peripheral proteins",
+                "attached to the inner or outer surface but not embedded"
+            ],
+            "flags": 0,
+            "guid": "vN;KoLa|28",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "glyococalyx",
+                "covers outer surface of plasma membrane; made of glycolipids and glycoproteins"
+            ],
+            "flags": 0,
+            "guid": "j!dQBjoYi(",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "glycocalyx function",
+                "involved in cell recognition and attachment to other cells or the extracellular matrix"
+            ],
+            "flags": 0,
+            "guid": "cf0.pwRF#D",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "diffusion",
+                "passage of small molecules from an area of high concentration to an area of low cocentration; movement of small molecules inside or outside the cell membrane with concentration gradients"
+            ],
+            "flags": 0,
+            "guid": "An[OQ+X*4W",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::lipophillic}} molecules pass through plasma membranes easily, while&nbsp;{{c1::water-soluable}} molecules pass through more slowly<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "/,.ocIk%|",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "proteins that form pores on the plasma membrane through which ions and small molecules can pass selectively are called&nbsp;{{c1::channels}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Pm>J9Q!4#8",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::ion channels}} located on plasma membranes, can open or close in response to physiological stimuli&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DJBDUx?j~G",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "aquaprins",
+                "water passes through the plasma membrane through these channels"
+            ],
+            "flags": 0,
+            "guid": "Cee.O)nFiG",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::carrier proteins}} bind small molecules and translocate them across the cell membrane via conformational changes&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H=1R.Ff/*_",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "da950b3d95994a00b8786317eb7d4199-ao-1",
+                "",
+                "<img src=\"tmp9d3u9ccl.png\" />",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-1-A.svg\" />",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "fY=B.4_G8,",
+            "note_model_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "da950b3d95994a00b8786317eb7d4199-ao-2",
+                "",
+                "<img src=\"tmp9d3u9ccl.png\" />",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-2-A.svg\" />",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "f)p8uto*by",
+            "note_model_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "da950b3d95994a00b8786317eb7d4199-ao-3",
+                "",
+                "<img src=\"tmp9d3u9ccl.png\" />",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-3-A.svg\" />",
+                "<img src=\"da950b3d95994a00b8786317eb7d4199-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "HE?1h8I4=g",
+            "note_model_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "endocytosis",
+                "the process of bringing materials into the cell"
+            ],
+            "flags": 0,
+            "guid": "bX/75LaZK!",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the engulfing of bacteria, protozoa, dead cells or extracellular debris is called&nbsp;{{c1::phagocytosis}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uFE7yVu2]w",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "extracellular debris become surrounded by cell membrane and a&nbsp;{{c1::phagosome (phagocytic vesicle)}} forms, bringing the debris into the cell&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Jd>[$:Cr&G",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "phagocytic cells include&nbsp;{{c1::macrophages}} and&nbsp;{{c1::neutrophils}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GthsRLtsbn",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::pinocytosis}} is the engulfing of&nbsp;{{c2::extracellular fluid}} and&nbsp;{{c2::dissolved materials}}<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xMB=(8jw0f",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "transcytosis is the movement of&nbsp;{{c1::pinocytic vesicles}} across a cell",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ke6I_em.o!",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "in receptor-mediated endocytosis&nbsp;{{c1::ligands}} bind to surface receptors, the&nbsp;{{c1::receptor-ligand complex}} is engulfed in coated pits, eventually forming&nbsp;{{c2::clathrin}} coated vesicles",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I2KF-_pKx[",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "exocytosis",
+                "the release of materials from a cell&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "EX4;),k{5B",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "exocytosis is often triggered by a transient increase in cytosolic&nbsp;{{c1::Ca2+}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l``vE9A=,v",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Steps of exocytosis:",
+                "1. vesicles containing material to be released move to the inner surface of the plasma membrane<div>2. the membrane of the vesicle fuses with the plasma membrane</div><div>3. the vesicle opens to the outside of the cell to release its contents</div><div>4. the vesicle membrane is thus reinserted into the plasma membrane</div><div><img src=\"paste-f5902ffcd77139becee6415dbb4615f393350da4.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "x3qf$l<I~E",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cells must communicate with one another in order to regulate&nbsp;{{c1::development}}{{c1::growth}}{{c1::cell division}}{{c1::metabolic functions}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EQ:Em!?Cp3",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cells communicate by sending each other&nbsp;{{c1::chemical}} and&nbsp;{{c1::electrical}} signals",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M>L{V:9H0w",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the cells that receive specific signals are called&nbsp;",
+                "target cells"
+            ],
+            "flags": 0,
+            "guid": "F.U0cGfq8G",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "target cells have&nbsp;{{c1::specific receptors}} for the signaling molecules",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jG15evmqCf",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "endocrine signaling",
+                "type of signaling where hormones are carried in the bloodstream to target cells located throughout the body<div><img src=\"paste-0dfc008d0549a0a24093d7e79f81d8d578ab7260.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "qhP<w6i!q&",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "paracrine signaling",
+                "chemical signals act on local cells close to the source of the signal&nbsp;<div><img src=\"paste-0e3a0e5f3886652407a439eaf9d3646d1329041b.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "Hq%S,N]2oV",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "autocrine signaling",
+                "signals bind to receptors on the same cell type as the cell which released the signal&nbsp;<div><img src=\"paste-712e7fec4dfc1254bd16ce2ef4877df3021f0baa.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "zRE/pu>|~Z",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "juxtacrine (contact dependent) signaling",
+                "the signlaing molecule remains attached to the signaling cells, so that cell-cell interaction is required for the signal to bind to its receptor&nbsp;<div><img src=\"paste-299d4bb5dbcbe60ba27d13b36de58d31541c5956.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "dlst}#>F?[",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "synaptic signaling",
+                "neurotransmitter molecules are released at special cell junctions, called synapses; these chemical signals are then converted to electrical signals&nbsp;<div><img src=\"paste-2dd062d3891ed67351b723d5aa57b9bdb88d3a70.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "OJRa%SBuX|",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hydrophilic signaling molecules are&nbsp;{{c1::water}} soluble&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ay$G,TX3M|",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hydrophobic signaling molecules are&nbsp;{{c1::fat}} soluble",
+                ""
+            ],
+            "flags": 0,
+            "guid": "RcifFn?q}D",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::polypeptide hormones}} and&nbsp;{{c1::neurotransmitters}} are typically&nbsp;{{c2::hydrophilic}} signaling molecules<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IMK}5`yU}K",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "steps of hydrophilic signal transduction",
+                "1. hydrophilic signal activates receptors on cell surfaces&nbsp;<div>2. signal is transfuced by second messenger, starting a cascade of biochemical events leading to desired effect&nbsp;</div><div><img src=\"paste-44a51b72cb412bc8497d0ad7925f745ce15d6254.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "pl&>d(9Pd`",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "types of hydrophilic receptors inlcude:&nbsp;{{c1::channel-linked}},&nbsp;{{c1::enzymatic}} and&nbsp;{{c1::G-protein-coupled}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fp}Zk[z!q0",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "steps of hydrophobic signal transduction",
+                "1. bind to carrier proteins, which transport signaling molecules in the bloodstream<div>2. signaling molecules are released from the carrier protein and penetrate the plasma membrane&nbsp;</div><div>3. signaling molecules bind to intracellular receptors</div><div>4. receptor-hormone complex moves into nucleus, binds to DNA and promotes or blocks gene transcription</div><div><img src=\"paste-b47ee73322dc8f38a35589c85f52f005157399b7.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "Q[:B6F4Yr#",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::hydrophobic}} signaling molecules are involved in regulating gene transcription<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OsK<$uWP}&",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ribosomes are&nbsp;{{c1::20 x 30 nm}} in size",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EryBqbpCls",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ribosomes are made of a&nbsp;{{c1::small}} and a&nbsp;{{c1::large}} subunit",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yaLoveZ9gV",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ribosomes stain intensely&nbsp;{{c1::basophilic}} because of&nbsp;{{c2::phosphates}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PP%.T-c]Gl",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ribosomes&nbsp;{{c1::translate}} the genetic code by reading&nbsp;{{c2::mRNA code}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mIrXHQOd(M",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ribosomes assemble&nbsp;{{c1::amino acids}} provided by&nbsp;{{c1::tRNA}} to produce&nbsp;{{c1::peptides}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D2&pBT2sK<",
+            "note_model_uuid": "3e35c528-df13-11e9-8577-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "location of ribosomes",
+                "surface of the endoplasmic reticulum&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "d8q4mlJE_4",
+            "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        }
+    ]
+}
