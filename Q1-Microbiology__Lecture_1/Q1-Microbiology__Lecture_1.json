@@ -77,7 +77,7 @@
         "298256b38ec047aa9e90c0e1a768f658-ao-2-A.svg", 
         "9dd29141269f45599375f2c0a622a33f-oa-2-A.svg", 
         "9d11389a02354f44896d51c33fd4a26e-ao-5-A.svg", 
-        "paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg", 
+        "298256b38ec047aa9e90c0e1a768f658-ao-3-A.svg", 
         "298256b38ec047aa9e90c0e1a768f658-ao-2-Q.svg", 
         "9d11389a02354f44896d51c33fd4a26e-ao-2-A.svg", 
         "9d11389a02354f44896d51c33fd4a26e-ao-3-A.svg", 
@@ -85,14 +85,13 @@
         "tmp1vdelbqh.png", 
         "paste-55387898249217.png", 
         "paste-be3f410ba1777f00b2c263a9fee2eb97f640cabf.jpg", 
-        "paste-14529874362369.png", 
+        "paste-265feaaa6d115b5bf0cf99c529a1ff287a01c199.jpg", 
         "paste-bf48ab83f1f2f105e8d9d341165d2f8d9485adb5.jpg", 
         "9d11389a02354f44896d51c33fd4a26e-ao-1-Q.svg", 
         "9dd29141269f45599375f2c0a622a33f-oa-1-Q.svg", 
         "9d11389a02354f44896d51c33fd4a26e-ao-6-Q.svg", 
         "e38502ecb8004bafbe85f76d2e6ae315-oa-O.svg", 
         "8039-004-03678E93.jpg", 
-        "298256b38ec047aa9e90c0e1a768f658-ao-3-A.svg", 
         "aee99f4fc0d14dbd99f6a07ce49425f1-oa-1-A.svg", 
         "e38502ecb8004bafbe85f76d2e6ae315-oa-1-A.svg", 
         "ecoli-1184px.jpg", 
@@ -105,6 +104,7 @@
         "tmpgnMqZb.png", 
         "114987-004-88CFED38.jpg", 
         "298256b38ec047aa9e90c0e1a768f658-ao-1-A.svg", 
+        "paste-14529874362369.png", 
         "paste-7447473291265.png", 
         "Bacteroides_biacutis_01.jpg", 
         "aee99f4fc0d14dbd99f6a07ce49425f1-oa-2-A.svg", 
@@ -931,32 +931,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "<div>Prokaryotic Pathogens</div><div><br /></div><div>Typical bacteria</div><div>Common shapes:</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::Bacillus}}</li><li>{{c2::Coccus}}</li><li>{{c3::Spirillus}}</li></ul><div>Exception: \"{{c4::Pleomorphic}}\" (No {{c5::distinct shape}})</div></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "K!U/ttW+NS", 
-            "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>Prokaryotic Pathogens</div><div><br /></div><div>Typical&nbsp;</div><div>Bacteria cell wall:</div><div><br /></div><div><ul class=\"shuffle\" style=\"background-color: yellow; margin-left: 20px; \"><li>Gram {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">-</cloze2>}} ({{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">thick</cloze2>::thick/thin}} cell wall): &nbsp;<img src=\"paste-7447473291265.png\" /></li><li>Gram {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">+</cloze2>}} ({{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">thin</cloze2>::thick/thin}} cell wall):<img src=\"paste-14529874362369.png\" /></li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "s13yVq4O<n", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "aee99f4fc0d14dbd99f6a07ce49425f1-oa-1", 
                 "", 
                 "<img src=\"tmpCoATi6.png\" />", 
@@ -1075,116 +1049,12 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "<div>Medically important fungi:</div><div><br /></div><div>Disease: Causal agent: affected sites</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Candidiasis: {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">Candida Albicans</cloze2>}} (Affected area/s: {{c6::<cloze2_w class=\"cz-6\"></cloze2_w><cloze2 class=\"cz-6\">Vagina, mouth</cloze2>}})</li><li>Cryptococcosis: {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">Cryptococcus neoformans</cloze2>}} (Affected area/s: {{c7::<cloze2_w class=\"cz-7\"></cloze2_w><cloze2 class=\"cz-7\">Lungs, Meninges, Wound/skins</cloze2>}})</li><li>Histoplasmosis: {{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">Histoplasma Capsulatum</cloze2>}}&nbsp;(Affected area/s:&nbsp;{{c8::<cloze2_w class=\"cz-8\"></cloze2_w><cloze2 class=\"cz-8\">lungs</cloze2>}})</li><li>Aspergillosis: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">Aspergillus niger</cloze2>}}&nbsp;(Affected area/s:&nbsp;{{c9::<cloze2_w class=\"cz-9\"></cloze2_w><cloze2 class=\"cz-9\">Lungs</cloze2>}})</li><li>Blastomycosis: {{c5::<cloze2_w class=\"cz-5\"></cloze2_w><cloze2 class=\"cz-5\">Blastomyces dermatitidis</cloze2>}}&nbsp;&nbsp;(Affected area/s:&nbsp;{{c10::<cloze2_w class=\"cz-10\"></cloze2_w><cloze2 class=\"cz-10\">lungs</cloze2>}})</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "x}E8L(-ci{", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>Protozoa</div><div><br /></div><div>Characteristics</div><div><br /></div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">Eu</cloze2>}}karyotic</li><li>{{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">Uni</cloze2>::#}}cellular</li><li>Photosynthesis: {{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">not</cloze2>}}</li><li>Live style: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">Free living and parasitic</cloze2>}}</li><li>{{c5::<cloze2_w class=\"cz-5\"></cloze2_w><cloze2 class=\"cz-5\">Intra- and extra</cloze2>::intra/extra}}cellular parasites in blood, urogenital regions, or intestine</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "Pr-(mGQL=v", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>Protozoa</div><div><br /></div><div>Medically important species</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Giardia lamblia: {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">Intestine</cloze2>}}</li><li>Trichomoniasis vaginalis: {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">Urogenital</cloze2>}}</li><li>Trypoanosoma sp.: {{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">Blood and tissues</cloze2>}}</li><li>Leishmania sp.: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">Blood and tissues</cloze2>}}</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "f;W`H:~Ywl", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "<div>Helminths: \"{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Worms</cloze2>::layman term}}\"</div>", 
                 "", 
                 ""
             ], 
             "flags": 0, 
             "guid": "i>{f+F*)~t", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>Helminths:&nbsp;</div><div><br /></div><div>Characteristics</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Layman term: \"{{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">Worms</cloze2>}}\"</li><li>{{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">Eu</cloze2>}}karyotic</li><li>{{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">Multi</cloze2>::#}}cellular</li><li>Livestyle: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">parasitic</cloze2>}}</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "t3a4n+Q<as", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>Helminths:&nbsp;</div><div><br /></div><div>divided into following groups:</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::Nematodes}}: {{c4::Roundworms}}</li><li>{{c2::Cestodes}}: {{c5::Tapeworms}}</li><li>{{c3::Trematodes}}: {{c6::Flukes}}</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "rxVPcaS0Mo", 
-            "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>Helminths:&nbsp;</div><div><br /></div><div>divided into following groups:</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>{{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">Nematodes</cloze2>}}: Roundworms</li><li>{{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">Cestodes</cloze2>}}: Tapeworms</li><li>{{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">Trematodes</cloze2>}}: Flukes</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "g=32D7fNm;", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>{{c1::<cz_hide>!</cz_hide>Enterobiasis}}</div><div><br /></div><div>Most common {{c3::<cz_hide>!</cz_hide>helminth}} infection in US</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Symptoms: {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">Anal itching</cloze2>}}</li><li>Causal agent: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">Enterobious vermicularis</cloze2>}} (\"{{c5::<cloze2_w class=\"cz-5\"></cloze2_w><cloze2 class=\"cz-5\">pinworms</cloze2>}}\", belonging to group: {{c6::nematodes}})</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "grG#M-62!P", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "<div>Helminths</div><div><br /></div><div>Species: groups</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Enterobious vermicularis: {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">nematodes</cloze2>}}</li><li>Trichinella spiralis: {{c8::Nematodes}}</li><li>Ascaris lumbricoides: {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">nematodes</cloze2>}}</li><li>Echinococcus granulosus: {{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">Cestodes</cloze2>}}</li><li>Taenia sp.: {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">Cestodes</cloze2>}}</li><li>Schistosoma sp.: {{c5::<cloze2_w class=\"cz-5\"></cloze2_w><cloze2 class=\"cz-5\">Trematodes</cloze2>}}</li><li>Paragonimus westermani: {{c6::<cloze2_w class=\"cz-6\"></cloze2_w><cloze2 class=\"cz-6\">Trematodes</cloze2>}}</li><li>Clonorchis sinensis: {{c7::<cloze2_w class=\"cz-7\"></cloze2_w><cloze2 class=\"cz-7\">Trematodes</cloze2>}}</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "DUo85-brp+", 
             "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
             "tags": []
         }, 
@@ -1277,19 +1147,6 @@
             "flags": 0, 
             "guid": "kC|x*W3ph{", 
             "note_model_uuid": "5e8e6a11-df23-11e9-9408-dca9046e6170", 
-            "tags": []
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Viruses&nbsp;<div><br /></div><div>Characteristics</div><div><ul style=\"margin-left: 20px; \" class=\"shuffle\"><li>Replication: {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">host cell</cloze2>}} necessary</li><li>Cellular structure: {{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">no</cloze2>::y/n}}</li><li>Nucleic acid: {{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">DNA or R</cloze2>::DNA/RNA}}NA</li><li>Arrangement: Nucleic acid surrounded by {{c4::<cloze2_w class=\"cz-4\"></cloze2_w><cloze2 class=\"cz-4\">protein coat</cloze2>}}</li><li>Some coated with membrane derived from {{c5::<cloze2_w class=\"cz-5\"></cloze2_w><cloze2 class=\"cz-5\">host cell membrane</cloze2>}}</li></ul></div>", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "iHnkxt.^Y2", 
-            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
             "tags": []
         }, 
         {
