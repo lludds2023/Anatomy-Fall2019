@@ -60,6 +60,43 @@
         "10b7a82916de45d9b50428315aa8fcc8-ao-2-A.svg",
         "10b7a82916de45d9b50428315aa8fcc8-ao-2-Q.svg",
         "10b7a82916de45d9b50428315aa8fcc8-ao-O.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-1-A.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-1-Q.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-2-A.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-2-Q.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-3-A.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-3-Q.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-4-A.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-4-Q.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-5-A.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-5-Q.svg",
+        "6f84acfaa5d84710be5c63ca6571288b-ao-O.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-1-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-1-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-2-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-2-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-3-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-3-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-4-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-4-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-5-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-5-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-6-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-6-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-7-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-7-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-8-A.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-8-Q.svg",
+        "7b8fcdc69b0d45159e914682551b82d8-ao-O.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-1-A.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-1-Q.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-2-A.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-2-Q.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-3-A.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-3-Q.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-4-A.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-4-Q.svg",
+        "8fff2765fb7b4ca58958d35478faef8a-ao-O.svg",
         "da950b3d95994a00b8786317eb7d4199-ao-1-A.svg",
         "da950b3d95994a00b8786317eb7d4199-ao-1-Q.svg",
         "da950b3d95994a00b8786317eb7d4199-ao-2-A.svg",
@@ -75,10 +112,13 @@
         "paste-712e7fec4dfc1254bd16ce2ef4877df3021f0baa.jpg",
         "paste-b47ee73322dc8f38a35589c85f52f005157399b7.jpg",
         "paste-f5902ffcd77139becee6415dbb4615f393350da4.jpg",
+        "tmp86zoolqy.png",
         "tmp9d3u9ccl.png",
-        "tmpbole9n34.png"
+        "tmpbole9n34.png",
+        "tmpuh24ale1.png",
+        "tmpypu0pm83.png"
     ],
-    "mid": "1569339279932",
+    "mid": "1561598557134",
     "name": "Q1-Anatomy::Lecture 2",
     "note_models": [
         {
@@ -107,7 +147,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-39321",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -127,6 +167,191 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-a85d6",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-c4b76",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -178,7 +403,50 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "3e35e38c-df13-11e9-b4e4-acde48001122",
+            "crowdanki_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
                 {
@@ -1098,6 +1366,927 @@
             "flags": 0,
             "guid": "d8q4mlJE_4",
             "note_model_uuid": "4eb3b2f0-db3e-11e9-900d-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The ER is an interconnecting network of sacs and tubules formed by membranes that encloses&nbsp;",
+                "Cisterna"
+            ],
+            "flags": 0,
+            "guid": "md9kzx8q(!",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The RER is prominent in these cells",
+                "Protein secretion cells"
+            ],
+            "flags": 0,
+            "guid": "z+nT%#[Ya0",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "This organelle is formed by parallel stacks of flattened sac, covered on outer surface by ribosomes",
+                "RER"
+            ],
+            "flags": 0,
+            "guid": "KWD>]J$6$t",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::RER}} stains {{c2::basophilic}} becasue of {{c3::ribosomes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dbg8)v*A^?",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Odontoblasts}} have lots of {{c2::RER}} because they have a lot of {{c3::ribosomes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f9m9zS}dk8",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the roles of the RER?",
+                "Segregation of proteins not destined for cytosol<div><br><div>Glycosylation of glycoproteins</div><div><br></div><div>Assembly of multichain proteins</div><div><br></div><div>Posttranslational changes of newly formed peptides</div></div>"
+            ],
+            "flags": 0,
+            "guid": "oI9z*i,+M9",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "This organelle lacks ribosomes, is continuous with RER, and is formed of interconnecting tubules",
+                "SER"
+            ],
+            "flags": 0,
+            "guid": "QU3GQx^{Wl",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the roles of the SER?",
+                "Synthesis of membrane phospholipids<div><br></div><div>Steroid synthesis</div><div><br></div><div>Degradation of toxins and drugs in liver</div><div><br></div><div>Sequestering of Ca+ ions (sarcoplasmic reticulum)</div>"
+            ],
+            "flags": 0,
+            "guid": "x1Rk]X@>H@",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which face of the golgi is near the RER?",
+                "Cis face"
+            ],
+            "flags": 0,
+            "guid": "cc)ssVx]=7",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which face of the golgi releases vesicles containing mature protein for utilization or secretion?",
+                "trans face"
+            ],
+            "flags": 0,
+            "guid": "ttqH#(v1MB",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the roles of the golgi?",
+                "Modifies proteins by glycosylation, sulfation, phosphorylation, and proteolysis<div><br></div><div>Packages, concentrates and stores secretory products in vesicles</div>"
+            ],
+            "flags": 0,
+            "guid": "L&PO>0z1qH",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Secretory vesicles originate from where?",
+                "Golgi"
+            ],
+            "flags": 0,
+            "guid": "P>~GcThbkN",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Zymogen granules contain what?",
+                "digestive enzymes"
+            ],
+            "flags": 0,
+            "guid": "Pn4!kbNVh7",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Lysosomes}} are vesicles containing hydrolytic enzymes in acid pH",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B!/;#.5ZX*",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some examples of lysosomes?",
+                "proteases, nucleases, phosphatases, phosphoipases, sulfatases (b-glucuronidase)"
+            ],
+            "flags": 0,
+            "guid": "qXIpc:]@AQ",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lysosomes are abundant in what cells?",
+                "Phagocytic cells"
+            ],
+            "flags": 0,
+            "guid": "w?=h]3V,K5",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lysosomes are formed by what?",
+                "Golgi"
+            ],
+            "flags": 0,
+            "guid": "t}W$]K8(ZM",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lysosomes are formed by proteins labeled with what?",
+                "Mannose 6 phosphate (M6P)"
+            ],
+            "flags": 0,
+            "guid": "HcuPGkp7@;",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lysosomes fuse with what to form secondary lysosomes?",
+                "Endocytic vesicles"
+            ],
+            "flags": 0,
+            "guid": "L,5Pi.;b*#",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "This remains after digestion, containing undigested materials",
+                "residual body"
+            ],
+            "flags": 0,
+            "guid": "SWK[H9MK5",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The inner membrane of mitochondria is folded in {{c1::cristae}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eK0qc82q9[",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c2::outer membrane}} of mitochondria contains {{c1::porins}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N#!!(s>fsq",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c2::inner membrane}} of mitochondria is impermeable to {{c1::ions}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M$v>n@}em9",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The number of {{c1::mitochondria and cristae}} are related to the energy demands of the cell",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f[p}*D.+On",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Proteasomes}} are cylindrically shaped cytoplasmic protein complexes",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kg7F=c#=fR",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the roles of proteasomes",
+                "Recognize ubiquitin labeled proteins<div><br></div><div>Degrade denatured or nonfunctional proteins</div><div><br></div><div>remove proteins not needed by the cell</div>"
+            ],
+            "flags": 0,
+            "guid": "JO%j3KzDoJ",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Peroxisomes make what from oxygen?",
+                "Hydrogen peroxide"
+            ],
+            "flags": 0,
+            "guid": "AEdX7`0V[p",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What enzyme in peroxisomes breaks down hydrogen peroxide?",
+                "Catalase"
+            ],
+            "flags": 0,
+            "guid": "qYKwA@vh4",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Peroxisomes}} are involved in drug and FA metabolism",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p3(-3A/B{J",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Inclusions}} are nonmotile, non metabolic molecules in the body and are NOT organelles",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vLj^b1Li$A",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Examples of {{c1::inclusions}} include fat droplets, glycogen granules, and lipofuscin granules",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MfR){A*IR3",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6f84acfaa5d84710be5c63ca6571288b-ao-1",
+                "",
+                "<img src=\"tmpypu0pm83.png\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-1-A.svg\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "z~6{*]AM@a",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6f84acfaa5d84710be5c63ca6571288b-ao-2",
+                "",
+                "<img src=\"tmpypu0pm83.png\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-2-A.svg\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "zE?RhMg@Nx",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6f84acfaa5d84710be5c63ca6571288b-ao-3",
+                "",
+                "<img src=\"tmpypu0pm83.png\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-3-A.svg\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "hVO~APlm[x",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6f84acfaa5d84710be5c63ca6571288b-ao-4",
+                "",
+                "<img src=\"tmpypu0pm83.png\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-4-A.svg\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "kNm[BcEwyT",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6f84acfaa5d84710be5c63ca6571288b-ao-5",
+                "",
+                "<img src=\"tmpypu0pm83.png\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-5-A.svg\" />",
+                "<img src=\"6f84acfaa5d84710be5c63ca6571288b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "t_wwJ;CV[.",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8fff2765fb7b4ca58958d35478faef8a-ao-1",
+                "",
+                "<img src=\"tmp86zoolqy.png\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-1-A.svg\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "e/3C[/<81s",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8fff2765fb7b4ca58958d35478faef8a-ao-2",
+                "",
+                "<img src=\"tmp86zoolqy.png\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-2-A.svg\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "FYQY<Z?Ouz",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8fff2765fb7b4ca58958d35478faef8a-ao-3",
+                "",
+                "<img src=\"tmp86zoolqy.png\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-3-A.svg\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "uuap7es0L}",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8fff2765fb7b4ca58958d35478faef8a-ao-4",
+                "",
+                "<img src=\"tmp86zoolqy.png\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-4-A.svg\" />",
+                "<img src=\"8fff2765fb7b4ca58958d35478faef8a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "HyWaf(_t|!",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pathogenic organisms including viruses can often be directly visualized by&nbsp;",
+                "Microscopic examination of the specimen"
+            ],
+            "flags": 0,
+            "guid": "w|cqlrdSX<",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The first screening step in arriving at a specific identification is",
+                "Organism's microscopic morphology and staining characteristics"
+            ],
+            "flags": 0,
+            "guid": "J,:@7BGXJ/",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some common techniques of direct visualization",
+                "Gram stain<div><br></div><div>Acid fast stain</div><div><br></div><div>India ink</div><div><br></div><div>Potassium hydroxide preparation</div>"
+            ],
+            "flags": 0,
+            "guid": "fU=onU1WFI",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Gram staining}} is the most common and useful staining procedure",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tpwfE+%/ae",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gram positive bacteria stain {{c1::purple}} and gram negative bacteria stain {{c2::pink/red}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w+S7Z5cB(R",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Microorganisms that lack cell walls, such as {{c1::mycoplasma}}, cannot be identified by the Gram stain.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f+`^rd|$/r",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the order of steps for gram staining?",
+                "Add crystal violet, iodine, acetone, then safrinin"
+            ],
+            "flags": 0,
+            "guid": "b|.%xACQp:",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-1",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-1-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "f+AlwX:~Xd",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-2",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-2-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ibeqUiY@G1",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-3",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-3-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "l!PkzQJqkY",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-4",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-4-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "D=7edrZ(kT",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-5",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-5-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "q,wzUz|epj",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-6",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-6-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "GvCV%Qf6/Y",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-7",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-7-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "GymS`bQx@-",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7b8fcdc69b0d45159e914682551b82d8-ao-8",
+                "",
+                "<img src=\"tmpuh24ale1.png\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-8-A.svg\" />",
+                "<img src=\"7b8fcdc69b0d45159e914682551b82d8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L{$yLY|8Pd",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Acid fast organisms like {{c1::Mycobacterium}} contain large amounts of {{c2::<u>mycolic acids</u> (fatty acids)}} within their cell walls</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t>9w90dx2L",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>These acids resist staining by {{c1::Gram stain}} (due to lipid-rich cell walls) however they can be <u>stained by&nbsp;</u>{{c2::<u>Ziehl</u><u>–</u><u>Neelsen</u><u> carbolfuchsin stain</u>.}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A*k~Igs$;y",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Acid-fast bacilli will be {{c1::pink/red}} after staining as they cannot be easily decolorized with acidified solvents</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h@fWjAAGb2",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::India ink}} is useful in detecting {{c2::Crytococcus neoformans}} in CSF",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x?2rCC~$PW",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In india inking, one drop of {{c1::centrifuged CSF}} is mixed with one drop of {{c2::India ink}} on a microscope slide beneath a glass cover slip</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q0cNgK)4qf",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Cryptococcus}} is identified by their {{c2::large, transparent capsules}} that displace the India ink particles</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bE:~cgo^9q",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Treatment with {{c1::KOH}} {{c2::dissolves host cells and bacteria}}<u>, sparing fungi</u></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I>t}OrB6^O",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>One drop of sputum or skin scraping in treated with {{c1::10 % KOH}}, and the specimen is examined for fungal forms.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GQ5TyrEczi",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Fungi}} are recognized under the microscope by their {{c2::filamentous (hyphae) or round (oval)}} structures</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oHL$oZW0-J",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
             "tags": []
         }
     ]
