@@ -106,7 +106,7 @@
         "tmpgnMqZb.png",
         "tmphQn4aU.png"
     ],
-    "mid": "1567042635092",
+    "mid": "1567042635087",
     "name": "Q1-Microbiology::Lecture 1",
     "note_models": [
         {
@@ -724,6 +724,59 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}\n\n{{type:Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "ab4232ba-df30-11e9-86a0-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}",
+                    "scratchPad": true
                 }
             ],
             "type": 0,
@@ -1784,6 +1837,102 @@
             "flags": 0,
             "guid": "kJn%f4n#7.",
             "note_model_uuid": "4b7032f0-df2e-11e9-8f38-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Virulence factors include:&nbsp;<div><div>1.{{c1::Capsule}}</div> <div><br></div> <div>2.{{c2::Surface adhesion molecule}}</div> <div><br></div> <div>3.{{c3::Bacterial enzymes}} such as collagenase and hyaluronidase</div> <div><br></div> <div>4.{{c4::Iron binding proteins}} to obtain iron for growth</div> <div><br></div> <div>5.Bacterial {{c5::toxins}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MC![chd8/C",
+            "note_model_uuid": "ab4232ba-df30-11e9-86a0-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Virulence factors include:<div><div>1.{{c1::Capsule}} - outer protection</div> <div><br></div> <div>2.{{c2::Surface adhesion molecule}} - \"stickiness\"</div> <div><br></div> <div>3.{{c3::Bacterial enzymes}} - such as collagenase and hyaluronidase</div> <div><br></div> <div>4.{{c4::Iron binding proteins}} - to obtain iron for growth</div> <div><br></div> <div>5.Bacterial {{c5::toxins}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F%dWgK156V",
+            "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c2::Exotoxins}} are proteins {{c1::secreted}}&nbsp;by both <u>gram positive and gram negative bacteria.&nbsp;</u></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ne9~hHfB?x",
+            "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Endotoxins</u> are not secreted but can be released by {{c1::bacterial lysis.}}&nbsp;They are components of the outer membrane in {{c2::gram negative bacteria.&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MZz`4AS,S<",
+            "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Exotoxins}} are heat labile and generally more toxic. {{c2::Endotoxins}} are heat stable.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f!]CSJL(x<",
+            "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The pathogenesis of many bacterial infections is caused by the {{c1::host response}} rather than by bacterial factors</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Oi,p*lNP;O",
+            "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tissue damage in host-mediated pathogenesis is caused by various&nbsp;{{c1::cytokines}} released from host cells.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r&CV[9Z[[M",
+            "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Viral infections can lead to:&nbsp;<div><br><div><div>{{c1::Cell death}}: A cell can be directly killed by the virus</div> <div>&nbsp;- Mostly due to inhibition of protein and nucleic acid synthesis </div> <div></div> <div><br></div> <div>{{c2::Transformation}}: Some viruses can transform normal cells <u>into malignant cells</u></div> <div>-Due to integration of viral DNA into host DNA</div> <div><br></div> <div>{{c3::Cell fusion}}: Infection of cells with certain viruses causes the cells to fuse, producing giant, multinucleate cells</div> <div>&nbsp; - <u>Due to virus induced changes in host cell membrane</u></div> <div></div> <div><br></div> <div>{{c4::Cytopathic effect}}: <u>Any visible change in appearance </u>of an infected cell e.g. rounding, patches of stainable viral proteins inside the cell, and cell disintegration</div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w1GTy&0wYD",
+            "note_model_uuid": "4b702b34-df2e-11e9-891e-acde48001122",
             "tags": []
         }
     ]
