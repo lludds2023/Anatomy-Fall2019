@@ -54,8 +54,611 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "046c0b3e07764af0ba77f4134628fa53-ao-1-A.svg",
+        "046c0b3e07764af0ba77f4134628fa53-ao-1-Q.svg",
+        "046c0b3e07764af0ba77f4134628fa53-ao-2-A.svg",
+        "046c0b3e07764af0ba77f4134628fa53-ao-2-Q.svg",
+        "046c0b3e07764af0ba77f4134628fa53-ao-3-A.svg",
+        "046c0b3e07764af0ba77f4134628fa53-ao-3-Q.svg",
+        "046c0b3e07764af0ba77f4134628fa53-ao-O.svg",
+        "64894857692e43c987369c724db26dc2-ao-1-A.svg",
+        "64894857692e43c987369c724db26dc2-ao-1-Q.svg",
+        "64894857692e43c987369c724db26dc2-ao-2-A.svg",
+        "64894857692e43c987369c724db26dc2-ao-2-Q.svg",
+        "64894857692e43c987369c724db26dc2-ao-O.svg",
+        "d09d2c1c75ef406b86ee22a80f75a404-ao-1-A.svg",
+        "d09d2c1c75ef406b86ee22a80f75a404-ao-1-Q.svg",
+        "d09d2c1c75ef406b86ee22a80f75a404-ao-2-A.svg",
+        "d09d2c1c75ef406b86ee22a80f75a404-ao-2-Q.svg",
+        "d09d2c1c75ef406b86ee22a80f75a404-ao-3-A.svg",
+        "d09d2c1c75ef406b86ee22a80f75a404-ao-3-Q.svg",
+        "d09d2c1c75ef406b86ee22a80f75a404-ao-O.svg",
+        "eac4fcfea39878ad57c316cc40b2c348.png",
+        "eb5501261a7c0acf64bb0e2e4e395af1.png",
+        "tmpmiqj3c7s.png",
+        "tmpo79idd0f.png",
+        "tmpyrjlew9z.png"
+    ],
     "name": "Q1-Anatomy::Lecture 3",
-    "note_models": [],
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "046c0b3e07764af0ba77f4134628fa53-ao-1",
+                "",
+                "<img src=\"tmpo79idd0f.png\" />",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-1-A.svg\" />",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "jM(FbVL;A6",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "046c0b3e07764af0ba77f4134628fa53-ao-2",
+                "",
+                "<img src=\"tmpo79idd0f.png\" />",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-2-A.svg\" />",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "vJyR-//!];",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "046c0b3e07764af0ba77f4134628fa53-ao-3",
+                "",
+                "<img src=\"tmpo79idd0f.png\" />",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-3-A.svg\" />",
+                "<img src=\"046c0b3e07764af0ba77f4134628fa53-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "q@/DswmPut",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Actin filaments can form&nbsp;{{c1::stress fibers}} which allow for cellular \"crawling.\"",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tkw/}<#xG7",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Actin is found in&nbsp;{{c1::muscle fibers}} and&nbsp;{{c2::most cells as part of a submembrane network}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o:`~kWalDC",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d09d2c1c75ef406b86ee22a80f75a404-ao-1",
+                "",
+                "<img src=\"tmpmiqj3c7s.png\" />",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-1-A.svg\" />",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xfqh+=Yx0",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d09d2c1c75ef406b86ee22a80f75a404-ao-2",
+                "",
+                "<img src=\"tmpmiqj3c7s.png\" />",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-2-A.svg\" />",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "o<EO`>!dmq",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d09d2c1c75ef406b86ee22a80f75a404-ao-3",
+                "",
+                "<img src=\"tmpmiqj3c7s.png\" />",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-3-A.svg\" />",
+                "<img src=\"d09d2c1c75ef406b86ee22a80f75a404-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "H}Rt9/-t}Y",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"eac4fcfea39878ad57c316cc40b2c348.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wAnpo|jCp;",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Polymerization and depolymerization, and organizing of filaments are regulated by:</div> <div>{{c1::actin-binding proteins}}</div> <div>{{c1::severing proteins}}</div> <div>{{c1::bundling proteins}}</div> <div>{{c1::changes in Ca2+}}</div> <div>{{c1::changes in cAMP}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zMFuKyfl*x",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Intermediate filaments are typically&nbsp;{{c1::10-12 nm}} in diameter",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hIa>L1kb:r",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Intermediate filaments}} are more stable and more variable than other cytoskeletal elements.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MUvX-ltW_7",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Intermediate filaments form&nbsp;{{c1::coiled-coil dimers}} which organize themselves into&nbsp;{{c2::tetramers}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b6!)Ht@x`P",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "64894857692e43c987369c724db26dc2-ao-1",
+                "",
+                "<img src=\"tmpyrjlew9z.png\" />",
+                "<img src=\"64894857692e43c987369c724db26dc2-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"64894857692e43c987369c724db26dc2-ao-1-A.svg\" />",
+                "<img src=\"64894857692e43c987369c724db26dc2-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "e-%*:fJwxV",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "64894857692e43c987369c724db26dc2-ao-2",
+                "",
+                "<img src=\"tmpyrjlew9z.png\" />",
+                "<img src=\"64894857692e43c987369c724db26dc2-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"64894857692e43c987369c724db26dc2-ao-2-A.svg\" />",
+                "<img src=\"64894857692e43c987369c724db26dc2-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "O$bfg).f]!",
+            "note_model_uuid": "b4fd1d18-dff9-11e9-a073-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"eb5501261a7c0acf64bb0e2e4e395af1.png\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MX3XG,9PD^",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Keratins}} are&nbsp;{{c1::intermediate filaments}} found in epithelial cells and are abundant in the surface layer of the epidermis.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A;f0QmIXUC",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Keratins are found in&nbsp;{{c1::hair, nails, horns, and hoofs.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i75FL]TcWZ",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vimentin and vimentin-like proteins are found in tissues derived from&nbsp;{{c1::mesenchyme}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AVl`Qpdw~n",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Neurofilaments}} are intermediate filaments found only in neurons.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "of~Dn#0E+[",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lamins are found in&nbsp;{{c1::cell nuclei}} and function as {{c1::a structural framework of the nucleus.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dtNxvLEbgs",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Beaded filaments}} are lens-specific intermediate filaments.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xm((0D<}A@",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Keratins}} are present where a lot of abrasion occurs.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NVbxWKe(|I",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        }
+    ]
 }
