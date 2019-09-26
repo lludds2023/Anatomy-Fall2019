@@ -246,7 +246,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-60719",
             "req": [
                 [
                     0,
@@ -270,6 +270,101 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-5995d",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -944,6 +1039,234 @@
             "flags": 0,
             "guid": "jFkb[PJ$Uw",
             "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which teeth are the simplest / least variable?&nbsp;",
+                "Mandibular incisors&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "xorxz()oC#",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::central}} mandibular incisors are {{c2::slightly smaller}} than the {{c1::lateral}} mandibular incisors.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lm*7cc[q/H",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::M-D::M-D or I-C}} is narrower than the {{c1::I-C::M-D or I-C}} in mandibular incisors.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pbPz$DPM)A",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mandibular incisors have {{c1::three::how many?}} mamelons each.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kqVzen}3jW",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What universal tooth number accounts for the mandibular central incisors?&nbsp;&nbsp;",
+                "24 and 25&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "u)aqNI;Ug/",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is unique about the mandibular central incisors?&nbsp;",
+                "They have the narrowest M-D width and smallest crown size of all teeth.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "B6s:fNO>-0",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F The mandibular central incisors have a very symmetrical crown.",
+                "True&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "QwHqUQRC9i",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the developmental timeline for madibular central incisors: Initial calcification, Enamel complete, eruption, and root completion.&nbsp;",
+                "Initial calcification: 3-4 months&nbsp;<div>enamel completion: 4-5 years&nbsp;</div><div>Eruption: 6-7 years&nbsp;</div><div>Root completion: 9 years&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "HaagkNNJ4}",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::incisal 2/3}} of the facial surface of a mandibular central incisor is {{c2::generally flat to slightly convex}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t9YP-yd$DS",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the height of contour on a mandibular central incisor?&nbsp;",
+                "cervical 1/3&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "j5@;p9WX^=",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The geometric form of a mandibular central incisor from a facial viewpoint is {{c1::trapezoidal}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wFUkM`~:1x",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::mesial}} outline of a mandibular central incsior has an even straight taper towards the cervical end.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cZ~8?!@Lt?",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial HOC of a mandibular central incisor is at the {{c1::incisal 1/3}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D:&e5L=hgR",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The distal outline of a mandibular central incisor is {{c1::almost a mirror image of the mesial outline::compare to mesial outline }}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dyPd$G`,}~",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The incisal outline of a mandibular central incisor is {{c1::perpendicular}} to the long axis.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s7rE@3c$.W",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many teeth does the mandibular central incisor oppose?&nbsp;",
+                "one tooth-- the maxillary central incisor"
+            ],
+            "flags": 0,
+            "guid": "i&1R@tvJ{|",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many wear facets can you see on a mandibular central incisor?&nbsp;",
+                "Only one wear facet because the mandibular central incisors only oppose one maxillary tooth"
+            ],
+            "flags": 0,
+            "guid": "In]bz4`+gy",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the lingual view of a mandibular central incisor?&nbsp;",
+                "The surface is relatively smooth, marginal ridges are indistict, lingual fossa is shallow, and there are no pits or grooves, a diminshed cingulum."
+            ],
+            "flags": 0,
+            "guid": "vt>;D(L%IC",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the height of contour on the ligual surface of a mandibular central incisor?&nbsp;",
+                "cervical 1/3"
+            ],
+            "flags": 0,
+            "guid": "rh^8Vg+jRk",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
             "tags": []
         }
     ]
