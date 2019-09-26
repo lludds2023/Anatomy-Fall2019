@@ -54,10 +54,319 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "080185cb84c844f1bd3ad43634a19d38-ao-1-A.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-1-Q.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-2-A.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-2-Q.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-3-A.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-3-Q.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-4-A.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-4-Q.svg",
+        "080185cb84c844f1bd3ad43634a19d38-ao-O.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-1-A.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-1-Q.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-2-A.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-2-Q.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-3-A.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-3-Q.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-4-A.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-4-Q.svg",
+        "26e5e9503f184a96a955b9d9395f764f-ao-O.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-1-A.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-1-Q.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-2-A.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-2-Q.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-3-A.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-3-Q.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-4-A.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-4-Q.svg",
+        "5f11e9c491144b039feaae16496a52bd-ao-O.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-1-A.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-1-Q.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-2-A.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-2-Q.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-3-A.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-3-Q.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-4-A.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-4-Q.svg",
+        "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-O.svg",
+        "a6386f815fac49f1ae8e3c9bd47f6b88-ao-1-A.svg",
+        "a6386f815fac49f1ae8e3c9bd47f6b88-ao-1-Q.svg",
+        "a6386f815fac49f1ae8e3c9bd47f6b88-ao-2-A.svg",
+        "a6386f815fac49f1ae8e3c9bd47f6b88-ao-2-Q.svg",
+        "a6386f815fac49f1ae8e3c9bd47f6b88-ao-3-A.svg",
+        "a6386f815fac49f1ae8e3c9bd47f6b88-ao-3-Q.svg",
+        "a6386f815fac49f1ae8e3c9bd47f6b88-ao-O.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-1-A.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-1-Q.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-2-A.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-2-Q.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-3-A.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-3-Q.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-4-A.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-4-Q.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-5-A.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-5-Q.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-6-A.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-6-Q.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-7-A.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-7-Q.svg",
+        "afb3d65b2cf2406db9643c14885a315e-ao-O.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-1-A.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-1-Q.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-2-A.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-2-Q.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-3-A.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-3-Q.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-4-A.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-4-Q.svg",
+        "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-O.svg",
+        "b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-1-A.svg",
+        "b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-1-Q.svg",
+        "b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-2-A.svg",
+        "b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-2-Q.svg",
+        "b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-O.svg",
+        "tmp01sz6pyn.png",
+        "tmp5o2b4mu7.png",
+        "tmpb0u2nhz3.png",
+        "tmpfbtc1lfo.png",
+        "tmpkbez5jwy.png",
+        "tmpxrp3verg.png",
+        "tmpyt84y7mk.png",
+        "tmpzb9ydt46.png"
+    ],
     "mid": "1567809318559",
     "name": "Q1-Dental Fundamentals::Lecture 3",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-60719",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-5995d",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
@@ -136,7 +445,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-eeab5",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -155,6 +464,906 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a6386f815fac49f1ae8e3c9bd47f6b88-ao-1",
+                "",
+                "<img src=\"tmp5o2b4mu7.png\" />",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-1-A.svg\" />",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "NquIG6t&N|",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a6386f815fac49f1ae8e3c9bd47f6b88-ao-2",
+                "",
+                "<img src=\"tmp5o2b4mu7.png\" />",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-2-A.svg\" />",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "vvi/n]2LVH",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a6386f815fac49f1ae8e3c9bd47f6b88-ao-3",
+                "",
+                "<img src=\"tmp5o2b4mu7.png\" />",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-3-A.svg\" />",
+                "<img src=\"a6386f815fac49f1ae8e3c9bd47f6b88-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "N9E3W*Hs&N",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f11e9c491144b039feaae16496a52bd-ao-1",
+                "",
+                "<img src=\"tmpb0u2nhz3.png\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-1-A.svg\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "LtxV1b##oz",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f11e9c491144b039feaae16496a52bd-ao-2",
+                "",
+                "<img src=\"tmpb0u2nhz3.png\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-2-A.svg\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "vy4`OY)C2z",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f11e9c491144b039feaae16496a52bd-ao-3",
+                "",
+                "<img src=\"tmpb0u2nhz3.png\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-3-A.svg\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "DR5PML[Y-k",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f11e9c491144b039feaae16496a52bd-ao-4",
+                "",
+                "<img src=\"tmpb0u2nhz3.png\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-4-A.svg\" />",
+                "<img src=\"5f11e9c491144b039feaae16496a52bd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "g8s&:%0fnl",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "26e5e9503f184a96a955b9d9395f764f-ao-1",
+                "",
+                "<img src=\"tmp01sz6pyn.png\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-1-A.svg\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "FQZrqs2#M0",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "26e5e9503f184a96a955b9d9395f764f-ao-2",
+                "",
+                "<img src=\"tmp01sz6pyn.png\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-2-A.svg\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "u>6q1U}zE,",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "26e5e9503f184a96a955b9d9395f764f-ao-3",
+                "",
+                "<img src=\"tmp01sz6pyn.png\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-3-A.svg\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "vnX$:T[*YD",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "26e5e9503f184a96a955b9d9395f764f-ao-4",
+                "",
+                "<img src=\"tmp01sz6pyn.png\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-4-A.svg\" />",
+                "<img src=\"26e5e9503f184a96a955b9d9395f764f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ArHa1mC?Pn",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "afb3d65b2cf2406db9643c14885a315e-ao-1",
+                "",
+                "<img src=\"tmpkbez5jwy.png\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-1-A.svg\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "r0LAAt7,`R",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "afb3d65b2cf2406db9643c14885a315e-ao-2",
+                "",
+                "<img src=\"tmpkbez5jwy.png\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-2-A.svg\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Iw9ACAs5T=",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "afb3d65b2cf2406db9643c14885a315e-ao-3",
+                "",
+                "<img src=\"tmpkbez5jwy.png\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-3-A.svg\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "J(`ult;.7c",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "afb3d65b2cf2406db9643c14885a315e-ao-4",
+                "",
+                "<img src=\"tmpkbez5jwy.png\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-4-A.svg\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sWent:b;|3",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "afb3d65b2cf2406db9643c14885a315e-ao-5",
+                "",
+                "<img src=\"tmpkbez5jwy.png\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-5-A.svg\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "c]u7j5BdiJ",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "afb3d65b2cf2406db9643c14885a315e-ao-6",
+                "",
+                "<img src=\"tmpkbez5jwy.png\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-6-A.svg\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "rmDqCxAf6D",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "afb3d65b2cf2406db9643c14885a315e-ao-7",
+                "",
+                "<img src=\"tmpkbez5jwy.png\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-7-A.svg\" />",
+                "<img src=\"afb3d65b2cf2406db9643c14885a315e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "rP.x^%v_rv",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-1",
+                "",
+                "<img src=\"tmpxrp3verg.png\" />",
+                "<img src=\"b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-1-A.svg\" />",
+                "<img src=\"b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "dmjdv%UJQp",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-2",
+                "",
+                "<img src=\"tmpxrp3verg.png\" />",
+                "<img src=\"b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-2-A.svg\" />",
+                "<img src=\"b4a8e7cd139a4c0fa8fc5fdad93f0669-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "m^zJ}L]c^?",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-1",
+                "",
+                "<img src=\"tmpzb9ydt46.png\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-1-A.svg\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Ouuuf/sLkY",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-2",
+                "",
+                "<img src=\"tmpzb9ydt46.png\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-2-A.svg\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "rN{bC$W<!n",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-3",
+                "",
+                "<img src=\"tmpzb9ydt46.png\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-3-A.svg\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "QTx7vWjeIs",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9800f3aaabf844c3ac5ba5ac3d131fe6-ao-4",
+                "",
+                "<img src=\"tmpzb9ydt46.png\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-4-A.svg\" />",
+                "<img src=\"9800f3aaabf844c3ac5ba5ac3d131fe6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "q!dGZ~CMhg",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-1",
+                "",
+                "<img src=\"tmpyt84y7mk.png\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-1-A.svg\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Q@)Y]u>-7(",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-2",
+                "",
+                "<img src=\"tmpyt84y7mk.png\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-2-A.svg\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "c-,FX?#Q:m",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-3",
+                "",
+                "<img src=\"tmpyt84y7mk.png\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-3-A.svg\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "nP|5U4q(kH",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-4",
+                "",
+                "<img src=\"tmpyt84y7mk.png\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-4-A.svg\" />",
+                "<img src=\"b34e54c9b9bf41b9b8fb3adb6d9799cf-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "jiqEQ{c7Z`",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "080185cb84c844f1bd3ad43634a19d38-ao-1",
+                "",
+                "<img src=\"tmpfbtc1lfo.png\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-1-A.svg\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "El{4xv4$:t",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "080185cb84c844f1bd3ad43634a19d38-ao-2",
+                "",
+                "<img src=\"tmpfbtc1lfo.png\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-2-A.svg\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "w~8cEJrwLu",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "080185cb84c844f1bd3ad43634a19d38-ao-3",
+                "",
+                "<img src=\"tmpfbtc1lfo.png\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-3-A.svg\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "LOL|Df(u=r",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "080185cb84c844f1bd3ad43634a19d38-ao-4",
+                "",
+                "<img src=\"tmpfbtc1lfo.png\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-4-A.svg\" />",
+                "<img src=\"080185cb84c844f1bd3ad43634a19d38-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "jFkb[PJ$Uw",
+            "note_model_uuid": "637ad3b0-df32-11e9-9f48-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which teeth are the simplest / least variable?&nbsp;",
+                "Mandibular incisors&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "xorxz()oC#",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::central}} mandibular incisors are {{c2::slightly smaller}} than the {{c1::lateral}} mandibular incisors.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lm*7cc[q/H",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::M-D::M-D or I-C}} is narrower than the {{c1::I-C::M-D or I-C}} in mandibular incisors.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pbPz$DPM)A",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mandibular incisors have {{c1::three::how many?}} mamelons each.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kqVzen}3jW",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What universal tooth number accounts for the mandibular central incisors?&nbsp;&nbsp;",
+                "24 and 25&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "u)aqNI;Ug/",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is unique about the mandibular central incisors?&nbsp;",
+                "They have the narrowest M-D width and smallest crown size of all teeth.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "B6s:fNO>-0",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F The mandibular central incisors have a very symmetrical crown.",
+                "True&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "QwHqUQRC9i",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the developmental timeline for madibular central incisors: Initial calcification, Enamel complete, eruption, and root completion.&nbsp;",
+                "Initial calcification: 3-4 months&nbsp;<div>enamel completion: 4-5 years&nbsp;</div><div>Eruption: 6-7 years&nbsp;</div><div>Root completion: 9 years&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "HaagkNNJ4}",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::incisal 2/3}} of the facial surface of a mandibular central incisor is {{c2::generally flat to slightly convex}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t9YP-yd$DS",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the height of contour on a mandibular central incisor?&nbsp;",
+                "cervical 1/3&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "j5@;p9WX^=",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The geometric form of a mandibular central incisor from a facial viewpoint is {{c1::trapezoidal}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wFUkM`~:1x",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::mesial}} outline of a mandibular central incsior has an even straight taper towards the cervical end.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cZ~8?!@Lt?",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial HOC of a mandibular central incisor is at the {{c1::incisal 1/3}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D:&e5L=hgR",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The distal outline of a mandibular central incisor is {{c1::almost a mirror image of the mesial outline::compare to mesial outline }}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dyPd$G`,}~",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The incisal outline of a mandibular central incisor is {{c1::perpendicular}} to the long axis.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s7rE@3c$.W",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many teeth does the mandibular central incisor oppose?&nbsp;",
+                "one tooth-- the maxillary central incisor"
+            ],
+            "flags": 0,
+            "guid": "i&1R@tvJ{|",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How many wear facets can you see on a mandibular central incisor?&nbsp;",
+                "Only one wear facet because the mandibular central incisors only oppose one maxillary tooth"
+            ],
+            "flags": 0,
+            "guid": "In]bz4`+gy",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe the lingual view of a mandibular central incisor?&nbsp;",
+                "The surface is relatively smooth, marginal ridges are indistict, lingual fossa is shallow, and there are no pits or grooves, a diminshed cingulum."
+            ],
+            "flags": 0,
+            "guid": "vt>;D(L%IC",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the height of contour on the ligual surface of a mandibular central incisor?&nbsp;",
+                "cervical 1/3"
+            ],
+            "flags": 0,
+            "guid": "rh^8Vg+jRk",
+            "note_model_uuid": "8eec4cb8-df19-11e9-82e9-a683e769f5fb",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "data": "",
