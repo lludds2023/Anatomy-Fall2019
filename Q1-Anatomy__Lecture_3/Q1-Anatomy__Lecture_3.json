@@ -1,0 +1,61 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "543c0a4c-dff8-11e9-8104-a683e769f5fb",
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    7
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "Q1-Anatomy::Lecture 3",
+    "note_models": [],
+    "notes": []
+}
