@@ -54,8 +54,866 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "38cb0a20122e432db82a354d86c5bdc4-ao-1-A.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-1-Q.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-2-A.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-2-Q.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-3-A.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-3-Q.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-4-A.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-4-Q.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-5-A.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-5-Q.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-6-A.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-6-Q.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-7-A.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-7-Q.svg",
+        "38cb0a20122e432db82a354d86c5bdc4-ao-O.svg",
+        "Nuclear-membrane-1.jpg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-1-A.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-1-Q.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-2-A.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-2-Q.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-3-A.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-3-Q.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-4-A.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-4-Q.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-5-A.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-5-Q.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-6-A.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-6-Q.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-7-A.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-7-Q.svg",
+        "a2f867d0159149e085da8851f0cd08a9-ao-O.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-1-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-1-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-2-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-2-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-3-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-3-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-4-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-4-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-5-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-5-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-6-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-6-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-7-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-7-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-8-A.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-8-Q.svg",
+        "ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg",
+        "image032.jpg",
+        "paste-4a948a486be849dac1d5ac4b83f79ab1ee36fac5.jpg",
+        "paste-b1162bfacdc75d883da2f402462285cfe58cca3d.jpg",
+        "paste-ed51b398f15fac9fe049dc0ca58d1d328789eacb.jpg",
+        "screen_shot_2013-11-13_at_82257_am-14251A180B06899A23D-thumb400.png",
+        "tmpdu72ea8q.png",
+        "tmpl_9cnejl.png",
+        "tmpsn16wqgn.png"
+    ],
+    "mid": "1569430979688",
     "name": "Q1-Anatomy::Lecture 4",
-    "note_models": [],
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "47a2f380-e0df-11e9-a16e-3c6aa78689e9",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Roles of the cell nucleus:</div> <div><br></div><div>1) {{c1::Contains the code in the form of DNA}}</div> <div>2) {{c1::Contains machinery for DNA replication and RNA synthesis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NM5T6^?rT,",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The nucleas location and shape:<div><br></div><div>1) Usually located {{c1::near the center of the cell}}...</div> <div>2) Usually {{c1::spherical::shape?}}...</div> <div>3) {{c1::One::How many?}} per cell...</div>",
+                "1) ...but is sometimes eccentric<div>2) ...but can be irregular or lobed</div><div>3) ...but some cells contain more than one</div><div><br></div><div><img src=\"paste-ed51b398f15fac9fe049dc0ca58d1d328789eacb.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "t:n#8W*ECy",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-1",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-1-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "tmGa+LYB1Q",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-2",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-2-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "LMiT*qvj.I",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-3",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-3-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "nbbzS$cuwR",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-4",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-4-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xoQoQ^&lyy",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-5",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-5-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Pg*^VI$D;T",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-6",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-6-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "C#;gtR|zKB",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-7",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-7-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mh9CGdr!oX",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ce4da2cf5df14725a63fa7babf3cd7f7-ao-8",
+                "",
+                "<img src=\"tmpdu72ea8q.png\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-8-A.svg\" />",
+                "<img src=\"ce4da2cf5df14725a63fa7babf3cd7f7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "rP54h#xMSl",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nucleoplasm",
+                "<div>- similar in composition to cytoplasm</div> <div>- a gel-like material containing water, proteins, nucleotides and other dissolved substances</div><div><br></div><div><img src=\"paste-4a948a486be849dac1d5ac4b83f79ab1ee36fac5.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "k#t1B^>:S&",
+            "note_model_uuid": "47a2f380-e0df-11e9-a16e-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The nuclear envelope is made up of two unit membranes, separated by a {{c1::perinuclear}} space</div>",
+                "<img src=\"Nuclear-membrane-1.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "p)wlohNmwj",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The outer membrane of the nuclear envelope contains ribosomes because it is continuous with {{c1::the rough ER::which organelle?}}</div>",
+                "<img src=\"image032.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "DFv!/e*)O#",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The inner membrane of the nuclear envelope is supported by the {{c1::nuclear lamina}}, which is formed of lamins and associated proteins</div>",
+                "<img src=\"screen_shot_2013-11-13_at_82257_am-14251A180B06899A23D-thumb400.png\">"
+            ],
+            "flags": 0,
+            "guid": "hw3lpc3*eO",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f867d0159149e085da8851f0cd08a9-ao-1",
+                "",
+                "<img src=\"tmpsn16wqgn.png\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-1-A.svg\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "eyI{R1-T1W",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f867d0159149e085da8851f0cd08a9-ao-2",
+                "",
+                "<img src=\"tmpsn16wqgn.png\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-2-A.svg\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Aig#ZXRnu~",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f867d0159149e085da8851f0cd08a9-ao-3",
+                "",
+                "<img src=\"tmpsn16wqgn.png\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-3-A.svg\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "H9VR2qdTQM",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f867d0159149e085da8851f0cd08a9-ao-4",
+                "",
+                "<img src=\"tmpsn16wqgn.png\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-4-A.svg\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xW46G|2f+?",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f867d0159149e085da8851f0cd08a9-ao-5",
+                "",
+                "<img src=\"tmpsn16wqgn.png\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-5-A.svg\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Q.bk=i;4Wg",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f867d0159149e085da8851f0cd08a9-ao-6",
+                "",
+                "<img src=\"tmpsn16wqgn.png\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-6-A.svg\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qN>7rp[MNR",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f867d0159149e085da8851f0cd08a9-ao-7",
+                "",
+                "<img src=\"tmpsn16wqgn.png\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-7-A.svg\" />",
+                "<img src=\"a2f867d0159149e085da8851f0cd08a9-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "KNz5I{hMxP",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38cb0a20122e432db82a354d86c5bdc4-ao-1",
+                "",
+                "<img src=\"tmpl_9cnejl.png\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-1-A.svg\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "fWuiZje_51",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38cb0a20122e432db82a354d86c5bdc4-ao-2",
+                "",
+                "<img src=\"tmpl_9cnejl.png\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-2-A.svg\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Mkf,q7yF*L",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38cb0a20122e432db82a354d86c5bdc4-ao-3",
+                "",
+                "<img src=\"tmpl_9cnejl.png\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-3-A.svg\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "p;@;j)Xi6[",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38cb0a20122e432db82a354d86c5bdc4-ao-4",
+                "",
+                "<img src=\"tmpl_9cnejl.png\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-4-A.svg\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "gl[TGhGc^K",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38cb0a20122e432db82a354d86c5bdc4-ao-5",
+                "",
+                "<img src=\"tmpl_9cnejl.png\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-5-A.svg\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "H4^:8n5y<y",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38cb0a20122e432db82a354d86c5bdc4-ao-6",
+                "",
+                "<img src=\"tmpl_9cnejl.png\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-6-A.svg\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qA+7DdKm5^",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38cb0a20122e432db82a354d86c5bdc4-ao-7",
+                "",
+                "<img src=\"tmpl_9cnejl.png\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-7-A.svg\" />",
+                "<img src=\"38cb0a20122e432db82a354d86c5bdc4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "P&]1Gp@&b$",
+            "note_model_uuid": "47a2f368-e0df-11e9-92f3-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "There are about&nbsp;{{c1::3000-4000::how many?}} nuclear pores per nucleus",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lsBh$n~aL^",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The areas of continuity between the outer and inner nuclear membranes are the&nbsp;{{c1::nuclear pores}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p`QO|7YC[o",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The NPC ({{c1::define NPC}}) is a {{c2::nuclear pore}} associated with proteins called {{c3::nucleoporins}}",
+                "<img src=\"paste-b1162bfacdc75d883da2f402462285cfe58cca3d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "olAG~L7NI#",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        }
+    ]
 }
