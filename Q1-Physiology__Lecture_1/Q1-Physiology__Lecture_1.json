@@ -435,18 +435,6 @@
             "tags": [
                 "NormalDuplicate"
             ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "Test {{c1::card}}", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "L]QULhx,^w", 
-            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
-            "tags": []
         }
     ]
 }
