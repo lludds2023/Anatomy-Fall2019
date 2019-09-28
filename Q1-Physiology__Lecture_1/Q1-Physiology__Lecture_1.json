@@ -1,393 +1,809 @@
 {
-    "__type__": "Deck",
-    "children": [],
-    "crowdanki_uuid": "17bcd81e-e0ee-11e9-be53-a683e769f5fb",
-    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+    "__type__": "Deck", 
+    "children": [], 
+    "crowdanki_uuid": "112fbdab-e075-11e9-8958-acde48001122", 
+    "deck_config_uuid": "c2f6871e-ddb4-11e9-9a12-dca9046e6170", 
     "deck_configurations": [
         {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
-            "dyn": false,
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "c2f6871e-ddb4-11e9-9a12-dca9046e6170", 
+            "dyn": false, 
             "lapse": {
                 "delays": [
-                    10
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
+                    1, 
+                    10, 
+                    15
+                ], 
+                "leechAction": 1, 
+                "leechFails": 8, 
+                "minInt": 1, 
                 "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
+            }, 
+            "maxTaken": 60, 
+            "name": "Active material", 
             "new": {
-                "bury": false,
+                "bury": false, 
                 "delays": [
-                    1,
-                    10
-                ],
-                "initialFactor": 2500,
+                    1, 
+                    30
+                ], 
+                "initialFactor": 2500, 
                 "ints": [
-                    1,
-                    1,
+                    1, 
+                    2, 
                     7
-                ],
-                "order": 1,
-                "perDay": 500,
+                ], 
+                "order": 1, 
+                "perDay": 600, 
                 "separate": true
-            },
-            "replayq": true,
+            }, 
+            "replayq": true, 
             "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "minSpace": 1,
-                "perDay": 200
-            },
+                "bury": false, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 100
+            }, 
             "timer": 0
         }
-    ],
-    "desc": "",
-    "dyn": 0,
-    "extendNew": 10,
-    "extendRev": 50,
-    "media_files": [],
-    "mid": "1569421675054",
-    "name": "Q1-Physiology::Lecture 1",
+    ], 
+    "desc": "", 
+    "dyn": 0, 
+    "extendNew": 10, 
+    "extendRev": 50, 
+    "media_files": [
+        "paste-1958505087158.jpg", 
+        "paste-1881195675914.jpg", 
+        "paste-1915555414260.jpg", 
+        "paste-1992864825554.jpg"
+    ], 
+    "mid": "1569368149240", 
+    "name": "Q1-Physiology::Lecture 1", 
     "note_models": [
         {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n\n.nightMode .cloze{\n font-weight: bold;\n color: red;\n}", 
             "flds": [
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Hide others on the back side", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
                 }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-a78cb",
-            "sortf": 0,
-            "tags": [],
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze (Hide all)-8ef4c", 
+            "sortf": 0, 
+            "tags": [
+                "JavaScript"
+            ], 
             "tmpls": [
                 {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}\n\n<script>\nvar createCookie = function(name, value, days) {\n    var expires;\n    if (days) {\n        var date = new Date();\n        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));\n        expires = \"; expires=\" + date.toGMTString();\n    }\n    else {\n        expires = \"\";\n    }\n    document.cookie = name + \"=\" + value + expires + \"; path=/\";\n}\nfunction getCookie(c_name) {\n    if (document.cookie.length > 0) {\n        c_start = document.cookie.indexOf(c_name + \"=\");\n        if (c_start != -1) {\n            c_start = c_start + c_name.length + 1;\n            c_end = document.cookie.indexOf(\";\", c_start);\n            if (c_end == -1) {\n                c_end = document.cookie.length;\n            }\n            return unescape(document.cookie.substring(c_start, c_end));\n        }\n    }\n    return \"\";\n}\nfunction getRandomElms(){\n    var ul = document.querySelectorAll('ul.shuffle');\n    return ul\n}\nfunction getRandArr(elm, array){\n    for (var i = elm.children.length; i >= 0; i--) {\n        rand = Math.random() * i | 0;\n        array.push(rand)\n    }\n}\nfunction shuffleWithArr(elm, array){\n    elm.style.backgroundColor = \"inherit\"\n    for (var i = elm.children.length; i >= 0; i--) {\n        elm.appendChild(elm.children[array[i]]);\n    }\n}\nfunction run() {\n    var elms = getRandomElms()\n    var isFront = document.getElementById(\"front\");\n    for (var i = 0; i < elms.length; i++) {\n        var idxArr = [];\n        elm = elms[i]\n        if (isFront) {\n            getRandArr(elm, idxArr);\n            // convert idxArr array to a JSON string to be stored\n            var json_str = JSON.stringify(idxArr);\n            // persist the idxArr order and correct answers\n            createCookie('idxArr' + i, json_str);\n            var stored_data = idxArr\n        } else {\n            // get the idxArr order\n            var json_data = getCookie('idxArr' + i);\n            // get the array back from storage\n            var stored_data = JSON.parse(json_data);\n        }\n        shuffleWithArr(elm, stored_data)\n    }\n}\nrun();\n</script>", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze (Hide all)", 
+                    "ord": 0, 
+                    "qfmt": "<div id=\"front\">\n\n\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n\n</div>\n\n<script>\nvar createCookie = function(name, value, days) {\n    var expires;\n    if (days) {\n        var date = new Date();\n        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));\n        expires = \"; expires=\" + date.toGMTString();\n    }\n    else {\n        expires = \"\";\n    }\n    document.cookie = name + \"=\" + value + expires + \"; path=/\";\n}\nfunction getCookie(c_name) {\n    if (document.cookie.length > 0) {\n        c_start = document.cookie.indexOf(c_name + \"=\");\n        if (c_start != -1) {\n            c_start = c_start + c_name.length + 1;\n            c_end = document.cookie.indexOf(\";\", c_start);\n            if (c_end == -1) {\n                c_end = document.cookie.length;\n            }\n            return unescape(document.cookie.substring(c_start, c_end));\n        }\n    }\n    return \"\";\n}\nfunction getRandomElms(){\n    var ul = document.querySelectorAll('ul.shuffle');\n    return ul\n}\nfunction getRandArr(elm, array){\n    for (var i = elm.children.length; i >= 0; i--) {\n        rand = Math.random() * i | 0;\n        array.push(rand)\n    }\n}\nfunction shuffleWithArr(elm, array){\n    elm.style.backgroundColor = \"inherit\"\n    for (var i = elm.children.length; i >= 0; i--) {\n        elm.appendChild(elm.children[array[i]]);\n    }\n}\nfunction run() {\n    var elms = getRandomElms()\n    var isFront = document.getElementById(\"front\");\n    for (var i = 0; i < elms.length; i++) {\n        var idxArr = [];\n        elm = elms[i]\n        if (isFront) {\n            getRandArr(elm, idxArr);\n            // convert idxArr array to a JSON string to be stored\n            var json_str = JSON.stringify(idxArr);\n            // persist the idxArr order and correct answers\n            createCookie('idxArr' + i, json_str);\n            var stored_data = idxArr\n        } else {\n            // get the idxArr order\n            var json_data = getCookie('idxArr' + i);\n            // get the array back from storage\n            var stored_data = JSON.parse(json_data);\n        }\n        shuffleWithArr(elm, stored_data)\n    }\n}\nrun();\n</script>\n", 
+                    "scratchPad": false
                 }
-            ],
-            "type": 1,
+            ], 
+            "type": 1, 
             "vers": []
-        },
+        }, 
         {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
             "flds": [
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Front", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
                     "sticky": false
-                },
+                }, 
                 {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Front",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Back",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Back", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
                     "sticky": false
                 }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Basic-6f7dc", 
             "req": [
                 [
-                    0,
-                    "all",
+                    0, 
+                    "all", 
                     [
                         0
                     ]
                 ]
-            ],
-            "sortf": 0,
-            "tags": [],
+            ], 
+            "sortf": 0, 
+            "tags": [], 
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Card 1",
-                    "ord": 0,
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Card 1", 
+                    "ord": 0, 
                     "qfmt": "{{Front}}"
                 }
-            ],
-            "type": 0,
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Hide others on the back side", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze (Hide all)", 
+            "sortf": 0, 
+            "tags": [
+                "Duplicates"
+            ], 
+            "tmpls": [
+                {
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze (Hide all)", 
+                    "ord": 0, 
+                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze-a78cb", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Text", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Cloze", 
+            "sortf": 0, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "Cloze", 
+                    "ord": 0, 
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ], 
+            "type": 1, 
             "vers": []
         }
-    ],
+    ], 
     "notes": [
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "{{c1::Peripheral}} proteins adhere tightly to the cytoplasmic or extracellular surfaces of the plasma membrane by {{c2::non-covalent bonds}}.&nbsp;",
+                "Surface of cell defined by:&nbsp;{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Membrane</cloze2>}}", 
+                "", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "hXKDfWXs[M",
-            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            ], 
+            "flags": 0, 
+            "guid": "bC}yM>~MiD", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "{{c1::Peripheral}} proteins adhere tightly to the cytoplasmic or extracellular surfaces of the plasma membrane by {{c2::non-covalent bonds}}.&nbsp;",
+                "Cell membrane permeability<div><br /></div><div>Substance: degree of permeability</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Nucleic acids: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Impermeable</cloze2>}}</div><div>Proteins: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Impermeable</cloze2>}}</div><div>Ions: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Selectively permeable</cloze2>}}</div><div>Metabolites: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Selectively permeable</cloze2>}}</div></blockquote>", 
+                "", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "khCt_w;-zB",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
+            ], 
+            "flags": 0, 
+            "guid": "O~poGTC2D=", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "Duplicates"
+            ]
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "{{c1::Integral}} proteins are embedded within the membrane or attached by {{c2::covalent bonds.}}&nbsp;",
+                "Cell membrane<div><br /></div><div>More than passive barrier</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>-&gt; able to move molecules against {{c2::concentration gradient}} (\"{{c1::active transport}}\", which would {{c3:: ::yes/no}} require energy)</div></blockquote>", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "GFPlSyD@T:",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            ], 
+            "flags": 0, 
+            "guid": "jGLn3Wa>?S", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "T/F Integral proteins only span the membrane one time.",
+                "Cell membrane<div><br /></div><div>Constituents</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::lipids}} -&gt; mostly {{c1::phospholipids}}</div><div>{{c2::Proteins}}</div></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "FrcKf?TldF", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Constituents</div><div><br /></div><div>Phospholipid</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Properties</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Head: {{c1::charged/polar::property}} -&gt; hydroph{{c1::ilic}}</div><div>Fatty acid tail: {{c2::non polar}} -&gt; {{c2::hydrophobic}}</div><div><br /></div></blockquote></blockquote>Molecule with both polar and non polar portion: \"{{c3::amphipathic}}\"", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "zA^1DJ!+&Q", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Phospholipid bilayer</div><div>Can be dissolved by {{c1::detergents}} (which are also {{c2::amphipathic}})</div><div><br /></div><div><br /></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "H+CxOs2$-@", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Phospholipid bilayer</div><div><br /></div><div>dynamics in different temperature</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>^ temperature - {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>faster</cloze2>}} lateral diffusion: \"{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Sol</cloze2>}} state\"</div><div>v temperature - {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>slower</cloze2>}} lateral diffusion: \"{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Gel</cloze2>}} state\"</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Qq*$;bc5ZB", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Phospholipid bilayer</div><div><br /></div><div>dynamics in different temperature</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>^ temperature - {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>faster</cloze2>}} lateral diffusion: \"{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Sol</cloze2>}} state\"</div><div>v temperature - {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>slower</cloze2>}} lateral diffusion: \"{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Gel</cloze2>}} state\"</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote>Temp between the two states: {{c5::<cz_hide>!</cz_hide>Transition Temperature}}<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Phospholipid witn long, saturated FA chain: {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>^</cloze2>::^/v}} {{c5::<cz_hide>!</cz_hide>Transition temperature}}</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "I6Ae#AZfgp", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Phospholipid&nbsp;</div><div><br /></div><div>Most common type: {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">glyceral</cloze2>}} based phospholipid</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>e.g.&nbsp;</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Phosphatidylinositol</div><div>Phosphatidylserine</div><div>Phosphatidylcholine</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Mo)*&rb>{o", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Phospholipid&nbsp;</div><div><br /></div><div>Less common type: {{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">sphingosine</cloze2>}} based phospholipid</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>e.g.&nbsp;</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Sphingolipids</div><div>Glycosphingolipids</div><div>Gangliosides</div></blockquote></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "b~0cWTUJ#j", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Phospholipid&nbsp;</div><div><br /></div><div>Types</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Phosphatidylinositol - {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Glycerol</cloze2>}}-based</div><div>Phosphatidylserine - {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Glycerol</cloze2>}}-based</div><div>Phosphatidylcholine - {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Glycerol</cloze2>}}-based</div><div>Sphingomyelin - {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Sphongosine</cloze2>}}-based</div><div>Galactocerebroside - {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>Sphingosine</cloze2>}}-based</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "H]?dP2y$+t", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "Duplicates"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Cholesterol</div><div><br /></div><div>rigid {{c1::stroid}} ring bind to FA {{c2::side chains}}</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>-&gt; {{c4::reduce::increase/reduce}} membrane fluidity</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "p;Vbs2}Cw.", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Constituent movements</div><div><br /></div><table style=\"font-size: 1em; width: 100%; border-collapse: collapse;\">\n<thead><tr><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\"></th><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\">Horizontal movement</th><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\">Flipping</th></tr></thead>\n<tbody><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">Phospholipids</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c1::Yes}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c3::Rarely}}</td></tr><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">Cholesterol</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c2::Yes}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c4::Easily}}</td></tr></tbody></table>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "MVUp_6WdYM", 
+            "note_model_uuid": "5e8e5ade-df23-11e9-bdab-dca9046e6170", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Pospholipid bilayer</div><div><br /></div><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Im</cloze2>::yes/no}}permeable to {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>charged</cloze2>}} molecules -&gt; suited to separate two {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>aqueous compartments</cloze2>}}</div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "JPyU{ajl:)", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Pospholipid bilayer</div><div>Permeability to</div><div><br /></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Na<sup>+</sup>&nbsp;- {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Impermeable</cloze2>}}</div><div>K<sup>+ </sup>- {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Impermeable</cloze2>}}</div><div>Cl<sup>- </sup>- {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Impermeable</cloze2>}}</div><div>Ca<sup>++ -&nbsp;</sup>{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Impermeable</cloze2>}}</div><div>Proteins<sup> </sup>-&nbsp;{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>Impermeable</cloze2>}}</div><div>Nucleic acids- {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>Impermeable</cloze2>}}</div><div>sugars -&nbsp;{{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>Impermeable</cloze2>}}</div><div>Nucleotides -&nbsp;{{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>Impermeable</cloze2>}}</div><div>O<sub>2 </sub>-{{c9::<cloze2_w class='cz-9'></cloze2_w><cloze2 class='cz-9'>Permeable</cloze2>}}</div><div>CO<sub>2 </sub>- {{c10::<cloze2_w class='cz-10'></cloze2_w><cloze2 class='cz-10'>Permeable</cloze2>}}</div><div>NH<sub>3 - </sub>{{c11::<cloze2_w class='cz-11'></cloze2_w><cloze2 class='cz-11'>Permeable</cloze2>}}</div><div>Water - {{c12::<cloze2_w class='cz-12'></cloze2_w><cloze2 class='cz-12'>Permeable</cloze2>}}</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "xY1H3u0GbY", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "Duplicates"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell membrane<div><br /></div><div>Pospholipid bilayer</div><div>Constituents in different leaflets:</div><div><br /></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Phosphatidylethanolamine - {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>cytoplasm</cloze2>}} side</div><div>Phosphatidylserine - {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>cytoplasm</cloze2>}} side</div><div>Phosphatidylcholine - {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>extracellular</cloze2>}} side</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "L.Po,mjVc@", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "Duplicates"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>{{c3::Integral proteins}}</div><div><br /></div><div>For physical contact&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>with surrounding extracellular matrix: {{c1::Cell-matrix adhesion molecules}}</div><div>Cellular neighbors: {{c2::Cell-cell adhesion molecules}}</div></blockquote><div><br /></div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "cy7Z`_2}>S", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell Memebrane<div><br /></div><div>{{c1::Integrins}}:</div><div><br /></div><div>{{c2::Cell-matrix}} adhesion molecule</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Linking cells to {{c2::extra::extra/intra}}cellular components e.g.</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c3::fibronectin}}</div><div>{{c4::laminin}}</div><div><br /></div></blockquote></blockquote>Extracellular signal tansduced to {{c5::cytoplasmic tail}} linked to signaling or structural molecules", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "OOb^RD=P@V", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell Memebrane<div><br /></div><div>{{c1::Cell-cell}} adhesion molecules</div><div><br /></div><div>e.g.</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c2::Ca-dependent adhesion molecules}} ({{c3::Cadherin}})</div><div>{{c4::Ca-independent neural cell adhesion molecule}} ({{c5::N-CAM}})</div></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "K|8N?oYrW=", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell Memebrane<div><br /></div><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Cell-cell</cloze2>}} adhesion molecules</div><div><br /></div><div>Calcium dependency:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Cadherin - Ca-{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>dependent</cloze2>::dependent/independent}}</div><div>N-CAM - Ca-{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>independent</cloze2>::dependent/independent}}</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "brf`OnctF!", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "Duplicates"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Transmembrane proteins:<div><br /></div><div>{{c1::Pores}} and {{c1::Channels}}:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Permit {{c5::passive diffusion}} of water, specific ions, and proteins</div></blockquote>{{c3::Carriers}}:<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Faciliatate transport of specific molecule</div></blockquote>{{c4::Pumps}}:<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Powered (via {{c6::hydrolysis of ATP}}) pumps to transport substances {{c7::against chemical gradients}}.</div></blockquote><div><div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote></div></div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "i}UpHt]g$Q", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Transmembrane proteins:<div><div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><div>Transmembrane proteins</div># of gates</div></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Pore</cloze2>}}: none</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Channel</cloze2>}}: 1</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Carrier</cloze2>}}: 2</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "r|1nF*7klD", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Transmembrane proteins:<div><div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote><div>Transmembrane proteins</div></div></div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><div><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Pore</cloze2>}}:</div></div></div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><div><img src=\"paste-1881195675914.jpg\" /></div></div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Channel</cloze2>}}</div><div><img src=\"paste-1915555414260.jpg\" /></div><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Carrier</cloze2>}}</div><div><img src=\"paste-1958505087158.jpg\" /></div><div>{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Pump</cloze2>}}</div><div><img src=\"paste-1992864825554.jpg\" /></div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Qil#$jWZPU", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "Duplicates"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Peripheral}} proteins adhere tightly to the cytoplasmic or extracellular surfaces of the plasma membrane by {{c2::non-covalent bonds}}.&nbsp;", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "hXKDfWXs[M", 
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Peripheral}} proteins adhere tightly to the cytoplasmic or extracellular surfaces of the plasma membrane by {{c2::non-covalent bonds}}.&nbsp;", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "khCt_w;-zB", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Integral}} proteins are embedded within the membrane or attached by {{c2::covalent bonds.}}&nbsp;", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "GFPlSyD@T:", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "T/F Integral proteins only span the membrane one time.", 
                 "False- Integral proteins can span the membrane one or more times.&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "mWiK:$:[B>",
-            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            ], 
+            "flags": 0, 
+            "guid": "mWiK:$:[B>", 
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "T/F Some integral proteins are embedded without crossing the membrane.&nbsp;",
+                "T/F Some integral proteins are embedded without crossing the membrane.&nbsp;", 
                 "True&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "ccb+>nZS8;",
-            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            ], 
+            "flags": 0, 
+            "guid": "ccb+>nZS8;", 
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "T/F Transmembrane proteins are in a fixed position within the membrane.&nbsp;",
+                "T/F Transmembrane proteins are in a fixed position within the membrane.&nbsp;", 
                 "False - in the absence of protein-protein attachments, transmembrane proteins are free to diffuse over the entire surface of the membrane.&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "NmMEjOU?[q",
-            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            ], 
+            "flags": 0, 
+            "guid": "NmMEjOU?[q", 
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Some {{c1::integral proteins}} are attached by covalent bonds to lipids within the membrane. An exampe of a lipid is {{c1::glycosylphosphatidylinositol(GPI)&nbsp;}}",
+                "Some {{c1::integral proteins}} are attached by covalent bonds to lipids within the membrane. An exampe of a lipid is {{c1::glycosylphosphatidylinositol(GPI)&nbsp;}}", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "t_ud`h?-`O",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            ], 
+            "flags": 0, 
+            "guid": "t_ud`h?-`O", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Most membrane spanning segments are composed of {{c1::alpha helices}} containing mainly {{c1::nonpolar}} amino acids along with some {{c1::polar uncharged}} amino acids.&nbsp;",
+                "Most membrane spanning segments are composed of {{c1::alpha helices}} containing mainly {{c1::nonpolar}} amino acids along with some {{c1::polar uncharged}} amino acids.&nbsp;", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "jDE-=[=Jhs",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            ], 
+            "flags": 0, 
+            "guid": "jDE-=[=Jhs", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "T/F Transmembrane proteins diffuse within the plane of the phospholipid membrane slower than lipids.&nbsp;",
+                "T/F Transmembrane proteins diffuse within the plane of the phospholipid membrane slower than lipids.&nbsp;", 
                 "True- because proteins are much larger.&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "McK&plzx>W",
-            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            ], 
+            "flags": 0, 
+            "guid": "McK&plzx>W", 
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "T/F Like Phospholipids, proteins can diffuse only in the plane of the bilayer and not across.&nbsp;",
+                "T/F Like Phospholipids, proteins can diffuse only in the plane of the bilayer and not across.&nbsp;", 
                 "True"
-            ],
-            "flags": 0,
-            "guid": "po58kI],_,",
-            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            ], 
+            "flags": 0, 
+            "guid": "po58kI],_,", 
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Integrap proteins can serve as: {{c1::receptors}}, {{c1::adhesion molecules}}, {{c1::transporters}}, {{c1::enzymes}}, and {{c1::signal transduction components}}.&nbsp;",
+                "Integrap proteins can serve as: {{c1::receptors}}, {{c1::adhesion molecules}}, {{c1::transporters}}, {{c1::enzymes}}, and {{c1::signal transduction components}}.&nbsp;", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "Mc&o/xzGhK",
-            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            ], 
+            "flags": 0, 
+            "guid": "Mc&o/xzGhK", 
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Essentially all communication functions served through the plasma membrane occur through membrane {{c1::proteins.}} The exception is {{c1::lipid solluble}} signalling molecules such as {{c1::steroid hormones}}.&nbsp;",
+                "Essentially all communication functions served through the plasma membrane occur through membrane {{c1::proteins.}} The exception is {{c1::lipid solluble}} signalling molecules such as {{c1::steroid hormones}}.&nbsp;", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "r8T{F$t/Jh",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            ], 
+            "flags": 0, 
+            "guid": "r8T{F$t/Jh", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "{{c1::Integral proteins}} serve as recepetors that transmit signals between the cell and {{c2::its environment.&nbsp;}}",
+                "{{c1::Integral proteins}} serve as recepetors that transmit signals between the cell and {{c2::its environment.&nbsp;}}", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "hR]A#&g*1m",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            ], 
+            "flags": 0, 
+            "guid": "hR]A#&g*1m", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "Integral proteins are ideally suited to act as receptors because they form a {{c1::continuous}} link between the {{c1::intracellular}} and {{c1::extracellular}} compartments of the cell that is seprated by the membrane.&nbsp;",
+                "Integral proteins are ideally suited to act as receptors because they form a {{c1::continuous}} link between the {{c1::intracellular}} and {{c1::extracellular}} compartments of the cell that is seprated by the membrane.&nbsp;", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "h,HlqyNqw[",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            ], 
+            "flags": 0, 
+            "guid": "h,HlqyNqw[", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "{{c1::Hormones}} binding to receptors on the outsides of the cell often causes a {{c2::conformational change}} that is transmitted through the membrane spanning region to the interior of the cell.&nbsp;",
+                "{{c1::Hormones}} binding to receptors on the outsides of the cell often causes a {{c2::conformational change}} that is transmitted through the membrane spanning region to the interior of the cell.&nbsp;", 
                 ""
-            ],
-            "flags": 0,
-            "guid": "lxJ~J&^a.~",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            ], 
+            "flags": 0, 
+            "guid": "lxJ~J&^a.~", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
             "tags": []
-        },
+        }, 
         {
-            "__type__": "Note",
-            "data": "",
+            "__type__": "Note", 
+            "data": "", 
             "fields": [
-                "What two things may occur intracellularly after a hormone has bound to a integral protein that is acting as a receptor?&nbsp;",
+                "What two things may occur intracellularly after a hormone has bound to a integral protein that is acting as a receptor?&nbsp;", 
                 "1. The intracellular region of the integral protein may become active if it has enzymatic capabilities&nbsp;<div>2. The integral protein acts with cytoplasmic proteins that are involved in the generation of second messangers.&nbsp;</div>"
-            ],
-            "flags": 0,
-            "guid": "kDMzEoq-0Z",
-            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            ], 
+            "flags": 0, 
+            "guid": "kDMzEoq-0Z", 
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
             "tags": []
         }
     ]
