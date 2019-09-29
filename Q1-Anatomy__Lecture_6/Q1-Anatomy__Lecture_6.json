@@ -265,7 +265,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-31d26",
             "req": [
                 [
                     0,
@@ -289,6 +289,51 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [
+                "Anatomy::Lec6"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -337,6 +382,20 @@
             "guid": "ilU+=uP9|P",
             "note_model_uuid": "56ad5b94-e2f2-11e9-9914-a683e744b8d5",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Inactive {{c2::fibroblasts}} (sometimes called {{c1::fibrocytes}}) are smaller, with less evidence of protein machinery</div>",
+                "Lec 6 slide 5"
+            ],
+            "flags": 0,
+            "guid": "oq_q4w4Xx*",
+            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
         }
     ]
 }
