@@ -56,12 +56,28 @@
     "extendNew": 10, 
     "extendRev": 50, 
     "media_files": [
+        "paste-1915555414260.jpg", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-1-A.svg", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-3-A.svg", 
+        "19509149bf15416e8668ba60e7509a11-oa-2-A.svg", 
+        "19509149bf15416e8668ba60e7509a11-oa-1-A.svg", 
+        "paste-1992864825554.jpg", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-4-Q.svg", 
+        "19509149bf15416e8668ba60e7509a11-oa-2-Q.svg", 
+        "tmpQgHpfe.png", 
+        "tmpjwaAYu.png", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-2-Q.svg", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-4-A.svg", 
         "paste-1958505087158.jpg", 
         "paste-1881195675914.jpg", 
-        "paste-1915555414260.jpg", 
-        "paste-1992864825554.jpg"
+        "fd2e8c2edb0d45f082dcec1712859316-oa-O.svg", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-2-A.svg", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-1-Q.svg", 
+        "19509149bf15416e8668ba60e7509a11-oa-O.svg", 
+        "fd2e8c2edb0d45f082dcec1712859316-oa-3-Q.svg", 
+        "19509149bf15416e8668ba60e7509a11-oa-1-Q.svg"
     ], 
-    "mid": "1569368149240", 
+    "mid": "1569334388165", 
     "name": "Q1-Physiology::Lecture 1", 
     "note_models": [
         {
@@ -173,8 +189,8 @@
         }, 
         {
             "__type__": "NoteModel", 
-            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
-            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n", 
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -193,33 +209,22 @@
                     "rtl": false, 
                     "size": 20, 
                     "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Hide others on the back side", 
-                    "ord": 2, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": true
                 }
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze (Hide all)", 
+            "name": "Cloze", 
             "sortf": 0, 
-            "tags": [
-                "Duplicates"
-            ], 
+            "tags": [], 
             "tmpls": [
                 {
-                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}", 
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
-                    "name": "Cloze (Hide all)", 
+                    "name": "Cloze", 
                     "ord": 0, 
-                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
+                    "qfmt": "{{cloze:Text}}"
                 }
             ], 
             "type": 1, 
@@ -270,8 +275,141 @@
         }, 
         {
             "__type__": "NoteModel", 
-            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "crowdanki_uuid": "b9905400-de92-11e9-8dac-f2189854675e", 
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n", 
+            "flds": [
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "ID (hidden)", 
+                    "ord": 0, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Header", 
+                    "ord": 1, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Image", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Question Mask", 
+                    "ord": 3, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Footer", 
+                    "ord": 4, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Remarks", 
+                    "ord": 5, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Sources", 
+                    "ord": 6, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 1", 
+                    "ord": 7, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Extra 2", 
+                    "ord": 8, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Answer Mask", 
+                    "ord": 9, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Original Mask", 
+                    "ord": 10, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": false
+                }
+            ], 
+            "latexPost": "\\end{document}", 
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
+            "name": "Image Occlusion Enhanced", 
+            "req": [
+                [
+                    0, 
+                    "all", 
+                    [
+                        2
+                    ]
+                ]
+            ], 
+            "sortf": 1, 
+            "tags": [], 
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n", 
+                    "bafmt": "", 
+                    "bqfmt": "", 
+                    "did": null, 
+                    "name": "IO Card", 
+                    "ord": 0, 
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ], 
+            "type": 0, 
+            "vers": []
+        }, 
+        {
+            "__type__": "NoteModel", 
+            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -280,7 +418,7 @@
                     "ord": 0, 
                     "rtl": false, 
                     "size": 20, 
-                    "sticky": false
+                    "sticky": true
                 }, 
                 {
                     "font": "Arial", 
@@ -290,22 +428,31 @@
                     "rtl": false, 
                     "size": 20, 
                     "sticky": false
+                }, 
+                {
+                    "font": "Arial", 
+                    "media": [], 
+                    "name": "Hide others on the back side", 
+                    "ord": 2, 
+                    "rtl": false, 
+                    "size": 20, 
+                    "sticky": true
                 }
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze", 
+            "name": "Cloze (Hide all)", 
             "sortf": 0, 
             "tags": [], 
             "tmpls": [
                 {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
-                    "name": "Cloze", 
+                    "name": "Cloze (Hide all)", 
                     "ord": 0, 
-                    "qfmt": "{{cloze:Text}}"
+                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
                 }
             ], 
             "type": 1, 
@@ -804,6 +951,354 @@
             "flags": 0, 
             "guid": "kDMzEoq-0Z", 
             "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Membrane proteins<div><br /></div><div><br /></div><div>{{c1::Enzymes}}</div><div>-&gt; facilitate ion transport via energy derived from catalyzing {{c2::ATP hydrolysis}}</div><div>&nbsp;</div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "q064nXsv-h", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Membrane proteins<div><br />Integral porteins on {{c1::cytoplasmic::cytoplasmic/extracellular}} surface of plasma membrane</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>intracalate into lipid bilayer by {{c2::covalently::bond type}} attaches to</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c3::Fatty acids}}</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>or</div></blockquote></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c4::prenyl group}}</div></blockquote></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Qh9[hYU!l6", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell nucleus<div><br /></div><div>Function: storage and retrieval of cell's {{c1::genetic information}}</div><div><br /></div><div>Components:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c2::Nucleolus:&nbsp;}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>location of {{c3::rRNA}} transcription and {{c4::ribosomal subunits}} assembly</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c5::Chromatin}}:</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Complex DNA and numerous DNA binding proteins</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c6::Nuclear pore}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Pathway between nuceoplasm and cytoplasm</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c7::Nuclear lamina}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>fibrillar protein skeloton (composed of lamin) maintaining structure of nuclear envelopes</div></blockquote></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "hs7/U])<K*", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Rough ER}}<div><br /></div><div>Function:&nbsp;Synthesis of {{c2::secretory}} and {{c3::membrane proteins}}</div><div>Lumen: Location of protein&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c4::post-translational}} modification&nbsp;</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>e.g. {{c6::glycosy}}lation</div><div>{{c7::Hydroxy}}lation</div><div>Intramolecular {{c8::disulfide bond}} formation</div></blockquote></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c5::foldiing&nbsp;}}</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>3º structure formation</div></blockquote></blockquote></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "z&vS5OT$Ts", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>rER</div><div><br /></div><div>Dealing with misfolded proteins</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>-&gt; tagged with {{c1::ubiquitin}}</div><div>-&gt; sent to {{c2::proteasome}} for degradation</div></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "hA`@(%G;.h", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c4::Mitochondria}}<div><br /></div><div>Inner membrane folds: {{c1::Cristae}}</div><div>Production of {{c2::ATP}}</div><div>Maintains {{c3::its own}} genome</div>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "vyCr_Qobm1", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "{{c1::Lysosome}}<div><br /></div><div>Function: {{c2::Digestion}} of cellular debris</div><div>Content: {{c3::digestive enzymes}}</div><div>Membrane feature: {{c4::proton pumps}} (maintain {{c5::acidic}} environment)</div><div>Material feed:&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Extracellular material: endocytosis -&gt; endocytic vesicle {{c6::fuses}} with lysosome</div><div>Intracellular material: directly engulfed (\"{{c7::autophagy}}\")</div></blockquote>", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Os@|*p(dRG", 
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Cell functions<div><br /></div><div>Functions, by organelle</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Genome storage and retrieval: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Nucleus</cloze2>}}</div><div>Synthesis of Secretory proteins: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>rER</cloze2>}}</div><div>Synthesis of membrane proteins: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>rER</cloze2>}}</div><div>Post-translational modification: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>rER</cloze2>}}</div><div>Secretory protein folding: {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>rER</cloze2>}}</div><div>Lipid synthisis: {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>sER</cloze2>}}</div><div>Ca++ storage: {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>sER</cloze2>}}</div><div>Protein processing : {{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>Golgi</cloze2>}}</div><div>ATP generation: {{c9::<cloze2_w class='cz-9'></cloze2_w><cloze2 class='cz-9'>Mitochondria</cloze2>}}</div><div>Digestive of cellular debris: {{c10::<cloze2_w class='cz-10'></cloze2_w><cloze2 class='cz-10'>Lysosome</cloze2>}}</div><div>Degradation of intracellular structure: {{c11::<cloze2_w class='cz-11'></cloze2_w><cloze2 class='cz-11'>Lysosome</cloze2>}}&nbsp;</div><div><br /></div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "HL@73zH^Ac", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "JavaScript"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Cytoskeleton</div><div><br /></div><div>Composition</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Thin filament: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Actin</cloze2>}}</div><div>Intermediate filament: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Keratin etc</cloze2>}}</div><div>Thick filament: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Myosin</cloze2>}}</div><div>Microtubules: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Tublin</cloze2>}}</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "p^|DZX<^6D", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "JavaScript"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "<div>Cytoskeleton</div><div><br /></div><div>Diameter</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Thin filament: 5-8 {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>nm</cloze2>::Unit}}</div><div>Intermediate filament: 8-10 {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>nm</cloze2>::Unit}}</div><div>Thick filament: 10 {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>nm</cloze2>::unit}}</div><div>Microtubules: 25 {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>nm</cloze2>::unit}}</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "u`{K->,(4%", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "JavaScript"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Epithelial cell<div><br /></div><div>Polarity</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Apical</cloze2>}}: towards outisde lumen/outside world</div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Basolateral</cloze2>}}: Faces extracellular fluid compartment</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "s*?e|Uy?G5", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": [
+                "JavaScript"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "fd2e8c2edb0d45f082dcec1712859316-oa-1", 
+                "", 
+                "<img src=\"tmpQgHpfe.png\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-1-A.svg\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "qD[dy[V!=^", 
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "fd2e8c2edb0d45f082dcec1712859316-oa-2", 
+                "", 
+                "<img src=\"tmpQgHpfe.png\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-2-A.svg\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "ib-0F90[r}", 
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "fd2e8c2edb0d45f082dcec1712859316-oa-3", 
+                "", 
+                "<img src=\"tmpQgHpfe.png\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-3-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-3-A.svg\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "KYBrFuGBUm", 
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "fd2e8c2edb0d45f082dcec1712859316-oa-4", 
+                "", 
+                "<img src=\"tmpQgHpfe.png\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-4-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-4-A.svg\" />", 
+                "<img src=\"fd2e8c2edb0d45f082dcec1712859316-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "iY1phTtTxH", 
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Epithelium<div><br /></div><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>basement membrane</cloze2>}}</div><div><br /></div><div>Composition:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Extracellular matrix protein (secreted by {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>epithelial</cloze2>}} cells)</div><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>collagens</cloze2>}}</div><div>{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>laminin</cloze2>}}</div><div>{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>proteoglycans</cloze2>}}</div><div><br /></div></blockquote>Function<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>Structural support</cloze2>}} of epithelium</div><div>{{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>Organization foundation</cloze2>}} of epithelial cells</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "lhyTTFdS=h", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Epithelium<div><br /></div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Tight junction</cloze2>}}</div><div><br /></div><div>\"{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Zonula Occludens</cloze2>}}\"</div><div><br /></div><div>Function: Impede passage of molecules and ions {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>between</cloze2>}} epithelial cells</div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "h}t><Vpd_6", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "19509149bf15416e8668ba60e7509a11-oa-1", 
+                "", 
+                "<img src=\"tmpjwaAYu.png\" />", 
+                "<img src=\"19509149bf15416e8668ba60e7509a11-oa-1-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"19509149bf15416e8668ba60e7509a11-oa-1-A.svg\" />", 
+                "<img src=\"19509149bf15416e8668ba60e7509a11-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "s9@bT%>C<*", 
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "19509149bf15416e8668ba60e7509a11-oa-2", 
+                "", 
+                "<img src=\"tmpjwaAYu.png\" />", 
+                "<img src=\"19509149bf15416e8668ba60e7509a11-oa-2-Q.svg\" />", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "<img src=\"19509149bf15416e8668ba60e7509a11-oa-2-A.svg\" />", 
+                "<img src=\"19509149bf15416e8668ba60e7509a11-oa-O.svg\" />"
+            ], 
+            "flags": 0, 
+            "guid": "y@9h=,*AIF", 
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Epithelium<div><br /></div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Adhering Junction</cloze2>}}</div><div><br /></div><div>\"{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Zonula Adherens</cloze2>}}\"</div><div><br /></div><div>Location: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Encircle</cloze2>}} entire lateral domain of epithelial cells, basal to level of {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>tight junction</cloze2>}}</div><div><br /></div><div>Function: Provide epithelial cells with clues about {{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>nature</cloze2>}} and {{c9::<cloze2_w class='cz-9'></cloze2_w><cloze2 class='cz-9'>proximity</cloze2>}} of neighbors</div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "t-LdC!~K,d", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Epithelium<div><br /></div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Adhering Junction</cloze2>}}</div><div><br /></div><div>\"{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Zonula Adherens</cloze2>}}\"</div><div><br /></div><div>Location: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>Encircle</cloze2>}} entire lateral domain of epithelial cells, basal to level of {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>tight junction</cloze2>}}</div><div><br /></div><div>Function: Provide epithelial cells with clues about {{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>nature</cloze2>}} and {{c9::<cloze2_w class='cz-9'></cloze2_w><cloze2 class='cz-9'>proximity</cloze2>}} of neighbors</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>-&gt; contact of {{c10::<cloze2_w class='cz-10'></cloze2_w><cloze2 class='cz-10'>cadherins</cloze2>}} in neighboring cells permit the {{c11::<cloze2_w class='cz-11'></cloze2_w><cloze2 class='cz-11'>apical</cloze2>}} and {{c11::<cloze2_w class='cz-11'></cloze2_w><cloze2 class='cz-11'>basolateral</cloze2>}} plasma membrane differentiation</div></blockquote>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "sZgYle+1~0", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Epithelium<div><br /></div><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Gap junction</cloze2>}}</div><div><br /></div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Channels</cloze2>}} that interconnect cytosols of neighboring cells</div><div>Function:&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Facilitate {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>cell-to-cell</cloze2>}} communication by allowing small molecules to {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>diffuse</cloze2>}} between cells</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>e.g.</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Ca++</cloze2>::ion}}</div><div>{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>cAMP</cloze2>::intracellular signal molecule}}</div></blockquote></blockquote></blockquote><div><br /></div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ga]L2EMd?.", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "Epithelium<div><br /></div><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Desmosomes</cloze2>}}</div><div><br /></div><div>\"{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Macula adherens</cloze2>}}\"</div><div><br /></div><div>\"{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Spot welds</cloze2>::analogue}}\" that hold adjascent cells tightly together</div>", 
+                "", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "x%WLcq+sG0", 
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
             "tags": []
         }
     ]
