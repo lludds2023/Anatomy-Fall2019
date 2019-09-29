@@ -220,7 +220,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -1126,6 +1126,162 @@
             ],
             "flags": 0,
             "guid": "OQ|FnM|Dh9",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of secretion do basophilic grandular epithelium cells secrete?&nbsp;",
+                "Basophilic grandular epithelium cells secrete <b>serous</b> secretions, which have high protein content.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "NF}fJR!JV9",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Serous}} secretion is slippery due to {{c1::protein.&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gD,w$b}~F_",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F Mucous glandular epithelium secretion stains basophilic",
+                "False- Mucous secretions do not stain. Serous secretions stain basophilic.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "fpeC>h;ZS:",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Glandular epithelium {{c1::mucous}} secretions contain lots of {{c2::mucin protein}} and have a {{c2::viscous}} consistency.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IT`5R/k?(o",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are myoepithelial cells? What are the functions of these cells?&nbsp;",
+                "These are epithelial cells with muscle cell characteristics. They can help promote movement of secretions in duct system by wrapping themseleves around the secretory portion of the gland and around parts of the duct.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "v|1<6hR_C",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Endocrine}} glands release products directly into extracellular fluid and do not use {{c1::ducts}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iS!kqkD9s/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What products do endocrine glands release?&nbsp;",
+                "Hormones: peptide, protein, or steroid hormones&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "eodrjfItPO",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is paracrine secretion?&nbsp;",
+                "Endocrine glands that secrete products on cells in local environement.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "c;HD[I,O@{",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is autocrine secretion?&nbsp;",
+                "Endocrine glands that release products and those products act on the cell which released the product (acts on itself).&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "H[Oe$Ped9/",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do \"pumps\" or ATPases do?&nbsp;",
+                "These are enzymes in many epithelial cells that help move ions against their concentration gradient.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "d2fWY]qFl%",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is transcellular movement?",
+                "The movement of ions and fluid across the cell from the apical region to the basolateral region, or vice versa.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "FgjldBfD?_",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is transcytosis? Where does this occur often?&nbsp;",
+                "The movement of pinocytic vesicles across a cell. This occurs in endothelium or mesothelium.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "il$C[>kIu>",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What layer acts as stem cells to produce new cell in stratefied epitelium?&nbsp;",
+                "The basal layer&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "C0#qTIGCI2",
             "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
         }
