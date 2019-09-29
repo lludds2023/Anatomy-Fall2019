@@ -56,9 +56,21 @@
     "extendRev": 50,
     "media_files": [
         "Screen Shot 2019-09-29 at 12.33.10 PM.png",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-1-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-1-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-2-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-2-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-3-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-3-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-4-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-4-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-5-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-5-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-O.svg",
         "efea87a4ecad4477a77ec1a78cf13cfc-oa-1-A.svg",
         "efea87a4ecad4477a77ec1a78cf13cfc-oa-1-Q.svg",
-        "efea87a4ecad4477a77ec1a78cf13cfc-oa-O.svg"
+        "efea87a4ecad4477a77ec1a78cf13cfc-oa-O.svg",
+        "tmptvch72yl.png"
     ],
     "mid": "1569463038495",
     "name": "Q1-Anatomy::Lecture 6",
@@ -335,6 +347,139 @@
             ],
             "type": 1,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
         }
     ],
     "notes": [
@@ -392,6 +537,149 @@
             ],
             "flags": 0,
             "guid": "oq_q4w4Xx*",
+            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>❑mast cells</div> <div>20 to 30 mm in diameter</div> <div>{{c1::ovoid}}, with central spherical nucleus</div> <div>derive from {{c2::marrow}} precursors</div> <div>cytoplasm filled with {{c4::basophilic}} granules containing {{c3::heparin, histamine, proteases}} and other compounds</div> <div>activated by binding of {{c5::IgE::An immunoglobulin}} to Fc receptors in response to the presence of foreign antigens (e.g. pollen, bee venom, drugs)</div> <div><br></div>",
+                "slide 15"
+            ],
+            "flags": 0,
+            "guid": "Iyl&uA*u?z",
+            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ac16a8a2a5c645e58be10a04be19762b-ao-1",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-1-A.svg\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Q;qt&fG[5-",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ac16a8a2a5c645e58be10a04be19762b-ao-2",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-2-A.svg\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "f8D.7BB?!R",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ac16a8a2a5c645e58be10a04be19762b-ao-3",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-3-A.svg\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "tEMWyYj,kv",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ac16a8a2a5c645e58be10a04be19762b-ao-4",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-4-A.svg\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "uxZ4h(fyCi",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ac16a8a2a5c645e58be10a04be19762b-ao-5",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-5-A.svg\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "lf(Hr?A42,",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>❑plasma cells</div> <div>activated {{c1::B lymphocytes}}</div> <div>{{c2::ovoid}} cells, with eccentrically placed nuclei with “{{c3::clock face}}” or “{{c3::cartwheel}}” appearance</div> <div>intensely basophilic, lots of {{c4::RER}} </div> <div>produce {{c5::antibodies}}</div>",
+                "slide 17"
+            ],
+            "flags": 0,
+            "guid": "i$7_)|{~[*",
             "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
