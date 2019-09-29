@@ -58,7 +58,7 @@
         "paste-497397ea407b021f19e9e856d1e0ac32eab962e5.jpg",
         "paste-95c50e9802233b09b98f7c502356b8251c7698aa.jpg"
     ],
-    "mid": "1569438929129",
+    "mid": "1569210798327",
     "name": "Q1-Anatomy::Lecture 5 ",
     "note_models": [
         {
@@ -98,12 +98,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "incisor,",
-                "lingual",
-                "maxillary,",
-                "view,"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -122,6 +117,101 @@
             "__type__": "NoteModel",
             "crowdanki_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-6871c",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "47a2f380-e0df-11e9-a16e-3c6aa78689e9",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-ac06b",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
             "flds": [
                 {
                     "font": "Arial",
@@ -605,6 +695,438 @@
             "flags": 0,
             "guid": "Ll,[d7-yz=",
             "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name two types of epithelium cells:&nbsp;",
+                "1. covering/lining epithelium&nbsp;<div>2. glandular epithelium&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "u^tc0<[+lL",
+            "note_model_uuid": "47a2f380-e0df-11e9-a16e-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is covering/lining epithelium classified?&nbsp;",
+                "number of layers and shape"
+            ],
+            "flags": 0,
+            "guid": "D!.PLho+WV",
+            "note_model_uuid": "47a2f380-e0df-11e9-a16e-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Simple epithelium}} has a {{c2::single layer of cells}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AryFB>JX>`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Stratefied epithelium}} has two or more layers of cells.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M@Fg,L<WOM",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "squamous epithelium is {{c1::flattened::Characteristic}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "isgF!j!R]R",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cuboidal epithelium is {{c1::square::characteristic}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t/$D][SR[m",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::columnar}} epithelium has a greater height than width.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xn}#<+oi?=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Simple squamous::shape and layer}} epithelium is commonly found lining {{c2::blood vessels and body cavities}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Gc6_r;zGq&",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Stratefied squamous::shape and layer}} is typically found in the {{c2::skin and oral cavity.&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HTdWXtOy(Z",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Stratefied squamous::type of epithelial cell}} is the most resistant to abarasion.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ADbvTjgB{8",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Stratefied cuboidal::epithelial cell}} and {{c1::stratefied columnar::epithelial cell}} are {{c2::rare}}, but can be found lining {{c2::ducts}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mt}GBQNC)A",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In {{c1::pseudostratified}} epithelium all cells are attached to the basal lamina, but not all cells reach the surface.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K=i[8cN:E^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In {{c1::pseudostratified epithelium}} it appears that there are multiple layers of cells, but there arn't.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iaGHh|cv`X",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Most {{c2::pseudostratified columnar}} cells have cilia on the surface and can be found lining the {{c1::respiratory tract.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gp_{Y*)q*]",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Urothelium}} is epithelium found lining the urinary tract.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J0@C|6DCWd",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What epithilial cells undergo shape changes when the tissue is stratched?&nbsp;",
+                "urothelium&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "K^xa$vC(;(",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Epithelium in the {{c1::anal canal}}, {{c1::esophogus}}, {{c1::skin,}} and {{c1::oral cavity}} can be keratinized.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m,-i|zxG>|",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Keratin}} is a tough protein that makes cells {{c2::resistant to forces applied to them and makes tissues impermeable to water and other fluids::Two Functions}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Baj>{h$&xW",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Glandular epithelium is made up of what type of cells?&nbsp;",
+                "secretory cells&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "s8_P=Yv?$V",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are common products secreted from secretory cells?&nbsp;",
+                "Proteins, lipids, carbohydrate-protein complexes, water, and electrolytes&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "r~s&p?t04<",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Glands can be {{c1::unicellular}} or {{c1::multicellular}}. Most glands are {{c1::multicellular}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J+g$*V_FOQ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where does glandular tissue develop from? Where do glands grow into?&nbsp;",
+                "Glandular tissue develops from the lining epithelium and grow into underlying connective tissue.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "xDb9Vb$Mg_",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are septa?&nbsp;",
+                "Septa are spaces that extend into glands and divide the glands into lobules.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "B*G5Ev_^u{",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where do glands get their source of raw materials?&nbsp;",
+                "Glands get their source of raw materials from the blood vessels in septa because this is occuring at the vascularized connective tissue level.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "M,JL:`<jE-",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Glands can be classified as:&nbsp;",
+                "endocrine or exocrine&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "K}7XW!!kf<",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Exocrine::Type}} glands release products by {{c2::ducts}} onto body surfaces.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u$ed}N)LRn",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Exocrine::type}} glands retain their connection to the epithelium from which they originated, while {{c2::endocrine::type}} glands do not.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ieCKWUM`!&",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Exocrine glands are made up of two parts: {{c1::secretory portion}} and {{c1::duct&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r%GO;y;Fo+",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Exocrine glands can have many different forms: {{c1::straight tubular}}, {{c1::coiled tubular}}, {{c1::acinar}}, and {{c1::tubuloacinar}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bry$#dgz|4",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Exocrine glands have different modes of secretion: {{c1::merocrine}}, {{c1::apocrine}}, and {{c1::holocrine}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "El$8{QuCpk",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The type of exocrine secretion where there is no loss of membrane. Just the gland content is secreted.&nbsp;",
+                "Merocrine secretion&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "Mw2|>.&,S5",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Merocrine}} secretion is the most common mode of exocrine gland secretion.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l!uHP|*Yv{",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mode of secretion where granules are secreted along with portions of the glandular cell membrane.&nbsp;",
+                "apocrine secretion&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "PKb-XR5oXF",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the mode of secretion that mammary glands utilize?",
+                "apocrine secretion&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "gUKl!WN=^l",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mode of secretion where by the entire cell fills up with secretion product and then the entire cell is secreted:&nbsp;",
+                "holocrine secretion&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "MO*2::SmB",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What mode of secretion do sebacious glands release their content?&nbsp;",
+                "Holocrine secretion"
+            ],
+            "flags": 0,
+            "guid": "OQ|FnM|Dh9",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
         }
     ]
