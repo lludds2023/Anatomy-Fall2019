@@ -72,7 +72,7 @@
         "efea87a4ecad4477a77ec1a78cf13cfc-oa-O.svg",
         "tmptvch72yl.png"
     ],
-    "mid": "1569463038495",
+    "mid": "1567042635091",
     "name": "Q1-Anatomy::Lecture 6",
     "note_models": [
         {
@@ -329,7 +329,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-40061",
             "sortf": 0,
             "tags": [
                 "Anatomy::Lec6"
@@ -455,7 +455,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-9aa4b",
             "req": [
                 [
                     0,
@@ -476,6 +476,118 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0,
@@ -684,6 +796,90 @@
             "tags": [
                 "Anatomy::Lec6"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Macrophages are&nbsp;{{c1::10-30 nm}} in diameter.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DxfcZ-.h/.",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Macrophages are irregular in shape, and often possess&nbsp;{{c1::fliopodia}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L;1xILLV@-",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What conditions correctly describes a macrophage?<div>A. Basophilic, containing vacuoles and granules, centrally located nucleus that is indented and heterochromatic</div><div>B. Eosinophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic</div><div>C. Basophilic, containing vacuoles and granules, eccentric nucleus that is not indented and euchromatic</div><div>D. Basophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic</div>",
+                "D. Basophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic"
+            ],
+            "flags": 0,
+            "guid": "RJssAa2sG",
+            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Macrophages are members of the&nbsp;{{c1::mononuclear phagocyte system (MPS)}} and it arises from&nbsp;{{c1::stem cells in bone marrow}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t0y}]1UxRq",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Monocytes}} mature into macrophages under the influence of&nbsp;{{c1::M-CSF}}<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p9{%%#g.+y",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the nomenclature for macrophages in each of the locations:<div><div>Liver -&nbsp;{{c1::Kupffer cells}}</div></div><div>Lungs -&nbsp;{{c2::Dust cells or alveolar macrophages}}</div><div>Skin, mucosa -&nbsp;{{c3::Langerhans cells}}</div><div>Blood -&nbsp;{{c4::monocytes}}</div><div>Connective tissues -&nbsp;{{c5::macrophages}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p,8d`9Xs>i",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are other (not macrophage) MPS cells named in the bone? Brain?",
+                "Bone - osteoclasts<div>Brain - Microglia</div>"
+            ],
+            "flags": 0,
+            "guid": "KAK?=c^bEC",
+            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
+            "tags": []
         }
     ]
 }
