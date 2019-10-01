@@ -1,1478 +1,2539 @@
 {
-    "__type__": "Deck", 
-    "children": [], 
-    "crowdanki_uuid": "597824f4-e17c-11e9-a573-a683e769f5fb", 
-    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb", 
+    "__type__": "Deck",
+    "activeTags": [],
+    "children": [],
+    "crowdanki_uuid": "597824f4-e17c-11e9-a573-a683e769f5fb",
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
     "deck_configurations": [
         {
-            "__type__": "DeckConfig", 
-            "autoplay": true, 
-            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb", 
-            "dyn": false, 
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+            "dyn": false,
             "lapse": {
                 "delays": [
                     10
-                ], 
-                "leechAction": 0, 
-                "leechFails": 8, 
-                "minInt": 1, 
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
                 "mult": 0.0
-            }, 
-            "maxTaken": 60, 
-            "name": "Default", 
+            },
+            "maxTaken": 60,
+            "name": "Default",
             "new": {
-                "bury": false, 
+                "bury": false,
                 "delays": [
-                    1, 
+                    1,
                     10
-                ], 
-                "initialFactor": 2500, 
+                ],
+                "initialFactor": 2500,
                 "ints": [
-                    1, 
-                    1, 
+                    1,
+                    1,
                     7
-                ], 
-                "order": 1, 
-                "perDay": 500, 
+                ],
+                "order": 1,
+                "perDay": 500,
                 "separate": true
-            }, 
-            "replayq": true, 
+            },
+            "replayq": true,
             "rev": {
-                "bury": false, 
-                "ease4": 1.3, 
-                "fuzz": 0.05, 
-                "hardFactor": 1.2, 
-                "ivlFct": 1.0, 
-                "maxIvl": 36500, 
-                "minSpace": 1, 
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
                 "perDay": 200
-            }, 
+            },
             "timer": 0
         }
-    ], 
-    "desc": "", 
-    "dyn": 0, 
-    "extendNew": 10, 
-    "extendRev": 50, 
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "inactiveTags": [
+        "Anatomy::Lec6"
+    ],
     "media_files": [
-        "efea87a4ecad4477a77ec1a78cf13cfc-oa-1-A.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-3-A.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-1-A.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-5-Q.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-3-Q.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-1-Q.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-2-A.svg", 
-        "efea87a4ecad4477a77ec1a78cf13cfc-oa-O.svg", 
-        "tmptvch72yl.png", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-4-A.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-2-Q.svg", 
-        "efea87a4ecad4477a77ec1a78cf13cfc-oa-1-Q.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-O.svg", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-4-Q.svg", 
-        "Screen Shot 2019-09-29 at 12.33.10 PM.png", 
-        "ac16a8a2a5c645e58be10a04be19762b-ao-5-A.svg"
-    ], 
-    "mid": "1567809318563", 
-    "name": "Q1-Anatomy::Lecture 6", 
+        "06a8d7cf20a34988a0e63958b865523e-oa-1-A.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-1-Q.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-2-A.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-2-Q.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-3-A.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-3-Q.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-4-A.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-4-Q.svg",
+        "06a8d7cf20a34988a0e63958b865523e-oa-O.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-1-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-1-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-10-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-10-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-11-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-11-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-12-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-12-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-13-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-13-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-14-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-14-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-2-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-2-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-3-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-3-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-4-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-4-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-5-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-5-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-6-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-6-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-7-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-7-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-8-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-8-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-9-A.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-9-Q.svg",
+        "32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-1-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-1-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-2-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-2-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-3-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-3-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-4-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-4-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-5-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-5-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-6-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-6-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-7-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-7-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-8-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-8-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-9-A.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-9-Q.svg",
+        "38d6964d33a546a592abd94b1b6341c3-ao-O.svg",
+        "Screen Shot 2019-09-29 at 12.33.10 PM.png",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-1-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-1-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-2-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-2-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-3-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-3-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-4-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-4-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-5-A.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-5-Q.svg",
+        "ac16a8a2a5c645e58be10a04be19762b-ao-O.svg",
+        "efea87a4ecad4477a77ec1a78cf13cfc-oa-1-A.svg",
+        "efea87a4ecad4477a77ec1a78cf13cfc-oa-1-Q.svg",
+        "efea87a4ecad4477a77ec1a78cf13cfc-oa-O.svg",
+        "tmp_d7euycy.png",
+        "tmpdz5r8mjp.png",
+        "tmpnhpot_j5.png",
+        "tmptvch72yl.png"
+    ],
+    "mid": "1561598557140",
+    "name": "Q1-Anatomy::Lecture 6",
     "note_models": [
         {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "56ad5b94-e2f2-11e9-9914-a683e744b8d5", 
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n", 
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "ID (hidden)", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
-                }, 
+                },
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Header", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Image", 
-                    "ord": 2, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Question Mask", 
-                    "ord": 3, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Footer", 
-                    "ord": 4, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Remarks", 
-                    "ord": 5, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Sources", 
-                    "ord": 6, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra 1", 
-                    "ord": 7, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra 2", 
-                    "ord": 8, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Answer Mask", 
-                    "ord": 9, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Original Mask", 
-                    "ord": 10, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
                 }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Image Occlusion Enhanced-31d26", 
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-32732",
             "req": [
                 [
-                    0, 
-                    "all", 
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-467b5",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "56ad5b94-e2f2-11e9-9914-a683e744b8d5",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-31d26",
+            "req": [
+                [
+                    0,
+                    "all",
                     [
                         2
                     ]
                 ]
-            ], 
-            "sortf": 1, 
-            "tags": [], 
+            ],
+            "sortf": 1,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "IO Card", 
-                    "ord": 0, 
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
-            ], 
-            "type": 0, 
+            ],
+            "type": 0,
             "vers": []
-        }, 
+        },
         {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
             "flds": [
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Front", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
-                }, 
+                },
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Back", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
                 }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic (and reversed card)-d4a43", 
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-40061",
+            "sortf": 0,
+            "tags": [
+                "Anatomy::Lec6"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-9aa4b",
             "req": [
                 [
-                    0, 
-                    "all", 
+                    0,
+                    "all",
                     [
-                        0
-                    ]
-                ], 
-                [
-                    1, 
-                    "all", 
-                    [
-                        1
+                        2
                     ]
                 ]
-            ], 
-            "sortf": 0, 
-            "tags": [], 
+            ],
+            "sortf": 1,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Card 1", 
-                    "ord": 0, 
-                    "qfmt": "{{Front}}"
-                }, 
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Card 2", 
-                    "ord": 1, 
-                    "qfmt": "{{Back}}"
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
-            ], 
-            "type": 0, 
+            ],
+            "type": 0,
             "vers": []
-        }, 
+        },
         {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}", 
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
             "flds": [
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Text", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": true
-                }, 
+                },
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
                 }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze", 
-            "sortf": 0, 
-            "tags": [], 
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Cloze", 
-                    "ord": 0, 
-                    "qfmt": "{{cloze:Text}}", 
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
                     "scratchPad": true
                 }
-            ], 
-            "type": 1, 
+            ],
+            "type": 1,
             "vers": []
-        }, 
+        },
         {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Front", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
-                }, 
+                },
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Back", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
                 }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic-32732", 
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)-8d36b",
             "req": [
                 [
-                    0, 
-                    "all", 
+                    0,
+                    "all",
                     [
                         0
                     ]
-                ]
-            ], 
-            "sortf": 0, 
-            "tags": [], 
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Card 1", 
-                    "ord": 0, 
-                    "qfmt": "{{Front}}"
-                }
-            ], 
-            "type": 0, 
-            "vers": []
-        }, 
-        {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}", 
-            "flds": [
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Text", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze-467b5", 
-            "sortf": 0, 
-            "tags": [], 
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Cloze", 
-                    "ord": 0, 
-                    "qfmt": "{{cloze:Text}}"
-                }
-            ], 
-            "type": 1, 
-            "vers": []
-        }, 
-        {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf", 
-            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n", 
-            "flds": [
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "ID (hidden)", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Header", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Image", 
-                    "ord": 2, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Question Mask", 
-                    "ord": 3, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Footer", 
-                    "ord": 4, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Remarks", 
-                    "ord": 5, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Sources", 
-                    "ord": 6, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra 1", 
-                    "ord": 7, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra 2", 
-                    "ord": 8, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Answer Mask", 
-                    "ord": 9, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Original Mask", 
-                    "ord": 10, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Image Occlusion Enhanced-9aa4b", 
-            "req": [
+                ],
                 [
-                    0, 
-                    "all", 
-                    [
-                        2
-                    ]
-                ]
-            ], 
-            "sortf": 1, 
-            "tags": [], 
-            "tmpls": [
-                {
-                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "IO Card", 
-                    "ord": 0, 
-                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
-                }
-            ], 
-            "type": 0, 
-            "vers": []
-        }, 
-        {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "c8a328a2-e33b-11e9-925d-acde48001122", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n", 
-            "flds": [
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Front", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }, 
-                {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Back", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
-                    "sticky": false
-                }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Basic (and reversed card)-8d36b", 
-            "req": [
-                [
-                    0, 
-                    "all", 
-                    [
-                        0
-                    ]
-                ], 
-                [
-                    1, 
-                    "all", 
+                    1,
+                    "all",
                     [
                         1
                     ]
                 ]
-            ], 
-            "sortf": 0, 
-            "tags": [], 
+            ],
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Card 1", 
-                    "ord": 0, 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
                     "qfmt": "{{Front}}"
-                }, 
+                },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Card 2", 
-                    "ord": 1, 
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
                     "qfmt": "{{Back}}"
                 }
-            ], 
-            "type": 0, 
+            ],
+            "type": 0,
             "vers": []
-        }, 
+        },
         {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}", 
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Text", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
-                }, 
+                },
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
                 }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze-40061", 
-            "sortf": 0, 
-            "tags": [
-                "Anatomy::Lec6"
-            ], 
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)-d4a43",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Cloze", 
-                    "ord": 0, 
-                    "qfmt": "{{cloze:Text}}"
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
-            ], 
-            "type": 1, 
+            ],
+            "type": 0,
             "vers": []
-        }, 
+        },
         {
-            "__type__": "NoteModel", 
-            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
-            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n", 
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n",
             "flds": [
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Text", 
-                    "ord": 0, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": true
-                }, 
+                },
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Extra", 
-                    "ord": 1, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": false
-                }, 
+                },
                 {
-                    "font": "Arial", 
-                    "media": [], 
-                    "name": "Hide others on the back side", 
-                    "ord": 2, 
-                    "rtl": false, 
-                    "size": 20, 
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Hide others on the back side",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
                     "sticky": true
                 }
-            ], 
-            "latexPost": "\\end{document}", 
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Cloze (Hide all)", 
-            "sortf": 0, 
-            "tags": [], 
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (Hide all)",
+            "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}", 
-                    "bafmt": "", 
-                    "bqfmt": "", 
-                    "did": null, 
-                    "name": "Cloze (Hide all)", 
-                    "ord": 0, 
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze (Hide all)",
+                    "ord": 0,
                     "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
                 }
-            ], 
-            "type": 1, 
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
             "vers": []
         }
-    ], 
+    ],
     "notes": [
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "What are the functions of connective tissue? (There are 5--D.A.M.S.S.)", 
+                "What are the functions of connective tissue? (There are 5--D.A.M.S.S.)",
                 "1. Defense/protection of the body<div>2. Attachemnt for epithelia</div><div>3. Medium for exchange (nutrients, waste, metabolites)</div><div>4. Structural support</div><div>5. Storage for energy (fats)&nbsp;</div><div><div><br></div></div>"
-            ], 
-            "flags": 0, 
-            "guid": "nYaE.[oN9^", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "nYaE.[oN9^",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Fibroblasts::type of cell}} are derived from mesenchymal cells.", 
+                "{{c1::Fibroblasts::type of cell}} are derived from mesenchymal cells.",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "ND>^r!fL95", 
-            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "ND>^r!fL95",
+            "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "efea87a4ecad4477a77ec1a78cf13cfc-oa-1", 
-                "", 
-                "<img src=\"Screen Shot 2019-09-29 at 12.33.10 PM.png\" />", 
-                "<img src=\"efea87a4ecad4477a77ec1a78cf13cfc-oa-1-Q.svg\" />", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "<img src=\"efea87a4ecad4477a77ec1a78cf13cfc-oa-1-A.svg\" />", 
+                "efea87a4ecad4477a77ec1a78cf13cfc-oa-1",
+                "",
+                "<img src=\"Screen Shot 2019-09-29 at 12.33.10 PM.png\" />",
+                "<img src=\"efea87a4ecad4477a77ec1a78cf13cfc-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"efea87a4ecad4477a77ec1a78cf13cfc-oa-1-A.svg\" />",
                 "<img src=\"efea87a4ecad4477a77ec1a78cf13cfc-oa-O.svg\" />"
-            ], 
-            "flags": 0, 
-            "guid": "ilU+=uP9|P", 
-            "note_model_uuid": "56ad5b94-e2f2-11e9-9914-a683e744b8d5", 
+            ],
+            "flags": 0,
+            "guid": "ilU+=uP9|P",
+            "note_model_uuid": "56ad5b94-e2f2-11e9-9914-a683e744b8d5",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "<div>Inactive {{c2::fibroblasts}} (sometimes called {{c1::fibrocytes}}) are smaller, with less evidence of protein machinery</div>", 
+                "<div>Inactive {{c2::fibroblasts}} (sometimes called {{c1::fibrocytes}}) are smaller, with less evidence of protein machinery</div>",
                 "Lec 6 slide 5"
-            ], 
-            "flags": 0, 
-            "guid": "oq_q4w4Xx*", 
-            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "oq_q4w4Xx*",
+            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "<div>❑mast cells</div> <div>20 to 30 mm in diameter</div> <div>{{c1::ovoid}}, with central spherical nucleus</div> <div>derive from {{c2::marrow}} precursors</div> <div>cytoplasm filled with {{c4::basophilic}} granules containing {{c3::heparin, histamine, proteases}} and other compounds</div> <div>activated by binding of {{c5::IgE::An immunoglobulin}} to Fc receptors in response to the presence of foreign antigens (e.g. pollen, bee venom, drugs)</div> <div><br></div>", 
+                "<div>❑mast cells</div> <div>20 to 30 mm in diameter</div> <div>{{c1::ovoid}}, with central spherical nucleus</div> <div>derive from {{c2::marrow}} precursors</div> <div>cytoplasm filled with {{c4::basophilic}} granules containing {{c3::heparin, histamine, proteases}} and other compounds</div> <div>activated by binding of {{c5::IgE::An immunoglobulin}} to Fc receptors in response to the presence of foreign antigens (e.g. pollen, bee venom, drugs)</div> <div><br></div>",
                 "slide 15"
-            ], 
-            "flags": 0, 
-            "guid": "Iyl&uA*u?z", 
-            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "Iyl&uA*u?z",
+            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "ac16a8a2a5c645e58be10a04be19762b-ao-1", 
-                "", 
-                "<img src=\"tmptvch72yl.png\" />", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-1-Q.svg\" />", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-1-A.svg\" />", 
+                "ac16a8a2a5c645e58be10a04be19762b-ao-1",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-1-A.svg\" />",
                 "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
-            ], 
-            "flags": 0, 
-            "guid": "Q;qt&fG[5-", 
-            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "Q;qt&fG[5-",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "ac16a8a2a5c645e58be10a04be19762b-ao-2", 
-                "", 
-                "<img src=\"tmptvch72yl.png\" />", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-2-Q.svg\" />", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-2-A.svg\" />", 
+                "ac16a8a2a5c645e58be10a04be19762b-ao-2",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-2-A.svg\" />",
                 "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
-            ], 
-            "flags": 0, 
-            "guid": "f8D.7BB?!R", 
-            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "f8D.7BB?!R",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "ac16a8a2a5c645e58be10a04be19762b-ao-3", 
-                "", 
-                "<img src=\"tmptvch72yl.png\" />", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-3-Q.svg\" />", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-3-A.svg\" />", 
+                "ac16a8a2a5c645e58be10a04be19762b-ao-3",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-3-A.svg\" />",
                 "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
-            ], 
-            "flags": 0, 
-            "guid": "tEMWyYj,kv", 
-            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "tEMWyYj,kv",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "ac16a8a2a5c645e58be10a04be19762b-ao-4", 
-                "", 
-                "<img src=\"tmptvch72yl.png\" />", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-4-Q.svg\" />", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-4-A.svg\" />", 
+                "ac16a8a2a5c645e58be10a04be19762b-ao-4",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-4-A.svg\" />",
                 "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
-            ], 
-            "flags": 0, 
-            "guid": "uxZ4h(fyCi", 
-            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "uxZ4h(fyCi",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "ac16a8a2a5c645e58be10a04be19762b-ao-5", 
-                "", 
-                "<img src=\"tmptvch72yl.png\" />", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-5-Q.svg\" />", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-5-A.svg\" />", 
+                "ac16a8a2a5c645e58be10a04be19762b-ao-5",
+                "",
+                "<img src=\"tmptvch72yl.png\" />",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-5-A.svg\" />",
                 "<img src=\"ac16a8a2a5c645e58be10a04be19762b-ao-O.svg\" />"
-            ], 
-            "flags": 0, 
-            "guid": "lf(Hr?A42,", 
-            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "lf(Hr?A42,",
+            "note_model_uuid": "87fe1f64-e313-11e9-8625-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "<div>❑plasma cells</div> <div>activated {{c1::B lymphocytes}}</div> <div>{{c2::ovoid}} cells, with eccentrically placed nuclei with “{{c3::clock face}}” or “{{c3::cartwheel}}” appearance</div> <div>intensely basophilic, lots of {{c4::RER}} </div> <div>produce {{c5::antibodies}}</div>", 
+                "<div>❑plasma cells</div> <div>activated {{c1::B lymphocytes}}</div> <div>{{c2::ovoid}} cells, with eccentrically placed nuclei with “{{c3::clock face}}” or “{{c3::cartwheel}}” appearance</div> <div>intensely basophilic, lots of {{c4::RER}} </div> <div>produce {{c5::antibodies}}</div>",
                 "slide 17"
-            ], 
-            "flags": 0, 
-            "guid": "i$7_)|{~[*", 
-            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf", 
+            ],
+            "flags": 0,
+            "guid": "i$7_)|{~[*",
+            "note_model_uuid": "0664cd10-e311-11e9-8849-38f9d349b8cf",
             "tags": [
                 "Anatomy::Lec6"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Macrophages are&nbsp;{{c1::10-30 nm}} in diameter.", 
+                "Macrophages are&nbsp;{{c1::10-30 nm}} in diameter.",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "DxfcZ-.h/.", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "DxfcZ-.h/.",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Macrophages are irregular in shape, and often possess&nbsp;{{c1::fliopodia}}", 
+                "Macrophages are irregular in shape, and often possess&nbsp;{{c1::fliopodia}}",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "L;1xILLV@-", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "L;1xILLV@-",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "What conditions correctly describes a macrophage?<div>A. Basophilic, containing vacuoles and granules, centrally located nucleus that is indented and heterochromatic</div><div>B. Eosinophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic</div><div>C. Basophilic, containing vacuoles and granules, eccentric nucleus that is not indented and euchromatic</div><div>D. Basophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic</div>", 
+                "What conditions correctly describes a macrophage?<div>A. Basophilic, containing vacuoles and granules, centrally located nucleus that is indented and heterochromatic</div><div>B. Eosinophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic</div><div>C. Basophilic, containing vacuoles and granules, eccentric nucleus that is not indented and euchromatic</div><div>D. Basophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic</div>",
                 "D. Basophilic, containing vacuoles and granules, eccentric nucleus that is indented and heterochromatic"
-            ], 
-            "flags": 0, 
-            "guid": "RJssAa2sG", 
-            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "RJssAa2sG",
+            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Macrophages are members of the&nbsp;{{c1::mononuclear phagocyte system (MPS)}} and it arises from&nbsp;{{c1::stem cells in bone marrow}}", 
+                "Macrophages are members of the&nbsp;{{c1::mononuclear phagocyte system (MPS)}} and it arises from&nbsp;{{c1::stem cells in bone marrow}}",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "t0y}]1UxRq", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "t0y}]1UxRq",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Monocytes}} mature into macrophages under the influence of&nbsp;{{c1::M-CSF}}<br>", 
+                "{{c1::Monocytes}} mature into macrophages under the influence of&nbsp;{{c1::M-CSF}}<br>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "p9{%%#g.+y", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "p9{%%#g.+y",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "What is the nomenclature for macrophages in each of the locations:<div><div>Liver -&nbsp;{{c1::Kupffer cells}}</div></div><div>Lungs -&nbsp;{{c2::Dust cells or alveolar macrophages}}</div><div>Skin, mucosa -&nbsp;{{c3::Langerhans cells}}</div><div>Blood -&nbsp;{{c4::monocytes}}</div><div>Connective tissues -&nbsp;{{c5::macrophages}}</div>", 
+                "What is the nomenclature for macrophages in each of the locations:<div><div>Liver -&nbsp;{{c1::Kupffer cells}}</div></div><div>Lungs -&nbsp;{{c2::Dust cells or alveolar macrophages}}</div><div>Skin, mucosa -&nbsp;{{c3::Langerhans cells}}</div><div>Blood -&nbsp;{{c4::monocytes}}</div><div>Connective tissues -&nbsp;{{c5::macrophages}}</div>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "p,8d`9Xs>i", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "p,8d`9Xs>i",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "What are other (not macrophage) MPS cells named in the bone? Brain?", 
+                "What are other (not macrophage) MPS cells named in the bone? Brain?",
                 "Bone - osteoclasts<div>Brain - Microglia</div>"
-            ], 
-            "flags": 0, 
-            "guid": "KAK?=c^bEC", 
-            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "KAK?=c^bEC",
+            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Myofibroblasts}} are sometimes considered to be intermediates between {{c2::fibroblasts::cell type}} and {{c2::smooth muscle cells::cell type}}.&nbsp;", 
+                "{{c1::Myofibroblasts}} are sometimes considered to be intermediates between {{c2::fibroblasts::cell type}} and {{c2::smooth muscle cells::cell type}}.&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "GElluuvoNA", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "GElluuvoNA",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Myofibroblasts::cell type}} possess bundles of actin and myosin like smooth muscle cells, but shape is similar to fibroblasts.&nbsp;&nbsp;", 
+                "{{c1::Myofibroblasts::cell type}} possess bundles of actin and myosin like smooth muscle cells, but shape is similar to fibroblasts.&nbsp;&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "d/W_=6PW:]", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "d/W_=6PW:]",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "What type of cell is abundant in wound healing?&nbsp;", 
+                "What type of cell is abundant in wound healing?&nbsp;",
                 "myofibroblasts&nbsp;"
-            ], 
-            "flags": 0, 
-            "guid": "A<[h2d`N?+", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "A<[h2d`N?+",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "What cell type is found in periodontal ligaments and thought to be assosciated with tooth eruption?&nbsp;", 
+                "What cell type is found in periodontal ligaments and thought to be assosciated with tooth eruption?&nbsp;",
                 "Myofibroblasts&nbsp;"
-            ], 
-            "flags": 0, 
-            "guid": "L?Jdgl4(]_", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "L?Jdgl4(]_",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Myofibroblasts can be found in {{c1::periodontal ligaments::area in oral cavity}}&nbsp;", 
+                "Myofibroblasts can be found in {{c1::periodontal ligaments::area in oral cavity}}&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "A{+ey9#`$e", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "A{+ey9#`$e",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Pericytes are derived from {{c1::mesenchymal cells}}&nbsp;", 
+                "Pericytes are derived from {{c1::mesenchymal cells}}&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "k/tMx$6V*t", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "k/tMx$6V*t",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Pericytes surround endothelial cells of {{c1::capillaries}} and {{c1::small venules}}", 
+                "Pericytes surround endothelial cells of {{c1::capillaries}} and {{c1::small venules}}",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "gI$zRQwgNB", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "gI$zRQwgNB",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Pericytes can differentiate into vascular {{c1::smooth muscle cells}}, {{c1::fibroblasts}}, {{c1::adipocytes}}, {{c1::neural cells}}, {{c1::glial cells}}, and {{c1::skeletal muscle fibers}}.&nbsp;", 
+                "Pericytes can differentiate into vascular {{c1::smooth muscle cells}}, {{c1::fibroblasts}}, {{c1::adipocytes}}, {{c1::neural cells}}, {{c1::glial cells}}, and {{c1::skeletal muscle fibers}}.&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "s4eO{aPJx8", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "s4eO{aPJx8",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::pericytes}} have {{c2::contractile properties}}- faciltate blood flow", 
+                "{{c1::pericytes}} have {{c2::contractile properties}}- faciltate blood flow",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "D1.b*+<?~q", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "D1.b*+<?~q",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "These cells are surrounded by basal lamina, but are separate from connective tissue.&nbsp;", 
+                "These cells are surrounded by basal lamina, but are separate from connective tissue.&nbsp;",
                 "Pericytes"
-            ], 
-            "flags": 0, 
-            "guid": "I]57-{QGxL", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "I]57-{QGxL",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "These cells are intermediates between endothelial cells and smooth muscle cells:", 
+                "These cells are intermediates between endothelial cells and smooth muscle cells:",
                 "Pericytes&nbsp;"
-            ], 
-            "flags": 0, 
-            "guid": "tC+i.:Le4c", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "tC+i.:Le4c",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "T/F Pericytes are intermediates between fibroblasts and smooth muscle cells.&nbsp;", 
+                "T/F Pericytes are intermediates between fibroblasts and smooth muscle cells.&nbsp;",
                 "<u>False:&nbsp;</u><div><b>Pericytes</b> are intermediates between endothelial cells and smooth muscle cells</div><div><b>Myofibroblasts</b> are intermediates between fibroblasts and smooth muscle cells</div>"
-            ], 
-            "flags": 0, 
-            "guid": "q3JfWzh!@s", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "q3JfWzh!@s",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Adipose cells are derived from {{c1::mesenchymal cells}}&nbsp;", 
+                "Adipose cells are derived from {{c1::mesenchymal cells}}&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "kf@=xI]uCQ", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "kf@=xI]uCQ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "T/F Adipose cells are post-mitotic, terminally differntiated&nbsp;", 
+                "T/F Adipose cells are post-mitotic, terminally differntiated&nbsp;",
                 "True&nbsp;"
-            ], 
-            "flags": 0, 
-            "guid": "Fp-5UQ*e2j", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "Fp-5UQ*e2j",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "What are the functions of Adipose cells?&nbsp;", 
+                "What are the functions of Adipose cells?&nbsp;",
                 "1. synthesis and storage of triglycerides&nbsp;<div>2. production of estrogen and leptin&nbsp;</div>"
-            ], 
-            "flags": 0, 
-            "guid": "c3$&3mX$WF", 
-            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516", 
+            ],
+            "flags": 0,
+            "guid": "c3$&3mX$WF",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "The two types of adipose fat cells are: {{c1::unilocular}} and {{c1::multilocular}}", 
+                "The two types of adipose fat cells are: {{c1::unilocular}} and {{c1::multilocular}}",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "CL3|%%/imU", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "CL3|%%/imU",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Unilocular}} fat cells are one single lipid droplet that fills the entire cell. Known as {{c1::\"white fat\"&nbsp;}}", 
+                "{{c1::Unilocular}} fat cells are one single lipid droplet that fills the entire cell. Known as {{c1::\"white fat\"&nbsp;}}",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "w|Cx)nJdj.", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "w|Cx)nJdj.",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Multilocular}} fat cells contain many small lipid droplets in the cytoplasm. Known as {{c1::\"brown fat\"}}&nbsp;", 
+                "{{c1::Multilocular}} fat cells contain many small lipid droplets in the cytoplasm. Known as {{c1::\"brown fat\"}}&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "t7-pt/Hy:X", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "t7-pt/Hy:X",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Multilocular}} fat cells have large numbers of {{c2::mitochondria}} and are involved in heat generation.&nbsp;", 
+                "{{c1::Multilocular}} fat cells have large numbers of {{c2::mitochondria}} and are involved in heat generation.&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "zF,jd$YoOJ", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "zF,jd$YoOJ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Unimolecular::Unilocular or multilocular}} adipocytes are {{c2::spherical::shape}}, cells appear polyhedral when packed together {{c2::(\"chicken wire\")::What do these cells look like when packed together?}}; nucelus and cytoplasm are displaced {{c3::peripherally:: location}}, golgi is present, sparse {{c4::mitochondria and RER::what organelles are sparse}}, abundant free ribosomes.&nbsp;", 
+                "{{c1::Unimolecular::Unilocular or multilocular}} adipocytes are {{c2::spherical::shape}}, cells appear polyhedral when packed together {{c2::(\"chicken wire\")::What do these cells look like when packed together?}}; nucelus and cytoplasm are displaced {{c3::peripherally:: location}}, golgi is present, sparse {{c4::mitochondria and RER::what organelles are sparse}}, abundant free ribosomes.&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "P9w&bSsUM/", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "P9w&bSsUM/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Multilocular adipocytes are {{c1::smaller::smaller or larger}} than unilocular adipocytes.&nbsp;", 
+                "Multilocular adipocytes are {{c1::smaller::smaller or larger}} than unilocular adipocytes.&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "pn|[4^4j|Z", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "pn|[4^4j|Z",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "{{c1::Multilocular}} adipocytes are more polygonal, nucleus is {{c2::central::location}} and sperical, multiple small lipid droplets, SER, no {{c2::RER::organelle}}.&nbsp;", 
+                "{{c1::Multilocular}} adipocytes are more polygonal, nucleus is {{c2::central::location}} and sperical, multiple small lipid droplets, SER, no {{c2::RER::organelle}}.&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "P3W;5PklDI", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "P3W;5PklDI",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "macrophages can fuse to form&nbsp;", 
+                "macrophages can fuse to form&nbsp;",
                 "foreign-body giant cells"
-            ], 
-            "flags": 0, 
-            "guid": "obaYb73{Uj", 
-            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "obaYb73{Uj",
+            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "what is the role of macrophages", 
+                "what is the role of macrophages",
                 "phagocytosis of senescent, damaged and dead cells, and cellular debris, foreign substances and microorganisms, and also act as antigen-presenting cells (APC's)"
-            ], 
-            "flags": 0, 
-            "guid": "cx!{xNH2jM", 
-            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e", 
+            ],
+            "flags": 0,
+            "guid": "cx!{xNH2jM",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Mast cells are {{c1::ovoid::type of shape}} with central {{c2::spherical::type of shape}} nucleus.", 
+                "Mast cells are {{c1::ovoid::type of shape}} with central {{c2::spherical::type of shape}} nucleus.",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "nF(wTpw<(O", 
-            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e", 
+            ],
+            "flags": 0,
+            "guid": "nF(wTpw<(O",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "The cytoplams of mast cells contains basophilic granules. What are the common ones?", 
+                "The cytoplams of mast cells contains basophilic granules. What are the common ones?",
                 "heparin and histamine"
-            ], 
-            "flags": 0, 
-            "guid": "k2AIp@>X^>", 
-            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e", 
+            ],
+            "flags": 0,
+            "guid": "k2AIp@>X^>",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Mast cells are activated by binding of {{c1::IgE::IgE/Fc}} to {{c2::Fc::IgE/Fc}} receptors in response to the presence of {{c3::foreign::non-foreign/foreign}} antigens.&nbsp;", 
+                "Mast cells are activated by binding of {{c1::IgE::IgE/Fc}} to {{c2::Fc::IgE/Fc}} receptors in response to the presence of {{c3::foreign::non-foreign/foreign}} antigens.&nbsp;",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "eR{MqP0Ty(", 
-            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e", 
+            ],
+            "flags": 0,
+            "guid": "eR{MqP0Ty(",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "This is for practice&nbsp;", 
+                "This is for practice&nbsp;",
                 "Sorry&nbsp;"
-            ], 
-            "flags": 0, 
-            "guid": "CU54_KlG*m", 
-            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e", 
+            ],
+            "flags": 0,
+            "guid": "CU54_KlG*m",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Components</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::Fibers}}</div><div>{{c2::Ground substance}}</div></blockquote>", 
+                "Extracellular Matrix<div><br /></div><div>Components</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::Fibers}}</div><div>{{c2::Ground substance}}</div></blockquote>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "b}g5%@C{W/", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "b}g5%@C{W/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::Collagen}}: Great tensile strength but inelastic</div><div>{{c2::Reticular fibers}}: form network</div><div>{{c3::Elastic fibers}}: Highly elastic</div></blockquote>", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::Collagen}}: Great tensile strength but inelastic</div><div>{{c2::Reticular fibers}}: form network</div><div>{{c3::Elastic fibers}}: Highly elastic</div></blockquote>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "qQsi]bRIIt", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "qQsi]bRIIt",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Most abundant Protein in the body: {{c1::Collagen}}", 
+                "Most abundant Protein in the body: {{c1::Collagen}}",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "P4Zb%G>(G`", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "P4Zb%G>(G`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
                 "Superlative"
             ]
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Most abundant</cloze2>::superlative protein}} in the body</div><div>Load bearing characteristic:</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>in</cloze2>::yes/no}}elastic</div><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>great</cloze2>::good/bad}} tensile strength</div></blockquote>Composition:&nbsp;</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Subunits of {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>tropocollagen</cloze2>}}</blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>3</cloze2>::#}} chains</blockquote></blockquote>Many types, differ in: {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>amino acid</cloze2>}} sequence of {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>alpha-chains</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><br /></blockquote></blockquote>", 
-                "", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Most abundant</cloze2>::superlative protein}} in the body</div><div>Load bearing characteristic:</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>in</cloze2>::yes/no}}elastic</div><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>great</cloze2>::good/bad}} tensile strength</div></blockquote>Composition:&nbsp;</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Subunits of {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>tropocollagen</cloze2>}}</blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>3</cloze2>::#}} chains</blockquote></blockquote>Many types, differ in: {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>amino acid</cloze2>}} sequence of {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>alpha-chains</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><br /></blockquote></blockquote>",
+                "",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "emCYhX:ZEX", 
-            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "emCYhX:ZEX",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Most abundant type: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Type I</cloze2>}}</blockquote>", 
-                "", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Most abundant type: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>Type I</cloze2>}}</blockquote>",
+                "",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "q2>(755}h3", 
-            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "q2>(755}h3",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Structure: Collagen type<br /><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">CT proper: Type {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Bone: Type {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Dentin: Type {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Cementum: Type {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Cartilage: Type {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>II</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Reticular fibers: Type {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>III</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Basal Lamina: Type {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>IV</cloze2>}}</blockquote></div>", 
-                "", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Structure: Collagen type<br /><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">CT proper: Type {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Bone: Type {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Dentin: Type {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Cementum: Type {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>I</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Cartilage: Type {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>II</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Reticular fibers: Type {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>III</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Basal Lamina: Type {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>IV</cloze2>}}</blockquote></div>",
+                "",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "fCpa-!tK:o", 
-            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "fCpa-!tK:o",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Collagen type: structure<br /><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type I: Widespread, CT Proper, bone, dentin, cementum</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type II: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>cartilage</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type III: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Reticular fibers</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type IV: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Basal lamina</cloze2>}}</blockquote></div>", 
-                "", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Collagen type: structure<br /><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type I: Widespread, CT Proper, bone, dentin, cementum</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type II: {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>cartilage</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type III: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Reticular fibers</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Type IV: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Basal lamina</cloze2>}}</blockquote></div>",
+                "",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "i(>=u4J|$|", 
-            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122", 
+            ],
+            "flags": 0,
+            "guid": "i(>=u4J|$|",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Categories:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Fibrils: {{c1::Type I}}</div><div>Fibril associated: {{c2::!FACIT::abbreviation}} ({{c3::Fibril-associated collagens with interrupted triple helices::full name}})</div><div>Collagen forming anchoring: {{c4::Type VII}}</div><div>Collagen forming networks: {{c5::Type IV}}</div></blockquote>", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Categories:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Fibrils: {{c1::Type I}}</div><div>Fibril associated: {{c2::!FACIT::abbreviation}} ({{c3::Fibril-associated collagens with interrupted triple helices::full name}})</div><div>Collagen forming anchoring: {{c4::Type VII}}</div><div>Collagen forming networks: {{c5::Type IV}}</div></blockquote>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "CMVaS`vKl&", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "CMVaS`vKl&",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Categories:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::Fibril associated}}</div><div><br /></div><div>Function: Binds fibrils to&nbsp;</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c2::each other}}</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>or</div></blockquote>{{c3::other matrix components}}</blockquote>Abbreviation: {{c4::FACIT (FAH-keet)}}</blockquote>", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div>Categories:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c1::Fibril associated}}</div><div><br /></div><div>Function: Binds fibrils to&nbsp;</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c2::each other}}</div></blockquote></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>or</div></blockquote>{{c3::other matrix components}}</blockquote>Abbreviation: {{c4::FACIT (FAH-keet)}}</blockquote>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "DlN,ZF[&Ts", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "DlN,ZF[&Ts",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div><br /></div><div>Forming anchoring fibrils:&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Type: {{c1::VII}}</div><div>Binds {{c2::basal lamina}} to {{c3::reticular fibers}} (Type {{c4::III}})</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote>", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div><br /></div><div>Forming anchoring fibrils:&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Type: {{c1::VII}}</div><div>Binds {{c2::basal lamina}} to {{c3::reticular fibers}} (Type {{c4::III}})</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "EA@=`pE}$D", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "EA@=`pE}$D",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
-        }, 
+        },
         {
-            "__type__": "Note", 
-            "data": "", 
+            "__type__": "Note",
+            "data": "",
             "fields": [
-                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div><br /></div><div>Forming networks:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Type: {{c1::IV}}</div><div>Forms {{c3::meshwork}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>major part of {{c4::basal lamina}}</div></blockquote></blockquote>", 
+                "Extracellular Matrix<div><br /></div><div>Fibers:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 40px; border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; \"><div><br /></div></blockquote>Collagen<div><br /></div><div>Forming networks:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Type: {{c1::IV}}</div><div>Forms {{c3::meshwork}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>major part of {{c4::basal lamina}}</div></blockquote></blockquote>",
                 ""
-            ], 
-            "flags": 0, 
-            "guid": "vwWjzCL@;l", 
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb", 
+            ],
+            "flags": 0,
+            "guid": "vwWjzCL@;l",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fibers<div><br></div><div>Reticular Fibers</div><div><br></div><div>Very slender glycosylated fibers of {{c1::type III collagen}}</div><div>Not visible with H&amp;E, need {{c2::silver stain}}</div><div>Form framework for {{c3::liver, endocrine, lymphatic, and hematopoietic}} tissues</div><div>Secreted by {{c4::reticular cells}}</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hV9G-AYB~I",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fibers<div><br></div><div>{{c1::Elastic Fibers}}</div><div><br></div><div>Thinner than {{c2::collagen}}</div><div>Composed of {{c4::elastin}} and {{c3::microfibrils (microfibrillar-associated glycoproteins, fibrillin, fibullin)}}</div><div>Highly {{c5::elastic- stretched 150% of resting length}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u~2sB~2f/O",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F: Elastic fibers are collagen",
+                "False. Elastic fibers are not collagen. They are made of elastin and microfibrils"
+            ],
+            "flags": 0,
+            "guid": "lzMWU~V/|o",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "06a8d7cf20a34988a0e63958b865523e-oa-1",
+                "",
+                "<img src=\"tmpdz5r8mjp.png\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-1-A.svg\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "A2&1>It0Bz",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "06a8d7cf20a34988a0e63958b865523e-oa-2",
+                "",
+                "<img src=\"tmpdz5r8mjp.png\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-2-A.svg\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "i/%,6hf5LI",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "06a8d7cf20a34988a0e63958b865523e-oa-3",
+                "",
+                "<img src=\"tmpdz5r8mjp.png\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-3-A.svg\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "fjcP[aM5%s",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "06a8d7cf20a34988a0e63958b865523e-oa-4",
+                "",
+                "<img src=\"tmpdz5r8mjp.png\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-4-A.svg\" />",
+                "<img src=\"06a8d7cf20a34988a0e63958b865523e-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "JMZ)2XsV/V",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What kind of connective tissue is present in embryos but can also be found in adults? Where?",
+                "Embryonic connective tissue (mesenchymal connective tissue). Found in tooth pulp"
+            ],
+            "flags": 0,
+            "guid": "BXSFMY@L(Z",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Mesenchymal connective tissue}}- formed of {{c2::mesenchymal cells}} and gel-like {{c3::ground substance}} with {{c4::reticular fibers}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Mlft84;8m#",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some characteristics of mesenchymal cells?",
+                "Ovoid, with a prominent nucleolus and sparse pale-staining cytoplasm. Known for frequent mitoses"
+            ],
+            "flags": 0,
+            "guid": "p-R{hA;0Uy",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How can you tell when connective tissue are multiplying through microscopy?",
+                "Because they will be clumping, the morphology will change, and the number of cells will increase drastically"
+            ],
+            "flags": 0,
+            "guid": "chG]EOwRBa",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-1",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-1-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "lYx4^$l7Ed",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-2",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-2-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "IfO#}H?u4+",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-3",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-3-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "IfE`K{$~u$",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-4",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-4-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Qm*:E7p_*Q",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-5",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-5-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "f92E?Jg;s$",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-6",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-6-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qbv+A1]`Hh",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-7",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-7-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "l)Bp+o&T2h",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-8",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-8-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j7$?.P>F$3",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38d6964d33a546a592abd94b1b6341c3-ao-9",
+                "",
+                "<img src=\"tmp_d7euycy.png\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-9-A.svg\" />",
+                "<img src=\"38d6964d33a546a592abd94b1b6341c3-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "kGdO>WF*@(",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-1",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-1-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "pLCKB^|GP,",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-2",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-2-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "b[#,jI=)rA",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-3",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-3-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ta@tFUO:*8",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-4",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-4-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Ci)-w2Xz+r",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-5",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-5-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L*[d}$64o~",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-6",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-6-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "hNiCMdF;l;",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-7",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-7-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ia&JkH#qC0",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-8",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-8-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "gB,r=l(g<L",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-9",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-9-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "zbDtXY43HK",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-10",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-10-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "l|Vez<H,4g",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-11",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-11-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Mw)OR2P+|q",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-12",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-12-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "p>q-)I6@5q",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-13",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-13-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "OIQj#_8vaB",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32cf68707ffd4bf9a3f84ea01a077347-ao-14",
+                "",
+                "<img src=\"tmpnhpot_j5.png\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-14-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-14-A.svg\" />",
+                "<img src=\"32cf68707ffd4bf9a3f84ea01a077347-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qTAa:f/X>B",
+            "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What kind of tissue is loose, amorphous, contains stem cells, and found only in the umbilical cord (known as \"Wharton's jelly)?",
+                "Mucous connective tissue"
+            ],
+            "flags": 0,
+            "guid": "h_@@z~Bj^l",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why is loose connective tissue called loose?",
+                "Because of the amount of ground substance that is in it, which doesn't stain well"
+            ],
+            "flags": 0,
+            "guid": "sAR1=1J8WB",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are some examples of loose connective tissue?",
+                "Fibroblasts, adipocytes, macrophages, mast cells, undifferentiated cells, collagen, reticular elastic fibers"
+            ],
+            "flags": 0,
+            "guid": "O6maEzW5D?",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where can the loose connective tissue be found?",
+                "dermis, mesothelium, adventitia of blood vessels, stroma of glands, lamina propria of digestive and respiratory tracts, fascias"
+            ],
+            "flags": 0,
+            "guid": "J[cb;p{6C-",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Loose connective tissues are also called what?",
+                "Areolar connective tissue"
+            ],
+            "flags": 0,
+            "guid": "ye9qWtifF[",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>❑connective tissues proper </div><div><br></div> <div>❏dense connective tissue</div><div><br></div> <div>❏more {{c1::fibers}}, less {{c2::cells and ground substance}} than loose CT</div><div><br></div> <div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n_vxj^$mZq",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>❏dense irregular CT: collagen fibers arranged in multiple orientations, serving to {{c1::resist stress from all directions; elastic}} fibers often scattered among {{c2::collagen}}; </div> <div>❏found in {{c3::dermis of skin, sheaths of nerves, capsule of spleen, testes, ovaries, kidneys, and lymph nodes}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sPgn@IY~is",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>❏dense regular collagenous CT: collagen bundles packed {{c1::parallel}} to each other, resisting {{c2::tensile forces}};</div> <div>❏found in {{c3::tendons, ligaments, aponeurosis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "usz~a(MyJV",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>❏dense regular elastic CT: contains mostly {{c1::elastic fibers}}, with a little {{c2::collagen}}; </div> <div>❏found in {{c3::blood vessels, ligamentum flavum (of vertebral column), suspensory ligament of penis}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zYJ>A`Xrdx",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>❏reticular connective tissue</div> <div>❏contains type {{c1::III}} collagen fibers forming a meshwork which supports the {{c2::parenchyma}}* of liver sinusoids, adipose tissue, bone marrow, lymph nodes and spleen, smooth muscle, islets of Langerhans</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p]2yL!6WBm",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is adipose tissue made up of?",
+                "Adipocytes and supporting connective tissue, blood vessels"
+            ],
+            "flags": 0,
+            "guid": "or<MqzBr9I",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the specialized connective tissues?",
+                "Bone, cartilage, blood and lymph"
+            ],
+            "flags": 0,
+            "guid": "j.p)]Rstd1",
+            "note_model_uuid": "05b1ff38-e4a5-11e9-9275-34363b73ba8a",
             "tags": []
         }
     ]
