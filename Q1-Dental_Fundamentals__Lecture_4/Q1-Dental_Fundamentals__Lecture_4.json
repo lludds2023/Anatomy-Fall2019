@@ -54,8 +54,220 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "paste-081c656d8547e65ec0bf2d560e6b6c06685e944d.jpg",
+        "paste-2549767fe925a8bf18f3c3fa30faa0c80837417c.jpg",
+        "paste-a79b66071968296c4b54f0c0e4224b8f4de78030.jpg",
+        "paste-e22c25ab1d5f979b60b789c773962ef3217c5eef.jpg",
+        "tumblr_n308vg7IDP1r59ijko1_500.png"
+    ],
+    "mid": "1569376240585",
     "name": "Q1-Dental Fundamentals::Lecture 4",
-    "note_models": [],
-    "notes": []
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-239d2",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary Canine Numbers",
+                "6, 11"
+            ],
+            "flags": 0,
+            "guid": "j}QG1#>+4K",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular Canine Numbers",
+                "22, 27"
+            ],
+            "flags": 0,
+            "guid": "D.M9lZsGa#",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Canine has how many cusps?",
+                "One"
+            ],
+            "flags": 0,
+            "guid": "dzl^xE2vu1",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Functions of canine teeth:",
+                "Tearing<div>Piercing</div><div>Esthetics</div><div>Occlusion</div>"
+            ],
+            "flags": 0,
+            "guid": "Ky=:,i~KG-",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Canines get the name \"Cornerstones of the mouth\" because",
+                "They are the 3rd teeth from the midline, also has the nickname \"eye-teeth\" because they are directly aligned with the eyes.<div><br></div><div><img src=\"tumblr_n308vg7IDP1r59ijko1_500.png\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "l0`).CA]6b",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The canines' combined crown-root length is&nbsp;{{c1::the greatest}} in both arches",
+                "<img src=\"paste-a79b66071968296c4b54f0c0e4224b8f4de78030.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "E{=!FIsWwt",
+            "note_model_uuid": "8870ff7a-de99-11e9-b3f9-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary Canine vs Central Incisors<div>- crown length comparison?</div><div>- M-D length comparison?</div><div>- F-L length comparison?</div>",
+                "<img src=\"paste-2549767fe925a8bf18f3c3fa30faa0c80837417c.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "O)4~EUjZa2",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary Canines vs Central Incisors<div>- root length comparison?</div><div>- cingulum prominency?</div><div>- cusp formation?</div><div>- number of lingual fossae?</div>",
+                "<img src=\"paste-081c656d8547e65ec0bf2d560e6b6c06685e944d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "pS?~Eoy[2m",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Development Timeline of Maxillary Canines<div>- initial calcification?</div><div>- enamel completion?</div><div>- eruption?</div><div>- root completion?</div>",
+                "<img src=\"paste-e22c25ab1d5f979b60b789c773962ef3217c5eef.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "K32b~mI#fm",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        }
+    ]
 }
