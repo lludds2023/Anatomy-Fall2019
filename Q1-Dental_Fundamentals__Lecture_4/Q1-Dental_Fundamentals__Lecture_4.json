@@ -62,10 +62,15 @@
         "paste-4403042de87d38ac614555d2cd0ebfaf75cf4a37.jpg",
         "paste-4bfa7f02f9dd737559bcc539c119573364d674c2.jpg",
         "paste-4f29db15d4afcc4ff7172f06c23a46a44d22cb68.jpg",
+        "paste-5b6f916d838ad333ac86a88661e5779dad414946.jpg",
         "paste-60df1d531c284a9384a27922b075ce5f1fbe5550.jpg",
         "paste-64d5681fe7c0b6c04ca945cda4f34dac69cc2777.jpg",
+        "paste-6fbcfb2a3ee2a5b96d27ada5cbc2a26aedb0bdf2.jpg",
+        "paste-721be824b2cd9b71783c824bf0f19d0621dcdec3.jpg",
+        "paste-9a242f0e1bd5ecc2af5bd86a3f0538c647c53db8.jpg",
         "paste-a79b66071968296c4b54f0c0e4224b8f4de78030.jpg",
         "paste-aa7cf3fe7152848048ef0a8ee4c03dc90e7bff07.jpg",
+        "paste-bcf2c8f951e5db29c46e23285203fd227fd7c780.jpg",
         "paste-ce4345b45826ac26ca593a31f128e5a27a0d9ba8.jpg",
         "paste-d16d5871433c2da6ef53a666c0e5aa711cb599a9.jpg",
         "paste-d39e2f98c90eb1136eefc3d7eccfa7355cf94143.jpg",
@@ -210,6 +215,58 @@
                     "ord": 0,
                     "qfmt": "{{cloze:Text}}",
                     "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Hide others on the back side",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (Hide all)",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze (Hide all)",
+                    "ord": 0,
+                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
                 }
             ],
             "type": 1,
@@ -490,6 +547,290 @@
             ],
             "flags": 0,
             "guid": "wfYu.$R(#S",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Permanent mandibular canines are found at universal #s&nbsp;{{c1::22}} and&nbsp;{{c1::27}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mb1m]xLMI0",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which canine (maxillary or mandibular) has a longer crown?",
+                "Mandibular (~1mm longer)"
+            ],
+            "flags": 0,
+            "guid": "Nq|Cw{,_Ez",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "M-D and F-L dimensions of the mandibular canine are&nbsp;{{c1::smaller::larger or smaller}} than the maxillary?",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mBS>:a}!k&",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Total length of the mandibular canine is&nbsp;{{c1::about same:: smaller, larger, or the same}} than maxillary canine.",
+                "<img src=\"paste-bcf2c8f951e5db29c46e23285203fd227fd7c780.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "ejPGC!KzQx",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the initial calcification age for mandibular canines?",
+                "4-5 months"
+            ],
+            "flags": 0,
+            "guid": "IA>NLP?>l2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what age is enamel completed for the mandibular canine?",
+                "6-7 years"
+            ],
+            "flags": 0,
+            "guid": "k>r0J6T[5=",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what age do mandibular canines fully erupt?",
+                "9-10 years"
+            ],
+            "flags": 0,
+            "guid": "G*ut^zLcqS",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At what age do the roots of mandibular canines complete forming?",
+                "12-14 years"
+            ],
+            "flags": 0,
+            "guid": "G]oG)f>l~H",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which tooth has the longest crown (I-C) of all teeth?",
+                "Mandibular canine"
+            ],
+            "flags": 0,
+            "guid": "d?WU#aL0W",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the shape of the mandibular canine from the labial (facial) view?",
+                "pentagonal (5 sided)<div><img src=\"paste-6fbcfb2a3ee2a5b96d27ada5cbc2a26aedb0bdf2.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "p0M*5;8Vn3",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mandibular canine is&nbsp;{{c1::narrower:: narrower or wider}} M-D than maxillary canine.",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x#}]{F,hh,",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial outline of the mandibular canine is a&nbsp;{{c1::straight line ::crescent or straight line}} from HOC to cervical and mesial outline of the root",
+                "<img src=\"paste-9a242f0e1bd5ecc2af5bd86a3f0538c647c53db8.jpg\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c(%Q3m@ndl",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the HOC on the mandibular canine from the labial view?",
+                "incisal third near mesioincisal angle<div><img src=\"paste-9a242f0e1bd5ecc2af5bd86a3f0538c647c53db8.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "w*Bfef,MpQ",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which canine (maxillary or mandibular) has a more incisal mesial HOC from the labial view?",
+                "mandibular"
+            ],
+            "flags": 0,
+            "guid": "FlZ3;_+D%6",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where is the HOC on the distal outline of the labial view of the mandibular canine?",
+                "junction of incisal-middle thirds<div><br><div><img src=\"paste-5b6f916d838ad333ac86a88661e5779dad414946.jpg\"><br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "v[~J%tw{sX",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mandibular canine:<div>with wear the&nbsp;{{c1::distal}} ridge becomes longer</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NJb}q1m)7Y",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mandibular canine:<div>with wear the&nbsp;{{c1::distal}} incisal ridge becomes longer</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vS;hk&K/Hh",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>mandibular canine:&nbsp;<div>On the labial view incisal outline, the&nbsp;{{c1::distal:: distal or mesial}} ridge is longer than the&nbsp;{{c1::mesial:: distal or mesial}}</div></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lu+j[xXLfX",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>mandibular canine:&nbsp;<div>the cusp tip is in line with the&nbsp;{{c1::root}} midline</div></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u2ysnsK@lV",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mandibular canine:&nbsp;<div>from the mesial view what is the shape of the labial outline?</div>",
+                "\"moonshape\" crescent&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "C7>VT3[)FE",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mandibular canine:<div>from the mesial view the cusp tip is&nbsp;{{c1::lingual}} to the root midline</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mG50RM2A^}",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mandibular canine:<div>from the lingual view CE line exhibits&nbsp;{{c1::distal:: distal or mesial}} offset</div>",
+                "<img src=\"paste-721be824b2cd9b71783c824bf0f19d0621dcdec3.jpg\">",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F8*~xTAiPs",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>True or False:</div><div>The mandibular canine root is narrower lingually than facially</div>",
+                "True<div>lingual view:<br><div><img src=\"paste-721be824b2cd9b71783c824bf0f19d0621dcdec3.jpg\"><br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "BZ3B?^P?D6",
             "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
             "tags": []
         },
