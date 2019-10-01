@@ -72,7 +72,7 @@
         "efea87a4ecad4477a77ec1a78cf13cfc-oa-O.svg",
         "tmptvch72yl.png"
     ],
-    "mid": "1567042635091",
+    "mid": "1567809318563",
     "name": "Q1-Anatomy::Lecture 6",
     "note_models": [
         {
@@ -551,6 +551,74 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)-8d36b",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Basic (and reversed card)",
             "req": [
                 [
@@ -879,6 +947,66 @@
             "flags": 0,
             "guid": "KAK?=c^bEC",
             "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "macrophages can fuse to form&nbsp;",
+                "foreign-body giant cells"
+            ],
+            "flags": 0,
+            "guid": "obaYb73{Uj",
+            "note_model_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "what is the role of macrophages",
+                "phagocytosis of senescent, damaged and dead cells, and cellular debris, foreign substances and microorganisms, and also act as antigen-presenting cells (APC's)"
+            ],
+            "flags": 0,
+            "guid": "cx!{xNH2jM",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mast cells are {{c1::ovoid::type of shape}} with central {{c2::spherical::type of shape}} nucleus.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nF(wTpw<(O",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The cytoplams of mast cells contains basophilic granules. What are the common ones?",
+                "heparin and histamine"
+            ],
+            "flags": 0,
+            "guid": "k2AIp@>X^>",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mast cells are activated by binding of {{c1::IgE::IgE/Fc}} to {{c2::Fc::IgE/Fc}} receptors in response to the presence of {{c3::foreign::non-foreign/foreign}} antigens.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eR{MqP0Ty(",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
             "tags": []
         }
     ]
