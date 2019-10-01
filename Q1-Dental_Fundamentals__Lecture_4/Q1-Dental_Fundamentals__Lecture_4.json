@@ -56,9 +56,21 @@
     "extendRev": 50,
     "media_files": [
         "paste-081c656d8547e65ec0bf2d560e6b6c06685e944d.jpg",
+        "paste-0e442c4eeeed817f3fe5649ccd1da14f3c40ce0a.jpg",
+        "paste-15752c4c335490f5648b94e194ee53c9b3289311.jpg",
         "paste-2549767fe925a8bf18f3c3fa30faa0c80837417c.jpg",
+        "paste-4403042de87d38ac614555d2cd0ebfaf75cf4a37.jpg",
+        "paste-4bfa7f02f9dd737559bcc539c119573364d674c2.jpg",
+        "paste-4f29db15d4afcc4ff7172f06c23a46a44d22cb68.jpg",
+        "paste-60df1d531c284a9384a27922b075ce5f1fbe5550.jpg",
+        "paste-64d5681fe7c0b6c04ca945cda4f34dac69cc2777.jpg",
         "paste-a79b66071968296c4b54f0c0e4224b8f4de78030.jpg",
+        "paste-aa7cf3fe7152848048ef0a8ee4c03dc90e7bff07.jpg",
+        "paste-ce4345b45826ac26ca593a31f128e5a27a0d9ba8.jpg",
+        "paste-d16d5871433c2da6ef53a666c0e5aa711cb599a9.jpg",
+        "paste-d39e2f98c90eb1136eefc3d7eccfa7355cf94143.jpg",
         "paste-e22c25ab1d5f979b60b789c773962ef3217c5eef.jpg",
+        "paste-e84bdd3dafcd7c55eae3ba46b3887211ab00373f.jpg",
         "tumblr_n308vg7IDP1r59ijko1_500.png"
     ],
     "mid": "1569376240585",
@@ -266,6 +278,174 @@
             ],
             "flags": 0,
             "guid": "K32b~mI#fm",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Labial View of Maxillary Canines</div><div>- geometric shape of crown?</div><div>- labial ridge? labial depression?</div><div>- site of HOC?</div>",
+                "<img src=\"paste-aa7cf3fe7152848048ef0a8ee4c03dc90e7bff07.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "L~[GXvPf#|",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Labial View of Maxillary Canines (Mesial Outline)</div><div>- convexity?</div><div>- contact area?</div>",
+                "<img src=\"paste-64d5681fe7c0b6c04ca945cda4f34dac69cc2777.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "tBm+F=*aKy",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Labial View of Maxillary Canines (Distal Outline)</div><div>- site of HOC?</div><div>- length of distal outline from the HOC to cervical?</div><div>- uniqueness?</div>",
+                "<img src=\"paste-0e442c4eeeed817f3fe5649ccd1da14f3c40ce0a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "d-@m7I)%]d",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Labial View of Maxillary Canines (Incisal Outline)</div><div>- number of cusp ridges?</div><div>&nbsp; &nbsp; - which ridge is longer/shorter?</div><div>&nbsp; &nbsp; - influence of wear on cusp ridge?</div><div>- cusp tip in-lineness?</div>",
+                "<img src=\"paste-e84bdd3dafcd7c55eae3ba46b3887211ab00373f.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "e7q?|Jl[!)",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Lingual View of Maxillary Canines</div><div>- cingulum characteristics?</div><div>- how many ridges?</div><div>- how many fossae?</div>",
+                "<img src=\"paste-60df1d531c284a9384a27922b075ce5f1fbe5550.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "emT8(#l3%8",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Lingual View of Maxillary Canines</div><div>- some uncommon features?</div><div>- site of HOC?</div><div>- cervical line</div>",
+                "<img src=\"paste-4f29db15d4afcc4ff7172f06c23a46a44d22cb68.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "k2m`P@u0Hq",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mesial View of Maxillary Canines</div><div>- crown shape?</div><div>- F-L?</div><div>- cusp tip in-lineness?</div><div>- site of HOC of the labial outline?</div>",
+                "<img src=\"paste-ce4345b45826ac26ca593a31f128e5a27a0d9ba8.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "CQs{>A}Yd/",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mesial View of Maxillary Canines</div><div>- lingual outline convexity/concavity?</div><div>- site of HOC of lingual outline?</div><div>- site of mesial HOC?</div>",
+                "<img src=\"paste-15752c4c335490f5648b94e194ee53c9b3289311.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "q#@OCdb`a",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Distal View of Maxillary Canines</div><div>- uniquness?</div><div>- CE line curvature compared to mesial view?</div><div>- site of HOC?</div><div>- depth root depression compared to mesial view?&nbsp;</div>",
+                "<img src=\"paste-4403042de87d38ac614555d2cd0ebfaf75cf4a37.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "q;ub~/GO[f",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Distal View of Maxillary Canines</div><div>- uniquness?</div><div>- CE line curvature compared to mesial view?</div><div>- site of HOC?</div><div>- depth root depression compared to mesial view?&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pqZhiU=%.|",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Distal View of Maxillary Canines</div><div>- uniquness?</div><div>- CE line curvature compared to mesial view?</div><div>- site of HOC?</div><div>- depth root depression compared to mesial view?&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A8A.r_uMQo",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Incisal View of Maxillary Canines</div><div>- outline shape?</div><div>- bulk distribution on mesial and distal sides?</div><div>- cingulum offset?</div><div>- how many cusp ridges?<br></div>",
+                "<img src=\"paste-d16d5871433c2da6ef53a666c0e5aa711cb599a9.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "w~Mv#{1vV=",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Root of Maxillary Canines</div><div>- furcation?</div><div>- width of F-L vs M-D?</div><div>- cervical cross-section shape?</div><div>- root tip deflection?</div>",
+                "<img src=\"paste-d39e2f98c90eb1136eefc3d7eccfa7355cf94143.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "KQ,_&%U=UY",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Maxillary canine are the second most common tooth to be impacted. WHat is the first most common tooth to be impacted?</div>",
+                "<img src=\"paste-4bfa7f02f9dd737559bcc539c119573364d674c2.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "wfYu.$R(#S",
             "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
             "tags": []
         }
