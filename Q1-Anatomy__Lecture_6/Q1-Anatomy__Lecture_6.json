@@ -172,6 +172,50 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "56ad5b94-e2f2-11e9-9914-a683e744b8d5",
             "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
             "flds": [
@@ -483,50 +527,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": true
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze",
-                    "ord": 0,
-                    "qfmt": "{{cloze:Text}}",
-                    "scratchPad": true
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "c8a328a2-e33b-11e9-925d-acde48001122",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
@@ -619,7 +619,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-d4a43",
             "req": [
                 [
                     0,
@@ -685,6 +685,270 @@
             "flags": 0,
             "guid": "ND>^r!fL95",
             "note_model_uuid": "06a072b0-df5a-11e9-a80b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Myofibroblasts}} are sometimes considered to be intermediates between {{c2::fibroblasts::cell type}} and {{c2::smooth muscle cells::cell type}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GElluuvoNA",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Myofibroblasts::cell type}} possess bundles of actin and myosin like smooth muscle cells, but shape is similar to fibroblasts.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d/W_=6PW:]",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of cell is abundant in wound healing?&nbsp;",
+                "myofibroblasts&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "A<[h2d`N?+",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What cell type is found in periodontal ligaments and thought to be assosciated with tooth eruption?&nbsp;",
+                "Myofibroblasts&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "L?Jdgl4(]_",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Myofibroblasts can be found in {{c1::periodontal ligaments::area in oral cavity}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A{+ey9#`$e",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pericytes are derived from {{c1::mesenchymal cells}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k/tMx$6V*t",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pericytes surround endothelial cells of {{c1::capillaries}} and {{c1::small venules}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gI$zRQwgNB",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pericytes can differentiate into vascular {{c1::smooth muscle cells}}, {{c1::fibroblasts}}, {{c1::adipocytes}}, {{c1::neural cells}}, {{c1::glial cells}}, and {{c1::skeletal muscle fibers}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s4eO{aPJx8",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::pericytes}} have {{c2::contractile properties}}- faciltate blood flow",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D1.b*+<?~q",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "These cells are surrounded by basal lamina, but are separate from connective tissue.&nbsp;",
+                "Pericytes"
+            ],
+            "flags": 0,
+            "guid": "I]57-{QGxL",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "These cells are intermediates between endothelial cells and smooth muscle cells:",
+                "Pericytes&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "tC+i.:Le4c",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F Pericytes are intermediates between fibroblasts and smooth muscle cells.&nbsp;",
+                "<u>False:&nbsp;</u><div><b>Pericytes</b> are intermediates between endothelial cells and smooth muscle cells</div><div><b>Myofibroblasts</b> are intermediates between fibroblasts and smooth muscle cells</div>"
+            ],
+            "flags": 0,
+            "guid": "q3JfWzh!@s",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Adipose cells are derived from {{c1::mesenchymal cells}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kf@=xI]uCQ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F Adipose cells are post-mitotic, terminally differntiated&nbsp;",
+                "True&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "Fp-5UQ*e2j",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the functions of Adipose cells?&nbsp;",
+                "1. synthesis and storage of triglycerides&nbsp;<div>2. production of estrogen and leptin&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "c3$&3mX$WF",
+            "note_model_uuid": "c4c803c4-ddb4-11e9-9fb8-00c2c6070516",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The two types of adipose fat cells are: {{c1::unilocular}} and {{c1::multilocular}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CL3|%%/imU",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Unilocular}} fat cells are one single lipid droplet that fills the entire cell. Known as {{c1::\"white fat\"&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w|Cx)nJdj.",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Multilocular}} fat cells contain many small lipid droplets in the cytoplasm. Known as {{c1::\"brown fat\"}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t7-pt/Hy:X",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Multilocular}} fat cells have large numbers of {{c2::mitochondria}} and are involved in heat generation.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zF,jd$YoOJ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Unimolecular::Unilocular or multilocular}} adipocytes are {{c2::spherical::shape}}, cells appear polyhedral when packed together {{c2::(\"chicken wire\")::What do these cells look like when packed together?}}; nucelus and cytoplasm are displaced {{c3::peripherally:: location}}, golgi is present, sparse {{c4::mitochondria and RER::what organelles are sparse}}, abundant free ribosomes.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P9w&bSsUM/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Multilocular adipocytes are {{c1::smaller::smaller or larger}} than unilocular adipocytes.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pn|[4^4j|Z",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Multilocular}} adipocytes are more polygonal, nucleus is {{c2::central::location}} and sperical, multiple small lipid droplets, SER, no {{c2::RER::organelle}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P3W;5PklDI",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
         },
         {
@@ -1006,6 +1270,18 @@
             ],
             "flags": 0,
             "guid": "eR{MqP0Ty(",
+            "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "This is for practice&nbsp;",
+                "Sorry&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "CU54_KlG*m",
             "note_model_uuid": "7b25eb06-e45c-11e9-8303-f2189854675e",
             "tags": []
         }
