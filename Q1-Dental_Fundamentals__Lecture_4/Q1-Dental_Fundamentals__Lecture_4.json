@@ -73,7 +73,7 @@
         "paste-e84bdd3dafcd7c55eae3ba46b3887211ab00373f.jpg",
         "tumblr_n308vg7IDP1r59ijko1_500.png"
     ],
-    "mid": "1569376240585",
+    "mid": "1535584614745",
     "name": "Q1-Dental Fundamentals::Lecture 4",
     "note_models": [
         {
@@ -166,6 +166,50 @@
                     "name": "Cloze",
                     "ord": 0,
                     "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
                 }
             ],
             "type": 1,
@@ -447,6 +491,258 @@
             "flags": 0,
             "guid": "wfYu.$R(#S",
             "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The labial outline of the mandibular canine is {{c1::moonshape::shape}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J.F^I!uyF{",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The cusp tip of the mandibular canine is {{c1::lingual::position}} to the root midline.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i)!{4LHld@",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The facial HOC on the mandibular canine is at the {{c1::cervical 1/3}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lD,Bi$aD{[",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lingual HOC on the mandibular canine is at the {{c1::cervical 1/3&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E-d+1{dlG3",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial contact area of a mandibular canine is at the {{c1::incisal 1/3}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L1vS%FhR}1",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The distal contact area (HOC) on a mandibular canine is at the {{c1::junction of incisal/middle 1/3}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BosHwn6*_/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The root depressions on a mandibular canine are more prominent on the {{c1::distal::which surface}} surface compared to the {{c1::mesial::which surface}} surface.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hj$LBC[dE=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The incisal view of a mandibular canine is {{c1::diamond-shaped::what shape}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c!i-_{jgA^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "From an incisal view the distal appears {{c1::\"pulled\" or \"pinched\"}} and the cingulum is offset to the {{c1::distal}} in a mandibular canine.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xX]rrU^C!y",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The tooth with the longest root in the mouth is the {{c1::maxillary canine.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O1Z<bC5=qJ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The longest root of the mandibular teeth belongs to the {{c1::mandibular canine::what tooth}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iAH-4i`cE2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mandibular canine has a {{c1::single, straight, and sometimes bifurcated::characteristics}} root.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oA:$BRWo;2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mandibular canine root is wider {{c1::F-L::F-L or M-D}} than {{c1::M-D::F-L or M-D}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G0.2iI~,.V",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The cross section of the mandibular canine root is a {{c1::\"flattened ovoid\"::shape}} and the facial is {{c2::broader::broader or thinner}} than the lingual.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iNKuCk_v6e",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary canines are {{c1::wider::narrower or wider }} M-D than mandibular canines.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q_}r+z][}w",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial outline of a mandibular canine is {{c1::straight::rounded or straight.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uHD}~cK/=K",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial and distal height of contours (HOC's) are more {{c1::incisal::incisal or cervical}} with mandibular canines compared to maxillary canines.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HN~ojvk3I^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lingual anatomy of maxillary canines is {{c1::more::more or less}} prominent than mandibular canines.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r`_*f{C[]p",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary canines have wear facets {{c1::lingually::lingually or facially}}.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BSVG8:U`y^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular canines have wear facets {{c1::facially::lingually or facially}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ITor09s05:",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "For both maxillary and mandibular canines the distal appears {{c1::pinched and bulged::characteristics}} when looking from an incisal view.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E4_D7h9AA2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
         }
     ]
