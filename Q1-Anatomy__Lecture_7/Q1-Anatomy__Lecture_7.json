@@ -114,6 +114,234 @@
             "guid": "NUro7CrA&e",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum corneum<div>cytoplasm is filled with {{c1::birefringent filamentous keratins}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k4@/.dk{X<",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum Corneum<div>Cells contain only {{c1::amorphous}} proteins.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v+`dd6BPs@",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum Corneum<div>cells are called \"{{c1::squames}}\"</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pyraxGmI)F",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes&nbsp;<span>produce two types of melanin. They are&nbsp;</span>{{c1::eumelanin}}<span>&nbsp;and&nbsp;</span>{{c2::pheomelanin}}<span>.&nbsp;</span>{{c3::Pheomelanin}}<span>&nbsp;is the pigment found in red hair.&nbsp;</span>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IEbn_4]<E}",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Other than melanocytes, these are two other ways to add color to skin. {{c1::Carotene}} and {{c2::blood vessels}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wn3A3h8d0#",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes are&nbsp;<span>derived from {{c1::neural crest cells}}.&nbsp;</span>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ExrDp9,JD`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Other than melanocytes being derived from neural crest cells, what other tissue is derived from neural crest cells? {{c1::Pulp, dentin, periodontium, odontoblast}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qkh6K?1$24",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "One melanocyte per {{c1::5-6::number}} {{c2::basal::type of cell}} cells",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Oq*qiG{(%:",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocyte morphology<div>-{{c1::Rounded cell}} bodies</div><div>-connect to {{c1::basal lamina}} via {{c2::hemidesmosomes}}</div><div>-do not form desmosomes with {{c3::basal}} cells</div><div>-long {{c3::dendritic processes}} extending into {{c4::epidermis}}</div><div>-{{c4::pale}} staining, numerous mitochondria, RER, Golgi</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fS&L2LQOa/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes<div>{{c1::tyrosinase}} converts {{c2::tyrosine}} to {{c1::DOPA}}-&gt; melanin</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P@[D?nkhkS",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes<div>melanin is stores in granules called {{c1::melanosomes}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wY]0v<P7`]",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes<div>melanosomes are taken up by {{c1::keratinocutes}}, form {{c1::protective cap}} around keratinized nucleus, protect DNA from {{c1::UV irradiation}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P:i5t(!r](",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Langerhans Cells<div>-also called {{c1::dendritic}} cells</div><div>-act as {{c1::antigen presenting cells::what do they show}}</div><div>-most evident in stratum {{c1::spinosum}}</div><div>-{{c1::processes}} extend between {{c2::keratinocytes}}</div><div>-derived from {{c3::hemopoietic precursors, blood-borne}}</div><div>-bind, process, and present antigens to {{c4::T}} cells.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QOjFHKKWks",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Merkel Cells<div>-{{c1::mechanoreceptors::what type of receptor}}&nbsp;</div><div>-similar in appearance to {{c1::keratinocytes}}</div><div>-contain dense-core {{c2::neurosecretory}} granules</div><div>-located in stratum {{c3::basale}} of epidermis, and also at base of hair follicles</div><div>-partially surrounded by {{c4::terminal discs}} of sensory nerve fibers.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ph|jDQmuNi",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The dermis is largely comprised of {{c1::connective}} tissue that lies deep to, and supports the {{c2::epidermis}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ip(|).@Mm!",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The dermis separated from the epidermis by a basement membrane which includes {{c1::a basal lamina and a reticular lamina::hint:two layers}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DGe$<h(f}P",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dermis<div>-thickness is {{c1::variable}} -it is thickest in {{c1::the back.}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Bnj)4=zq,g",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dermis<div>The interface between the epidermis and the dermis is made up of {{c1::finger-like papillae}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c@/Z|6kE[2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dermis<div>The interface between the epidermis and the dermis is made up of {{c1::finger-like papillae}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JPUTu/:sGC",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
         }
     ]
 }
