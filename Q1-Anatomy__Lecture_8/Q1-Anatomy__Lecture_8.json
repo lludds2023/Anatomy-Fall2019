@@ -1,0 +1,260 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "c16d6b74-e4d2-11e9-b8ac-f2189854675e",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 300,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1569382550651",
+    "name": "Q1-Anatomy::Lecture 8",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [
+                "Anatomy::Lec7"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cartilage<div>-has a {{c1::rubbery gel-like}} consistency</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I8Ao4[k455",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cartilage<div>-Can bear {{c1::mechanical}} stress without distortion; can act as {{c1::shock-absorbers}}; and allow sliding movements at the {{c1::joints}}.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IamDsbAgx7",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cartilage<div>T/F cartilage is nourished by diffusion.</div>",
+                "T, cartilage is avascular, therefore, it must rely on diffusion to be nourished.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "wV7^;ieKlT",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cartilage<div>The {{c1::perichondrium}} surrounds cartilage. It is vascular.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m_L^ka?;px",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cartilage is a connective tissue with these typical components:<div>-{{c1::chondroblasts}}/{{c1::chondrocytes::2 types of cells}}</div><div>-type {{c1::II}} collagen</div><div>-{{c1::proteoglycans}}</div><div>-{{c1::GAGs}}</div><div>-water</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": ">MCzbDFTt",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cartilage is a connective tissue with these typical components:<div>-{{c1::chondroblasts}}/{{c1::chondrocytes::2 types of cells}}</div><div>-type {{c1::II}} collagen</div><div>-{{c1::proteoglycans}}</div><div>-{{c1::GAGs}}</div><div>-water</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o>Kq/U*9!o",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perichondrium<div>provides {{c1::protection and nutrients}} to cartilage.&nbsp;</div><div>-contains what type of vessels?</div><div>{{c1::Blood vessels}}</div><div>{{c1::Lymphatic vessles}}</div><div>Nerves</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K.Ph7jp0bL",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Perichondrium is formed of two layers<div>-outer fibrous layer made of {{c1::fibroblasts}} and type {{c1::I}} collagen.&nbsp;</div><div>-inner {{c1::chondrogenic}} layer, which consists of precursors to {{c1::chondroblasts}}</div>",
+                "Slide 5"
+            ],
+            "flags": 0,
+            "guid": "cJ;Wb}y><H",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec7"
+            ]
+        }
+    ]
+}
