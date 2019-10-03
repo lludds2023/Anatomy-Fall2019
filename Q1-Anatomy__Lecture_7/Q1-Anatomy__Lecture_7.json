@@ -55,7 +55,26 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "7f5790e74c7f42919e45632e2ae0c124-ao-1-A.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-1-Q.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-2-A.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-2-Q.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-3-A.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-3-Q.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-4-A.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-4-Q.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-5-A.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-5-Q.svg",
+        "7f5790e74c7f42919e45632e2ae0c124-ao-O.svg",
+        "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-1-A.svg",
+        "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-1-Q.svg",
+        "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-2-A.svg",
+        "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-2-Q.svg",
+        "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-3-A.svg",
+        "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-3-Q.svg",
+        "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-O.svg",
         "Screen Shot 2019-10-02 at 7.03.27 PM.png",
+        "c1af76e29f638ff7ee18fc4fd889cd76.png",
         "f60fe89f31084c03b9b950ab8ed1ee43-ao-1-A.svg",
         "f60fe89f31084c03b9b950ab8ed1ee43-ao-1-Q.svg",
         "f60fe89f31084c03b9b950ab8ed1ee43-ao-2-A.svg",
@@ -70,62 +89,13 @@
         "f60fe89f31084c03b9b950ab8ed1ee43-ao-6-Q.svg",
         "f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg",
         "paste-0175cca89990b83c185b3bb5bd76bcc687b14641.jpg",
-        "paste-8ce3271f2003a45c420a36aab769fd97aab871de.jpg"
+        "paste-8ce3271f2003a45c420a36aab769fd97aab871de.jpg",
+        "tmp7tcefzgk.png",
+        "tmprbkzqge2.png"
     ],
+    "mid": "1569375298084",
     "name": "Q1-Anatomy::Lecture 7",
     "note_models": [
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
-            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Text",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": true
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Extra",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "media": [],
-                    "name": "Hide others on the back side",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": true
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze (Hide all)",
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}",
-                    "bafmt": "",
-                    "bqfmt": "",
-                    "did": null,
-                    "name": "Cloze (Hide all)",
-                    "ord": 0,
-                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
-                }
-            ],
-            "type": 1,
-            "vers": []
-        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
@@ -198,6 +168,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
             "name": "Basic",
             "req": [
                 [
@@ -222,6 +193,192 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "scratchPad": false
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Hide others on the back side",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (Hide all)",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze (Hide all)",
+                    "ord": 0,
+                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
+                }
+            ],
+            "type": 1,
             "vers": []
         },
         {
@@ -340,7 +497,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-68ec4",
             "req": [
                 [
                     0,
@@ -368,6 +525,1026 @@
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum corneum<div>{{c1::15-20::how many?}} layers thick, {{c2::flattened::round/flattened}}, {{c3::non-nucleated::nucleated/not nucleated}} keratinized cells.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NUro7CrA&e",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum corneum<div>cytoplasm is filled with {{c1::birefringent filamentous keratins}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k4@/.dk{X<",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum Corneum<div>Cells contain only {{c1::amorphous}} proteins.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v+`dd6BPs@",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum Corneum<div>cells are called \"{{c1::squames}}\"</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pyraxGmI)F",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes&nbsp;<span>produce two types of melanin. They are&nbsp;</span>{{c1::eumelanin}}<span>&nbsp;and&nbsp;</span>{{c2::pheomelanin}}<span>.&nbsp;</span>{{c3::Pheomelanin}}<span>&nbsp;is the pigment found in red hair.&nbsp;</span>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IEbn_4]<E}",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Other than melanocytes, these are two other ways to add color to skin. {{c1::Carotene}} and {{c2::blood vessels}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wn3A3h8d0#",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes are&nbsp;<span>derived from {{c1::neural crest cells}}.&nbsp;</span>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ExrDp9,JD`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Other than melanocytes being derived from neural crest cells, what other tissue is derived from neural crest cells? {{c1::Pulp, dentin, periodontium, odontoblast}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qkh6K?1$24",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "One melanocyte per {{c1::5-6::number}} {{c2::basal::type of cell}} cells",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Oq*qiG{(%:",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocyte morphology<div>-{{c1::Rounded cell}} bodies</div><div>-connect to {{c1::basal lamina}} via {{c2::hemidesmosomes}}</div><div>-do not form desmosomes with {{c3::basal}} cells</div><div>-long {{c3::dendritic processes}} extending into {{c4::epidermis}}</div><div>-{{c4::pale}} staining, numerous mitochondria, RER, Golgi</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fS&L2LQOa/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes<div>{{c1::tyrosinase}} converts {{c2::tyrosine}} to {{c1::DOPA}}-&gt; melanin</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P@[D?nkhkS",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes<div>melanin is stores in granules called {{c1::melanosomes}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wY]0v<P7`]",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes<div>melanosomes are taken up by {{c1::keratinocutes}}, form {{c1::protective cap}} around keratinized nucleus, protect DNA from {{c1::UV irradiation}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P:i5t(!r](",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Langerhans Cells<div>-also called {{c1::dendritic}} cells</div><div>-act as {{c1::antigen presenting cells::what do they show}}</div><div>-most evident in stratum {{c1::spinosum}}</div><div>-{{c1::processes}} extend between {{c2::keratinocytes}}</div><div>-derived from {{c3::hemopoietic precursors, blood-borne}}</div><div>-bind, process, and present antigens to {{c4::T}} cells.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QOjFHKKWks",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Merkel Cells<div>-{{c1::mechanoreceptors::what type of receptor}}&nbsp;</div><div>-similar in appearance to {{c1::keratinocytes}}</div><div>-contain dense-core {{c2::neurosecretory}} granules</div><div>-located in stratum {{c3::basale}} of epidermis, and also at base of hair follicles</div><div>-partially surrounded by {{c4::terminal discs}} of sensory nerve fibers.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ph|jDQmuNi",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The dermis is largely comprised of {{c1::connective}} tissue that lies deep to, and supports the {{c2::epidermis}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ip(|).@Mm!",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The dermis separated from the epidermis by a basement membrane which includes {{c1::a basal lamina and a reticular lamina::hint:two layers}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DGe$<h(f}P",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dermis<div>-thickness is {{c1::variable}} -it is thickest in {{c1::the back.}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Bnj)4=zq,g",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dermis<div>The interface between the epidermis and the dermis is made up of {{c1::finger-like papillae}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c@/Z|6kE[2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dermis<div>The interface between the epidermis and the dermis is made up of {{c1::finger-like papillae}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JPUTu/:sGC",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What four sensory nerve endings are encapsulated?",
+                "Meissner corpuscles<div>Pacinian corpuscles</div><div>Ruffini's corpuscles</div><div>Krause end-bulbs</div>"
+            ],
+            "flags": 0,
+            "guid": "uyrG#0p(-V",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the image shown below?<div><img src=\"c1af76e29f638ff7ee18fc4fd889cd76.png\"><br></div>",
+                "Pacinian Corpuscle"
+            ],
+            "flags": 0,
+            "guid": "NhZvaV}=j6",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Meissner corpuscles are&nbsp;{{c1::oval}} shaped and located primarly in&nbsp;{{c1::dermal papillae, fingertips, palms, and soles}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q#@1hGNq53",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The function of Meissner corpuscles is to&nbsp;{{c1::detect light touch}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "I+v?EYj:VL",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pacinian corpuscles are shaped like&nbsp;{{c1::large, oval, capsule formed of 15-50 concentric rings (looks like an onion)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i<sdqxcyAE",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The capsule of pacinian corpuscles surround&nbsp;{{c1::unmyelinated axon::location}} and detect&nbsp;{{c1::coarse touch,pressure, or sustained touch,vibrations::function}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O&G=q%2SDk",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ruffini's corpuscles are formed of&nbsp;{{c1::a simple capsule enclosing fluid and terminal arborizations of a sensory neuron::detailed description}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j[q2iZ0O(m",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stretch and torque are detected by&nbsp;{{c1::Ruffini's corpuscles}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pXdPpV7CRM",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Thermoreceptors and mechanoreceptors are also known as&nbsp;{{c1::Krause end-bulbs::encapsulated sensory nerve ending}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MgfuCK`a/;",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebaceous glands are located throughout the&nbsp;{{c1::skin, except palms and soles::organ}} and are most dense in&nbsp;{{c1::face and scalp region::location}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sPLIolfef*",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebaceous glands typically empty into the&nbsp;{{c1::upper part of hair follicle::location}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zrM2q=*C.6",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The hair + sebaceous gland is also termed&nbsp;{{c1::pilosebaceous apparatus}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mmS|=X5C1Y",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In hairless regions, sebaceous glands empty directly onto&nbsp;{{c1::epidermal surface}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ERz3Ff!L}>",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebaceous gland cells are called&nbsp;{{c1::sebocytes }} because they produce&nbsp;{{c1::sebum}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O4JJyS^--,",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebum is made up of&nbsp;{{c1::wax esters, cholesterol, triglycerides, etc.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GNILu3!fTo",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Secretion of sebum increases at&nbsp;{{c1::puberty}} and is stimulated by&nbsp;{{c1::testosterone and other androgens in females}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k]11^9S*c4",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Sebum::Substance}} helps maintain stratum corneum and hair.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zr7F{&iRyq",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sebum has&nbsp;{{c1::antibacterial}} and&nbsp;{{c1::antifungal}} properties.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IMc5dZNF67",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Eccrine}} sweat glands are most abundant on soles of feet and are present at about 3,000,000 glands per person.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eKR(&S_flP",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Eccrine sweat glands can produce up to&nbsp;{{c1::10 liters::amount in liters}} of sweat per day!<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Klc}3%0;cf",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Eccrine sweat glands are composed of&nbsp;{{c1::coiled secretory units and ducts::structure}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lND4G7*?!d",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Clear cells of eccrine sweat glands produce&nbsp;{{c1::sweat}} and dark cells produce&nbsp;{{c1::mucoid substances}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vNc&,`QzI0",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Clear cells::Clear/Dark cells}} in eccrine sweat glands contain abundant mitochondria and microvilli.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CVQMxc4x*:",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Dark cells::Clear/Dark cells}} produce glycoprotein involved with the immune response and have bactericidal activity.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sSOI#8c)]c",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Myoepithelial cells}} contract to help eccrine sweat glands discharge their secretions<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sh][O5_X@w",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Body releases {{c1::excess salt}} and&nbsp;{{c1::nitrogenous waste}} via sweat",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hA`}nTX7u3",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Duct cells of eccrine sweat glands have&nbsp;{{c1::Na+, K+-ATPase::type of pump}} to resorb Na+",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v08py!`<F5",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Apocrine}} sweat glands are confined to axilla and perineal regions.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "stA_vZ|w{(",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apocrine glands have a&nbsp;{{c1::larger::smaller/larger}} lumen than eccrine glands",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vix5a[l3[F",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apocrine glands are composed of&nbsp;{{c1::cuboidal cells::shape of cell}},&nbsp;{{c1::eosinophilic::eosinophilic/basophilic}}, and numerous apical {{c1::secretory granules::type of cell}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Pt?ekAkzhB",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apocrine glands actually function in&nbsp;{{c1::merocrine}} manner.&nbsp;",
+                "Merocrine indicates that they do not \"pinch off\" a portion of the cell during secretion like they do in apocrine, they only release vesicles containing secretory products.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "hx6{V]j|3A",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::F::T/F}} Apocrine sweat glands are confined to the axilla and perineal regions and thus release secretions that contain bad odor.<br>",
+                "The secretion is odorless; it acquires its odor due to bacteria&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "v4a|.!X/n6",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Apocrine glands are innervated by {{c1::adrenergic nerve endings}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jwfPl~~00X",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Eccrine glands are innervated by {{c1::cholinergic nerves}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KJ8El5+34a",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hair is derived from&nbsp;{{c1::hair follicles}} and are formed of&nbsp;{{c1::keratinized material}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d2cP;ZKB;v",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "All skin has hair follicles except&nbsp;{{c1:: Palms and soles, lips, glans penis, clitoris, labia minora::6 locations}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PX8IhBLO|X",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Terminal hair::Type of hair}}&nbsp; is long and coarse hair found on the scalp and beard.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l/6T8mc&C{",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Vellus hair::Type of hair}} is very fine hair such as in the forehead.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p!De-Z2t2`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The three cycles of hair growth:<div>{{c1::anagen}} - hair growth<br></div><div>{{c2::catagen}} - follicle regression<br></div><div>{{c3::telogen}} - period of inactivity<br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gb3~ALV7A`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Baldness}} is caused by terminal hair follicles transforming to vellus follicles and undergoing periods of telogen.<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tCL{V`X*^w",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Facial and pubic hair growth is controlled by&nbsp;{{c1::androgens}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J-rF!Cpp(h",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The&nbsp;{{c1::bulb}} is a dilated base of the hair follicle that contains cells that undergo {{c1::mitosis}} and {{c1::keratinization}} to produce new cells and form hair shaft.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ez<$*yAq29",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Dermal papilla}} invaginate into hair bulb and contain a capillary network necessary for new hair growth.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l~*h;j|f2Q",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The&nbsp;{{c1::epithelial root sheath}} is continuous with the bulb and surrounds the&nbsp;{{c1::hair shaft.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pj:!JS|5T8",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7f5790e74c7f42919e45632e2ae0c124-ao-1",
+                "",
+                "<img src=\"tmp7tcefzgk.png\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-1-A.svg\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "I=Habov(gz",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7f5790e74c7f42919e45632e2ae0c124-ao-2",
+                "",
+                "<img src=\"tmp7tcefzgk.png\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-2-A.svg\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "KpsSm~gYAf",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7f5790e74c7f42919e45632e2ae0c124-ao-3",
+                "",
+                "<img src=\"tmp7tcefzgk.png\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-3-A.svg\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "G30h?`.>[,",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7f5790e74c7f42919e45632e2ae0c124-ao-4",
+                "",
+                "<img src=\"tmp7tcefzgk.png\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-4-A.svg\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "M^/I07dqgB",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7f5790e74c7f42919e45632e2ae0c124-ao-5",
+                "",
+                "<img src=\"tmp7tcefzgk.png\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-5-A.svg\" />",
+                "<img src=\"7f5790e74c7f42919e45632e2ae0c124-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "og7kyYv~i)",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The muscle that contracts and makes a hair become erect is called the&nbsp;{{c1::arrector pili muscle}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fq|}i/$PWe",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The purpose of hair becoming erect is allowing&nbsp;{{c1::the trapping of warm air next to the skin}} and works better in&nbsp;{{c1::animals with fur}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E17.s9>gui",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hair color is caused by&nbsp;{{c1::melanin}} produced by&nbsp;{{c1::melanocytes}} located in the&nbsp;{{c1::bulb}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L((ZGir:qK",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The cuticle of the nails is&nbsp;{{c1::stratum corneum::layer of skin}} folding and is called&nbsp;{{c1::eponychium}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kB6PWX4BAg",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The nail bed is formed of&nbsp;{{c1::basal and spinous::2 answers}} epithelial layers only.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xQhQAO{lgp",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The distal free end of the nail plate is called the&nbsp;{{c1::hyponychium.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w<8=I~-$`c",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Color of nail bed indicates&nbsp;{{c1::oxygenation of blood.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D(XcWSL~,q",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-1",
+                "",
+                "<img src=\"tmprbkzqge2.png\" />",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-1-A.svg\" />",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "kxCbV]m!C[",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-2",
+                "",
+                "<img src=\"tmprbkzqge2.png\" />",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-2-A.svg\" />",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "JV[^t^GDOB",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "9b7f0c649b5c41f19cd74cf3f0dd8723-ao-3",
+                "",
+                "<img src=\"tmprbkzqge2.png\" />",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-3-A.svg\" />",
+                "<img src=\"9b7f0c649b5c41f19cd74cf3f0dd8723-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "iNh1hUz|^/",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "data": "",
@@ -1002,246 +2179,6 @@
             ],
             "flags": 0,
             "guid": "MLI6]TGP_J",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Stratum corneum<div>{{c1::15-20::how many?}} layers thick, {{c2::flattened::round/flattened}}, {{c3::non-nucleated::nucleated/not nucleated}} keratinized cells.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "NUro7CrA&e",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Stratum corneum<div>cytoplasm is filled with {{c1::birefringent filamentous keratins}}.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "k4@/.dk{X<",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Stratum Corneum<div>Cells contain only {{c1::amorphous}} proteins.&nbsp;</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "v+`dd6BPs@",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Stratum Corneum<div>cells are called \"{{c1::squames}}\"</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "pyraxGmI)F",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Melanocytes&nbsp;<span>produce two types of melanin. They are&nbsp;</span>{{c1::eumelanin}}<span>&nbsp;and&nbsp;</span>{{c2::pheomelanin}}<span>.&nbsp;</span>{{c3::Pheomelanin}}<span>&nbsp;is the pigment found in red hair.&nbsp;</span>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "IEbn_4]<E}",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Other than melanocytes, these are two other ways to add color to skin. {{c1::Carotene}} and {{c2::blood vessels}}.",
-                ""
-            ],
-            "flags": 0,
-            "guid": "wn3A3h8d0#",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Melanocytes are&nbsp;<span>derived from {{c1::neural crest cells}}.&nbsp;</span>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "ExrDp9,JD`",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Other than melanocytes being derived from neural crest cells, what other tissue is derived from neural crest cells? {{c1::Pulp, dentin, periodontium, odontoblast}}",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Qkh6K?1$24",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "One melanocyte per {{c1::5-6::number}} {{c2::basal::type of cell}} cells",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Oq*qiG{(%:",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Melanocyte morphology<div>-{{c1::Rounded cell}} bodies</div><div>-connect to {{c1::basal lamina}} via {{c2::hemidesmosomes}}</div><div>-do not form desmosomes with {{c3::basal}} cells</div><div>-long {{c3::dendritic processes}} extending into {{c4::epidermis}}</div><div>-{{c4::pale}} staining, numerous mitochondria, RER, Golgi</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "fS&L2LQOa/",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Melanocytes<div>{{c1::tyrosinase}} converts {{c2::tyrosine}} to {{c1::DOPA}}-&gt; melanin</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "P@[D?nkhkS",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Melanocytes<div>melanin is stores in granules called {{c1::melanosomes}}.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "wY]0v<P7`]",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Melanocytes<div>melanosomes are taken up by {{c1::keratinocutes}}, form {{c1::protective cap}} around keratinized nucleus, protect DNA from {{c1::UV irradiation}}</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "P:i5t(!r](",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Langerhans Cells<div>-also called {{c1::dendritic}} cells</div><div>-act as {{c1::antigen presenting cells::what do they show}}</div><div>-most evident in stratum {{c1::spinosum}}</div><div>-{{c1::processes}} extend between {{c2::keratinocytes}}</div><div>-derived from {{c3::hemopoietic precursors, blood-borne}}</div><div>-bind, process, and present antigens to {{c4::T}} cells.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "QOjFHKKWks",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Merkel Cells<div>-{{c1::mechanoreceptors::what type of receptor}}&nbsp;</div><div>-similar in appearance to {{c1::keratinocytes}}</div><div>-contain dense-core {{c2::neurosecretory}} granules</div><div>-located in stratum {{c3::basale}} of epidermis, and also at base of hair follicles</div><div>-partially surrounded by {{c4::terminal discs}} of sensory nerve fibers.</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Ph|jDQmuNi",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "The dermis is largely comprised of {{c1::connective}} tissue that lies deep to, and supports the {{c2::epidermis}}.&nbsp;",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Ip(|).@Mm!",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "The dermis separated from the epidermis by a basement membrane which includes {{c1::a basal lamina and a reticular lamina::hint:two layers}}",
-                ""
-            ],
-            "flags": 0,
-            "guid": "DGe$<h(f}P",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Dermis<div>-thickness is {{c1::variable}} -it is thickest in {{c1::the back.}}</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "Bnj)4=zq,g",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Dermis<div>The interface between the epidermis and the dermis is made up of {{c1::finger-like papillae}}</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "c@/Z|6kE[2",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Dermis<div>The interface between the epidermis and the dermis is made up of {{c1::finger-like papillae}}</div>",
-                ""
-            ],
-            "flags": 0,
-            "guid": "JPUTu/:sGC",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
         }
