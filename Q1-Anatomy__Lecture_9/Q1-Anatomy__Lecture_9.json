@@ -1,0 +1,572 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "b633d88a-e622-11e9-b1e0-f2189854675e",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 300,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "a420b518943248a3a629f4aee7cebc7a-ao-1-A.svg",
+        "a420b518943248a3a629f4aee7cebc7a-ao-1-Q.svg",
+        "a420b518943248a3a629f4aee7cebc7a-ao-2-A.svg",
+        "a420b518943248a3a629f4aee7cebc7a-ao-2-Q.svg",
+        "a420b518943248a3a629f4aee7cebc7a-ao-3-A.svg",
+        "a420b518943248a3a629f4aee7cebc7a-ao-3-Q.svg",
+        "a420b518943248a3a629f4aee7cebc7a-ao-O.svg",
+        "tmpsmqpqmcz.png"
+    ],
+    "name": "Q1-Anatomy::Lecture 9",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-111ec",
+            "sortf": 0,
+            "tags": [
+                "Anatomy::Lec9"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-16c31",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bone serves as a storage site for {{c1::calcium}} and {{c1::phosphate}}, and for proteins and growth factors",
+                "slide 2"
+            ],
+            "flags": 0,
+            "guid": "l.!9-+{Ac@",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Bone is a typical {{c1::connective}} tissue, consisting of {{c2::cells}} and {{c2::extracellular matrix}}</div>",
+                "slide 2"
+            ],
+            "flags": 0,
+            "guid": "b419XN(#BD",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Region of the Long bones </div><div>{{c1::diaphysis}}</div> <div>•shaft </div> <div>{{c2::epiphysis}}</div> <div>•articular end of bone</div> <div>{{c3::epiphyseal plate/disc}}</div> <div>•growth region between diaphysis and epiphysis</div> <div>{{c4::metaphysis}}</div> <div>•transitional area between diaphysis and epiphyseal plate</div>",
+                "slide 3"
+            ],
+            "flags": 0,
+            "guid": "ozo8v3fj}~",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Organic component of bone<div><div>•constitutes about 35% of dry weight of bone</div> <div>•type {{c1::I}} collagen fibers </div> <div>accounts for 80-90% of organic component of bone matrix</div> <div>•{{c3::GAGs (glycoaminoglycans)}}</div> <div>esp. {{c4::chondroitin}} sulfate and {{c4::keratan}} sulfate</div> <div>•{{c2::glycoproteins}}</div> Osteocalcin, osteonectin, osteopontin, bone sialoprotein, etc<br></div>",
+                "slide 4"
+            ],
+            "flags": 0,
+            "guid": "x2_aJ`(u(W",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Inorganic component of bone:&nbsp;<div><div>•accounts for ~ 65% of dry weight of bone</div> <div>•{{c1::hydroxyapatite}} [Ca10(PO4)6(OH)2] – a type of calcium phosphate</div> <div>•{{c2::HCO3-, citrate, Mg++, Na+, K+}}</div> <div>can substitute for components of hydroxyapatite</div></div>",
+                "slide 5"
+            ],
+            "flags": 0,
+            "guid": "yo6dmHEXa!",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Osteogenic (osteoprogenitor)}} cells</div> <div>•found in the deepest layer of {{c2::periosteum}}, and adjacent to the {{c2::endosteum}}</div> <div>•derive from {{c3::mesenchyme}}</div> <div>•undergo cell division to give rise to {{c4::osteoblasts}}</div> <div>•(might also differentiate into {{c4::chondrogenic}} cells)</div>",
+                "slide 7"
+            ],
+            "flags": 0,
+            "guid": "JY<.>I#}+r",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c2::Osteoblasts}} </div> <div>•found both on the {{c1::periosteal}} and {{c1::endosteal}} surfaces of bone</div> <div>•{{c3::basophilic::type of staining}}, due to large amount of {{c6::rER}}, {{c6::large Golgi apparatus}}&nbsp;(stains light)</div> <div>•communicate by {{c4::gap}} junctions</div> <div>•role</div> <div>a)secrete the bone matrix</div> <div>organic component – {{c5::osteoid}}</div> <div>mineralization </div> <div>b)signaling</div>",
+                "slide 8"
+            ],
+            "flags": 0,
+            "guid": "J951*g<hQe",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Osteocytes}} &nbsp;</div> <div>•once an osteoblast surrounds itself with matrix, it becomes an {{c1::osteocyte}}</div> <div>•located in a {{c2::lacuna}}* within bone matrix</div> <div>•little {{c3::RER::cell organelle}} or {{c3::Golgi::cell organelle}}</div> <div>•osteocyte processes extend in canaliculi</div> <div>•processes of adjacent cells connected by {{c4::gap}} junctions</div> <div>•roles: </div> {{c5::<div>maintain bone matrix</div> <div></div><div>}}{{c5::mechanotransduction}}<br></div>",
+                "slide 11"
+            ],
+            "flags": 0,
+            "guid": "w5!j:`m<D}",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::osteoclasts::bone cell}}</div> <div>•large multinucleate cells</div> <div>•form resorption (Howship’s) lacunae on bone surfaces</div> <div>•attach to bone by {{c2::sealing zone (“clear zone”)}}, which surrounds a {{c3::ruffled border}}</div> <div>•contains abundant {{c4::mitochondria and lysosomes, Golgi and RER, and vesicles::cell organelles}}</div> <div>•roles</div> <div>{{c5::</div><div>bone resorption</div> <div>signaling</div>}}",
+                "slide 13"
+            ],
+            "flags": 0,
+            "guid": "kO/T*.Wo9g",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::compact}} bone</div> <div>•dense</div> <div>•located in the {{c2::peripheral}} part of a bone</div> <div>•laid down in {{c3::osteons (Haversian systems)}}</div> <div>series of concentric {{c4::lamellae}} with a canal containing blood vessels and nerves in the center</div> <div>{{c4::lamellae}} are of three types:</div> <div>{{c5::concentric (Haversian)}} – form the osteon itself</div> <div>{{c6::interstitial}} – between osteons</div> <div>{{c7::circumferential}} – around outside and inside of bone</div>",
+                "slide 19"
+            ],
+            "flags": 0,
+            "guid": "Ee!4AO@`l?",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a420b518943248a3a629f4aee7cebc7a-ao-1",
+                "",
+                "<img src=\"tmpsmqpqmcz.png\" />",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-1-A.svg\" />",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "lDjZ&1LGst",
+            "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a420b518943248a3a629f4aee7cebc7a-ao-2",
+                "Origin of interstitial lamellae&nbsp;",
+                "<img src=\"tmpsmqpqmcz.png\" />",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 22",
+                "",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-2-A.svg\" />",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sz%P}B_{7o",
+            "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a420b518943248a3a629f4aee7cebc7a-ao-3",
+                "",
+                "<img src=\"tmpsmqpqmcz.png\" />",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-3-A.svg\" />",
+                "<img src=\"a420b518943248a3a629f4aee7cebc7a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "zASpi><03:",
+            "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Compact}} bone</div> <div>•{{c2::Periosteum}}</div> <div>Connective tissue covering of bone</div> <div>{{c3::Fibrous}} layer</div> <div>{{c3::Osteogenic}} layer</div> <div>•{{c2::Endosteum}} </div> <div>Inner surface of bone, lining the marrow cavity</div> <div>Formed of active osteoblasts or bone lining cells, and osteoclasts</div>",
+                "slide 23"
+            ],
+            "flags": 0,
+            "guid": "fKL|Xa_)x2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Spongy}} bone ({{c2::cancellous}} or {{c2::trabecular}} bone)</div> <div>•Formed of interconnecting {{c3::trabeculae}}*</div> <div>•Marrow spaces between {{c3::trabeculae}}</div> <div>•{{c3::Trabeculae}} actually strengthen the bone because they diffuse stresses on the bone</div><div><div>* {{c3::trabecula}} = tissue element in the form of a small beam, strut or rod&nbsp;</div></div>",
+                "slide 25"
+            ],
+            "flags": 0,
+            "guid": "cF$b{kg>xV",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The skull or {{c1::calvaria::another name}}<div><div>the bones of the skull have two external bony tables separated by {{c2::spongy}} bone, called {{c3::diploic}} bone ({{c3::diploë}})*</div> <div>the periosteum of the skull is called {{c4::pericranium}}</div></div><div>New Latin, from Greek {{c3::diploē}}, from {{c3::diploos}} double<br></div>",
+                "slide 28"
+            ],
+            "flags": 0,
+            "guid": "cU)}`>4-[=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Marrow</div> <div>•The cellular material occupying the spaces inside bone</div> <div>{{c1::Red}} marrow</div> <div>Consists of developing {{c2::blood}} cells</div> <div>Contains {{c3::reticular}} cells and {{c3::reticular}} fibers</div> <div>Has abundant sinusoids</div> <div>{{c1::Yellow}} marrow</div> <div>{{c4::Adipose}} tissue found within the medullary cavity</div> <div>Replaces {{c5::red}} marrow as a person ages</div>",
+                "slide 29"
+            ],
+            "flags": 0,
+            "guid": "e[D(_rYixk",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Sharpey’s}} fibers</div> <div>•{{c2::Collagen}} fibers from the periosteum or from tendons or ligaments that become embedded in the bone matrix</div> <div>•Fibers from the periodontal ligament that become embedded in cementum are also called {{c1::Sharpey’s}} fibers</div>",
+                "slide 30"
+            ],
+            "flags": 0,
+            "guid": "RensJM]*+=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Vitamins are essential to healthy bone</div> <div>•Vitamin {{c1::C}} is required for {{c5::collagen}} formation.&nbsp; In people with {{c3::scurvy}} (vitamin {{c1::C}} deficiency), bone matrix cannot be calcified</div> <div>•Vitamin {{c2::D}} is necessary for {{c4::absorbing}} and {{c4::processing}} calcium, required for bone and tooth formation</div>",
+                "slide 31"
+            ],
+            "flags": 0,
+            "guid": "vDY99`5r/=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Roles of hormones</div> <div>•{{c1::PTH – parathyroid}} hormone</div> <div>Secreted by {{c5::parathyroid}} glands</div> <div>Stimulates bone {{c2::resorption}}, thus elevating blood {{c3::calcium}} levels</div> <div>•{{c4::Calcitonin}} </div> <div>Secreted by the {{c5::thyroid}} gland</div> <div>Inhibits {{c6::osteoclast}} activity, and promotes urinary excretion of {{c7::calcium}} and {{c7::phosphate}}</div>",
+                "slide 32"
+            ],
+            "flags": 0,
+            "guid": "Dl3~K9,q|0",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Roles of hormones</div> <div>•{{c1::Sex steroids}}</div> <div>Promote bone growth during {{c2::adolescence}}</div> <div>Prevent bone loss in {{c2::adulthood}}</div>",
+                "slide 33"
+            ],
+            "flags": 0,
+            "guid": "M~?lop?QzI",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": [
+                "Anatomy::Lec9"
+            ]
+        }
+    ]
+}
