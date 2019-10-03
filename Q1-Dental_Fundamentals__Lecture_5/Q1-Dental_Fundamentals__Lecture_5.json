@@ -55,6 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
+    "mid": "1570079172975",
     "name": "Q1-Dental Fundamentals::Lecture 5",
     "note_models": [
         {
@@ -108,6 +109,49 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n<div style='font-family: Arial; font-size: 20px;'>{{Text}}</div>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
         }
     ],
     "notes": [
@@ -121,6 +165,162 @@
             "flags": 0,
             "guid": "G~+qDB2eS|",
             "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st Premolar<div>Geometric forms:<br><div>Proximal geometric form is {{c1::trapezoidal}}</div><div>Occlusally, resembles {{c2::6-sided figure}}</div><div>facially (similar to canine) {{c3::(5-sided)}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ka.8~_Q`ZV",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>form and functions<br><div>2 fairly equal cusps: {{c1::facial and lingual F&gt;L}}</div><div>Assists canine in {{c1::tearing and piercing::function}}.&nbsp;</div></div><div>presense of an {{c1::occlusal}} table</div><div>Essentially a '{{c1::grinding::other function}}' tooth.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CpRo*a3@QY",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Development timeline</div><div>Initial Calcification: {{c1::1.5 to 1.75}} years</div><div>Enamel completed {{c1::5-6}} years.&nbsp;</div><div>Eruption {{c1::10-11}} years</div><div>Root completed: {{c1::12-13}} years.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DyO)7f#xIx",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View</div><div>Closely resembles {{c1::canine::another tooth}}</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b?k7ZTb_]1",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View</div><div>Prominent {{c1::buccal::buccal/lingual}} cusp ridge with {{c1::depressions}} on either side.&nbsp;</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CK=w|7H`n_",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View</div><div>Facial HOC at {{c1::cervical}} third</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q*8KY=DYdu",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View</div><div>Occluso-cervical dimension {{c1::greater::greater/lesser}} than maxillary {{c2::2nd premolar::another tooth}}</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wP5dh$PFy{",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View- Mesial Outline</div><div>Mesial HOC at junction of {{c1::occlusal-middle thirds}}.&nbsp;</div><div><br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z}H=,gcXxW",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View- Mesial Outline</div><div>Outline cervical to contact area slightly {{c1::concave::convex/concave}}.&nbsp;</div><div><br></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "to$_$K4B/",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View- Distal Outline</div><div>Similar to mesial outline with a little {{c1::more::more/less}} curvature.</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wg##.pr/K:",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View- Distal Outline</div><div>HOC slightly {{c1::more cervical than mesial}}</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mW!8h9h!/B",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View- Distal Outline</div><div>Less {{c1::cervical::apical/occlusal}} concavity.</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ufPcFT32A,",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Maxillary 1st premolars<div>Facial View- Occlusal Outline</div><div>Similar to canine except:</div><div>cusp tip {{c1::not as prominent::more prominent/less prominent}}</div><div>Cusp tip located just {{c1::distal::mesial/distal}} to midline of root.&nbsp;</div><div>{{c1::Longer::shorter/longer}} MB cusp ridge</div><div>{{c1::shorter::shorter/longer}} DB cusp ridge</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uni+iPGO<V",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
             "tags": []
         }
     ]
