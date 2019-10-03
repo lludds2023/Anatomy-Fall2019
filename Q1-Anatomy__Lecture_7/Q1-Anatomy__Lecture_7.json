@@ -54,9 +54,78 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
+    "media_files": [
+        "Screen Shot 2019-10-02 at 7.03.27 PM.png",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-1-A.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-1-Q.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-2-A.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-2-Q.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-3-A.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-3-Q.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-4-A.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-4-Q.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-5-A.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-5-Q.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-6-A.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-6-Q.svg",
+        "f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg",
+        "paste-0175cca89990b83c185b3bb5bd76bcc687b14641.jpg",
+        "paste-8ce3271f2003a45c420a36aab769fd97aab871de.jpg"
+    ],
     "name": "Q1-Anatomy::Lecture 7",
     "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Hide others on the back side",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (Hide all)",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze (Hide all)",
+                    "ord": 0,
+                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
@@ -85,7 +154,9 @@
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Cloze",
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Anatomy::Lec7"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -100,9 +171,840 @@
             ],
             "type": 1,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "amino acid? ",
+                    "ord": 11,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
         }
     ],
     "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The largest organin the body is {{c1::skin}}",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z[B[gl4H[4",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The skin accounts for {{c1::15%-20%}} of body weight.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GFNnm}egy3",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the integument include?&nbsp;",
+                "Skin and its appendages&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "iIKgYzmxL>",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What three layers does the skin include?&nbsp;",
+                "Epidermis, Dermis, and subcutaneous/hypodermal tissue"
+            ],
+            "flags": 0,
+            "guid": "uWwi$|,$ez",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The epidermis is an epithelial covering of {{c1::ectodermal}} orgin.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M&:+v}O,;V",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Hair}}, {{c1::nails}}, {{c1::sweat glands}} and {{c1::sebacious glands}} are derived from the epidermis.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HodOE`]<kK",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The dermis is {{c2::connective tissue:: what type of tissue}} underlying the epidermis and is of {{c1::mesodermal}} orgin.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kiPsJ_sFP)",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What layer is between the epidermis and dermis?&nbsp;",
+                "the basement membrane"
+            ],
+            "flags": 0,
+            "guid": "gbYj(2ld=e",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "subcutaneous/hypodermal tissue lies {{c1::deep}} to the dermis",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kmPGETN5R>",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is superficial fascia?",
+                "Another name for the subcutaneous or hypodermal layer"
+            ],
+            "flags": 0,
+            "guid": "b.{cH6-NM$",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Epidermal ridges}} and {{c1::sulci}} on hands and feet form distictive patterns reffered to as fingerprints.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bbI{kM@c|j",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "skin is {{c1::elastic}} -- it can stretch to cover swollen areas.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MSr@8&muh/",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the roles of skin? Name 5",
+                "protection<div>sensation&nbsp;</div><div>thermoregulation&nbsp;</div><div>metabolism&nbsp;</div><div>communication&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "o4fd]k^n%Z",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The epidermis is {{c1::stratefied squamous keratinized:: layered, cells shape, and is it keratinized or not }} epithelium.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B#2{{>;T14",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What types of cells are found in the epidermis? Name 4&nbsp;",
+                "<img src=\"paste-8ce3271f2003a45c420a36aab769fd97aab871de.jpg\"><div>Keratinocytes, Melanocytes, Langerhans cells, and Merkel cells&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "LX~y<E&|P0",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The primary cell type in the epidermis are {{c1::keratinocytes}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iDOW!NKD-B",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Melanocytes}} produce a dark pigment called {{c2::melanin}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mrge>6V*9<",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Langerhans cells::cell type}} are antigen presenting cells in the epidermis.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LpS)NyN%mG",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Merkel cells}} are assosciated with {{c2::sensory nerve fibers.&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IVNO#^op@W",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Melanocytes protect {{c1::DNA}} of keratinocytes from UV light.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u:1*ULN{_e",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the primary layer of thick skin?&nbsp;",
+                "Stratum Corneum&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "n+1RYqMqII",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Thin skin ranges from {{c1::75-150 mm}} in thickness.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C#fJEJ7Z7|",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Thick skin ranges from {{c1::400-1400mm}} in thickness",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Gn=6Bw-u5+",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Thick skin is {{c1::hairless:: amount of hair }} and located on the {{c1::palms of the hands}} and {{c1::soles of the feet.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G7C1j!<m_U",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f60fe89f31084c03b9b950ab8ed1ee43-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-10-02 at 7.03.27 PM.png\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-1-A.svg\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D&`Sy1^Tnm",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f60fe89f31084c03b9b950ab8ed1ee43-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-10-02 at 7.03.27 PM.png\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-2-A.svg\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hXT~%78}~m",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f60fe89f31084c03b9b950ab8ed1ee43-ao-3",
+                "",
+                "<img src=\"Screen Shot 2019-10-02 at 7.03.27 PM.png\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-3-A.svg\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GeKakj63`H",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f60fe89f31084c03b9b950ab8ed1ee43-ao-4",
+                "",
+                "<img src=\"Screen Shot 2019-10-02 at 7.03.27 PM.png\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-4-A.svg\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F[z$Q/[6fB",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f60fe89f31084c03b9b950ab8ed1ee43-ao-5",
+                "",
+                "<img src=\"Screen Shot 2019-10-02 at 7.03.27 PM.png\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-5-A.svg\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H4SAm/JBb7",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f60fe89f31084c03b9b950ab8ed1ee43-ao-6",
+                "",
+                "<img src=\"Screen Shot 2019-10-02 at 7.03.27 PM.png\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-6-A.svg\" />",
+                "<img src=\"f60fe89f31084c03b9b950ab8ed1ee43-ao-O.svg\" />",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t^+WjiDY[.",
+            "note_model_uuid": "8eec3d18-df19-11e9-969d-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum basale is also known as the {{c1::basal layer}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jql90):V$2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The stratum basale is {{c1::a single layer::how many layers}} of {{c2::cuibodal to columnar::cell shape}} {{c3::basophilic::basophilic or eosinophilic}} cells.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FjvyNyudn=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The statum basale is separated from the underlying dermis by {{c1::basal lamina::what layer}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s.12tn.,?<",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Basal cells attach to the basal lamina by {{c1::hemidesmesomes::type of junction}} and to other basal cells by {{c1::desmisomes::type of junction}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v5K883s%k1",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The basal cells making up the statum basale undergo frequent mitosis, thus acting as {{c1::stem cells}} for the other layers of the epidermis.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oNKy,{0IHs",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum spinosum is refered to as the {{c1::spinous}} or {{c1::prickle}} layer&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t..r6fnaiW",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the thickest layer of the epidermis?&nbsp;",
+                "Stratum Spinosum&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "yx-L0O1Gh8",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cells of the stratum spinosum are {{c1::polyhedral::shape}} cells with {{c2::central::central or peripheral}} nuclei.&nbsp;",
+                "<img src=\"paste-0175cca89990b83c185b3bb5bd76bcc687b14641.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "pxpzz5:gUT",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which layer of the epidermis has cells whose cytoplasm actively synthesizes keratin in form of tonobrils which attach to desmesomes?&nbsp;",
+                "Stratum spinosum&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "xhh:&O7MN@",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why is the stratum spinosum layer known as spinous or prickle pair?&nbsp;",
+                "when tissues are processed, cells shrink but remain attached at desmesomes giving appearance of \"spines\"&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "PlYjig$}^h",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum granulosum is the {{c1::granular}} layer.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M)t)vt3:f^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Stratum granulosum contains {{c1::3-5::how many layers}} layers of {{c1::flattened::flattened or cuboidal}} cells.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NCa>cBQjV&",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The cytoplasm of the stratum granulosum layer contains {{c1::keratohyalin}} granules.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CjT&8QU}WE",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The keratohyalin granules in stratum granulosum contain {{c1::filaggrin}} and other proteins involved in keratinization.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o2]*rI@C?X",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Stratum lucidum::layer of the epidermis}} in only seen in thick skin&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h;[4?81OZ*",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The Stratum lucidum is a translucent layer formed of {{c1::flattened::flattened or rounded}} {{c2::eosinophilic::basophilic otr eosinoophilic}} cells when stained with HE.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qh-[}5`7l:",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::nuclei and organelles}} have been lost in cells of the stratum lucidum.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q{eP/icqO=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cells making up the stratum lucidum epidermal layer are packed with {{c1::keratin fillaments.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MLI6]TGP_J",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
         {
             "__type__": "Note",
             "data": "",
