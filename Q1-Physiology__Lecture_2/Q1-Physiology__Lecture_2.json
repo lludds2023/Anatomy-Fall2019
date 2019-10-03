@@ -273,7 +273,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-6e4e9",
             "req": [
                 [
                     0,
@@ -500,6 +500,198 @@
             "flags": 0,
             "guid": "NG-p-Z>`Dp",
             "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::ligand-gated}} ion channel receptors are {{c1::integral}} membrane proteins",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j/r$egVfQo",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Ligand-gated}} ion channel receptors are also hybrid {{c2::receptors/channels}} that are involved in {{c3::signaling}} between electrically excitable cells",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NQP7usrt4h",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::ligand gated}} ion channels transduce a {{c2::chemical}} signal into an {{c2::electrical}} signal",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ehibp{/8GP",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Ligand gated}} ion channels are a {{c2::multisubunit}} membrane spanning receptors",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b_Ig;>2|S-",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Signaling molecules}} control the openining and closing of ion channels by {{c2::binding}} to a site on the receptor",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FfJ-5VnGR[",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Ionotropic receptors}} is another name for a {{c1::ligand gated ion channel}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b3cs%h54UY",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ionotropic receptors for {{c2::acetylcholine}}, {{c2::serotonin}}, and {{c2::GABA}} are good examples of ligand gated ion channels",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E8IZz1.*+,",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} are integral plasma membrane proteins",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oLX.BEWNs@",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} work through an {{c2::intermediary}} to activate/inactivate a separate membrane associated enzyme or channel",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gz`*9*P8y!",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The intermediary in a G protein-coupled receptors is {{c1::GTP}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gK}mJQ!y2-",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G protein-coupled receptors constitue the largest family of receptors on the {{c1::cell surface}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j3G[1cp@S=",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} mediate a cellular response to a diverse array of {{c2::signaling}} molecules (hormones, neurotransmitters, odorants etc)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d&HHL-o&1H",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Despite the {{c1::chemical}} diversity of their ligands, most {{c2::receptors}} have a similar structure",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K9.q/1nNZg",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} have {{c2::seven}} membrane-spanning alpha-helical segments",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NS2>Ydb`Wd",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A {{c1::ligand binds}} onto G protein-coupled receptors on the extracellular {{c2::N terminus}} that is glycosylated&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ARtksdH5A@",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a {{c2::G protein-coupled receptor}} has a large cytoplasmic loope that has {{c3::hydrophilic}} amino acids between helices {{c1::5 and 6}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yHnK,XHULQ",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
             "tags": []
         }
     ]
