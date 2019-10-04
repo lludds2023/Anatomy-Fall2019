@@ -66,9 +66,15 @@
         "27823f83b50443fc879608c75eb4184a-ao-5-A.svg",
         "27823f83b50443fc879608c75eb4184a-ao-5-Q.svg",
         "27823f83b50443fc879608c75eb4184a-ao-O.svg",
+        "Picture1 (3).jpg",
+        "Picture1 (4).jpg",
+        "Picture1 (5).jpg",
+        "Picture1 (7).jpg",
+        "Picture1 (8).jpg",
+        "Picture1 (9).jpg",
         "tmpag4nmvh7.png"
     ],
-    "mid": "1570079172977",
+    "mid": "1569130899689",
     "name": "Q1-Physiology::Lecture 2",
     "note_models": [
         {
@@ -135,7 +141,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -160,7 +166,7 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "{{cloze:Text}}\n<div style='font-family: Arial; font-size: 20px;'>{{Text}}</div>\n"
+                    "qfmt": "{{cloze:Text}}"
                 }
             ],
             "type": 1,
@@ -297,6 +303,50 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-111ec",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -692,6 +742,246 @@
             "flags": 0,
             "guid": "yHnK,XHULQ",
             "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G proteins are a member of the {{c1::GTP-binding protein}} family",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uN)WdT.clg",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G proteins are {{c1::heterotrimers}} that exist in many combinations of different {{c2::alpha, beta, &amp; gamma}} subunits",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b4F:2Fb$~K",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The GTP-binding protein family includes:<div>1) {{c2::heterotrimeric}} G proteins that bind to {{c3::G-protein}} coupled receptors</div><div>2) small GTP-binding proteins, such as {{c1::RAS}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c_:O4i@zY^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterotrimeric and small G proteins can {{c1::hydrolyze}} {{c2::GTP}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jOnRr|M~/d",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When heterotrimeric and small G proteins are hydrolyzed with GTP, they can switch between an {{c2::active}} {{c1::GTP-bound}} state and an {{c2::inactive}} {{c1::GDP-bound}} state",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dws|_ql&=Z",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterotrimeric G proteins are composed of three subunits: {{c1::alpha, beta, and gamma}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QWciU&2MGW",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::alpha}} subunit of heterotrimeric G proteins binds and hydrolyzes {{c2::GTP}}&nbsp;",
+                "Example is adenyly cyclase"
+            ],
+            "flags": 0,
+            "guid": "NNQ8/FW:8o",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::beta/gamma}} complex of heterotrimeric G proteins, anchors the {{c2::trimeric}} complex to the membrane and functions in {{c3::signal transduction::type of transduction}} by interacting with certain effector molecules",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H-/LFm?~))",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G protein activation follows a {{c1::cycle}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c:T{2,)+bh",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (3).jpg\"><div>First step of the G protein activation cycle. Describe this step.</div><div><br>Hint: 1) This is in an inactive state. 2) Interaction between GDP and a specific subunit.</div>",
+                "In the inactive state, heterotrimeric G-proteins have three subunits: alpha, beta, and gamma.<div><br><b>GDP occupies</b> the guanine nucleotide-binding site of t<b>he alpha subunit.&nbsp;</b></div>"
+            ],
+            "flags": 0,
+            "guid": "d*~A^]aJH[",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (4).jpg\"><div>Second step in the G protein activation cycle.</div><div>Describe this step.</div>",
+                "After the ligand binds, the activated recptor interacts with the G protein to promote a <b>conformational change</b>.&nbsp;<div><br></div><div><b>GDP is exchanged for GTP</b></div>"
+            ],
+            "flags": 0,
+            "guid": "wfBSe<0&Hg",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (5).jpg\"><div>Third step of the G protein activation cycle. Describe this step.<br></div><div><br></div>",
+                "GDP-GTP exchange stimulates <b>dissociation of the complex</b> from the recptor"
+            ],
+            "flags": 0,
+            "guid": "Hi}],]]A!y",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (7).jpg\"><br><div>Fourth step of the G protein activation cycle. Describe this step.<br></div>",
+                "Dissociation of the complex results in a <b>disassembly </b>of the trimer into a <b>free alpha subunit</b> and<b> beta/gamma complex</b>"
+            ],
+            "flags": 0,
+            "guid": "Rj8U).H{)&",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><br></div><img src=\"Picture1 (8).jpg\"><div>Fifth step of the G protein activation cycle.&nbsp;</div><div>Describe this step.</div>",
+                "Free &amp; active GTP-bound alpha subunit can now interact with downstream effectors (adenyly cylcase and phospholipases)<div><br></div><div>Beta/gamma complex can now activate ion channels or other effectors</div>"
+            ],
+            "flags": 0,
+            "guid": "L]bb[i@=&/",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (9).jpg\"><div>Sixth step of the G protein activation cycle.&nbsp;</div><div>Describe this step.<br></div>",
+                "Alpha subunit terminates the signaling events by <b>hydrolyzing</b> <b>GTP to GDP and inorganic phosphate</b><div><br></div><div>Results in an inactive alpha-GDP complex that dissociates from downstream effector and reassociates with beta/gamma subunit</div>"
+            ],
+            "flags": 0,
+            "guid": "hmYtT;oSss",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Second messenger}} systems {{c2::amplify}} signals and {{c3::integrate}} responses among cell type",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hZT>D)3Da3",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cells rapidly {{c1::produce or activate}} the second messenger and then {{c2::inactivates or degrades}} it&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q$IyV!KmF$",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The involvement of {{c2::second messengers}} in catalytic cascades provides numerous opportunities to {{c1::amplify}} a signal",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KMdl)<|q(;",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Amplifying}} a signal usually involves the conversion of an {{c2::inactive}} species into an {{c2::active}} one",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GDMrR4V*a7",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the six examples of second messengers?",
+                "- cAMP<div>- cGMP</div><div>- IP3</div><div>- DAG</div><div>- Arachidonic acid</div><div>- Ca2+</div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "HW^rL!~&J",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
             "tags": []
         }
     ]
