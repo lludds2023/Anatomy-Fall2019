@@ -336,7 +336,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            "name": "Basic-708fa",
             "req": [
                 [
                     0,
@@ -469,7 +469,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-c34ff",
             "req": [
                 [
                     0,
@@ -735,6 +735,186 @@
             "flags": 0,
             "guid": "piC6hdL:^1",
             "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ca<sub>2+ </sub>pumps are found in the {{c1::plasma mebrane:plamsa membrane or cytosol}} of most cells and are called {{c1::PMCA}} (plamsa membrane Ca2+ ATPase).&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e}J-7?h/bd",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ca2+ pumps exchange {{c1::one::how many}} H+ for {{c2::one::how many}} ca2+ for each molecule of ATP that is hydrolyzed.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r$PoS*,+A|",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a Ca2+ pump, such as a plasma membrane Ca-H pump or the Na-Ca exchanger, the calcium ion is pumped {{c1::out of::into or out of}} the cell.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pt;fc)Yi`j",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::SERCAs::what is the transporter called}} ( sarcoplasmic and endoplasmic reticulum calcium ATPase) transport two H+ out and two Ca2+ ions inside an intracellular organelle like the {{c1::sarcoplasmic reticulumn}} in muscle cells,&nbsp; for each molecule of ATP hydrolyzed out.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mR|I=,Vh/J",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Vacuolar-type}} pumps H+ from the cytoplasm to the {{c2::interior of an organelle}}. The interior of the organelle becomes more {{c2::acidic}}.The low pH genergated inside these lysosomes, endosomes, secretory vesicles, storage vesicles, and the golgi apparatus are important for their function.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o4g43kPtZz",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The multidrug resistant tranporters (MDR1) are also called {{c1::P-glycoprotein}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v<PW[gG{V6",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "MDR1 (P-glycoprotein) extrudes {{c1::carionic metabolites}} and {{c1::drugs}} across the cell membrane. These transporters are expressed by a wide variety of cells including {{c1::liver}} cells, {{c1::kidney}} cells, and {{c1::GI tract}} cells.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lD%YB}f[0h",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cancer cells upregulate {{c1::MDR1}} transporters to pump anticancer drugs out of the cell.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ieh6bB4y6Z",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In {{c1::secondary active transport::type of tranport}} molecules are tranpsorted against their concentration gradient by using the energy in the electrochemical gradient of other molecules to drive this tranport. {{c1::ATP}} is not used.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xtwwPZ7ZFu",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The two major classes of secondary active transporters are: {{c1::cotransporters/symporters}} and {{c1::exchangers/antiporters}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s~(LSUaHVN",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Cotranporters/Symporters}} are intrisnisc membrane proteins that move the \"driving\" solute and \"driven\" solute {{c1::in the same direction::same or opposite direction}}. Usually, this is driven by energy provided from teh inwardly directed {{c1::Na+}} gradient.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tsHQ7s|Bln",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Common examples of Cotransporters/Symporters are: {{c1::SGLT (sodium-glucose linked tranporter)}} and {{c2::Sodium Amino acid transporter}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ABWi(/Q1G%",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Exchangers/Antiporters}} are intrinsic membrane proteins that move the \"driving\" solute and the \"driven\" solute in {{c1::opposite::same or opposite}} directions.&nbsp; Generally cations are exchanged for {{c1::cations}} and anion are exchanged for {{c1::anion.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f6Fv4:EP9:",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "An example of an antiporter/exchanger is the {{c1::sodium-calcium exchanger}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ieU8wZG|I!",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The Na-Ca exchanger mediates the exchange of {{c1::3::how many}}Na+ ions per {{c1::1::how many }}Ca2+ ion. Na-Ca exchangers are {{c2::electrogenic}} because they move a net positive charge inside the cell.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bZ:1l~;se6",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
             "tags": []
         },
         {
