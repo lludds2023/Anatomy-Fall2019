@@ -74,7 +74,7 @@
         "Picture1 (9).jpg",
         "tmpag4nmvh7.png"
     ],
-    "mid": "1569130899689",
+    "mid": "1570240860716",
     "name": "Q1-Physiology::Lecture 2",
     "note_models": [
         {
@@ -103,7 +103,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            "name": "Basic-0390f",
             "req": [
                 [
                     0,
@@ -141,7 +141,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -155,7 +155,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-08bce",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -544,7 +544,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What are the five types of receptors",
+                "What are the four types of receptors",
                 "ligand-gated ion receptors<div>G protein coupled receptors</div><div>Catalytic receptors</div><div>Nuclear receptors.&nbsp;</div>"
             ],
             "flags": 0,
@@ -556,7 +556,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c2::ligand-gated}} ion channel receptors are {{c1::integral}} membrane proteins",
+                "{{c2::Ligand-gated}} ion channel receptors are {{c1::integral}} membrane proteins",
                 ""
             ],
             "flags": 0,
@@ -580,7 +580,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::ligand gated}} ion channels transduce a {{c2::chemical}} signal into an {{c2::electrical}} signal",
+                "{{c1::Ligand-gated}} ion channels transduce a {{c2::chemical}} signal into an {{c2::electrical}} signal",
                 ""
             ],
             "flags": 0,
@@ -592,7 +592,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::Ligand gated}} ion channels are a {{c2::multisubunit}} membrane spanning receptors",
+                "{{c1::Ligand-gated}} ion channels are a {{c2::multisubunit}} membrane spanning receptors",
                 ""
             ],
             "flags": 0,
@@ -604,7 +604,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c1::Signaling molecules}} control the openining and closing of ion channels by {{c2::binding}} to a site on the receptor",
+                "{{c1::Signaling molecules}} control the opening and closing of ion channels by {{c2::binding}} to a site on the receptor.",
                 ""
             ],
             "flags": 0,
@@ -616,7 +616,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "{{c2::Ionotropic receptors}} is another name for a {{c1::ligand gated ion channel}}",
+                "{{c2::Ionotropic receptors}} is another name for a {{c1::ligand gated ion channel receptors}}",
                 ""
             ],
             "flags": 0,
@@ -628,7 +628,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ionotropic receptors for {{c2::acetylcholine}}, {{c2::serotonin}}, and {{c2::GABA}} are good examples of ligand gated ion channels",
+                "Ionotropic receptors for {{c2::acetylcholine}}, {{c2::serotonin}}, and {{c2::GABA}} are good examples of ligand-gated ion channels",
                 ""
             ],
             "flags": 0,
@@ -664,7 +664,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "The intermediary in a G protein-coupled receptors is {{c1::GTP}}",
+                "The intermediary in a G protein-coupled receptor is {{c1::a heterotrimeric GTP-binding complex called G-protein}}",
                 ""
             ],
             "flags": 0,
@@ -736,7 +736,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "a {{c2::G protein-coupled receptor}} has a large cytoplasmic loope that has {{c3::hydrophilic}} amino acids between helices {{c1::5 and 6}}",
+                "a {{c2::G protein-coupled receptor}} has a large cytoplasmic loop that has {{c3::hydrophilic}} amino acids between helices {{c1::5 and 6}}",
                 ""
             ],
             "flags": 0,
@@ -821,7 +821,7 @@
             "data": "",
             "fields": [
                 "The {{c1::alpha}} subunit of heterotrimeric G proteins binds and hydrolyzes {{c2::GTP}}&nbsp;",
-                "Example is adenyly cyclase"
+                ""
             ],
             "flags": 0,
             "guid": "NNQ8/FW:8o",
@@ -869,7 +869,7 @@
             "data": "",
             "fields": [
                 "<img src=\"Picture1 (4).jpg\"><div>Second step in the G protein activation cycle.</div><div>Describe this step.</div>",
-                "After the ligand binds, the activated recptor interacts with the G protein to promote a <b>conformational change</b>.&nbsp;<div><br></div><div><b>GDP is exchanged for GTP</b></div>"
+                "After the ligand binds, the activated receptor interacts with the G protein to promote a <b>conformational change</b>.&nbsp;<div><br></div><div><b>GDP is exchanged for GTP</b></div>"
             ],
             "flags": 0,
             "guid": "wfBSe<0&Hg",
@@ -881,7 +881,7 @@
             "data": "",
             "fields": [
                 "<img src=\"Picture1 (5).jpg\"><div>Third step of the G protein activation cycle. Describe this step.<br></div><div><br></div>",
-                "GDP-GTP exchange stimulates <b>dissociation of the complex</b> from the recptor"
+                "GDP-GTP exchange stimulates <b>dissociation of the complex</b> from the receptor"
             ],
             "flags": 0,
             "guid": "Hi}],]]A!y",
