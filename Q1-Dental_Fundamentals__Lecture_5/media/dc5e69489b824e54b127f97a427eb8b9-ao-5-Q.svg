@@ -1,0 +1,14 @@
+<svg height="1080" width="1920" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text fill="#000000" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="dc5e69489b824e54b127f97a427eb8b9-ao-1" stroke-width="0" text-anchor="middle" transform="matrix(2.872535467147827,0,0,5.287837982177734,-1711.0877998396754,-248.35961562395096) " x="1035.17248" xml:space="preserve" y="78.62062">Maxillary 2nd premolar</text>
+  <rect fill="#000000" height="41.37931" id="dc5e69489b824e54b127f97a427eb8b9-ao-2" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="244.82759" x="631.72419" y="371.72407"/>
+  <rect fill="#000000" height="41.37931" id="dc5e69489b824e54b127f97a427eb8b9-ao-3" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="193.10345" x="459.3104" y="433.79304"/>
+  <rect fill="#000000" height="41.37931" id="dc5e69489b824e54b127f97a427eb8b9-ao-4" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="127.58621" x="469.65522" y="499.31028"/>
+  <rect class="qshape" fill="#FF7E7E" height="51.72414" id="dc5e69489b824e54b127f97a427eb8b9-ao-5" stroke="#2D2D2D" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" width="148.27587" x="762.75868" y="547.58614"/>
+ </g>
+</svg>
