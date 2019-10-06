@@ -1,0 +1,430 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "1a23151e-e875-11e9-bbba-a683e769f5fb",
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    7
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "Q1-Anatomy::Lecture 10",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-111ec",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bone remodeling takes place along&nbsp;{{c1::lines of stress}}&nbsp;",
+                "This allows bones to stay stong against the forces they see regularly"
+            ],
+            "flags": 0,
+            "guid": "t`;2fIj^kg",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The phases of the bone remodeling process are&nbsp;{{c1::resorption by osteoclasts}},&nbsp;{{c1::creation of new bone by osteoblasts}}, and&nbsp;{{c1::osteoblasts embedding themselves to become osteocytes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "{!LYxj3gF",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The average timeline for bone remodeling is&nbsp;{{c1::~200 days}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vZ)TB.4&bR",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The stages of bone remodeling are:",
+                "-Localized hemorrhage + clot formation<div>-Clean up by macrophages</div><div>-proliferation of osteoprogenitor cells</div><div>-Production of immature bone</div><div>-Broken ends united by trabeculae united forming callus</div><div>-callus remodeled along stress lines</div>"
+            ],
+            "flags": 0,
+            "guid": "z5puO@`Xv2",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Formation &gt; resorption during {{c1::growth}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N,_I#wM7VI",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Formation = resorption during {{c1::early adulthood}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GMu|>sy:Jt",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Formation &lt; Resorption during&nbsp;{{c1::later life}}",
+                "especially post menopausally"
+            ],
+            "flags": 0,
+            "guid": "koN)Z}QS~@",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Reasons for bone loss include",
+                "-Low Ca intake<div>-Decreased sex steroid levels (especially estrogen)</div><div>-Decreased exercise</div><div>-Consumption of calcium depleting substances</div>"
+            ],
+            "flags": 0,
+            "guid": "miq8Ag/rv`",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Osteoporosis can be prevented by",
+                "-Increasing peak bone mass in children<div>-Regular exercise</div><div>-Healthy Ca intake</div><div>Hormone replacement therapy (and use of bisphosphonates)</div><div>-Avoiding Ca depleting substances</div>"
+            ],
+            "flags": 0,
+            "guid": "H(%l_*bf1:",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DO:dit?/Yc",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "10",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k3W;0r]:|*",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "],",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eB9=ZyEHD`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "},",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bWur}H+{8y",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1,",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q6Ny0F9KEZ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4,",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PF^5rW>kds",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AK(//mj~da",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G}:l&{t<M?",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The three types of Muscle are {{c1::smooth}}, {{c1::cardiac}}, and {{c1::skeletal}},",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Fk2onkCmej",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "]",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PzVIS^a/ru",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        }
+    ]
+}

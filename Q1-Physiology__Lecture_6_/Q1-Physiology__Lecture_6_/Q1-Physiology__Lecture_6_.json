@@ -1,0 +1,1214 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "0c53b3e2-e7f2-11e9-8c3a-a683e769f5fb",
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    7
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "30258f84d5994559bf745a4c72758b7d-ao-1-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-1-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-10-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-10-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-11-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-11-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-12-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-12-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-13-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-13-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-2-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-2-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-3-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-3-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-4-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-4-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-5-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-5-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-6-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-6-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-7-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-7-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-8-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-8-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-9-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-9-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-O.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-1-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-1-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-2-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-2-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-3-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-3-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-4-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-4-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-5-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-5-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-6-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-6-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-7-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-7-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-O.svg",
+        "Screen Shot 2019-10-06 at 1.57.15 PM.png",
+        "a19acfa535634702b1803186f707e911-ao-1-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-1-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-2-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-2-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-3-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-3-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-4-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-4-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-O.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-1-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-1-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-2-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-2-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-3-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-3-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-4-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-4-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-1-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-1-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-2-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-2-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-3-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-3-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-4-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-4-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-5-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-5-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-O.svg",
+        "tmph9v70wlq.png",
+        "tmpky_liflf.png",
+        "tmpkyls1dzg.png",
+        "tmpyiipyrck.png"
+    ],
+    "mid": "1570388295247",
+    "name": "Q1-Physiology::Lecture 6 ",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-8e398",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Muscles are connected to bones by {{c1::tendons}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ySeDYK|0)=",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A muscle pulls the bone to which it is attached - it can only move the bone in {{c1::oneone/two}} direction/s.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H1TN(TAr<]",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Back and forth movement of body parts involves {{c1::antagonists}}, a pair of muscles or muscle groups that can pull the same bone in opposite directions.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ICVM2n*y2-",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "While one antagonist {{c1::contracts}}, the other relaxes.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y-P8Kc46bS",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-1",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-1-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "m!/l]a*X6A",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-2",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-2-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qU#%Ob)>z1",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-3",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-3-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "z>1?h=qA/v",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-4",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-4-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "eVt*#OS*M;",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-1-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "e(?&=)[=U-",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-2-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Qfw,1CRK)[",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-3",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-3-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "-}y(v5*}U",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-4",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-4-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sU6!Hf0j*q",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Each {{c1::muscle}} is made up of a hierarchy of <u>smaller parallel strands</u>, from the muscle itself down to the contractile protein molecules that produce body movements</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u`NQ2OFH@,",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>A number of {{c1::fascicles}} makes up a muscle.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lOA|RXnLv0",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Each {{c1::muscle cell (fiber)}} is a long, cylindrical cell that has many nuclei.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r7VT2c02M~",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Most of the volume of the muscle cell (fiber) is occupied by hundreds or thousands of {{c1::myofibrils}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MBsvC*5bEc",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div>Myofibrils are discrete bundles of proteins that include the contractile proteins {{c1::actin}} (thin filaments) and {{c1::myosin}} (thick filaments)</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z/Vn)UMhb+",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-1",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-1-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Aj^);;gr4]",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-2",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-2-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "t_fB{OM+T[",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-3",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-3-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "v68sn4,5q3",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-4",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-4-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "JICJgz/X>T",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-5",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-5-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "yPr#`5+Lf^",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-6",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-6-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mBN+G-S96q",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-7",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-7-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "AQFIv[s6Q=",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-8",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-8-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "h~,/Jy;,XN",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-9",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-9-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "i|3$$u=n|j",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-10",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-10-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "CGGx~7/0DN",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-11",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-11-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j*g?L;T7s(",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-12",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-12-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "C$Te,Kyw1U",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-13",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-13-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "JQ]rZZXPic",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>In addition to actin, thin filaments include the proteins; {{c1::troponin}} and {{c1::tropomyosin}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Jh&WLpKOZw",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-1",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-1-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "k-~tT}Sp)X",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-2",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-2-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "M;RVV_Y17D",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-3",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-3-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ohS?o*Dvjp",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-4",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-4-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "vNS:.*x?*z",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-5",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-5-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qw]pZ{&K=2",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-6",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-6-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "NA#}@m^ZGD",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-7",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-7-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j3?*ksA,ER",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>A muscle contracts when {{c1::thin}} filaments slide along {{c1::thick}} filaments</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u{z5*Kfowb",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-1",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-1-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "D)/G}YE8;H",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-2",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-2-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "y*?Df%bl~E",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-3",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-3-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "cGv|_w;HjM",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-4",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-4-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "oKrZ.N:G=;",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-5",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-5-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xcO+.I7eTy",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>Signals from the {{c1::CNS}}, conveyed by motor neurons are required to initiate and sustain muscle contraction.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k?eO+w%Vk}",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When a motor neuron sends out an action potential, its synaptic terminals release the neurotransmitter {{c1::acetylcholine}}, which diffuses across the synapse to the plasma membrane of the muscle fiber.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Le{hcB3&j.",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When a motor neuron sends out an action potential, its synaptic terminals release the neurotransmitter {{c1::acetylcholine}}, which diffuses across the synapse to the plasma membrane of the muscle fiber.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h^a9QPghJ+",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>Motor Neuron Stimulation of muscle</div><div>The action potential causes channels in the {{c1::ER}} to open, releasing {{c1::Ca2+}} ions into the cytoplasmic fluid.</div> <div></div> <div></div> <div></div> <div>When a muscle fiber is in a resting state, the regulatory proteins {{c2::tropomyosin}} and {{c2::troponin}} block the myosin binding sites on the actin molecules.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qR]zAA7h:X",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When Ca2+ binds to troponin, the {{c1::tropomyosin}} moves away from the myosin binding sites, allowing {{c1::contraction}} to occur.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ev[!.#H$NU",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When motor neurons stop sending action potentials to the muscle fibers, the ER pumps Ca2+ back out of the cytoplasmic fluid (Into the {{c1::ER}}), binding sites on the actin molecules are again {{c1::blocked::blocked/unblocked}}, the sarcomeres stop contracting, and the muscle {{c2::relaxes::tenses/relaxes}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yCe96f<<#!",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        }
+    ]
+}

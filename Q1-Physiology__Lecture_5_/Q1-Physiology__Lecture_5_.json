@@ -1,0 +1,291 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "f1b76dc6-e7f1-11e9-8e7a-a683e769f5fb",
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    1,
+                    7
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1570388295247",
+    "name": "Q1-Physiology::Lecture 5 ",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "During the 20th Century, the age structure of populations in developed nations shifted toward {{c1::older::older/younger}} individuals.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zzL*4NV?3}",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::age}} of an organism usually refers to the length of time the individual has existed.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "M9i4v^mE*9",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Aging (senescence)}} is the progressive deteriorative changes, during the adult period of life, which underlie an increasing vulnerability to challenges and thereby decrease the ability of the organism to survive.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jn+?D96Q1K",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Biological age::biological age/chronologial age}} is determined by physiological changes that occur in an individual.&nbsp;<div>{{c1::Chronological age::biological age/physiological age}} is determined by how long a person has been alive since birth.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nNvcQ5dYmM",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Free radicals have an unpaired electron in the {{c1::outer::inner/outer}} orbital.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PP`X+d(@id",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F ROS species are extremely stable",
+                "F - They are extremely unstable"
+            ],
+            "flags": 0,
+            "guid": "gt@kl[Oj<W",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F ROS species react particularly with -OH",
+                "T"
+            ],
+            "flags": 0,
+            "guid": "e}is?Tl#6W",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Which organelle in the cell is the most important source of ROS?",
+                "mitochondria"
+            ],
+            "flags": 0,
+            "guid": "BE#1F`y|U,",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "According to the oxidative stress theory, an imbalance between the production and removal of ROS is the major reason of twhat?",
+                "aging"
+            ],
+            "flags": 0,
+            "guid": "QR2CBT4Bw1",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Oxidative Stress</div>{{c1::Glycation}} refers to {{c1::nonenzymatic}} reactions between carbonyl groups of reducing sugars and the amino groups of macromelecules (proteins,DNA) to form {{c2::Advanced Glycation End Products (AGEs)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y]Unj/7[sf",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Oxidative Stress</div>{{c1::Glycation}} refers to {{c1::nonenzymatic}} reactions between carbonyl groups of reducing sugars and the amino groups of macromelecules (proteins,DNA) to form {{c2::Advanced Glycation End Products (AGEs)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "biV~Kwb3%.",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        }
+    ]
+}
