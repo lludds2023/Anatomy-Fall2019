@@ -1,0 +1,1266 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "d2a9ebcf-e741-11e9-a03e-dca9046e6170",
+    "deck_config_uuid": "c2f6871e-ddb4-11e9-9a12-dca9046e6170",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "c2f6871e-ddb4-11e9-9a12-dca9046e6170",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    1,
+                    10,
+                    15
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Active material",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    30
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    3,
+                    7
+                ],
+                "order": 1,
+                "perDay": 600,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "2da5482b65cd4584a660c1e8739a8c88-oa-1-A.svg",
+        "2da5482b65cd4584a660c1e8739a8c88-oa-1-Q.svg",
+        "2da5482b65cd4584a660c1e8739a8c88-oa-O.svg",
+        "6b785dfc6c0c4eb5bd939507abfdd19a-ao-1-A.svg",
+        "6b785dfc6c0c4eb5bd939507abfdd19a-ao-1-Q.svg",
+        "6b785dfc6c0c4eb5bd939507abfdd19a-ao-2-A.svg",
+        "6b785dfc6c0c4eb5bd939507abfdd19a-ao-2-Q.svg",
+        "6b785dfc6c0c4eb5bd939507abfdd19a-ao-3-A.svg",
+        "6b785dfc6c0c4eb5bd939507abfdd19a-ao-3-Q.svg",
+        "6b785dfc6c0c4eb5bd939507abfdd19a-ao-O.svg",
+        "7651635408a04e5dba79f7cc9c4a3eeb-ao-1-A.svg",
+        "7651635408a04e5dba79f7cc9c4a3eeb-ao-1-Q.svg",
+        "7651635408a04e5dba79f7cc9c4a3eeb-ao-2-A.svg",
+        "7651635408a04e5dba79f7cc9c4a3eeb-ao-2-Q.svg",
+        "7651635408a04e5dba79f7cc9c4a3eeb-ao-O.svg",
+        "Screen Shot 2019-10-05 at 1.41.32 PM.png",
+        "Screen Shot 2019-10-05 at 1.47.19 PM.png",
+        "a2f085cf5cb942d29470b7d12c6a1d47-oa-1-A.svg",
+        "a2f085cf5cb942d29470b7d12c6a1d47-oa-1-Q.svg",
+        "a2f085cf5cb942d29470b7d12c6a1d47-oa-O.svg",
+        "tmpC0Ijbj.png",
+        "tmpVROGjh.png"
+    ],
+    "mid": "1567103752553",
+    "name": "Q1-Physiology::Lecture 3",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "css": "\n.card {\n    font-family: Arial;\n    font-size: 20px;\n    color: black;\n    background-color: white;\n}\n\n.cloze {\n    font-weight: bold;\n    color: blue;\n}\n\ncz_hide {\n    display: none;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Hide others on the back side",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (Hide all)",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<script>\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\nsetTimeout(function() {\n    var clozeBoxes = document.querySelector(\".cloze cloze2_w\");\n    var elements = document.querySelectorAll(\"cloze2.\" + clozeBoxes.className);\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.add(\"cloze\");\n        elements[i].style.display=\"inline\";\n    }\n}, 0);\n/* --- DO NOT DELETE OR EDIT THIS SCRIPT --- */\n</script>\n\n\n\n{{cloze:Text}}\n{{#Extra}}\n<hr>\n{{Extra}}\n{{/Extra}}\n\n{{#Hide others on the back side}}\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n\n.cloze cloze2 {\n    display: inline;\n}\n\n.cloze cloze2_w {\n    display: none;\n}\n\ncloze2.reveal-cloze2 {\n    display: inline;\n}\n\ncloze2_w.reveal-cloze2 {\n    display: none;\n}\n\n.cloze2-toggle {\n    -webkit-appearance: none;\n    display: block;\n    font-size: 1.3em;\n    height: 2em;\n    background-color: #ffffff;\n    width: 100%;\n    margin-top: 20px;\n}\n\n.cloze2-toggle:active {\n    background-color: #ffffaa;\n}\n</style>\n\n<script>\nfunction toggle() {\nvar elements = document.querySelectorAll('cloze2, cloze2_w');\n    for(var i = 0 ; i < elements.length ; i++) {\n        elements[i].classList.toggle('reveal-cloze2');\n    }\n}\n</script>\n\n<button class='cloze2-toggle' onclick='toggle()'>Toogle mask</button>\n{{/Hide others on the back side}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze (Hide all)",
+                    "ord": 0,
+                    "qfmt": "\n<style>\ncloze2 {\n    display: none;\n}\n\ncloze2_w {\n    display: inline-block;\n    width: 5em;\n    height: 1em;\n    background-color: #ffeba2;\n}\n</style>\n{{cloze:Text}}\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "d2aa1ac2-e741-11e9-b77b-dca9046e6170",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-227bd",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-08bce",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-708fa",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "579d9594-e7b3-11e9-a5e9-98fe94472a7e",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-c34ff",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fluid in the body<div><br /></div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>Intracellular</cloze2>}} fluid (25L)</div><div>==={{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>cell membrane</cloze2>::structure separating the two}}===</div><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Extracellular</cloze2>}} fluid (17L)</div><div><br /></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ePS:X0^jZ$",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cell membrane<div><br /></div><div>Separates&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>intracellular</cloze2>}} fluid &lt;-&gt; {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>extracellular</cloze2>}} fluid</div></blockquote>Regulate {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>tranasport</cloze2>}} of matter<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>maintain {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>volume</cloze2>}} and {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>composition</cloze2>}} of fluids</div></blockquote><div><div><br /></div><div><br /></div></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q1o>mFC$uE",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Normal ionic concentration</div></div><div><br /></div><div><br /><table style=\"font-size: 1em; width: 100%; border-collapse: collapse;\"><thead><tr><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\">Extracellular</th><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\"><br /></th><th align=\"left\" style=\"width: 33%; padding: 5px;border-bottom: 2px solid #00B3FF\">Intracellular</th></tr></thead>\n<tbody><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">[Na<sup>+</sup>]</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c1::<cloze2_w class=\"cz-1\"></cloze2_w><cloze2 class=\"cz-1\">&gt;</cloze2>::&gt;/&lt;}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">[Na<sup>+</sup>]</td></tr><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">[K<sup>+</sup>]</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c2::<cloze2_w class=\"cz-2\"></cloze2_w><cloze2 class=\"cz-2\">&lt;</cloze2>::&gt;/&lt;}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">[K<sup>+</sup>]</td></tr><tr><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">[Cl<sup>-</sup>]</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">{{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">&gt;</cloze2>::&gt;/&lt;}}</td><td style=\"text-align: 33; padding: 5px;border-bottom: 1px solid #B0B0B0\">[Cl<sup>-</sup>]</td></tr></tbody></table><br /></div><div>Maintained by:&nbsp;</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c4::Na-K pump}}</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>3&nbsp;{{c5::Na<sup>+</sup>}}&nbsp;out for 2&nbsp;{{c6::K<sup>-</sup>}}&nbsp;in</div></blockquote>Membrane {{c7::im::Yes/no}}permeable to the ions</blockquote>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FN./x!,uQf",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><div>Blood plasma</div></div><div><br /></div><div>Total blood volume: ~{{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>5.5</cloze2>}} L</div><div>~{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>20</cloze2>}}% (~{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>3</cloze2>}} L) in circulation (heart+blood vessels)</div><div>{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>3</cloze2>}} L being plasma volume</div><div>Balance: {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>cellular</cloze2>}} element</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>RBC</cloze2>}}, {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>WBC</cloze2>}}, {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>Platlets</cloze2>}}</div><div>~{{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>2.5</cloze2>}} L</div></blockquote><div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div><br /></div></blockquote></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QnRm<HlfCe",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2da5482b65cd4584a660c1e8739a8c88-oa-1",
+                "",
+                "<img src=\"tmpVROGjh.png\" />",
+                "<img src=\"2da5482b65cd4584a660c1e8739a8c88-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2da5482b65cd4584a660c1e8739a8c88-oa-1-A.svg\" />",
+                "<img src=\"2da5482b65cd4584a660c1e8739a8c88-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "dr{|CgK}8s",
+            "note_model_uuid": "d2aa1ac2-e741-11e9-b77b-dca9046e6170",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c4::<cz_hide>!</cz_hide>Interstitial}} Fluid<div><br /></div><div>{{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>75</cloze2>}}% (~{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>13</cloze2>}} L) of total ECF</div><div>Found outside the {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>intracvascular</cloze2>}} compnent</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Separated by: {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>capillary wall</cloze2>}}</div></blockquote>Water and solutes crosses&nbsp;<blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>Capillary wall</cloze2>::structure}}: interstitium - blood plasma</div><div>{{c8::<cloze2_w class='cz-8'></cloze2_w><cloze2 class='cz-8'>cell membrane</cloze2>::structure}}: interstitium - cytoplasm</div></blockquote>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "~!{Y[RJ5p",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::<cz_hide>!</cz_hide>Transcellular}} fluid<div><br /></div><div>Fluid trapped in spaces surrounded by {{c2::<cz_hide>!</cz_hide>epithelial}} cells</div><div>~{{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>5</cloze2>}}% (~{{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>1</cloze2>}} L) of ECF</div><div>E.g.</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>{{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>Synovial</cloze2>::related to joints}} fluid</div><div>{{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>cerebrospinal</cloze2>::related to brain and spinal cord}} fluid</div></blockquote><div><br /></div>Note: Does not include fluids that are {{c7::<cloze2_w class='cz-7'></cloze2_w><cloze2 class='cz-7'>outside of body</cloze2>}} (e.g. GI tract, urinary bladder)&nbsp;<br /><div><br /></div><div><br /></div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L<_qS%9O#&",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Membrane transport</div><div><br /></div>{{c4::<cz_hide>!</cz_hide>Simple Diffusion}}<div><br /></div><div>Substances: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>uncharged</cloze2>::property}}</div><div>flux {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>directly</cloze2>::dircetly/inversely}} proportional to concentration difference</div><div>Driven by: {{c2::<cz_hide>!</cz_hide>thermal}} motion of the molecules.</div>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l_7di_URzT",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Membrane transport</div><div><br /></div>{{c2::<cz_hide>!</cz_hide>Osmosis}}<div><br /></div><div>Movement of {{c3::<cz_hide>!</cz_hide>water}}</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>through {{c4::<cz_hide>!</cz_hide>semi::yes/no}}permeable membrane</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Higher water concentration {{c1::<cloze2_w class='cz-1'></cloze2_w><cloze2 class='cz-1'>-&gt;</cloze2>::direction}} lower water concentration</div></blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><br /></blockquote>\"{{c4::<cz_hide>!</cz_hide>Semipermeable}}\" as in:&nbsp;</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Permeable to water: {{c5::<cloze2_w class='cz-5'></cloze2_w><cloze2 class='cz-5'>yes</cloze2>}}</blockquote><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">Permeable to solute: {{c6::<cloze2_w class='cz-6'></cloze2_w><cloze2 class='cz-6'>no</cloze2>}}</blockquote></blockquote>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iRqdU!{.)I",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Aquaporin}}</div><div><br /></div><div>Main route of water movment in and out of cell:<br /><br /></div><div>{{c2::Widely::extent}} distributed throughout the body<br /><br /></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O6G-:inZ(w",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a2f085cf5cb942d29470b7d12c6a1d47-oa-1",
+                "",
+                "<img src=\"tmpC0Ijbj.png\" />",
+                "<img src=\"a2f085cf5cb942d29470b7d12c6a1d47-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a2f085cf5cb942d29470b7d12c6a1d47-oa-1-A.svg\" />",
+                "<img src=\"a2f085cf5cb942d29470b7d12c6a1d47-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ogb!kmc0E`",
+            "note_model_uuid": "d2aa1ac2-e741-11e9-b77b-dca9046e6170",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Membrane transport<div><br /></div><div>Mechanisms</div><div><br /></div><div>{{c3::<cz_hide>!</cz_hide>Pores}}:</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Default state: {{c1::<cz_hide>!</cz_hide>Always open}}</div><div>Conformational change: {{c2::<cloze2_w class='cz-2'></cloze2_w><cloze2 class='cz-2'>No</cloze2>::yes/no}}</div></blockquote>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OaO)rFHB+&",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Membrane transport<div><br /></div><div>Mechanisms</div><div><br /></div><div>{{c2::<cz_hide>!</cz_hide>Channels}}</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Membrane protein that {{c1::<cz_hide>!</cz_hide>can be opened and closed::property}}</div><div>Conformational change: {{c3::<cloze2_w class='cz-3'></cloze2_w><cloze2 class='cz-3'>Yes</cloze2>}}</div><div>Open to intracellular and extracellular solutions {{c4::<cloze2_w class='cz-4'></cloze2_w><cloze2 class='cz-4'>simultaneously</cloze2>::manner}}</div></blockquote>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GVPk_~am^}",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Membrane transport<div><br></div><div>Mechanisms</div><div><br></div><div>{{c2::<cz_hide>!</cz_hide>Carriers}}</div><blockquote class=\"webkit-indent-blockquote\" style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><div>Membrane protein that {{c1::<cz_hide>!</cz_hide>can be opened and closed::property}}</div><div>Has {{c5::<cz_hide>!</cz_hide>at least 2::#}} gate/s</div><div>Conformational change: {{c3::<cloze2_w class=\"cz-3\"></cloze2_w><cloze2 class=\"cz-3\">Yes</cloze2>}}</div><div><br></div></blockquote>",
+                "",
+                ""
+            ],
+            "flags": 0,
+            "guid": "piC6hdL:^1",
+            "note_model_uuid": "0466a245-e015-11e9-ba4a-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ca<sub>2+ </sub>pumps are found in the {{c1::plasma mebrane:plamsa membrane or cytosol}} of most cells and are called {{c1::PMCA}} (plamsa membrane Ca2+ ATPase).&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e}J-7?h/bd",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ca2+ pumps exchange {{c1::one::how many}} H+ for {{c2::one::how many}} ca2+ for each molecule of ATP that is hydrolyzed.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r$PoS*,+A|",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a Ca2+ pump, such as a plasma membrane Ca-H pump or the Na-Ca exchanger, the calcium ion is pumped {{c1::out of::into or out of}} the cell.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pt;fc)Yi`j",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::SERCAs::what is the transporter called}} ( sarcoplasmic and endoplasmic reticulum calcium ATPase) transport two H+ out and two Ca2+ ions inside an intracellular organelle like the {{c1::sarcoplasmic reticulumn}} in muscle cells,&nbsp; for each molecule of ATP hydrolyzed out.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mR|I=,Vh/J",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Vacuolar-type}} pumps H+ from the cytoplasm to the {{c2::interior of an organelle}}. The interior of the organelle becomes more {{c2::acidic}}.The low pH genergated inside these lysosomes, endosomes, secretory vesicles, storage vesicles, and the golgi apparatus are important for their function.&nbsp;&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o4g43kPtZz",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The multidrug resistant tranporters (MDR1) are also called {{c1::P-glycoprotein}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v<PW[gG{V6",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "MDR1 (P-glycoprotein) extrudes {{c1::carionic metabolites}} and {{c1::drugs}} across the cell membrane. These transporters are expressed by a wide variety of cells including {{c1::liver}} cells, {{c1::kidney}} cells, and {{c1::GI tract}} cells.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lD%YB}f[0h",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cancer cells upregulate {{c1::MDR1}} transporters to pump anticancer drugs out of the cell.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ieh6bB4y6Z",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In {{c1::secondary active transport::type of tranport}} molecules are tranpsorted against their concentration gradient by using the energy in the electrochemical gradient of other molecules to drive this tranport. {{c1::ATP}} is not used.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xtwwPZ7ZFu",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The two major classes of secondary active transporters are: {{c1::cotransporters/symporters}} and {{c1::exchangers/antiporters}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s~(LSUaHVN",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Cotranporters/Symporters}} are intrisnisc membrane proteins that move the \"driving\" solute and \"driven\" solute {{c1::in the same direction::same or opposite direction}}. Usually, this is driven by energy provided from teh inwardly directed {{c1::Na+}} gradient.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tsHQ7s|Bln",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Common examples of Cotransporters/Symporters are: {{c1::SGLT (sodium-glucose linked tranporter)}} and {{c2::Sodium Amino acid transporter}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ABWi(/Q1G%",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Exchangers/Antiporters}} are intrinsic membrane proteins that move the \"driving\" solute and the \"driven\" solute in {{c1::opposite::same or opposite}} directions.&nbsp; Generally cations are exchanged for {{c1::cations}} and anion are exchanged for {{c1::anion.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f6Fv4:EP9:",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "An example of an antiporter/exchanger is the {{c1::sodium-calcium exchanger}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ieU8wZG|I!",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The Na-Ca exchanger mediates the exchange of {{c1::3::how many}}Na+ ions per {{c1::1::how many }}Ca2+ ion. Na-Ca exchangers are {{c2::electrogenic}} because they move a net positive charge inside the cell.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bZ:1l~;se6",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The <b>main</b>&nbsp;way that water passes through a membrane is through proteins called {{c1::aquaporins}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tWr-Y}0w,z",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "True or False: Transport of water across biological membranes requires certain pumps on occasion.",
+                "False; transport of water across biological membranes is <b>always passive</b>, no pumps described."
+            ],
+            "flags": 0,
+            "guid": "C-*dCj6O[$",
+            "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is osmolality?",
+                "A measure of the number of osmotically active solutes in a single solution."
+            ],
+            "flags": 0,
+            "guid": "nE%o>pX?q#",
+            "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Membranes with low fluidity (those whose phospholipids have long saturated fatty acid chians with few double bonds) exhibit {{c1::lower::lower/higher}} H<sub>2</sub>O permeability.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "p^@wWJ{Uez",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To a certain extent, <u>single water molecules can dissolve in lipid bilayers</u><b> </b>and thus move across cell membranes at a low but finite rate by<b> </b>{{c2::simple diffusion.::<b>what process</b>?}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b&V/C8mzH-",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What component in membranes decreases fluidity and may further reduce H<sub>2</sub>O permeability?",
+                "Cholesterol"
+            ],
+            "flags": 0,
+            "guid": "k[pa6{Za!H",
+            "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>Normal </b>plasma osmolality is {{c1::290}} mOsm.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h3#;m_6mI]",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Solutions having an osmolality of 290 mOsm are described as {{c1::isosmolal::isosmolal/hyperosmolal/hypoosmolal}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cD/[%1KBNX",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Solutions having an osmolality above 290 mOsm are described as {{c1::hyperosmolal::isosmolal/hyperosmolal/hypoosmolal}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GiAoxEtnD2",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Solutions having an osmolality below 290 mOsm are described as {{c1::hypoosmolal::isosmolal/hyperosmolal/hypoosmolal}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "frr@2LfcNy",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The asymmetric distribution of impermeant proteins in plasma versus interstitial fluid creates an osmotic force called {{c1::protein osmotic pressure}}, colloid osmotic pressure or oncotic pressure.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K=iCKPDeAJ",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The <b>oncotic pressure</b> <b>difference</b> tends to pull water from the {{c1::intersitium}} to the {{c2::plasma}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b$sK<u>Sf/",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The oncotic pressure difference is opposed by the {{c1::hydrostatic pressure::what kind of pressure?}} difference across the capillary wall which drives fluid from plasma into the interstitum.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J(i50%/W8c",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7651635408a04e5dba79f7cc9c4a3eeb-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-10-05 at 1.41.32 PM.png\" />",
+                "<img src=\"7651635408a04e5dba79f7cc9c4a3eeb-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7651635408a04e5dba79f7cc9c4a3eeb-ao-1-A.svg\" />",
+                "<img src=\"7651635408a04e5dba79f7cc9c4a3eeb-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "tG#6d^3,Dk",
+            "note_model_uuid": "579d9594-e7b3-11e9-a5e9-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7651635408a04e5dba79f7cc9c4a3eeb-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-10-05 at 1.41.32 PM.png\" />",
+                "<img src=\"7651635408a04e5dba79f7cc9c4a3eeb-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"7651635408a04e5dba79f7cc9c4a3eeb-ao-2-A.svg\" />",
+                "<img src=\"7651635408a04e5dba79f7cc9c4a3eeb-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "cW)dUVQ#Mj",
+            "note_model_uuid": "579d9594-e7b3-11e9-a5e9-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Water is at {{c1::equilibrium}} across the wall of a <i>capillary</i>&nbsp;when the colloid osmotic and hydrostastic pressure differences are equal.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r4:QOpU=-G",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When the hydrostatic pressure exceeds the colloid osmotic pressure, the resulting movement of water out of the capillary is called {{c1::ultrafiltration}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "opljgaV>h_",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6b785dfc6c0c4eb5bd939507abfdd19a-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-10-05 at 1.47.19 PM.png\" />",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-1-A.svg\" />",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "c/942H!k-[",
+            "note_model_uuid": "579d9594-e7b3-11e9-a5e9-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6b785dfc6c0c4eb5bd939507abfdd19a-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-10-05 at 1.47.19 PM.png\" />",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-2-A.svg\" />",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "HQ2N45]1kn",
+            "note_model_uuid": "579d9594-e7b3-11e9-a5e9-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "6b785dfc6c0c4eb5bd939507abfdd19a-ao-3",
+                "",
+                "<img src=\"Screen Shot 2019-10-05 at 1.47.19 PM.png\" />",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-3-A.svg\" />",
+                "<img src=\"6b785dfc6c0c4eb5bd939507abfdd19a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "FXnRzPeb+J",
+            "note_model_uuid": "579d9594-e7b3-11e9-a5e9-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens to a cell placed in a <b>hypertonic </b>solution?",
+                "The cell <b>shrinks;&nbsp;</b><div><br></div><div>a&nbsp;<b>hypertonic solution</b>&nbsp;has increased solute, and a net movement of water outside causing the&nbsp;<b>cell</b>&nbsp;to&nbsp;<b>shrink</b>.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "PC(uEW#QB=",
+            "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens to a cell placed in a <b>hypotonic </b>solution?",
+                "The cell <b>swells</b>;<div><br><div>A&nbsp;<b>hypotonic solution</b>&nbsp;has decreased solute concentration, and a net movement of water inside the&nbsp;<b>cell</b>, causing swelling or breakage.<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "g9-Pubw8-q",
+            "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Movement of water in and out of cells is driven by {{c1::osmotic gradients}} only.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d8#.t@Ki|d",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens to a cell placed in <b>Isotonic </b>solution?",
+                "There is a balance of water concentration (cell unchanged)."
+            ],
+            "flags": 0,
+            "guid": "tnGM9V|U;A",
+            "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is osmosis?",
+                "<b>Osmosis</b>&nbsp;is the movement of water or other solvent through a plasma membrane from a region of low solute concentration to a region of high solute concentration."
+            ],
+            "flags": 0,
+            "guid": "c:ksfkR.;u",
+            "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        }
+    ]
+}
