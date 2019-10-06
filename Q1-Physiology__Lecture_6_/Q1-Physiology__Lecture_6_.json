@@ -55,6 +55,49 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "1f31f876f8264702a2ec54365cedc05f-ao-1-A.svg",
+        "1f31f876f8264702a2ec54365cedc05f-ao-1-Q.svg",
+        "1f31f876f8264702a2ec54365cedc05f-ao-2-A.svg",
+        "1f31f876f8264702a2ec54365cedc05f-ao-2-Q.svg",
+        "1f31f876f8264702a2ec54365cedc05f-ao-3-A.svg",
+        "1f31f876f8264702a2ec54365cedc05f-ao-3-Q.svg",
+        "1f31f876f8264702a2ec54365cedc05f-ao-O.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-1-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-1-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-10-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-10-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-11-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-11-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-12-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-12-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-13-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-13-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-2-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-2-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-3-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-3-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-4-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-4-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-5-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-5-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-6-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-6-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-7-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-7-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-8-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-8-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-9-A.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-9-Q.svg",
+        "30258f84d5994559bf745a4c72758b7d-ao-O.svg",
+        "450c015944104212b8fbfa27bb109414-ao-1-A.svg",
+        "450c015944104212b8fbfa27bb109414-ao-1-Q.svg",
+        "450c015944104212b8fbfa27bb109414-ao-2-A.svg",
+        "450c015944104212b8fbfa27bb109414-ao-2-Q.svg",
+        "450c015944104212b8fbfa27bb109414-ao-3-A.svg",
+        "450c015944104212b8fbfa27bb109414-ao-3-Q.svg",
+        "450c015944104212b8fbfa27bb109414-ao-4-A.svg",
+        "450c015944104212b8fbfa27bb109414-ao-4-Q.svg",
+        "450c015944104212b8fbfa27bb109414-ao-O.svg",
         "472105942d3f460bad09f383f78ca370-oa-1-A.svg",
         "472105942d3f460bad09f383f78ca370-oa-1-Q.svg",
         "472105942d3f460bad09f383f78ca370-oa-2-A.svg",
@@ -69,14 +112,112 @@
         "5dafe2ffa7f44fdb8ba2ad48beb30cdc-ao-2-A.svg",
         "5dafe2ffa7f44fdb8ba2ad48beb30cdc-ao-2-Q.svg",
         "5dafe2ffa7f44fdb8ba2ad48beb30cdc-ao-O.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-1-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-1-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-10-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-10-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-11-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-11-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-12-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-12-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-2-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-2-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-3-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-3-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-4-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-4-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-5-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-5-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-6-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-6-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-7-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-7-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-8-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-8-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-9-A.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-9-Q.svg",
+        "72528958891d4a1e9ccaf24363ba4478-ao-O.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-1-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-1-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-2-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-2-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-3-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-3-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-4-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-4-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-5-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-5-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-6-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-6-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-7-A.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-7-Q.svg",
+        "8effbba7aaa1476abff2d93048ffc52e-ao-O.svg",
+        "Screen Shot 2019-10-06 at 1.57.15 PM.png",
+        "a19acfa535634702b1803186f707e911-ao-1-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-1-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-2-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-2-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-3-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-3-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-4-A.svg",
+        "a19acfa535634702b1803186f707e911-ao-4-Q.svg",
+        "a19acfa535634702b1803186f707e911-ao-O.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-1-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-1-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-2-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-2-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-3-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-3-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-4-A.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-4-Q.svg",
+        "b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-1-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-1-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-2-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-2-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-3-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-3-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-4-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-4-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-5-A.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-5-Q.svg",
+        "c99907997d844b51ace2ba1649c5873f-oa-O.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-1-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-1-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-2-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-2-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-3-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-3-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-4-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-4-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-5-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-5-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-6-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-6-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-7-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-7-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-8-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-8-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-9-A.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-9-Q.svg",
+        "cad62f700fd74c66a37a1f770e320cf0-oa-O.svg",
+        "tmp7a4opsb3.png",
+        "tmp8my5naf3.png",
         "tmpd_ip8mbr.png",
-        "tmpwm6fffaf.png"
+        "tmph9v70wlq.png",
+        "tmphqirclod.png",
+        "tmpky_liflf.png",
+        "tmpkyls1dzg.png",
+        "tmpu6xu1497.png",
+        "tmpwm6fffaf.png",
+        "tmpyiipyrck.png"
     ],
+    "mid": "1570388295247",
     "name": "Q1-Physiology::Lecture 6 ",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "d8de8410-e880-11e9-8456-38f9d349b8cf",
+            "crowdanki_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
             "flds": [
                 {
@@ -117,6 +258,139 @@
                 }
             ],
             "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-6e4e9",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
             "vers": []
         },
         {
@@ -272,6 +546,182 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-16c31",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-8e398",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "name": "Image Occlusion Enhanced",
             "req": [
                 [
@@ -304,14 +754,994 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "Muscles are connected to bones by {{c1::tendons}}",
+                "slide 2"
+            ],
+            "flags": 0,
+            "guid": "ggkUdfcM24",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Muscles are connected to other muscles by {{c1::ligaments}}",
+                "slide 2"
+            ],
+            "flags": 0,
+            "guid": "cJ6OARa($]",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Order of Muscle Organization from Smallest to Largest:<div>{{c1::Actin (thin) and Myosin (thick)}} &lt; {{c2::myofibrils}} &lt; {{c3::muscle cell (fiber)}} &lt; {{c4::fascicles}} &lt; {{c5::muscle}}</div>",
+                "slide 4"
+            ],
+            "flags": 0,
+            "guid": "q4DMfBKG+A",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div>{{c2::I}} band: light band either side of the Z line that contains {{c1::thin}}&nbsp;<u>filaments</u></div>",
+                "slide 5"
+            ],
+            "flags": 0,
+            "guid": "y3>@u9|xGD",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>{{c1::A}} band: dark area between two Z lines that contains {{c2::thick filaments and thin filaments}}</div></div>",
+                "slide 5"
+            ],
+            "flags": 0,
+            "guid": "B8tg^={B.-",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>{{c1::H}} band: light area located in the middle of the A band that contains {{c2::thick}}<u>&nbsp;filaments</u></div></div>",
+                "slide 5"
+            ],
+            "flags": 0,
+            "guid": "yE+v!q^jtg",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>{{c1::M}} line: dark line in middle of sarcomere that contains proteins (myomesin) critical for organization and alignment of the {{c2::thick}} filaments.</div></div>",
+                "slide 5"
+            ],
+            "flags": 0,
+            "guid": "x&,pjHph>O",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>In addition to actin, thin filaments include the proteins {{c1::troponin}} and {{c1::tropomyosin}} that regulate muscle contraction</div></div>",
+                "slide 6"
+            ],
+            "flags": 0,
+            "guid": "r7.XHt}yE9",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>Troponin Complex</div></div><div>TnT - interacts with {{c1::tropomyosin}}</div><div>TnC - interacts with {{c1::calcium}}</div><div>TnI - interacts with {{c1::myosin binding site}}, inhibiting it</div>",
+                "slide 6"
+            ],
+            "flags": 0,
+            "guid": "yMadHTvNp4",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>The head of the {{c1::light}} chain of myosin regulates ATPase activity of myosin.&nbsp;</div></div>",
+                "slide 6"
+            ],
+            "flags": 0,
+            "guid": "cW9uV`mBr7",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>The head of the {{c1::alkali light}} chain of myosin stabilizes the myosin head</div></div>",
+                "slide 6"
+            ],
+            "flags": 0,
+            "guid": "ngEU]M$eU8",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Motor}} neurons stimulate muscle contraction",
+                "slide 9"
+            ],
+            "flags": 0,
+            "guid": "ceGPYHL||)",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>When a motor neuron sends out an action potential, its synaptic terminals release the neurotransmitter {{c1::acetylcholine}}, which <u>diffuses across the synapse to the plasma membrane of the muscle fiber</u>.</div>",
+                "slide 9"
+            ],
+            "flags": 0,
+            "guid": "IOa%>Jn&z=",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>When a muscle fiber is in a resting state, the regulatory proteins {{c1::tropomyosin}} and {{c1::troponin}} block the myosin binding sites on the actin molecules. When {{c1::Ca2+}} binds to troponin, the tropomysosin moves away from the myosin binding sites, allowing contraction to occur.</div>",
+                "slide 10"
+            ],
+            "flags": 0,
+            "guid": "uV<q^skvNn",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-1",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-1-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j@o0*{)%!U",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-2",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-2-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "tnVg@ab9bH",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-3",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-3-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "uYxP9bs}90",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-4",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-4-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "OT.{&@),NG",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-5",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-5-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "K9NH=Fc_Hx",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-6",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-6-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L5)DNhNG7>",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-7",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-7-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "B[rQ0Vp(u8",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-8",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-8-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ku`1n$9M)P",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cad62f700fd74c66a37a1f770e320cf0-oa-9",
+                "A muscle contracts when thin filaments sldie along thick filaments",
+                "<img src=\"tmp8my5naf3.png\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 8",
+                "",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-9-A.svg\" />",
+                "<img src=\"cad62f700fd74c66a37a1f770e320cf0-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "B<U2WeO1`3",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A single motor neuron + the muscle fibers it activates is called the {{c1::motor unit}}.&nbsp;&nbsp;",
+                "slide 13"
+            ],
+            "flags": 0,
+            "guid": "AGUh[fIx1^",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The force exerted by a muscle during contraction depends on:<div>1) how {{c1::many}} motor units are recruited</div><div>2) how {{c1::frequently}} each of the active motor neurons fire action potentials</div>",
+                "slide 14"
+            ],
+            "flags": 0,
+            "guid": "OrBR=n)2@$",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Motor units are recruited in a progressive order from the {{c1::smallest (weakest)}} to the {{c1::largest (strongest)}}</div>",
+                "slide 14"
+            ],
+            "flags": 0,
+            "guid": "e4HcQdp$a7",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-1",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-1-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "EdtiTe}K2-",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-2",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-2-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "BCgyM%;$0.",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-3",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-3-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "M0^`](RUrV",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-4",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-4-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "IN9Ft_&ocz",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-5",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-5-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "yFy0FVmeUx",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-6",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-6-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Lz!jV[9B$V",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-7",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-7-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "OwE`<X^:dT",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-8",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-8-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "OJmqlEgf!/",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-9",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-9-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "l:|s6E3GBR",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-10",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-10-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "iC?j@C`|XT",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-11",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-11-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "os>P6fL98Q",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72528958891d4a1e9ccaf24363ba4478-ao-12",
+                "",
+                "<img src=\"tmpu6xu1497.png\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-12-A.svg\" />",
+                "<img src=\"72528958891d4a1e9ccaf24363ba4478-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "lO=8XtV}AC",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Endurance}} training is considered sustained periods of low to moderate intensity performed several times per week. It results in greater {{c1::oxidative}} capacity of muscle fibers.&nbsp;</div>",
+                "slide 16"
+            ],
+            "flags": 0,
+            "guid": "ml&FR7tt4a",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Strength}} training is considered brief sets of high-intensity contractions performed several times per week&nbsp;It results in motor units that can produce more {{c1::force}}.&nbsp;</div>",
+                "slide 16"
+            ],
+            "flags": 0,
+            "guid": "wInl=XOlkR",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>In response to contractile activity, the energy consumption of skeletal muscle can easily <u>rise more than&nbsp;</u>{{c1::100}}<u>-fold&nbsp;</u></div>",
+                "slide 18"
+            ],
+            "flags": 0,
+            "guid": "EXiQ=dH,]~",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The body meets an increased energy demand by contractile activity of muscle by mobilizing energy stores both:</div> <div></div> <div>&nbsp; - locally from {{c1::muscle glycogen}}<u>&nbsp;</u><u>and&nbsp;</u>{{c1::triacylglycerols}}</div> <div></div> <div>&nbsp; - systemically from {{c1::liver glycogen}}<u>&nbsp;</u><u>and</u><u>&nbsp;</u><u></u>{{c1::<u>adipose tissue </u><u>triacylglycerols</u>}}</div>",
+                "slide 18"
+            ],
+            "flags": 0,
+            "guid": "wGve7e%~%A",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The body meets an increased energy demand by contractile activity of muscle by mobilizing energy stores both:</div> <div></div> <div>&nbsp; - locally from {{c1::muscle glycogen}}<u>&nbsp;</u><u>and&nbsp;</u>{{c1::triacylglycerols}}</div> <div></div> <div>&nbsp; - systemically from {{c1::liver glycogen}}<u>&nbsp;</u><u>and</u><u>&nbsp;</u><u></u>{{c1::<u>adipose tissue </u><u>triacylglycerols</u>}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iSj3S;7*ce",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Types of Physical Performance:<div>- {{c1::Power}}: typically last a few seconds or less<br></div><div>- {{c1::Speed}}: For spurts of activity that last several seconds to a minute<br></div><div>- {{c1::Endurance}}: For activities that last &gt; 1 minute but have low power requirements</div><div></div>",
+                "slide 19"
+            ],
+            "flags": 0,
+            "guid": "L.&Q6O~Co2",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "450c015944104212b8fbfa27bb109414-ao-1",
+                "",
+                "<img src=\"tmphqirclod.png\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-1-A.svg\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "PRsqxKTRW*",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "450c015944104212b8fbfa27bb109414-ao-2",
+                "",
+                "<img src=\"tmphqirclod.png\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-2-A.svg\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "k-0HA$dyPg",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "450c015944104212b8fbfa27bb109414-ao-3",
+                "",
+                "<img src=\"tmphqirclod.png\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-3-A.svg\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Aoa-+f@/Y^",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "450c015944104212b8fbfa27bb109414-ao-4",
+                "",
+                "<img src=\"tmphqirclod.png\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-4-A.svg\" />",
+                "<img src=\"450c015944104212b8fbfa27bb109414-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Kg=Q8{.,v@",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1f31f876f8264702a2ec54365cedc05f-ao-1",
+                "Energy Source for Physical Performance",
+                "<img src=\"tmp7a4opsb3.png\" />",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 21",
+                "",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-1-A.svg\" />",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Iy%KeMc4n#",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1f31f876f8264702a2ec54365cedc05f-ao-2",
+                "Energy Source for Physical Performance",
+                "<img src=\"tmp7a4opsb3.png\" />",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 21",
+                "",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-2-A.svg\" />",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "f[oJTgc@us",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1f31f876f8264702a2ec54365cedc05f-ao-3",
+                "Energy Source for Physical Performance",
+                "<img src=\"tmp7a4opsb3.png\" />",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "slide 21",
+                "",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-3-A.svg\" />",
+                "<img src=\"1f31f876f8264702a2ec54365cedc05f-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "?o`mQf4gt",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>For a {{c1::power}} event, we have to use ATP we already have. Once used, we replensih it by combining ADP + creatine to make ATP + creatine using {{c1::creatine phosphokinase::enzyme}}<i>.&nbsp;</i></div><div></div>",
+                "slide 22"
+            ],
+            "flags": 0,
+            "guid": "LD=kL,7h/!",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
+            "tags": [
+                "Physiology::Lec6"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "<div>For a {{c1::speed}} event, glycolysis is performed anaerobically in Type {{c1::II}} cells. As glycolysis is turned to lactate, pH drops from 7 to 6 causing muscle {{c1::fatigue}}.&nbsp;</div><div></div>",
                 "slide 23"
             ],
             "flags": 0,
             "guid": "t^yn9U/gKZ",
-            "note_model_uuid": "d8de8410-e880-11e9-8456-38f9d349b8cf",
+            "note_model_uuid": "e95b7182-e884-11e9-91e8-acde48001122",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -325,7 +1755,7 @@
             "guid": "h.3khejV]W",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -339,7 +1769,7 @@
             "guid": "x,v@1si+1l",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -353,7 +1783,7 @@
             "guid": "OIoh[$o^R{",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -376,7 +1806,7 @@
             "guid": "yk+.QUaQd[",
             "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -399,7 +1829,7 @@
             "guid": "q1~Pa&i]mn",
             "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -422,7 +1852,7 @@
             "guid": "hhxXtYqw=n",
             "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -445,7 +1875,7 @@
             "guid": "c}uE0%|8Yo",
             "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -468,7 +1898,7 @@
             "guid": "EWeXbKhWrC",
             "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -491,7 +1921,7 @@
             "guid": "E)TPj<G3^>",
             "note_model_uuid": "31396698-e58e-11e9-a10a-38f9d349b8cf",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -505,7 +1935,7 @@
             "guid": "kQYZMwGD3B",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -519,7 +1949,7 @@
             "guid": "g1nuINiNIY",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -533,7 +1963,7 @@
             "guid": "ux!1z<qRSY",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -547,7 +1977,7 @@
             "guid": "Qbamvmu^75",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -561,7 +1991,7 @@
             "guid": "DN&2Iw2J[N",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -575,7 +2005,7 @@
             "guid": "z&&k;1nc;%",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -589,7 +2019,7 @@
             "guid": "E-LsPuK^FY",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -603,7 +2033,7 @@
             "guid": "Rj%|1JsEQ=",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -617,7 +2047,7 @@
             "guid": "ngN~R}!(1z",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -631,7 +2061,7 @@
             "guid": "~JgiHou`d",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -645,7 +2075,7 @@
             "guid": "uPVZ]Hgu*o",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -659,7 +2089,7 @@
             "guid": "A$zNDn<-F!",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -673,7 +2103,7 @@
             "guid": "LBk/]`z[^J",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -687,7 +2117,7 @@
             "guid": "lkKVhBnWj?",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -701,7 +2131,7 @@
             "guid": "C=d%4u6hHf",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -715,7 +2145,7 @@
             "guid": "LPh/P<]D]9",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -729,7 +2159,7 @@
             "guid": "Ga1lHSb#QA",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -743,7 +2173,7 @@
             "guid": "BIGp]{R-:_",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -757,7 +2187,7 @@
             "guid": "gXCo+.&l[v",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -771,7 +2201,7 @@
             "guid": "fQy)`|mW4;",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -785,7 +2215,7 @@
             "guid": "IJ:>;p_&>9",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -799,7 +2229,7 @@
             "guid": "A(jri``DMB",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -813,7 +2243,7 @@
             "guid": "eoYNor~[^A",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -827,7 +2257,7 @@
             "guid": "FBYalngLg#",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -841,7 +2271,7 @@
             "guid": "PU*RX_uZzC",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -855,7 +2285,7 @@
             "guid": "F[_he>*k/~",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
         },
         {
@@ -869,8 +2299,905 @@
             "guid": "HM1/Pv5:@m",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": [
-                "Physiology::Lec6::b"
+                "Physiology::Lec6"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Muscles are connected to bones by {{c1::tendons}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ySeDYK|0)=",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A muscle pulls the bone to which it is attached - it can only move the bone in {{c1::oneone/two}} direction/s.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H1TN(TAr<]",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Back and forth movement of body parts involves {{c1::antagonists}}, a pair of muscles or muscle groups that can pull the same bone in opposite directions.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ICVM2n*y2-",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "While one antagonist {{c1::contracts}}, the other relaxes.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "y-P8Kc46bS",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-1",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-1-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "m!/l]a*X6A",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-2",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-2-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qU#%Ob)>z1",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-3",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-3-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "z>1?h=qA/v",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a19acfa535634702b1803186f707e911-ao-4",
+                "",
+                "<img src=\"tmpkyls1dzg.png\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-4-A.svg\" />",
+                "<img src=\"a19acfa535634702b1803186f707e911-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "eVt*#OS*M;",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-1-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "e(?&=)[=U-",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-2-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Qfw,1CRK)[",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-3",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-3-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "-}y(v5*}U",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b2f8e9839ed945fe8d41a62fd2750055-ao-4",
+                "",
+                "<img src=\"Screen Shot 2019-10-06 at 1.57.15 PM.png\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-4-A.svg\" />",
+                "<img src=\"b2f8e9839ed945fe8d41a62fd2750055-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sU6!Hf0j*q",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Each {{c1::muscle}} is made up of a hierarchy of <u>smaller parallel strands</u>, from the muscle itself down to the contractile protein molecules that produce body movements</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u`NQ2OFH@,",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>A number of {{c1::fascicles}} makes up a muscle.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lOA|RXnLv0",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Each {{c1::muscle cell (fiber)}} is a long, cylindrical cell that has many nuclei.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r7VT2c02M~",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Most of the volume of the muscle cell (fiber) is occupied by hundreds or thousands of {{c1::myofibrils}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "MBsvC*5bEc",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div>Myofibrils are discrete bundles of proteins that include the contractile proteins {{c1::actin}} (thin filaments) and {{c1::myosin}} (thick filaments)</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z/Vn)UMhb+",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-1",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-1-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Aj^);;gr4]",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-2",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-2-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "t_fB{OM+T[",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-3",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-3-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "v68sn4,5q3",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-4",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-4-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "JICJgz/X>T",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-5",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-5-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "yPr#`5+Lf^",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-6",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-6-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mBN+G-S96q",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-7",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-7-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "AQFIv[s6Q=",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-8",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-8-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "h~,/Jy;,XN",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-9",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-9-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "i|3$$u=n|j",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-10",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-10-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-10-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "CGGx~7/0DN",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-11",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-11-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-11-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j*g?L;T7s(",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-12",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-12-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-12-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "C$Te,Kyw1U",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30258f84d5994559bf745a4c72758b7d-ao-13",
+                "",
+                "<img src=\"tmpky_liflf.png\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-13-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-13-A.svg\" />",
+                "<img src=\"30258f84d5994559bf745a4c72758b7d-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "JQ]rZZXPic",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>In addition to actin, thin filaments include the proteins; {{c1::troponin}} and {{c1::tropomyosin}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Jh&WLpKOZw",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-1",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-1-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "k-~tT}Sp)X",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-2",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-2-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "M;RVV_Y17D",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-3",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-3-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ohS?o*Dvjp",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-4",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-4-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "vNS:.*x?*z",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-5",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-5-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qw]pZ{&K=2",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-6",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-6-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "NA#}@m^ZGD",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "8effbba7aaa1476abff2d93048ffc52e-ao-7",
+                "",
+                "<img src=\"tmph9v70wlq.png\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-7-A.svg\" />",
+                "<img src=\"8effbba7aaa1476abff2d93048ffc52e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "j3?*ksA,ER",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>A muscle contracts when {{c1::thin}} filaments slide along {{c1::thick}} filaments</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u{z5*Kfowb",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-1",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-1-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "D)/G}YE8;H",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-2",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-2-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "y*?Df%bl~E",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-3",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-3-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "cGv|_w;HjM",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-4",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-4-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "oKrZ.N:G=;",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c99907997d844b51ace2ba1649c5873f-oa-5",
+                "",
+                "<img src=\"tmpyiipyrck.png\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-5-A.svg\" />",
+                "<img src=\"c99907997d844b51ace2ba1649c5873f-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xcO+.I7eTy",
+            "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>Signals from the {{c1::CNS}}, conveyed by motor neurons are required to initiate and sustain muscle contraction.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k?eO+w%Vk}",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When a motor neuron sends out an action potential, its synaptic terminals release the neurotransmitter {{c1::acetylcholine}}, which diffuses across the synapse to the plasma membrane of the muscle fiber.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Le{hcB3&j.",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When a motor neuron sends out an action potential, its synaptic terminals release the neurotransmitter {{c1::acetylcholine}}, which diffuses across the synapse to the plasma membrane of the muscle fiber.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h^a9QPghJ+",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>Motor Neuron Stimulation of muscle</div><div>The action potential causes channels in the {{c1::ER}} to open, releasing {{c1::Ca2+}} ions into the cytoplasmic fluid.</div> <div></div> <div></div> <div></div> <div>When a muscle fiber is in a resting state, the regulatory proteins {{c2::tropomyosin}} and {{c2::troponin}} block the myosin binding sites on the actin molecules.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qR]zAA7h:X",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When Ca2+ binds to troponin, the {{c1::tropomyosin}} moves away from the myosin binding sites, allowing {{c1::contraction}} to occur.</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ev[!.#H$NU",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div></div> <div><div>When motor neurons stop sending action potentials to the muscle fibers, the ER pumps Ca2+ back out of the cytoplasmic fluid (Into the {{c1::ER}}), binding sites on the actin molecules are again {{c1::blocked::blocked/unblocked}}, the sarcomeres stop contracting, and the muscle {{c2::relaxes::tenses/relaxes}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yCe96f<<#!",
+            "note_model_uuid": "579dc17a-e7b3-11e9-8467-98fe94472a7e",
+            "tags": []
         }
     ]
 }
