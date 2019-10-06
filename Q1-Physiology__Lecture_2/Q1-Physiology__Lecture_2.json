@@ -72,15 +72,9 @@
         "Picture1 (7).jpg",
         "Picture1 (8).jpg",
         "Picture1 (9).jpg",
-        "paste-227c1a24212bc08cb80de388b3317f362d405944.jpg",
-        "paste-6bc2808c85f91d35dc73e54d70d8921d8219b5d8.jpg",
-        "paste-795463a606a0b0e7e19992019f42cde556602e5b.jpg",
-        "paste-b0249fc2b02a5fec86addea25c57b4e8727cd0da.jpg",
-        "paste-da21e0d3713463c67719b040af0d410921fed22a.jpg",
-        "paste-dfec80634cfc7192b7c781678b6b672709fb2966.jpg",
         "tmpag4nmvh7.png"
     ],
-    "mid": "1570128066126",
+    "mid": "1569130899689",
     "name": "Q1-Physiology::Lecture 2",
     "note_models": [
         {
@@ -109,7 +103,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-5e19d",
+            "name": "Basic",
             "req": [
                 [
                     0,
@@ -147,7 +141,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -161,7 +155,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-08bce",
+            "name": "Cloze",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -323,7 +317,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -337,7 +331,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-ca71e",
+            "name": "Cloze-111ec",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -348,7 +342,8 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
                 }
             ],
             "type": 1,
@@ -987,234 +982,6 @@
             "flags": 0,
             "guid": "HW^rL!~&J",
             "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "<div>Coronary artery atherosclerosis causes angina pectoris (chest pain from low blood flow to heart muscle). How do you relieve this pain? What receptor gets stimulated?</div>",
-                "<div>Nitric Oxide (NO) is important in treating Angina Pectoris&nbsp;</div><div><br></div>Spontaneously break down nitroglycerin to NO. In smooth muscle, NO stimulates soluble guanylyl cyclase (GTP --&gt; cGMP)<div>-cGMP concentration increases --&gt; relaxes smooth muscles of peripheral arterioles --&gt; vasodilation --&gt; heart works less &amp; relieves associated pain</div>"
-            ],
-            "flags": 0,
-            "guid": "B0);Fn,g`b",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What receptor + product is responsible for having an erection?&nbsp;",
-                "Alright so, males get visually stimulated and produce NO, goes into the smooth muscle, activates <u><b>soluble </b>guanine cyclase</u> (GTP --&gt; <b><u>cGMP</u></b>) --&gt; ↓[Ca2+] --&gt; smooth muscle relaxes --&gt; vasodilation --&gt; increases blood into penis --&gt; erection<div><br></div><div><br></div><div><img src=\"paste-795463a606a0b0e7e19992019f42cde556602e5b.jpg\"><br><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div></div>"
-            ],
-            "flags": 0,
-            "guid": "I&O`%*O@nP",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What enzyme reduces erection? So old people who wants an erection uses what drug?",
-                "<b>PDE5</b> (phosphodiesterase-5) breaks down cGMP --&gt; GMP<div>↓ [cGMP] = no erection :(</div><div><br></div><div><b>Sildenafil</b>&nbsp;blocks PDE5 = ↑ [cGMP] :)</div><div><b>viagra</b>: sildenafil citrate&nbsp;</div><div><br></div><div><img src=\"paste-795463a606a0b0e7e19992019f42cde556602e5b.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "Dx&u^B76A<",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "This plasma membrane receptors have intrinsic tyrosine kinase activity. So..can they phosphorylate themselves? And what are the factors that can bind to this kind of receptor?&nbsp;",
-                "Receptor tyrosine kinase<div>can phosphorylate themselves &amp; other cellular proteins</div><div><br></div><div><div>Epidermal growth factor (<u>EGF</u>)</div><div>platelet-derived growth factor (<u>PDGF</u>)</div><div>vascular endothelial growth factor (<u>VEGF</u>)</div><div>insulin and insulin-related growth factor type 1 (<u>IGF-1</u>)&nbsp;</div><div>fibroblast growth factor (<u>FGF</u>)</div><div><img src=\"paste-227c1a24212bc08cb80de388b3317f362d405944.jpg\">nerve growth factor (<u>NGF</u>) <u>can all bind to receptors</u> that possess intrinsic tyrosine kinase activity</div></div>"
-            ],
-            "flags": 0,
-            "guid": "H<h-T)sX=s",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "How do you activate receptor tyrosine kinase complex?<div><br></div>",
-                "<div>Most RTKs are single-pass transmembrane proteins that contain a single intracellular kinase domain. </div><div><br></div> <div></div> <div></div> <div></div> <div></div> <div>Ligand binding (ie. NGF) induces a conformational change in the receptor that helps form receptor dimers. </div> <div></div> <div></div> <div></div> <div></div> <div>Dimerization allows the two cytoplasmic catalytic domains to phosphorylate each other (\"<b>autophosphorylation</b>\") and thereby activate the receptor complex.&nbsp;</div><div><img src=\"paste-227c1a24212bc08cb80de388b3317f362d405944.jpg\"><br></div> <div></div> <div></div>"
-            ],
-            "flags": 0,
-            "guid": "I[_)DR2C<.",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Which receptor can undergo autophosphorylation?&nbsp;",
-                "Receptor tyrosine kinase<div><br><div><div>Dimerization allows the two cytoplasmic catalytic domains to phosphorylate each other (\"autophosphorylation\") and thereby activate the receptor complex.&nbsp;</div></div></div>"
-            ],
-            "flags": 0,
-            "guid": "vHImshqUW7",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "what receptor creates phosphotyrosine motifs? What does this motif serve as?&nbsp;",
-                "Receptor tyrosine kinases dimerizes, autophosphorylates, and phosphorylates tyrosine residues on specific cytoplasmic protein.&nbsp;<div><br></div><div>Resulting in phosphotyrosine motifs of receptor &amp; other protein substrates:</div><div>-serves as high-affinity binding sites for intracellular signaling molecules.</div><div>-high-affinity binding sites for recruiting many cytoplasmic or membrane-associated proteins that has SH2 (Src homology 2), SH3 (Src homology 3), or PTB (phosphotyrosine-binding) domains</div>"
-            ],
-            "flags": 0,
-            "guid": "gwk8/e^wqN",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "what common pathway do activated Receptor Tyrosine Kinases use to transduce their signal to cytosol &amp; nucleus ..resulting in an <u>increase/decrease</u> of activity in what small GTP-binding protein?&nbsp;",
-                "Mitogen Activated Protein Kinase&nbsp;<div><br><div>↑ in small GTP-binding protein RAS&nbsp;</div></div><div><br></div><div><img src=\"paste-b0249fc2b02a5fec86addea25c57b4e8727cd0da.jpg\"><br></div><div><div>GRB2 (Growth factor Receptor-Bound protein 2)</div><div>SOS (Son Of Sevenless)&nbsp;</div></div>"
-            ],
-            "flags": 0,
-            "guid": "xVK2vEGYq>",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Mitogen Activated Protein Kinase",
-                "<img src=\"paste-b0249fc2b02a5fec86addea25c57b4e8727cd0da.jpg\"><div><div>GRB2 (Growth factor Receptor-Bound protein 2)</div></div><div><div>SOS (Son Of Sevenless)</div></div>"
-            ],
-            "flags": 0,
-            "guid": "KP:F[e8ZVz",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Do tyrosine kinase-associated receptors have intrinsic tyrosine kinase activity?&nbsp;",
-                "No but can associate w/ nonreceptor tyrosine kinases&nbsp;"
-            ],
-            "flags": 0,
-            "guid": "cW6&o?vFO^",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Tyrosine kinases-associated receptors have enzymatic activity?&nbsp;",
-                "No but JAK does.&nbsp;<div><br></div><div><div>Tyrosine kinases of the Src family and Janus family (JAK or Janus kinases) associate <b>non</b>covalently with the cytoplasmic domains of these receptors</div></div><div><br></div><div><img src=\"paste-dfec80634cfc7192b7c781678b6b672709fb2966.jpg\"><br></div><div><br></div>"
-            ],
-            "flags": 0,
-            "guid": "lz(U{F9PsJ",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Several cytokines use what receptor?",
-                "Tyrosine kinase-associated receptors<div><br><div><div><u>Receptors in this class include those for several cytokines</u>, including IL-2, IL-3, IL-4, IL-5, IL-6, leukemia inhibitory factor (LIF), granulocyte-macrophage colony-stimulating factor (GM-CSF), and erythropoietin (EPO)</div></div></div><div><br></div><div>sorry the night is getting late and dont really know what it's saying.</div><div><img src=\"paste-dfec80634cfc7192b7c781678b6b672709fb2966.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "vPNb<XnAK1",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Does tyrosine kinase-associated receptor phosphorylate itself when it's activated?",
-                "<div>No</div><div><br></div><div>Ligand binding to these tyrosine kinase-associated receptors results in receptor dimerization and tyrosine kinase activity (JAK2).</div><div><br></div><div>Activated Kinase (JAK2)&nbsp; phosphorylates tyrosines on itself + receptor</div>"
-            ],
-            "flags": 0,
-            "guid": "ESwy@b!eNr",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What is required for lymphocyte activation?",
-                "receptor tyrosine phosphatases<div><img src=\"paste-da21e0d3713463c67719b040af0d410921fed22a.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "z.#l%vW_sA",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Is CD45 protein an example of receptor tyrosine associated receptor that is found on T + B lymphocytes?",
-                "NO. CD45 protein is a receptor tyrosine phosphatase found @ cell surface of T &amp; B lymphocytes.&nbsp;<div><br></div><div><img src=\"paste-da21e0d3713463c67719b040af0d410921fed22a.jpg\"><br><div><br></div></div>"
-            ],
-            "flags": 0,
-            "guid": "JRCl3XC1x(",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "CD45 glycosylated extracellular domain functions as <u>tyrosine phosphatase activity</u>&nbsp;?&nbsp;",
-                "NO<div>glycosylated extracellular domain: receptor for antibodies</div><div>cytoplasmic domain: tyrosine phosphatase activity</div><div><br></div><div><img src=\"paste-da21e0d3713463c67719b040af0d410921fed22a.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "A}zC5sA?Vt",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "Nucelar receptors are found on the cell membrane?",
-                "No&nbsp;<div>located in cytosol &amp; nucleus</div><div><img src=\"paste-6bc2808c85f91d35dc73e54d70d8921d8219b5d8.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "p6c&ls)LCW",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What receptors do steroid &amp; thyroid hormones bind to to activate gene transcription?",
-                "Nuclear receptors<div><br></div><div>steroid &amp; thyroid hormones enter cell &amp; bind to nuclear receptor in cytoplasm or nucleus &amp; bind to specific DNA sequences-called <b>hormone response elements</b> - in the regulatory region of responsive genes</div><div><img src=\"paste-6bc2808c85f91d35dc73e54d70d8921d8219b5d8.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "l`6!vgo|jJ",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What receptor links extracellular signals to gene tanscription?",
-                "Nuclear Receptors<div><img src=\"paste-6bc2808c85f91d35dc73e54d70d8921d8219b5d8.jpg\"><br></div>"
-            ],
-            "flags": 0,
-            "guid": "Fp`^q)pKW2",
-            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
         }
     ]
