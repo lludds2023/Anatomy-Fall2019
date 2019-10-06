@@ -1,0 +1,1679 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "472ec242-e5a5-11e9-8fd4-f2189854675e",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 300,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "27823f83b50443fc879608c75eb4184a-ao-1-A.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-1-Q.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-2-A.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-2-Q.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-3-A.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-3-Q.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-4-A.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-4-Q.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-5-A.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-5-Q.svg",
+        "27823f83b50443fc879608c75eb4184a-ao-O.svg",
+        "Picture1 (3).jpg",
+        "Picture1 (4).jpg",
+        "Picture1 (5).jpg",
+        "Picture1 (7).jpg",
+        "Picture1 (8).jpg",
+        "Picture1 (9).jpg",
+        "tmpag4nmvh7.png"
+    ],
+    "mid": "1568172351661",
+    "name": "Q1-Physiology::Lecture 2",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-2495d",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-b4a88",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n<div style='font-family: Arial; font-size: 20px;'>{{Text}}</div>\n"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced-6e4e9",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-7b8f6",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cells can communicate with one another in different ways. What are the three main ways?",
+                "Endocrine, paracrine, autocrine"
+            ],
+            "flags": 0,
+            "guid": "Dx~PXcD`,&",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Paracrine}} and {{c1::autocrine}} signals have to be limited in their {{c2::diffusion}} to ensure that they are delivered to their proper target.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l|noi=!r>!",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mechanisms by which paracrine and autocrine signals have to be limited in their diffusion.<div>-Rapid {{c1::endocytosis}} of signal by neighboring cells.</div><div>-Desctruction by {{c1::extracellular}} enzymes</div><div>-Immobilization by {{c1::extracellular matrix}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "0GrvqiBJX",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "27823f83b50443fc879608c75eb4184a-ao-1",
+                "",
+                "<img src=\"tmpag4nmvh7.png\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-1-A.svg\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "xw&MKd^|j4",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "27823f83b50443fc879608c75eb4184a-ao-2",
+                "",
+                "<img src=\"tmpag4nmvh7.png\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-2-A.svg\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mna,?2zt_g",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "27823f83b50443fc879608c75eb4184a-ao-3",
+                "",
+                "<img src=\"tmpag4nmvh7.png\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-3-A.svg\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Q^g5*UT+YU",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "27823f83b50443fc879608c75eb4184a-ao-4",
+                "",
+                "<img src=\"tmpag4nmvh7.png\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-4-A.svg\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "fLm(o:mM{!",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "27823f83b50443fc879608c75eb4184a-ao-5",
+                "",
+                "<img src=\"tmpag4nmvh7.png\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-5-A.svg\" />",
+                "<img src=\"27823f83b50443fc879608c75eb4184a-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "oDWxQKh,}L",
+            "note_model_uuid": "b9905400-de92-11e9-8dac-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Small molecules that serve as signaling molecules",
+                "Amino acids, gases (NO), ions (Ca2+), nucleotides"
+            ],
+            "flags": 0,
+            "guid": "vI%tt?~f$v",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Receptors can be {{c1::ion channels}} and ligand binding causes a change in membrane potential. In this case, the only machinery needed for signal transcution is the {{c1::receptor}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nx^+d}dHn9",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Usually {{c1::ligand}} binding to receptor causes the receptor to associate with an {{c2::effector}} molecule to initiate a cellular response.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q/-IQii#w)",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F Cells only respond to signals for which they have receptors or signaling components.&nbsp;",
+                "T"
+            ],
+            "flags": 0,
+            "guid": "ml=6[l1~G,",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the five types of receptors",
+                "ligand-gated ion receptors<div>G protein coupled receptors</div><div>Catalytic receptors</div><div>Nuclear receptors.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "NG-p-Z>`Dp",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::ligand-gated}} ion channel receptors are {{c1::integral}} membrane proteins",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j/r$egVfQo",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Ligand-gated}} ion channel receptors are also hybrid {{c2::receptors/channels}} that are involved in {{c3::signaling}} between electrically excitable cells",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NQP7usrt4h",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::ligand gated}} ion channels transduce a {{c2::chemical}} signal into an {{c2::electrical}} signal",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ehibp{/8GP",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Ligand gated}} ion channels are a {{c2::multisubunit}} membrane spanning receptors",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b_Ig;>2|S-",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Signaling molecules}} control the openining and closing of ion channels by {{c2::binding}} to a site on the receptor",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FfJ-5VnGR[",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Ionotropic receptors}} is another name for a {{c1::ligand gated ion channel}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b3cs%h54UY",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ionotropic receptors for {{c2::acetylcholine}}, {{c2::serotonin}}, and {{c2::GABA}} are good examples of ligand gated ion channels",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E8IZz1.*+,",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} are integral plasma membrane proteins",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oLX.BEWNs@",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} work through an {{c2::intermediary}} to activate/inactivate a separate membrane associated enzyme or channel",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gz`*9*P8y!",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The intermediary in a G protein-coupled receptors is {{c1::GTP}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gK}mJQ!y2-",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G protein-coupled receptors constitue the largest family of receptors on the {{c1::cell surface}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j3G[1cp@S=",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} mediate a cellular response to a diverse array of {{c2::signaling}} molecules (hormones, neurotransmitters, odorants etc)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d&HHL-o&1H",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Despite the {{c1::chemical}} diversity of their ligands, most {{c2::receptors}} have a similar structure",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K9.q/1nNZg",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::G protein-coupled receptors}} have {{c2::seven}} membrane-spanning alpha-helical segments",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NS2>Ydb`Wd",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A {{c1::ligand binds}} onto G protein-coupled receptors on the extracellular {{c2::N terminus}} that is glycosylated&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ARtksdH5A@",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a {{c2::G protein-coupled receptor}} has a large cytoplasmic loope that has {{c3::hydrophilic}} amino acids between helices {{c1::5 and 6}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yHnK,XHULQ",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G proteins are a member of the {{c1::GTP-binding protein}} family",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uN)WdT.clg",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G proteins are {{c1::heterotrimers}} that exist in many combinations of different {{c2::alpha, beta, &amp; gamma}} subunits",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b4F:2Fb$~K",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The GTP-binding protein family includes:<div>1) {{c2::heterotrimeric}} G proteins that bind to {{c3::G-protein}} coupled receptors</div><div>2) small GTP-binding proteins, such as {{c1::RAS}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c_:O4i@zY^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterotrimeric and small G proteins can {{c1::hydrolyze}} {{c2::GTP}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jOnRr|M~/d",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When heterotrimeric and small G proteins are hydrolyzed with GTP, they can switch between an {{c2::active}} {{c1::GTP-bound}} state and an {{c2::inactive}} {{c1::GDP-bound}} state",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dws|_ql&=Z",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterotrimeric G proteins are composed of three subunits: {{c1::alpha, beta, and gamma}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QWciU&2MGW",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::alpha}} subunit of heterotrimeric G proteins binds and hydrolyzes {{c2::GTP}}&nbsp;",
+                "Example is adenyly cyclase"
+            ],
+            "flags": 0,
+            "guid": "NNQ8/FW:8o",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::beta/gamma}} complex of heterotrimeric G proteins, anchors the {{c2::trimeric}} complex to the membrane and functions in {{c3::signal transduction::type of transduction}} by interacting with certain effector molecules",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H-/LFm?~))",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "G protein activation follows a {{c1::cycle}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c:T{2,)+bh",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (3).jpg\"><div>First step of the G protein activation cycle. Describe this step.</div><div><br>Hint: 1) This is in an inactive state. 2) Interaction between GDP and a specific subunit.</div>",
+                "In the inactive state, heterotrimeric G-proteins have three subunits: alpha, beta, and gamma.<div><br><b>GDP occupies</b> the guanine nucleotide-binding site of t<b>he alpha subunit.&nbsp;</b></div>"
+            ],
+            "flags": 0,
+            "guid": "d*~A^]aJH[",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (4).jpg\"><div>Second step in the G protein activation cycle.</div><div>Describe this step.</div>",
+                "After the ligand binds, the activated recptor interacts with the G protein to promote a <b>conformational change</b>.&nbsp;<div><br></div><div><b>GDP is exchanged for GTP</b></div>"
+            ],
+            "flags": 0,
+            "guid": "wfBSe<0&Hg",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (5).jpg\"><div>Third step of the G protein activation cycle. Describe this step.<br></div><div><br></div>",
+                "GDP-GTP exchange stimulates <b>dissociation of the complex</b> from the recptor"
+            ],
+            "flags": 0,
+            "guid": "Hi}],]]A!y",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (7).jpg\"><br><div>Fourth step of the G protein activation cycle. Describe this step.<br></div>",
+                "Dissociation of the complex results in a <b>disassembly </b>of the trimer into a <b>free alpha subunit</b> and<b> beta/gamma complex</b>"
+            ],
+            "flags": 0,
+            "guid": "Rj8U).H{)&",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><br></div><img src=\"Picture1 (8).jpg\"><div>Fifth step of the G protein activation cycle.&nbsp;</div><div>Describe this step.</div>",
+                "Free &amp; active GTP-bound alpha subunit can now interact with downstream effectors (adenyly cylcase and phospholipases)<div><br></div><div>Beta/gamma complex can now activate ion channels or other effectors</div>"
+            ],
+            "flags": 0,
+            "guid": "L]bb[i@=&/",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Picture1 (9).jpg\"><div>Sixth step of the G protein activation cycle.&nbsp;</div><div>Describe this step.<br></div>",
+                "Alpha subunit terminates the signaling events by <b>hydrolyzing</b> <b>GTP to GDP and inorganic phosphate</b><div><br></div><div>Results in an inactive alpha-GDP complex that dissociates from downstream effector and reassociates with beta/gamma subunit</div>"
+            ],
+            "flags": 0,
+            "guid": "hmYtT;oSss",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Second messenger}} systems {{c2::amplify}} signals and {{c3::integrate}} responses among cell type",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hZT>D)3Da3",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cells rapidly {{c1::produce or activate}} the second messenger and then {{c2::inactivates or degrades}} it&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q$IyV!KmF$",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The involvement of {{c2::second messengers}} in catalytic cascades provides numerous opportunities to {{c1::amplify}} a signal",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KMdl)<|q(;",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Amplifying}} a signal usually involves the conversion of an {{c2::inactive}} species into an {{c2::active}} one",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GDMrR4V*a7",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the six examples of second messengers?",
+                "- cAMP<div>- cGMP</div><div>- IP3</div><div>- DAG</div><div>- Arachidonic acid</div><div>- Ca2+</div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "HW^rL!~&J",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Indirect pathway indirectly activates {{c1::phospholipase A2}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n23VeF[J|;",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "alpha subunit from the receptor G-protein complex 1 activates not {{c1::phosholipase A2}}, but {{c1::phospholipase C beta}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qA/oG%UBN`",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F Phospholipase A2 is used to cleave arachidonic acid from the molecule it was originally attached to",
+                "False, PLA2 only cleaves phospholipids"
+            ],
+            "flags": 0,
+            "guid": "CK.;XtMXkJ",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Is DAG a phospholipid?",
+                "No, no phosphate"
+            ],
+            "flags": 0,
+            "guid": "dM:C[sgG<",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What enzyme is used to cleave/liberate arachidonic acid?",
+                "DAG lipase"
+            ],
+            "flags": 0,
+            "guid": "Klw$kNoS|@",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The indirect pathway releases AA in a {{c1::stepwise}} manner; first cutting {{c1::IP3}}, leaving DAG, then cutting off AA from the molecule with the enzyme {{c1::DAG lipase}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ei5ZZCswNM",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Any {{c1::agonist}} that raises [Ca2+] can promote AA {{c1::formation}} because Ca2+ can stimulate some {{c1::cystolic forms of PLA2}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Di7dUD6ahn",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Any {{c1::signal transduction pathway}} that activates MAP kinase can also enhance {{c1::AA release}} because MAP kinase phosphoryates {{c1::PLA2}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J{^_egbsK,",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Cyclooxygenases, lipoxygenases, epoxygenases}} mediate the formation of biologially active {{c1::eicosanoids}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oj:&*0PgX4",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Once AA is released from the membrane, it can {{c1::diffuse}} out of the cell, be {{c1::reincorporated}} into membrane phospholipids, or be {{c1::metabolized}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NQ]k1.LBT;",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::cyclooxygenases}} catalyze conversion of AA into the {{c1::intermediates prostaglandin G2 (PGG2) and prostaglandin H2 (PGH2)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "co<REpu]/f",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PGH2 is the precursor of the other {{c1::prostaglandins, the prostacyclins and the thromboxanes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gJ)3<T(mN!",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "AA can be metabolized by 3 main enzymes: {{c1::lipoxygenases, COX, epoxygenases}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tQ#~Y1Pz%z",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "NSAID inhibition of cyclooxygenase is a useful tool in the {{c1::treatment of inflammation and fever}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m2T)!iWk61",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "prostaglandin synthesis has been implicated in the pathophysiological mechanisms of {{c1::cardiovascular disease, cancer, and inflammatory diseases}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kvc5GP]H|u",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "NSAIDs such as a{{c1::spirin, acetaminophen, and ibuprofen}} directly target cyclooxygenase",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w@!7ZwQ`p^",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::5-lipoxygenase}} initiates the conversion of AA into biologically active {{c1::leuktrienes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w}G!)RENu1",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::leukotrienes}} participate in allergic and inflammatory responses",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t@ZW2EgefI",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::epoxygenase}} pathway converts AA into two major products, HETE (hydroxyeicosatetraenoic acid) EET (epoxyeicosatrienoic acid)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F6HiNcHD~Q",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "epoxygenase and HETE pathways plays a role in {{c1::cell proliferation}} and {{c1::Ca2+ release}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F0Ra(]U[MB",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Small GTP-binding proteins}} are involved in a vast number of cellular processes",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Cp^7q]Cs7U",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "classic heterotrimeric G proteins that bind to GCPR have what 3 parts",
+                "alpha, beta, gamma"
+            ],
+            "flags": 0,
+            "guid": "LsYaKrqzBB",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "small GTP-binding proteins are only what subunit, like what type of enzyme?",
+                "Ras"
+            ],
+            "flags": 0,
+            "guid": "sc9*%a$rsF",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A distinct group of proteins that are {{c1::structurally related to the alpha subunit}} of the heterotrimeric G proteins",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CaW<ZD1L_<",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "divided into 5 groups including the {{c1::Ras, Rho, Rab, Arf, and Ran families}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s%o%<2TGBj",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "these 21-kDa proteins can be {{c1::membrane associated}} (e.g. Ras) or may translocate between the {{c1::membrane and the cytosol (eg Rho)&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IR!3(cFKmb",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Similar to the alpha subunit of heterotrimeric G proteins, the small GTP-binding proteins switch between an {{c1::inactive GDP-bound form}} and an {{c1::active GTP-bound form}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ladgO%{7zN",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "catalytic receptors<div><br></div><div>Integral membrane proteins that are {{c1::enzymes}} or part of an {{c1::enzyme complex}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F6gfFn`b%u",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Receptors that are catalytic<div><br></div><div>5 classes</div><div><br></div><div>1. {{c1::receptor guanylyl cyclases}}</div><div>2. {{c1::receptor serine/threonine kinases}}</div><div>3. {{c1::receptor tyrosine kinases (RTKs)}}</div><div>4. {{c1::tyrosine kinase-associated receptors}}</div><div>5. {{c1::receptor tyrosine phosphatases}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xMORfwi)1=",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor guanylyl cyclases {{c1::catalyze the generation of the cGMP from GTP}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kh9g<F`aOx",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor serine/threonine kinases {{c1::phosphorylate serine or threonine residues}} on cellular proteins",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cy|nb2,/pV",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor tyrosine kinases (RTKs) {{c1::phosphorylate tyrosine residues on themselves and other proteins}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GuZKB;)b}w",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "tyrosine kinase - associated receptors interact with {{c1::cystolic (ie non-membrane bound) tyrosine kinases}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kXffeeo#xw",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor guanylyl cylase are found on the {{c1::cell surface}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BLZV)~S,L?",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "which part of guanylyl cylase has enzymatic function?",
+                "cytosolic portion, which catalyzes the formation of cGMP from GTP"
+            ],
+            "flags": 0,
+            "guid": "eFB4;MiQ;p",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor tyrosine phosphatases {{c1::cleave phosphate groups}} from {{c1::tyrosine groups}} of cellular proteins",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zJ,[!mKhjf",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Some of the best characterized examples of a transmembrane protein with guanylyl cyclase activity are the {{c1::receptors for the natriuretic peptides}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kwt7N^O<J=",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "molecules that tend to bind the guanylyl cylase domains (the cytosolic receptor) are {{c1::natriuretic peptide (ANP)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H0UyhQw{K9",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "natriuretic peptides {{c2::act on vascular smooth muscle to dilate blood vessels}}, enhance {{c3::Na+}} excretion into urine, which is termed {{c1::natriuresis}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j;PhNgN5=_",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "natriuretic peptides (ANP) can lower {{c1::blood pressure}}, and help with {{c1::smooth muscle relaxation}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f<NCXA)57V",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor guanylyl cyclase are membrane proteins with a {{c1::single membrane spanning segment}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Gp+h%BwL4u",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor guanylyl cyclase<div>the {{c1::extracellular domain}} binds the ligand</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j._g.0.6jU",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor guanylyl cyclase<div><br></div><div>The intracellular domain has {{c1::two consensus catalytic}} domains for guanylyl cyclase activity</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yhn^I-[5}r",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "receptor guanylyl cyclase<div>binding of a {{c1::natriuretic}} peptide induces a c{{c1::onformational change}} in the receptor that causes {{c1::receptor dimerization and activation}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OCW}dQv8y",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>receptor guanylyl cyclase<br></div><div><br></div>binding of ligand to receptor causes the conversion of GTP to cGMP and raises {{c1::intracellular levels of cGMP}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dvFqlflbB>",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "soluble guanylyl cyclase<div>in contrast to the receptor for ANP, which is a membrane protein with guanylyl cyclase activity, the {{c1::receptor for NO is soluble}} (ie cystolic) guanylyl cyclase</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qr3c-<9LrH",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "soluble guanylyl cyclase<div>this soluble guanylyl cyclase (sGC) is {{c1::totally unrelated}} to the receptor guanylyl cyclase and contains a {{c1::heme moiety that binds NO}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nU(`mjhuWj",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::soluble guanylyl cyclase}}&nbsp;</div><div>NO plays an important role in the control of blood flow and blood pressure</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fVp(MgNNw3",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F soluble guanylyl cyclase is NOT on the membrane",
+                "T"
+            ],
+            "flags": 0,
+            "guid": "o2D#rtsqJr",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Blood vessels are lined with {{c1::endothelial cells}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ngw2y>(nG-",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "NO can be produced inside the {{c1::endothelial cells}} that line BV when arginine gets converted to citrulline by enzyme {{c1::NO synthase}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P]9Vl><p<j",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "NO rapidly {{c1::diffuses}} out of the endothelial cell and crosses the membrane of a {{c1::neighboring smooth muscle cell}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kJRKUzK!hi",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "in {{c2::smooth muscle}}, NO stimulates its \"receptor\", soluble {{c1::guanylyl cyclase,}} which then converts GTP to cGMP",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qQN>e|Ix[%",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "as a result, [cGMP] may increase {{c1::50}}-fold and relax the {{c1::smooth muscle}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G;jBuI-aQf",
+            "note_model_uuid": "95166f3e-e85f-11e9-912b-acde48001122",
+            "tags": []
+        }
+    ]
+}
