@@ -1,0 +1,707 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "129d2302-e870-11e9-a95a-acde48001122",
+    "deck_config_uuid": "07502b5c-e870-11e9-907e-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "07502b5c-e870-11e9-907e-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1570382813390",
+    "name": "Anatomy Lecture 11 Muscle slides 16-39",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "129d58f4-e870-11e9-96ba-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "From relaxed to contracted the length of the A band&nbsp;{{c1::does not change}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B=}vT2v(mj",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "From relaxed to contracted the length of the I band&nbsp;{{c1::shortens}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NwkKju/RY/",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "From relaxed to contracted the length of the H band&nbsp;{{c1::shortens}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bBylG+&3#g",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T tubules are&nbsp;{{c1::invaginations of the plasma membrane}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kr@P//{)av",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sarcoplasmic reticulum is&nbsp;{{c1::ER in skeletal muscles}} and has a primary fuction of&nbsp;{{c1::[Ca] management}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q%6!tgJGbr",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Terminal cisterna are&nbsp;{{c1::dilated portions of the SR}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DgAw~Dz86",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Triad contract between {{c1::a t tubule and two terminal cisternae}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oFzoG:b^^P",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Order of events in stimulation of muscle contraction is:",
+                "1-Ach released from axon -&gt; binds to receptors in sarcolemma<div>2-Action potential generated down T tubule</div><div>3-Ca released from SR (voltage triggered)</div><div>4-Ca binds to troponin, myosin-actin cross-bridges form</div><div>5-Ach-esterase removes ach from cleft</div><div>6-Ca back to SR</div><div>7-Tropomyosin binds active sites -&gt; cross-bridges detach</div><div>(<b>AACCACT)</b></div>"
+            ],
+            "flags": 0,
+            "guid": "FHSf-Si(n|",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cross bridge cycle",
+                "1-Binding site on actin available<div>2-Hydrolysis and departure of ADP + P causes flexing of cross bridge</div><div>3-Binding of new ATP uncouples cross bridge</div><div>4-Hydrolysis of ATP reenergizes the bridge</div>"
+            ],
+            "flags": 0,
+            "guid": "GwWJvbm-=q",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Rigor mortis caused by&nbsp;{{c1::inability of cells to prevent Ca entry}} causing permanent contraction due to&nbsp;{{c1::myosin binding to actin}}",
+                "Muscle rigor ends once proteins are destroyed by autolysis"
+            ],
+            "flags": 0,
+            "guid": "d8GRsbR1Q8",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The stretch receptors in muscles are&nbsp;{{c1::muscle spindles}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w=s{/WM)t6",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Knee reflex test causes stretch of&nbsp;{{c1::spindle fibers}} which causes&nbsp;{{c1::APs to the spinal cord}} resulting in&nbsp;{{c1::contraction to resist stretch}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c*!JO~gO7@",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sensory neurons in the spinal cord synapse directly with&nbsp;{{c1::alpha motor neurson}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u0MwfiXb2?",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fast Glycolitic muscle",
+                "Fatigue: Fast<div>Duration: Very Short (Under 1 min)</div><div>ATP source: Anerobic glycolysis</div><div>Mito Density: Low</div><div>Myoglobin: Low</div><div>Stain: Light</div>"
+            ],
+            "flags": 0,
+            "guid": "Jy)Pn<9-6}",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fast Oxidative Muscle",
+                "Fatigue: Intermediate<div>Duration: Short (Under 30 min)</div><div>ATP source: Ox phos</div><div>Mito Density: High</div><div>Myoglobin: High</div><div>Stain: Intermediate</div>"
+            ],
+            "flags": 0,
+            "guid": "l)3m0YR&eM",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Slow Oxidative Muscles",
+                "Fatigue: Slow<div>Duration: Long (hours)</div><div>ATP source: Ox phos</div><div>Mito Density: High</div><div>Myoglobin: High</div><div>Stain: Dark</div>"
+            ],
+            "flags": 0,
+            "guid": "yGxm&ZlA@P",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fast Glycolytic Muscles are also known as&nbsp;{{c1::Type IIb}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lc118$nd+O",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fast Oxidative Muscles are also known as&nbsp;{{c1::Type IIa}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q5MOm)[K_;",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Slow oxidative muscles are also known as&nbsp;{{c1::Type 1 (red)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GFvphL[fFD",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Multinucleated syncytium is formed by&nbsp;{{c1::fusion of myoblasts}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e|;`mHNurN",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Muscles are repaired by&nbsp;{{c1::satellite cells}} which can either&nbsp;{{c1::form a new fiber or patch the original}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "srBVX77]+]",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In addition to satellite cells, cells from elsewhere such as&nbsp;{{c1::bone marrow}} can help repair muscles",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hmFtbNO.l/",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Skeletal muscle fibers cannot&nbsp;{{c1::divide}} but they can&nbsp;{{c1::enlarge (hypertrophy)}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rRkp=`kt(=",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Myasthenia Gravis",
+                "ACh nicotinic receptors blocked by autoantibodies -&gt; reducted ACh receptor sites, less responsive to stimuli"
+            ],
+            "flags": 0,
+            "guid": "D<`^OcfSLj",
+            "note_model_uuid": "129d58f4-e870-11e9-96ba-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ALS- Lou Gehrig's Disease",
+                "Degeneration of neurons stimulating muscles"
+            ],
+            "flags": 0,
+            "guid": "vpD7d<IVm>",
+            "note_model_uuid": "129d58f4-e870-11e9-96ba-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Muscular Dystrophy",
+                "Gene mutations for dystrophin and dystrophin associated proteins"
+            ],
+            "flags": 0,
+            "guid": "wu0:;qsViF",
+            "note_model_uuid": "129d58f4-e870-11e9-96ba-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cardiac muscle characteristics",
+                "Branched<div>Many mito</div><div>Intercalated disks</div><div>End to end arrangement</div><div>Striated</div>"
+            ],
+            "flags": 0,
+            "guid": "gH3{?>mNZL",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cardiac muscle have&nbsp;{{c1::more}} t tubules than skeletal muscle and the t tubules are&nbsp;{{c1::larger}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t]Sq#Ak<&A",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cardiac muscle t tubles are located at&nbsp;{{c1::z line}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GUYZ>Uxv{V",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Portion of SR adjacent to a t tubule in cardiac muscle is organized as a&nbsp;{{c1::diad}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hhbXv;0",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Intercalated disks contain&nbsp;{{c1::gap jungtions}},&nbsp;{{c1::facia adherens}}, and&nbsp;{{c1::desmosomes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uH2;]N;^%I",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Transverse region of intercalated disk contains&nbsp;{{c1::fascia adherens and desmosomes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "igg6EW;QNx",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Parallel region of intercalated disk contains&nbsp;{{c1::gap junctions}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uX4RNQ:L3A",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Adjacent cardiac muscle fibers are connected by&nbsp;{{c1::intercalated disks}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g)|[m4k696",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Atrial Natriuretic factor (ANF) is known as&nbsp;{{c1::A type}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q}*].LvWql",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Brain Natriuretic factor (BNF) is known as&nbsp;{{c1::B type}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DslqW8:mw5",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::BNF}} is found at elevated levels in patients with congestive heart failure<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b`0USS78:U",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cardiac muscle contracts&nbsp;{{c1::spontaneously}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BtM]LiUA()",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Cardiac muscle is innervated by&nbsp;{{c1::both parasympatheic and sympathetic}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "NA){`}=hcd",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sympathetic and parasympathetic signals can&nbsp;{{c1::modify}} heart contraction but can't&nbsp;{{c2::intiate it}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "APoV>.u(S,",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        }
+    ]
+}

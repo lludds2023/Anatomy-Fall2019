@@ -1,0 +1,267 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "074cef14-e870-11e9-8c81-acde48001122",
+    "deck_config_uuid": "07502b5c-e870-11e9-907e-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "07502b5c-e870-11e9-907e-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1570382813394",
+    "name": "Anatomy Lecture 10 Bone Formation slides 21-32",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bone remodeling takes place along&nbsp;{{c1::lines of stress}}&nbsp;",
+                "This allows bones to stay stong against the forces they see regularly"
+            ],
+            "flags": 0,
+            "guid": "t`;2fIj^kg",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The phases of the bone remodeling process are&nbsp;{{c1::resorption by osteoclasts}},&nbsp;{{c1::creation of new bone by osteoblasts}}, and&nbsp;{{c1::osteoblasts embedding themselves to become osteocytes}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "{!LYxj3gF",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The average timeline for bone remodeling is&nbsp;{{c1::~200 days}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vZ)TB.4&bR",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The stages of bone remodeling are:",
+                "-Localized hemorrhage + clot formation<div>-Clean up by macrophages</div><div>-proliferation of osteoprogenitor cells</div><div>-Production of immature bone</div><div>-Broken ends united by trabeculae united forming callus</div><div>-callus remodeled along stress lines</div>"
+            ],
+            "flags": 0,
+            "guid": "z5puO@`Xv2",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Formation &gt; resorption during {{c1::growth}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "N,_I#wM7VI",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Formation = resorption during {{c1::early adulthood}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "GMu|>sy:Jt",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Formation &lt; Resorption during&nbsp;{{c1::later life}}",
+                "especially post menopausally"
+            ],
+            "flags": 0,
+            "guid": "koN)Z}QS~@",
+            "note_model_uuid": "07504308-e870-11e9-890d-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Reasons for bone loss include",
+                "-Low Ca intake<div>-Decreased sex steroid levels (especially estrogen)</div><div>-Decreased exercise</div><div>-Consumption of calcium depleting substances</div>"
+            ],
+            "flags": 0,
+            "guid": "miq8Ag/rv`",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Osteoporosis can be prevented by",
+                "-Increasing peak bone mass in children<div>-Regular exercise</div><div>-Healthy Ca intake</div><div>Hormone replacement therapy (and use of bisphosphonates)</div><div>-Avoiding Ca depleting substances</div>"
+            ],
+            "flags": 0,
+            "guid": "H(%l_*bf1:",
+            "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        }
+    ]
+}
