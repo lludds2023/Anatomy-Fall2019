@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "074cef14-e870-11e9-8c81-acde48001122",
-    "deck_config_uuid": "07502b5c-e870-11e9-907e-acde48001122",
+    "crowdanki_uuid": "1a23151e-e875-11e9-bbba-a683e769f5fb",
+    "deck_config_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "07502b5c-e870-11e9-907e-acde48001122",
+            "crowdanki_uuid": "7f7e73d8-ddc1-11e9-9ac8-a683e769f5fb",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -16,7 +16,7 @@
                 "leechAction": 0,
                 "leechFails": 8,
                 "minInt": 1,
-                "mult": 0
+                "mult": 0.0
             },
             "maxTaken": 60,
             "name": "Default",
@@ -29,11 +29,11 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    1,
                     7
                 ],
                 "order": 1,
-                "perDay": 20,
+                "perDay": 500,
                 "separate": true
             },
             "replayq": true,
@@ -42,7 +42,7 @@
                 "ease4": 1.3,
                 "fuzz": 0.05,
                 "hardFactor": 1.2,
-                "ivlFct": 1,
+                "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
                 "perDay": 200
@@ -55,8 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "mid": "1570382813394",
-    "name": "Anatomy Lecture 10 Bone Formation slides 21-32",
+    "name": "Q1-Anatomy::Lecture 10",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -151,6 +150,50 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-111ec",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -261,6 +304,126 @@
             "flags": 0,
             "guid": "H(%l_*bf1:",
             "note_model_uuid": "07504a7e-e870-11e9-a066-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DO:dit?/Yc",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "10",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k3W;0r]:|*",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "],",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eB9=ZyEHD`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "},",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bWur}H+{8y",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "1,",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q6Ny0F9KEZ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4,",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PF^5rW>kds",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "7",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AK(//mj~da",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G}:l&{t<M?",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The three types of Muscle are {{c1::smooth}}, {{c1::cardiac}}, and {{c1::skeletal}},",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Fk2onkCmej",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "]",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PzVIS^a/ru",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
         }
     ]
