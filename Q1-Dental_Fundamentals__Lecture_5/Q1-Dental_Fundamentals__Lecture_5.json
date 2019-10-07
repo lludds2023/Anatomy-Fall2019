@@ -21,7 +21,7 @@
             "maxTaken": 60,
             "name": "Default",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
                     1,
                     10
@@ -29,7 +29,7 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    3,
                     7
                 ],
                 "order": 1,
@@ -111,6 +111,9 @@
         "9f3e40507f1f4c61a027759b6ca82160-ao-6-A.svg",
         "9f3e40507f1f4c61a027759b6ca82160-ao-6-Q.svg",
         "9f3e40507f1f4c61a027759b6ca82160-ao-O.svg",
+        "Screen Shot 2019-10-07 at 7.46.29 AM.png",
+        "Screen Shot 2019-10-07 at 7.52.23 AM.png",
+        "Screen Shot 2019-10-07 at 7.55.22 AM.png",
         "a84f159d95d1425ab8713248dd4200e9-ao-2-A.svg",
         "a84f159d95d1425ab8713248dd4200e9-ao-2-Q.svg",
         "a84f159d95d1425ab8713248dd4200e9-ao-4-A.svg",
@@ -162,7 +165,7 @@
         "tmpuh_tpsnd.png",
         "tmpvc8mob45.png"
     ],
-    "mid": "1570079172975",
+    "mid": "1570399394352",
     "name": "Q1-Dental Fundamentals::Lecture 5",
     "note_models": [
         {
@@ -191,7 +194,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            "name": "Basic-78c52",
             "req": [
                 [
                     0,
@@ -243,7 +246,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-c0025",
+            "name": "Cloze-08bce",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -254,7 +257,7 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "{{cloze:Text}}\n<div style='font-family: Arial; font-size: 20px;'>{{Text}}</div>\n"
+                    "qfmt": "{{cloze:Text}}"
                 }
             ],
             "type": 1,
@@ -272,7 +275,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -286,7 +289,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-e034d",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -410,7 +413,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-350a2",
             "req": [
                 [
                     0,
@@ -434,6 +437,49 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -1522,6 +1568,366 @@
             "flags": 0,
             "guid": "nMD%&XK$Ph",
             "note_model_uuid": "05b2023a-e4a5-11e9-9123-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial view of a maxillary first premolar is {{c1::trapezoidal}} in shape.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nD9XQo+W*m",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a maxillary first premolar the lingual M-D is {{c1::narrower::wider or narrower}} than the buccal M-D.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A1C_c|{Tr@",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lingual cusp of the {{c1::maxillary first premolar:: maxillary first premolar or maxillary second premolar}} is shorter than the facial and is the shortest of maxillary pemolar cusps",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D/D;c?L}Wy",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lingual cusp of the maxillary first premolar is offset to the {{c1::mesial::mesial or distal.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m}gEsIO&)m",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lingual HOC of the maxillary first premolar is at the {{c1::middle third::incisal third, middle third, or cervivcal third.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lA#B9yT99?",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The facial and lingual cusps are centered over the root truck in a {{c1::maxiallary first premolar.:: what tooth}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KM%8L}^QD*",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A strong {{c1::mesial::mesial or distal}} marginal groove is visible in maxilary first premolar.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "CqcA;+PieY",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "There is a {{c1::mesial::mesial or distal}} concavity from the root trunk to the cervical portion of the crown in a {{c2::maxillary first premolar::tooth}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HdKTg~KSZ3",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial contact area of maxillary first premolar is {{c1::facial::facial or lingual}} to the facial-lingual midline.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C}r)*-0ew4",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The distal view has a {{c1::shorter::shorter or longer}} Occlusal-Cervical dimention than the mesial view of a maxillary first premolar.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C}xb9r:U_[",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "More of the occlusal surface is visible from a {{c1::distal::distal or mesial}} view of maxillary first premolar.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HG6JBCxjQ:",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "There is no distinct {{c1::distal::mesial or distal}} concavity on a maxillary first premolar.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "O_Tu3xM#:0",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The distal contact area is slightly {{c1::more cervical and facial::position}} than the mesial contact area of maxillary first premolar.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E|S=nsUF>6",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The occlusal outline of a maxillary first premolar is {{c1::hexagonal.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FnC[|B:Zx&",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The maxillary first premolar is wider {{c1::F-L::M-D or F-L}} than {{c1::M-D::M-D or F-L}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j_wXC$s0AX",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The occlusal outline of the maxillary first premolar tapers towards {{c1::lingual::buccal or lingual}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A[+YmPq&Yu",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The lingual cusp of a maxillary first premolar is offset {{c1::mesially::mesialy or distally.}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "tSIf@6.bk*",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The {{c1::mesial}} marginal ridge is shorter than the {{c1::distal}} marginal ridge of a maxillary first premolar.&nbsp;",
+                "<img src=\"Screen Shot 2019-10-07 at 7.46.29 AM.png\"><br>"
+            ],
+            "flags": 0,
+            "guid": "f^pKOPOqZ",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial outline of the maxillary first premolar is indented with the mesial marginal {{c1::groove}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vY%OB,vrrF",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial and distal pits of a maxillary first premolar are {{c2::well seperated::orientation to eachother}} by the {{c1::central groove.&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": ":mKU|b$6N",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "There are {{c1::less::more or less}} secondary grooves is a maxillary first premolar compared to a second premolar.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w:^/s7Xhlc",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The mesial and distal contact areas are both positioned more facially, but the mesial contact area is more {{c1::lingual::facial or lingaul}} than the distal contact area of a maxillary first premolar.&nbsp;",
+                "<img src=\"Screen Shot 2019-10-07 at 7.52.23 AM.png\"><br>"
+            ],
+            "flags": 0,
+            "guid": "tH5?^eCvz5",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "From an occlusal view of the maxillary first premolar the DB cusp ridge and distal marginal ridge form an/a {{c1::acute::right or acute}} angle.&nbsp;",
+                "<img src=\"Screen Shot 2019-10-07 at 7.55.22 AM.png\"><br>"
+            ],
+            "flags": 0,
+            "guid": "PY.I+UZ7>&",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "From an occlusal view of the maillary first premolar the MB ridge and mesial marginal ridge form an/a {{c1::right::acute, right, or obtuse}} angle.&nbsp;",
+                "<img src=\"Screen Shot 2019-10-07 at 7.55.22 AM.png\"><br>"
+            ],
+            "flags": 0,
+            "guid": "QLV?,f$FP6",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The maxillary first premolar has {{c1::three::how many}} different root types.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "z:Xov}@{-P",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A <b>single root</b> with distinct <b>mesial concavity</b>, two root canals, and a kidney bean shaped cervical cross section is a type {{c1::1}} root.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IGm|qfpF8T",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A bifurcated root with a short root trunk, two roots of almost equal length is a type {{c1::2}} root.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "C#1;1WC;2!",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Type {{c1::2}} roots are the most common root form for a maxillary first premolar.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mG]z8+Qni_",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A {{c1::laminated}} root resembles a type two root with bifuration but it has a longer root trunk. This is known as type {{c1::3}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lOf1qWJ_.0",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Trifurcation}} is possible in a maxillary first premolar: {{c1::2}} buccal roots and {{c1::1}} lingual root. Pulp crowns can be seperate or connected.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DE3pcMnQuP",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
             "tags": []
         }
     ]
