@@ -79,7 +79,7 @@
         "tmpC0Ijbj.png",
         "tmpVROGjh.png"
     ],
-    "mid": "1567103752553",
+    "mid": "1567895183265",
     "name": "Q1-Physiology::Lecture 3",
     "note_models": [
         {
@@ -521,7 +521,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-e034d",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -536,6 +536,58 @@
                 }
             ],
             "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
             "vers": []
         }
     ],
@@ -1260,6 +1312,126 @@
             "flags": 0,
             "guid": "c:ksfkR.;u",
             "note_model_uuid": "579d492c-e7b3-11e9-8e5b-98fe94472a7e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sodium Potassium Pumps are moving with or against the gradient (In terms of Sodium)",
+                "Against the gradient.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "w5t^~Pmd-u",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sodium Potassium Pumps are moving with or against the gradient (In terms of Potassium)",
+                "Against the gradient."
+            ],
+            "flags": 0,
+            "guid": "F;<M`yA279",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sodium Potassium pumps push Sodium inside or outside of the cell?",
+                "Outside of the cell.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "s~(x0$xMIP",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sodium Potassium pumps push potassium inside or outside of the cell?",
+                "Inside of the cell.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "m*3KOdqs+9",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the energy source and products of the Na/K pump?",
+                "ATP is used and changed to ADP + P<sub>i</sub>"
+            ],
+            "flags": 0,
+            "guid": "r0Kkbxy#mk",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the two conformational states of the Na/K pump and what are they called?",
+                "E<sub>1</sub> is when the Na binding sites are open to the inside of the cell.&nbsp;<div>E<sub>2</sub> is when the Na Binding sites are open to the extracellular space.</div>"
+            ],
+            "flags": 0,
+            "guid": "n)ETY,I.{_",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is it called when the net extrusion of a process is positive?",
+                "Electrogenic."
+            ],
+            "flags": 0,
+            "guid": "xG:u9U@mb?",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Prior to Stage 1 in the Modes of actions of the Na/K pump, K is released inside of the cell. What happens in Stage 1-8 until K is again released in the Intramembrane space?.&nbsp;",
+                "Stage 1. ATP is bound to the to the Na/K pump.<div>Stage 2. Na+ is bound to the pump.</div><div>Stage 3. ATP phosphorylates the pump to change the confirmation to allow open the pump into it's E2 confirmation.</div><div>Stage 4. Na+ binding affinity is dropped and the Na+ leaves the pump.</div><div>Stage 5. Minor confirmation change allows K- to bind to the pump.&nbsp;</div><div>Stage 6. 2 K- Binds to the pump.&nbsp;</div><div>Stage 7. Inorganic Phophoate (inside of the cell is hydrolyzed, changing the confirmation of the pump to close off the extracellular entrance.</div><div>Stage 8. ATP is bound and releases K+ into the intracellular space.&nbsp;&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "PUy*ldSdkj",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does Ouabain do to a Na/K Pump?",
+                "Changes the confirmation and prevents K from binding."
+            ],
+            "flags": 0,
+            "guid": "BYk>,$4i{h",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What voltage is the typical cell kept at thanks to the Na/K pump?",
+                "60 mV&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "bL~>F7I-~e",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
             "tags": []
         }
     ]
