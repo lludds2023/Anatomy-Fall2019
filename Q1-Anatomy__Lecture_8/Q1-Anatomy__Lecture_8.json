@@ -21,7 +21,7 @@
             "maxTaken": 60,
             "name": "Default",
             "new": {
-                "bury": false,
+                "bury": true,
                 "delays": [
                     1,
                     10
@@ -29,7 +29,7 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    4,
+                    3,
                     7
                 ],
                 "order": 1,
@@ -56,7 +56,8 @@
     "extendRev": 50,
     "media_files": [
         "Picture1 (1).jpg",
-        "Picture1.jpg"
+        "Picture1.jpg",
+        "paste-7735602e64622b3e527f97924e5ab08aee4dbf50.jpg"
     ],
     "mid": "1569130899689",
     "name": "Q1-Anatomy::Lecture 8",
@@ -73,7 +74,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -87,7 +88,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-ca71e",
+            "name": "Cloze-0fc46",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -98,7 +99,8 @@
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "{{cloze:Text}}"
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
                 }
             ],
             "type": 1,
@@ -116,7 +118,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -131,7 +133,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic-6f7dc",
+            "name": "Basic-31169",
             "req": [
                 [
                     0,
@@ -169,7 +171,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -183,7 +185,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-08bce",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -226,7 +228,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            "name": "Basic-78c52",
             "req": [
                 [
                     0,
@@ -506,6 +508,162 @@
             "flags": 0,
             "guid": "wAuPfDe!#(",
             "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What factors are required for crystals to form?&nbsp;",
+                "A high concentration of calcium and phosphate ion, a site for nucleation to take place, and enough energy to start crystal formation.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "p^K}=w7a!9",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Once crystallites form, crystal growth can occur {{c1::spontaneously::nonspontaneously or spontaneously}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g:?o^?E}RK",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Proteins involved in regulating crystal formation and growth include:&nbsp;<div>{{c1::salivary proteins}}</div><div>{{c1::enamel matrix proteins}}</div><div>{{c1::bone, dentin, and cementum matrix proteins&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x0&fTiTv&~",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mineral is not deposited spontantously and randomly because tissue fluid {{c1::macromolecules}} inhibit crystal formation and inhibitors of mineralization {{c2::increase::increase or decrease}} the amount of energy required for them to become actual crystals.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kWoJRTAJ#Z",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Release of {{c1::matrix vesicles}} only occurs during initial mineralization.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ofF]hS(*pR",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "During bone matrix formation the {{c1::organic::organic or inorganic}} portion is secreted first.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Nsq8a7;G)c",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Matrix vesicles are released into the {{c1::organic::organic or inorganic}} matrix of bone and other hard tissues (except {{c1::enamel::structure of tooth}}) during the process of mineralization.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x6TLCw,Z#y",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The matrix vesicles provide a mircoenivornment coducive to crystaliite formation. They contain: {{c1::alkaline phosphatase}}, {{c1::Calcium ATPase}}, {{c1::metalloproteinases}}, {{c1::proteoglycans}}, and {{c1::anionic phospholipids}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j=NtA~w14F",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Heterogenous nucleation",
+                "Specific atomic groups located on the surface of collagen fibrils catalyze the deposition of apatite crystals. Regulation of this process is thought to be mediated by noncollagenous proteins.&nbsp;<img src=\"paste-7735602e64622b3e527f97924e5ab08aee4dbf50.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "J;LLo8Ma.u",
+            "note_model_uuid": "4211bd92-e59a-11e9-a341-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div><u>Proposed mechanism for increasing local Ca<sub>2</sub>+ and PO<sub>4</sub>3- concentrations</u></div><div>Ca<sub>2</sub>+ binds&nbsp;{{c1::osteocalcin}}&nbsp;and other sialoproteins, {{c1::increasing::increasing or decreasing}} the local Ca<sub>2</sub>+ concentration&nbsp;<div><br></div><div>high calcium concentration in bone stimulates {{c1::osteoblasts::osteoblasts or osteoclasts}} to secrete {{c1::alkaline phosphatase}}, which increases the local {{c1::phosphate}} concentration.&nbsp;</div><div><br></div><div>this stimulates further calcium ion concentration&nbsp;</div><div><br></div><div>with high calcium and phosphatate concentrations, osteoblasts release {{c1::matrix vesicles}}.&nbsp;</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "liOMbCJN|^",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Alkaline phosphotase}} removes {{c2::phosphate}} groups from various molecules and thus is the primary source of {{c2::phosphate}} ions in the building of apatite crystals.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Da8KST1=S(",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Pyrophosphate}} is known to attach to crystallite surfaces preventing crystal growth. {{c1::ALP}} may break down pyrophosphate to allow for further crystal growth.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J;%5#9NLy5",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Alkaline phosphotase}} is a marker for bone formation.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n{}ooW]R&Z",
+            "note_model_uuid": "4211b798-e59a-11e9-aba5-a483e7113e82",
             "tags": []
         }
     ]
