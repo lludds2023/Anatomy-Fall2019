@@ -21,7 +21,7 @@
             "maxTaken": 60,
             "name": "Default",
             "new": {
-                "bury": true,
+                "bury": false,
                 "delays": [
                     1,
                     10
@@ -29,7 +29,7 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    3,
+                    4,
                     7
                 ],
                 "order": 1,
@@ -57,7 +57,9 @@
     "media_files": [
         "Picture1 (1).jpg",
         "Picture1.jpg",
-        "paste-7735602e64622b3e527f97924e5ab08aee4dbf50.jpg"
+        "paste-7735602e64622b3e527f97924e5ab08aee4dbf50.jpg",
+        "paste-c2bc27a86b23ff91945de96533883987c3face6c.jpg",
+        "paste-ffafa138fca61d8b07659fd8516fa415189c2951.jpg"
     ],
     "mid": "1569130899689",
     "name": "Q1-Anatomy::Lecture 8",
@@ -88,9 +90,11 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-0fc46",
+            "name": "Cloze-19ade",
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "Physiology::Lec6"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
@@ -157,6 +161,49 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze-6871c",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         },
         {
@@ -228,7 +275,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic-78c52",
+            "name": "Basic-0390f",
             "req": [
                 [
                     0,
@@ -353,6 +400,282 @@
             "tags": [
                 "Anatomy::Lec7"
             ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "what are the three types of cartilage?",
+                "1. hyaline<div>2. elastic&nbsp;</div><div>3. fibrocartilage</div>"
+            ],
+            "flags": 0,
+            "guid": "h>ZV3*L1w`",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::hyaline}} cartilage is the most ubiquitous type or the default type of cartilage",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PIhFe9wdmx",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::elastic}} cartilage is the most pliable type and contains elastic fibers",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j{UeN6i?M1",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::fibrocartilage}} is the most resistant type and contains type I collagen fibers",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J8x7d$Sf-5",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::hyaline}} cartilage serves as a model for long bone formation",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F!f~5gY-:p",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Four locations of hyaline cartilage&nbsp;",
+                "1. articular surfaces of <u>synovial joints</u>&nbsp;<div>2. skeleton of <u>repiratory system</u></div><div>3. attaches ribs to sternum</div><div>4. forms <u>epiphyseal plate</u> in growing long bones</div>"
+            ],
+            "flags": 0,
+            "guid": "w%tlY$!q4C",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "type of cartilage that is bluish-white and translucent when fresh&nbsp;",
+                "hyaline"
+            ],
+            "flags": 0,
+            "guid": "em~3nq1m3v",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the extracellular matrix of hyaline cartilage is made of 6 main components:",
+                "1. Type II collagen (type VI and type IX)<div>2. proteoglycans</div><div>3. glycosaminoglycans&nbsp;</div><div>4. proteoglycan aggregates&nbsp;</div><div>5. water molecules&nbsp;</div><div>6. chondronectin&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "A?}N1B4%*O",
+            "note_model_uuid": "1e6e9bae-ddba-11e9-ab27-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the three types of glucosaminoglycans in the ECM of hyaline cartilage are {{c1::chondroitin}} sulfate, {{c1::keratan sulfate}} and {{c1::hyaluronic acid&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rNDYXB7dLf",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "proteoglycan aggregates such as {{c1::aggrecan}} which interact with collagen are a part of the ECM of hyaline cartilage&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EO!G$>GEjl",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::chondronectin}} is a multiadhesive glycoprotein that binds glucosaminoglycans, type II collagen and integrins in ECM of hyaline cartilage&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FEBZgH~m/E",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "hyaline cartilage matrix tends to be {{c1::basophilic}} and tends to stain {{c2::purple}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xJN<GOh0L&",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the high concentration of {{c1::sulfated glucosaminoglycans}} cause the hyaline cartilage matrix to stain purple&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QYYK`OxOa*",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the territorial matrix of hyaline cartilage that surrounds the lacunae, is richer in {{c1::sulfated glucosaminoglycans}} and poorer in {{c1::collagen}}&nbsp;",
+                "<img src=\"paste-ffafa138fca61d8b07659fd8516fa415189c2951.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "vGm>VY^O0=",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the interterritorial matrix of hyaline cartilage is farther from lacunae, has less {{c1::sulfated glucosaminoglycans}} and more {{c1::collagen}}&nbsp;",
+                "less sulfated GAGs = less intense stain&nbsp;<div><img src=\"paste-ffafa138fca61d8b07659fd8516fa415189c2951.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "xZVoq|#b9P",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cartilage ECM is initially secreted by young cells called {{c1::chondroblasts}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "EMb():_JJ#",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "once chondroblasts surround themselves with matrix they are called {{c1::chrondrocytes&nbsp;}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q?u695y)s?",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "chondrocytes lodge in small chambers called {{c1::lacunae}}&nbsp;",
+                "<img src=\"paste-ffafa138fca61d8b07659fd8516fa415189c2951.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "idi(bHsvPv",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "the daughter cells of chondrocytes remain clustered after mitosis which forms {{c1::isogenous groups&nbsp;}}",
+                "<img src=\"paste-c2bc27a86b23ff91945de96533883987c3face6c.jpg\"><div>isogenous groups&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "kzjneOW`^O",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::chondrocytes}} and {{c1::chondroblasts}} secrete the components of the extracellular matrix&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E,q,griyEY",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "chondrocyte activity is promoted by a growth hormone called {{c1::IGF-1}}",
+                "IGF-1 = insulin-like growth factor - 1"
+            ],
+            "flags": 0,
+            "guid": "tt9IcSS}gQ",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "chondrocyte activity is {{c2::promoted}} by {{c1::growth hormone}}, {{c1::thyroxin}} and {{c1::testosterone}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qx.AHeyCUy",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "chondrocyte activity is {{c1::inhibited}} by {{c2::cortisone}}, {{c2::hydrocortisone}} and {{c2::estradiol}}&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "E5?^Su!Udz",
+            "note_model_uuid": "637a82a2-df32-11e9-8aa5-34363b73ba8a",
+            "tags": []
         },
         {
             "__type__": "Note",
