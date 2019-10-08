@@ -97,7 +97,7 @@
         "paste-f1c97843768234ea88eef3386017fcecccfea6c5.jpg",
         "tmpthluselc.png"
     ],
-    "mid": "1568381491285",
+    "mid": "1567895183265",
     "name": "Q1-Physiology::Lecture 4 ",
     "note_models": [
         {
@@ -126,7 +126,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze",
+            "name": "Cloze-133c6",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -169,7 +169,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic (and reversed card)",
+            "name": "Basic (and reversed card)-ef497",
             "req": [
                 [
                     0,
@@ -318,7 +318,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-5ba63",
             "req": [
                 [
                     0,
@@ -339,6 +339,58 @@
                     "name": "IO Card",
                     "ord": 0,
                     "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
                 }
             ],
             "type": 0,
@@ -821,6 +873,222 @@
             "flags": 0,
             "guid": "h0Zr-cQhdm",
             "note_model_uuid": "4b33a77c-e80a-11e9-8282-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the main defect that causes cancer?",
+                "Loss of cell replication control. (or a variation of this)"
+            ],
+            "flags": 0,
+            "guid": "v8%~u]QNza",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the 4 phases of the cell cycle? (also the 1 resting phase)",
+                "G1 (First Gap)<div>S (Synthesis)</div><div>G2 (Second Gap)</div><div>M (Mitotic)</div><div><br></div><div>G0 (Resting)</div>"
+            ],
+            "flags": 0,
+            "guid": "M(ePfSoau>",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What phases are inside of interphase?",
+                "G1, S and G2 phases.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "A*+@29Ql8U",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens in the first gap phase?",
+                "Growth and synthesis of RNA and proteins for DNA Synthesis."
+            ],
+            "flags": 0,
+            "guid": "f`=@m}Y#y`",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens in the synthesis phase of the cell cycle?",
+                "Chromosomes are replicated.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "fllevx~5By",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens in the second Gap phase of the cell cycle?",
+                "Rapid growth of the cell protein synthesis."
+            ],
+            "flags": 0,
+            "guid": "N2n))?}WIT",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the 4 (or 5 if you want) phases of Mitosis.&nbsp;",
+                "Prophase<div>Prometaphase (Omit this if they ask for 4 phases though)</div><div>Metaphase</div><div>Anaphase</div><div>Telophase</div>"
+            ],
+            "flags": 0,
+            "guid": "g_AXk*hg|X",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens in prophase?&nbsp;",
+                "Nucelolus disintegrates<div>Chromosomes are condensed</div><div>Mitotic spindle is formed</div><div>centrosomes begin to radiate</div><div>centrosomes move to sides of the cell.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "p6]?%c%h((",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens in pro-metaphase?",
+                "Chromosomes begin to attach to mitotic spindles by the kinetochores.&nbsp;<div>Chromosomes begin to move to the middle.&nbsp;</div><div>Condensation of chromosomes continues.&nbsp;<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dJE9k9+#/5",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens in metaphase?",
+                "Chromosomes are condensed. Chromosomes meet in the <b>M</b>iddle.&nbsp;<div><br></div><div><b>M</b>. for <b>M</b>etaphas and <b>M</b>iddle.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "zl<v{?P4b|",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens in Anaphase?",
+                "Chromosomes are pulled into the opposite sides of the cell.&nbsp;<div><br></div><div>They look like little A's. Like <b>A</b>naphase.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "pb$9=APYs<",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens during Telophase?",
+                "Chromosomes decondense<div><br></div><div>Nuclear Membrane begins forming around the two sides.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "NAcQOXnpcC",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What happens during Cytokinesis?",
+                "A contractile ring forms between the two nuclei until 2 daughter cells are formed. Next step is G1.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "d!21O-CWlL",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Where are the 4 major cell cycle checkpoints located and what do they check for?&nbsp;",
+                "End of G1- Entrance to S is blocked if Genome is damaged<div>Middle of S- DNA replication stops if Genome is damaged.&nbsp;</div><div>End of G2- M is blocked if DNA replication isn't completed.&nbsp;</div><div>Metaphase- Anaphase can't go through if chromatids can't properly align in the middle.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "IhRKiL*!vB",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is Cyclin B the highest and what does it bind to?",
+                "M phase and CDK 1.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "tD8ABp5*/y",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is Nuclear D1 the highest and what does it bind to?",
+                "The entirety of G1 until S phase.&nbsp;<div>CDK4/6</div>"
+            ],
+            "flags": 0,
+            "guid": "O**&J*bZ1A",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is Cyclin E the highest and what does it bind to?",
+                "End of G1 with a decline until the end of S phase.&nbsp;<div>It binds to CDK2.&nbsp;</div>"
+            ],
+            "flags": 0,
+            "guid": "t5$mBy[$%u",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "When is cyclin A the highest and what does it bind to?",
+                "It gradually increases until the end of S and gradually decreases. It binds to CDK2 at the beginning and CDK1 at the end.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "H>L$&nYH/X",
+            "note_model_uuid": "175f755f-e8b3-11e9-af67-48a472d7a248",
             "tags": []
         }
     ]
