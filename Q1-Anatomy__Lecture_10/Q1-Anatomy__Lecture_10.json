@@ -55,6 +55,7 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "3-14881D707F26DA548AB.jpg",
         "62518880ab0c4ba0af8e12214ae6507f-ao-1-A.svg",
         "62518880ab0c4ba0af8e12214ae6507f-ao-1-Q.svg",
         "62518880ab0c4ba0af8e12214ae6507f-ao-2-A.svg",
@@ -165,11 +166,18 @@
         "e9e1a0494bc74c3eb5659d8a65a5102b-oa-9-A.svg",
         "e9e1a0494bc74c3eb5659d8a65a5102b-oa-9-Q.svg",
         "e9e1a0494bc74c3eb5659d8a65a5102b-oa-O.svg",
+        "paste-0f7e9da6917068d8a5a13152f45a937bea7f4967.jpg",
+        "paste-40154bda323f45cec8627d13bd2bb1de78db32e4.jpg",
+        "paste-422aa5558358607df896e9e6709e2a7dc6d8eacd.jpg",
+        "paste-5b7ef38f61940f3056adb45eabc9bb53c783b678.jpg",
+        "paste-7d64dd7b226f4b372a0221705e2e17e2fb36a0ce.jpg",
+        "paste-baa5a27dd98c55ea3af0e55826184f82900e1c6d.jpg",
+        "paste-e192863e49ce094e77971569bbbb9548dd89aa94.jpg",
         "tmp3qg0gth6.png",
         "tmpi82q0e17.png",
         "tmpieynowo9.png"
     ],
-    "mid": 1569894932481,
+    "mid": "1570411054244",
     "name": "Q1-Anatomy::Lecture 10",
     "note_models": [
         {
@@ -293,7 +301,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-111ec-c98e5",
+            "name": "Cloze-afebb",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -323,7 +331,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -332,7 +340,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -470,7 +478,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-b2d29",
             "req": [
                 [
                     0,
@@ -494,6 +502,49 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -1948,6 +1999,162 @@
             "flags": 0,
             "guid": "u0Zh7^]fvA",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In the bone, the&nbsp;{{c1::resting}} zone is typically made up of chrondrocytes. AT this zone, there are no active cell division or matrix production.",
+                "<img src=\"paste-5b7ef38f61940f3056adb45eabc9bb53c783b678.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "d]ZP8?*/W)",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In the bone, the&nbsp;{{c1::proliferative}} zone is have cells that are undergoing mitosis, aligned in distinct columns.",
+                "<img src=\"paste-40154bda323f45cec8627d13bd2bb1de78db32e4.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "e}8`<v%ba3",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In the bone, the&nbsp;{{c1::hypertrophic cartilage}} zone is characterized by cells becoming enlarged due to the cytoplasm being filled with glycogen.",
+                "<img src=\"paste-e192863e49ce094e77971569bbbb9548dd89aa94.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "O!4DBQ3|Kq",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In the bone, the&nbsp;{{c1::calcified cartilage}} zone is where cells die from apoptosis and the matrix becomes calcified.",
+                "<img src=\"paste-baa5a27dd98c55ea3af0e55826184f82900e1c6d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "Ge_?Yi-#]_",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In the bone, the&nbsp;{{c1::ossification}} zone, bone is laid down on the spicules of calcified cartilage.",
+                "<img src=\"paste-422aa5558358607df896e9e6709e2a7dc6d8eacd.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "I|Tx6%7&B=",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At around 20 years old, our&nbsp;{{c1::epiphyseal disc}} in bone becomes ossified, and no more growth is possible.",
+                "<img src=\"3-14881D707F26DA548AB.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "NW8dQVxw.F",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To increase the bone's diameter,&nbsp;{{c1::periosteal::periosteal/endosteal}} {{c1::osteoblasts/osteaoclast}} lay down new bone appositionally.",
+                "<img src=\"paste-0f7e9da6917068d8a5a13152f45a937bea7f4967.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "qjQ%(2G@Ec",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "To increase the marrow cavity in bone,&nbsp;{{c1::periosteal::periosteal/endosteal}} {{c1::osteoblasts/osteaoclast}} reabsorbs the bone from the inside.",
+                "<img src=\"paste-7d64dd7b226f4b372a0221705e2e17e2fb36a0ce.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "njcVrE`|Bj",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primary or Secondary Bone?<div><br></div><div>- abundant in osteocytes</div>",
+                "Primary"
+            ],
+            "flags": 0,
+            "guid": "u#z^VA=F**",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primary or Secondary Bone?<div><br></div><div>-irregular arrangement of collagen fibers</div>",
+                "Primary"
+            ],
+            "flags": 0,
+            "guid": "LQ4k*FX1_[",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primary or Secondary Bone?<div><br></div><div>- lamellar bone</div>",
+                "Secondary"
+            ],
+            "flags": 0,
+            "guid": "CC!l9:1-qR",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primary or Secondary Bone?<div><br></div><div>- Less abundant in osteocytes but more evenly spaced</div>",
+                "Secondary"
+            ],
+            "flags": 0,
+            "guid": "l/,rNY?Cw|",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primary or Secondary Bone?<div><br></div><div>- collagen fibers are organized in parallel fashion within the lamella</div>",
+                "Secondary"
+            ],
+            "flags": 0,
+            "guid": "doy0`9[<M$",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
             "tags": []
         }
     ]
