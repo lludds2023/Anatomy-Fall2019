@@ -21,7 +21,7 @@
             "maxTaken": 60,
             "name": "Default",
             "new": {
-                "bury": true,
+                "bury": false,
                 "delays": [
                     1,
                     10
@@ -29,7 +29,7 @@
                 "initialFactor": 2500,
                 "ints": [
                     1,
-                    3,
+                    4,
                     7
                 ],
                 "order": 1,
@@ -92,7 +92,7 @@
         "Screen Shot 2019-10-06 at 8.32.07 PM.png",
         "Screen Shot 2019-10-06 at 8.58.57 PM.png"
     ],
-    "mid": 1569894932481,
+    "mid": "1570392164592",
     "name": "Q1-Anatomy::Lecture 11",
     "note_models": [
         {
@@ -284,7 +284,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Cloze-8e398",
+            "name": "Cloze-6c77b",
             "sortf": 0,
             "tags": [],
             "tmpls": [
@@ -313,7 +313,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -322,7 +322,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -504,7 +504,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Image Occlusion Enhanced",
+            "name": "Image Occlusion Enhanced-b2d29",
             "req": [
                 [
                     0,
@@ -680,7 +680,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Sensory neurons in the spinal cord synapse directly with&nbsp;{{c1::alpha motor neurson}}",
+                "Sensory neurons in the spinal cord synapse directly with&nbsp;{{c1::alpha motor neuron}}",
                 ""
             ],
             "flags": 0,
@@ -1298,8 +1298,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Thin filaments are composed of {{c1::g-actin molecules}} in alpha-helical arrangement. They contain {{c1::myosin}} binding sites.&nbsp;",
-                ""
+                "Thin filaments are composed of ...... in alpha-helical arrangement. They contain.....binding sites",
+                "g-actin, myosin"
             ],
             "flags": 0,
             "guid": "K98cOibt}`",
@@ -1565,6 +1565,162 @@
             "flags": 0,
             "guid": "z-cr.QF]90",
             "note_model_uuid": "4b34306b-e80a-11e9-830d-3c6aa78689e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F There are T tubules in smooth muscle constraction.&nbsp;",
+                "F. There are no T tubules.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "llTQqf5iJf",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Why are there no T tubules in smooth muscle contraction?",
+                "They are not necessary to transmit an action potential deep into the fiber.&nbsp;&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "Qs*v?g(*}{",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Smooth muscle contracts {{c1::more slowly::faster/slower}} and uses {{c2::lessmores/less}} energy than skeletal muscle.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g9L6Nh`U&x",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lower myosin ATPase activity results in {{c1::slower}} contraction in smooth muscle.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "t*P~t4-5R|",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Slower::faster/slower}} rate of Ca<sup>2+</sup>results in slower relaxation.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u:<0X}:jd7",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "latch state maintains tension for {{c1::long::short/long}} periods with very {{c2::low::high/low}} ATP consumption.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "cq3/EXI-9y",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lack of {{c1::oxygen, histamine, excess CO<sub>2</sub>}}<sub>&nbsp;</sub>may signal contraction by affecting Ca<sup>2+ </sup>entry into the sarcoplasm.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "+>-|xk<a1",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::boutons}} end at a distance from smooth muscle cells. Therefore the neurotransmitter diffuses across several microns.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oE5[W#>@YJ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How do smooth muscle contract as a unit even without direct innervation?",
+                "Numerous gap junctions connecting adjacent cells. The neurotransmitter can go through them.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "z6a7S)w2%l",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5 ways to stop smooth muscle contraction<div>-{{c1::Reduction in calcium}}</div><div>-{{c2::Calmodulin/calcium complex dissociates}}</div><div>-{{c3::Myosin linght chain kinase is inactivated}}</div><div>-{{c4::Myosin phosphataste dephosphorylates the myosin light chain.&nbsp;}}</div><div>-{{c5::Actin binding site is masked.&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ld#F^rE,ut",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ca2+ binds to troponin in skeletal muscle and cardiac muscle. To what does it bind in smooth muscle?&nbsp;",
+                "calmodulin"
+            ],
+            "flags": 0,
+            "guid": "E!r]?MYJ~^",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Instead of T tubules, smooth muscle uses",
+                "caveolae"
+            ],
+            "flags": 0,
+            "guid": "vPleFja+.<",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Smooth muscle has no z discs. What is used instead?",
+                "dense bodies.&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "sT(u1Q80fT",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
             "tags": []
         }
     ]
