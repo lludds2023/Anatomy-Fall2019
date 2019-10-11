@@ -1,0 +1,352 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "22959626-ebc3-11e9-a0d2-f2189854675e",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 300,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1570392164592",
+    "name": "Q1-Dental Fundamentals::Lecture 6",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 1st molar is {{c1::smaller::larger/smaller}} than the 2nd.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x3M-de00fn",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular molars<div>F-L and M-D dimensions are nearly equal ({{c1::F-L::F-L/M-D}} slightly greater.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n`j7m.HgN#",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mandibular premolars</div>{{c1::L::L/F}} cusps are much smaller than {{c2::F::L/F}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HwA=]}S1!9",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "T/F Mandibular premolars are tilted facially.",
+                "F- they are tilted lingually"
+            ],
+            "flags": 0,
+            "guid": "N=$7yPXXG]",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mandibular First Premolar</div>General Characteristics<div>Arch position: 4th from midline</div><div>Universal #{{c1::21 and #28}}</div><div>Only {{c2::facial::facial/lingual}} cusp is functional</div><div>Closer in form &amp; function to {{c3::canine::molar/canine}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o5?2!_J7pi",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular premolar&nbsp;<div>Development Timeline</div><div>Inicial Calcification: {{c1::1.75-2 years}}</div><div>Enamel completed:&nbsp;<span>{{c2::</span></div><div>5-6 years</div><div></div><div><span>}}</span>Eruption: {{c3::10-12}}</div><div>Root Completed:{{c4::12-13}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qklxh63,au",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Facial View</div><div>Shape: {{c1::pentagonal}}</div><div>Geometric shape: {{c2::trapezoidal}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vE?(R&a:qZ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Facial View</div><div>Both mesial and distal HOC at {{c1::middle third}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q#?JiUNQjk",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Facial View</div><div>Distal possibly more {{c1::occlusal}} than mesial.&nbsp;</div><div><br></div>",
+                "CRAZY, this is not typical. Unique"
+            ],
+            "flags": 0,
+            "guid": "Ctic%_iMDQ",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Facial View</div><div>Facial HOC at {{c1::cervical}} third.&nbsp;</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "RjF*ech6cA",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Facial View</div><div>Cusp tip offset towards {{c1::mesial}}.</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LE=bODb~(!",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Facial View</div><div>MB cusp ridge {{c1::shorter::shorter/longer}} than DB cusp ridge.&nbsp;</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ovRHTR5!4N",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Lingual View</div><div>diminished {{c1::lingual::lingual/facial}} cusp.</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "omRTSr7`[G",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Lingual View</div><div>Most of {{c1::buccal::lingual/buccal}} cusp {{c2::visible::visible/hidden}}</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k$o(AD7-c*",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Lingual View</div><div>L surface much {{c1::narrower::wider/narrower}} than F</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BC%[d4X8]K",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Lingual View</div><div>Presence of ML groove.&nbsp;</div><div><br></div>",
+                "THIS IS UNIQUE"
+            ],
+            "flags": 0,
+            "guid": "C2oww,/2=*",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        }
+    ]
+}
