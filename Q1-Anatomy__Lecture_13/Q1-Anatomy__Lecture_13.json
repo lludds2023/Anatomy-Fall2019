@@ -1,0 +1,764 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "41c861e4-ebbf-11e9-a1e2-f2189854675e",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 300,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-1-A.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-1-Q.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-2-A.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-2-Q.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-3-A.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-3-Q.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-4-A.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-4-Q.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-5-A.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-5-Q.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-6-A.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-6-Q.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-7-A.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-7-Q.svg",
+        "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-1-A.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-1-Q.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-2-A.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-2-Q.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-3-A.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-3-Q.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-4-A.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-4-Q.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-5-A.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-5-Q.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-6-A.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-6-Q.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-7-A.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-7-Q.svg",
+        "a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg",
+        "tmpsn9e9hsd.png",
+        "tmpt121m5r1.png"
+    ],
+    "mid": 1569894932481,
+    "name": "Q1-Anatomy::Lecture 13",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Do glands have autonomic or voluntary control in motor endings?",
+                "autonomic"
+            ],
+            "flags": 0,
+            "guid": "xdK:mJq*?3",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>A skeletal muscle motor unit is defined as a single {{c1::alpha motor}} neuron and all the {{c2::myofibers}} it innervates.&nbsp;&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "eEQ*${Zk>@",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a11decca5ff14912bf5055eb9ee1a8cd-ao-1",
+                "",
+                "<img src=\"tmpt121m5r1.png\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-1-A.svg\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "u~qp2g0Zg%",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a11decca5ff14912bf5055eb9ee1a8cd-ao-2",
+                "",
+                "<img src=\"tmpt121m5r1.png\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-2-A.svg\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "y%By9AcSfK",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a11decca5ff14912bf5055eb9ee1a8cd-ao-3",
+                "",
+                "<img src=\"tmpt121m5r1.png\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-3-A.svg\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "C3L?JgkxHk",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a11decca5ff14912bf5055eb9ee1a8cd-ao-4",
+                "",
+                "<img src=\"tmpt121m5r1.png\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-4-A.svg\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "y.=|-+HNW(",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a11decca5ff14912bf5055eb9ee1a8cd-ao-5",
+                "",
+                "<img src=\"tmpt121m5r1.png\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-5-A.svg\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sqjqLkJte%",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a11decca5ff14912bf5055eb9ee1a8cd-ao-6",
+                "",
+                "<img src=\"tmpt121m5r1.png\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-6-A.svg\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "uI%eirb4,j",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "a11decca5ff14912bf5055eb9ee1a8cd-ao-7",
+                "",
+                "<img src=\"tmpt121m5r1.png\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-7-A.svg\" />",
+                "<img src=\"a11decca5ff14912bf5055eb9ee1a8cd-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "zk*]=i<dh%",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-1",
+                "",
+                "<img src=\"tmpsn9e9hsd.png\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-1-A.svg\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "qHs*,[k>@W",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-2",
+                "",
+                "<img src=\"tmpsn9e9hsd.png\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-2-A.svg\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "p|q]s!&dq=",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-3",
+                "",
+                "<img src=\"tmpsn9e9hsd.png\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-3-A.svg\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "IAxc8#j>/h",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-4",
+                "",
+                "<img src=\"tmpsn9e9hsd.png\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-4-A.svg\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mp,3Yh}KaH",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-5",
+                "",
+                "<img src=\"tmpsn9e9hsd.png\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-5-A.svg\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "bXuJ2SU9=f",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-6",
+                "",
+                "<img src=\"tmpsn9e9hsd.png\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-6-A.svg\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "k`0@FaQEjb",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "3ec5fff31ea74f60b82bf8d35ea2aec4-ao-7",
+                "",
+                "<img src=\"tmpsn9e9hsd.png\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-7-A.svg\" />",
+                "<img src=\"3ec5fff31ea74f60b82bf8d35ea2aec4-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "oDrh7t_z)y",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Autonomic axons contain clusters of synaptic vesicles {{c1::along the course of the fiber::location}} (en passant) or in terminal {{c2::boutons}}.&nbsp; &nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LW}*67P-V5",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The&nbsp;parasympathetic nervous system&nbsp;is entirely {{c1::cholinergic::adernergic/cholinergic}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "s68MB=?r!%",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Neuromuscular junctions}}, {{c2::preganglionic neurons of the&nbsp;sympathetic nervous system}}, the&nbsp;{{c3::basal forebrain}}, and {{c4::brain stem complexes}} are also {{c5::cholinergic}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lWOfT>^jnl",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Post-synaptic sympathetic neurons are said to be {{c1::adrenergic::cholinergic/adrenergic}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Nq=M}]}m+G",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Innervation of the Iris<div>{{c1::Iris Dilator}}</div><div>Ratio: Adrenergic to cholinergic {{c2::3:1}}, therefore innervation is primarily {{c3::sympathetic}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mD]pFL$t+;",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Innervation of the Iris</div><div>{{c1::Iris Sphincter (sphincter pupillae)}}</div> <div>◦Ratio: Adrenergic to cholinergic {{c2::1:6}}</div> <div>◦therefore, innervation is primarily {{c3::parasympathetic}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f;GA<clmOp",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Afferent}} (sensory) axons in peripheral nerves are of three classes and have a variety of kinds of endings; {{c2::A beta, A delta, C dorsal root.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Cf+5FlrYq1",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A beta nerve fibers function as {{c1::touch and pressur}} fibers.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AGedl4W;re",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "A delta fibers have {{c1::pain and temperature}} function.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n<pX9>/@+j",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::C dorsal}} root fibers have {{c1::pain and temperature}} functions.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e<qsIM:Z,V",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        }
+    ]
+}
