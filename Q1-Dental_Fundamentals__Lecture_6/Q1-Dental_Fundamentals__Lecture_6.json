@@ -55,9 +55,18 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
-        "Screen Shot 2019-10-12 at 7.49.29 PM.png"
+        "Screen Shot 2019-10-12 at 7.49.29 PM.png",
+        "Screen Shot 2019-10-13 at 10.32.38 AM.png",
+        "d6b63d14f5964d9da6bf2e567d045205-ao-1-A.svg",
+        "d6b63d14f5964d9da6bf2e567d045205-ao-1-Q.svg",
+        "d6b63d14f5964d9da6bf2e567d045205-ao-O.svg",
+        "f55362d9da4e4aabb27dc03f60a2e551-ao-1-A.svg",
+        "f55362d9da4e4aabb27dc03f60a2e551-ao-1-Q.svg",
+        "f55362d9da4e4aabb27dc03f60a2e551-ao-O.svg",
+        "tmp1kdtwg04.png",
+        "tmp7nrd234v.png"
     ],
-    "mid": 1569894932481,
+    "mid": "1570392164592",
     "name": "Q1-Dental Fundamentals::Lecture 6",
     "note_models": [
         {
@@ -151,6 +160,139 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
                 }
             ],
             "type": 0,
@@ -504,6 +646,180 @@
             "flags": 0,
             "guid": "HtOpCWn#B!",
             "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>Occlusal View</div><div><div>•General outline more {{c1::square}}</div> <div>•{{c2::F-L::M-D/F-L}} &gt; {{c2::M-D::M-D/F-L}} dimension</div> <div>•{{c1::Less::more/less}} taper lingually than 1st*&nbsp; (3-cusp variety possible slight divergence)</div> <div>•Three occlusal groove patterns:</div> <div>•Y-type (3 cusp variety)</div> <div>•{{c3::U}}-type (2 cusp)</div> <div>•{{c3::H}}-type (2 cusp)</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l?^)lx:@z:",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>Occlusal View</div><div>Three Cusp Variety</div><div><div>•Y shape groove pattern</div> <div>•Formed by {{c1::lingual}} groove {{c1::joining::joining/separating}} central groove</div> <div>•Only premolar with {{c1::lingual}} groove*</div> <div>•Largest to smallest cusps:&nbsp;<span>•{{c1::B, ML, DL}}</span></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q&pjK*Y2RN",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>Occlusal View</div><div>Three Cusp Variety</div><div><div>•No typical {{c1::transverse}} ridge&nbsp;</div> <div>•3 pits: {{c1::mesial, central, distal}}*</div> <div>•3 fossae:</div> <div>•2 {{c2::triangular::shape}} fossae: {{c1::mesial and distal::location}}</div> <div>•1 central fossa</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "k&}@|djleI",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>Occlusal View</div><div>Two Cusp Variety</div><div><div>•U or H shape groove patterns</div> <div>•More {{c1::rounded:sharp/rounded}} than 3-cusp variety</div> <div>•Transverse ridge {{c2::present::absent}}</div> <div>•No {{c1::lingual}} groove or central pit</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "e2{[|QXu=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>Occlusal View</div><div>Two Cusp Variety</div><div><div>•Lingual cusp offset to {{c1::mesial::mesial/distal}}</div> <div>•2 pits: {{c1::mesial and distal}}</div> <div>•2 triangular fossae: {{c2::mesial and distal}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qJ~<Xbp,EL",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>Root form</div><div><div>•Normally {{c2::single}}, {{c1::bifurcation}} possible</div> <div>•Root cross-section is {{c2::ovoid}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dyp$:uF:Jz",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>Anomalies</div><div>{{c1::May be missing congenitally::major anomalie in this tooth}}</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Nfxy/m!a*`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>How to tell Right from Left</div><div><div>•ML cusp {{c1::larger::smaller/larger}} than DL (3-cusp)</div> <div>•Lingual cusp offset {{c2::mesially::distally/mesially}} (2-cusp variety)</div> <div>•Distal marginal ridge more {{c1::cervical::occlusal/cervical}} than mesial marginal ridge</div> <div>•Root may have {{c2::distal::mesial/distal}} deflection</div></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uy:{&z.g*=",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular 2nd Premolar<div>How to tell Right from Left</div><div><div>•ML cusp {{c1::larger::smaller/larger}} than DL (3-cusp)</div> <div>•Lingual cusp offset {{c2::mesially::distally/mesially}} (2-cusp variety)</div> <div>•Distal marginal ridge more {{c1::cervical::occlusal/cervical}} than mesial marginal ridge</div> <div>•Root may have {{c2::distal::mesial/distal}} deflection</div></div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G%Wb4;x_+V",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular molars<div>How to tell 1st from 2nd</div><div><div>•Greater disparity between {{c2::F and L::M and D}} cusp heights with 1st</div> <div>•2nd typically {{c1::3-cusp::how many cusps}} variety</div> <div>•{{c2::ML}} groove present in 1st</div> <div>•Mesial marginal ridge slopes {{c1::more::less/more}} in 1st (45o)</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Jcy(v%(rTd",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular molars<div>How to tell 1st from 2nd</div><div><div>•Occlusal outline {{c1::more::more/less}} rounded in 1st, more {{c1::square::oval/square}} in 2nd</div> <div>•Buccal cusp tip {{c2::centered::centered/ centered mesiodistally}} over root apex in 1st, facial of center in 2nd*</div></div>",
+                "<img src=\"Screen Shot 2019-10-13 at 10.32.38 AM.png\">"
+            ],
+            "flags": 0,
+            "guid": "H.lz#qW/;B",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f55362d9da4e4aabb27dc03f60a2e551-ao-1",
+                "",
+                "<img src=\"tmp1kdtwg04.png\" />",
+                "<img src=\"f55362d9da4e4aabb27dc03f60a2e551-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"f55362d9da4e4aabb27dc03f60a2e551-ao-1-A.svg\" />",
+                "<img src=\"f55362d9da4e4aabb27dc03f60a2e551-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "seA3Fd`Jm_",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d6b63d14f5964d9da6bf2e567d045205-ao-1",
+                "",
+                "<img src=\"tmp7nrd234v.png\" />",
+                "<img src=\"d6b63d14f5964d9da6bf2e567d045205-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d6b63d14f5964d9da6bf2e567d045205-ao-1-A.svg\" />",
+                "<img src=\"d6b63d14f5964d9da6bf2e567d045205-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "wdP5!,~P?t",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
             "tags": []
         }
     ]
