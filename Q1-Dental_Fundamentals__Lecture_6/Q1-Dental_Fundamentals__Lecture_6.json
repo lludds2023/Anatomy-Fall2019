@@ -54,8 +54,10 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
-    "media_files": [],
-    "mid": "1570392164592",
+    "media_files": [
+        "Screen Shot 2019-10-12 at 7.49.29 PM.png"
+    ],
+    "mid": 1569894932481,
     "name": "Q1-Dental Fundamentals::Lecture 6",
     "note_models": [
         {
@@ -340,12 +342,168 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Mandibular first premolar&nbsp;<div>Lingual View</div><div>Presence of ML groove.&nbsp;</div><div><br></div>",
-                "THIS IS UNIQUE"
+                "Mandibular First Premolar<div><span>Variations and Anomalies</span><br></div><div><span>Abscence of&nbsp;</span>{{c2::ML}}<span>&nbsp;groove</span></div><div><span>Lingual cusp size&nbsp;</span><span style=\"background-color: rgb(255, 255, 255);\">{{c3::variable}}</span></div><div>{{c1::Central}} groove not evident.&nbsp;</div>",
+                ""
             ],
             "flags": 0,
-            "guid": "C2oww,/2=*",
-            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "guid": "h[):llB(38",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular First Premolar<div>Occlusal View</div><div><div>•Outline is {{c1::diamond-shaped::shape}}</div><div>•F-L {{c2::&gt;::,&gt;,&lt;}} M-D dimension</div><div>•{{c4::Buccal}} cusp occupies {{c3::2/3::size}} of&nbsp; occlusal surface*</div><div>•B and L cusp tips offset {{c4::mesially}}</div><div>•Occlusal table is {{c5::triangular::shape}}*</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "lgKeYNo+9h",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular First Premolar<div>Occlusal View</div><div><div>•Mesial outline indented by {{c5::ML groove}} - looks like “closed fist”</div><div>•Pronounced {{c4::transverse}} ridge*</div><div>•M and D pits may be connected by a {{c3::shallow central groove}}</div><div>•Distal fossa {{c2::larger, circular}}</div><div>•Mesial fossa more {{c1::linear}}</div></div>",
+                "<img src=\"Screen Shot 2019-10-12 at 7.49.29 PM.png\">"
+            ],
+            "flags": 0,
+            "guid": "n.JM}9ZA^W",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular First Premolar<div>Root form</div><div><div>•Usually {{c4::single::single/double}} rooted, bifurcation possible (but not common)</div><div>•Wider {{c2::F-L::F-L/M-D}} than {{c3::M-D::F-L/M-D}}</div><div>•Cross-section is {{c1::ovoid}}, wider buccally than lingually</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wf26);JSz$",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>Lingual View</div><div>Presence of {{c1::ML}} groove.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H?0?sY@Sa;",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>How to tell Right from Left</div><div><div>•Presence of {{c1::ML}} groove</div> <div>•Mesial marginal ridge slopes {{c3::more than::less than/more than}} distal marginal ridge</div> <div>•MB cusp ridge {{c2::shorter::shorter/longer}} than DB cusp ridge</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xon/E30vd8",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular first premolar&nbsp;<div>How to tell Right from Left</div><div><div>•Distal fossa {{c1::circular::circular/ovoid/linear}}, mesial is {{c2::linear::circular/ovoid/linear}}</div> <div>•Lingual cusp offset towards {{c3::mesial::distal/mesial}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "j9uu6fV8OF",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular second premolar&nbsp;<div><div>•Arch position: 5th from midline</div> <div>•Universal {{c1::#20 and #29}}</div> <div>•Proximal geometric form:&nbsp; {{c2::rhomboidal}}</div> <div>•Generally larger crown, {{c3::larger and longer root}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ci?.D;L_IA",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular second premolar&nbsp;<div><div>•May have two or three {{c1::cusps}}</div> <div>•One {{c2::facial}}</div> <div>•One or two {{c2::lingual}}</div> <div>•Occlusal table resembles small {{c3::molar}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B/MA|>ft|Z",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular second premolar&nbsp;<div>Development Timeline</div><div><div>•Initial calcification: {{c1::2¼ - 2½}} years</div> <div>•Enamel completed: {{c2::6 - 7}} years</div> <div>•Eruption: {{c3::11 - 12}} years</div> <div>•Root completed: {{c4::13 - 14}} years</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "LSDvoL;SV^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular second premolar&nbsp;<div>Facial<br><div>•Resembles 1st from this view <u>except:</u></div> <div>•Cusp tip {{c1::not as sharp::sharp/not as sharp}}</div> <div>•MB and DB cusp ridges {{c2::not as steeply inclined::steeply inclined/not as steeply inclined}}</div> <div>•Cusp tip centered {{c3::mesiodistally::location}}*</div> <div>•Mesial HOC near junction of {{c4::occlusal-middle third}}</div> <div><span>•Distal HOC at junction of&nbsp;</span>{{c4::occlusal-middle third&nbsp;}}<span>&nbsp;</span><span>&nbsp;</span><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zZP]dfiR|e",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mandibular second premolar&nbsp;<div>Facial<br><div><div>•Lingual cusps generally {{c1::better::less/better}} developed than 1st</div> <div>•Lingual HOC at {{c2::middle third to occlusal third::}}* (unique)</div> <div>•Three cusp variety:</div> <div>•ML cusp {{c3::larger::smaller/larger}} than DL</div> <div>•Lingual groove {{c4::present::absent/absent}}</div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "m<7eJ>@`&{",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mandibular Second Premolar</div><div>Mesial View</div><div>•Lingual inclination {{c1::less::more/less}} than 1st</div> <div>•Buccal cusp tip is {{c2::facial::facial/lingual}} to tooth midline*</div> <div>•Mesial marginal ridge nearly {{c1::horizontal::vertical/horizontal}}</div> <div>•Mesial marginal groove present, {{c2::no::with/with no}}<u>&nbsp;ML developmental groove</u></div> <div>•Only {{c1::two::number}} cusps visible from this view</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l?|9jVJ~(1",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Mandibular Second Premolar</div><div>Distal View</div><div><div>•Distal marginal ridge more {{c1::cervical::occlusal/cervical}} than mesial</div> <div>•{{c2::More::less/more}} of occlusal surface visible from this view</div> <div>•All 3 cusp tips visible from this view (3-cusp variety)</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HtOpCWn#B!",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
             "tags": []
         }
     ]
