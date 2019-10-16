@@ -1,0 +1,246 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "59fa0866-f016-11e9-a0e0-a683e744b8d5",
+    "deck_config_uuid": "a563bac6-e8a8-11e9-aeb6-a683e744b8d5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "a563bac6-e8a8-11e9-aeb6-a683e744b8d5",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    3,
+                    15
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 90,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "Screen Shot 2019-10-15 at 11.23.33 PM.png",
+        "Screen Shot 2019-10-15 at 11.37.52 PM.png",
+        "Screen Shot 2019-10-15 at 11.42.00 PM.png",
+        "Screen Shot 2019-10-15 at 11.43.47 PM.png",
+        "Screen Shot 2019-10-15 at 11.46.51 PM.png",
+        "Screen Shot 2019-10-15 at 11.50.48 PM.png",
+        "Screen Shot 2019-10-15 at 11.52.59 PM.png",
+        "Screen Shot 2019-10-15 at 11.55.46 PM.png",
+        "Screen Shot 2019-10-16 at 12.00.38 AM.png",
+        "Screen Shot 2019-10-16 at 12.05.21 AM.png"
+    ],
+    "name": "Q1-Dental Fundamentals::Tooth ID #1::Tooth ID #2",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.23.33 PM.png\"><br>",
+                "12-- Maxillary Left 1st Premolar <br><br>(Lingual cusp tipped mesially, mesial marginal groove)"
+            ],
+            "flags": 0,
+            "guid": "e5Zb`6jc!m",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.37.52 PM.png\"><br>",
+                "5-- Maxillary Right 1st Premolar<br><br>(Notice mesial marginal groove, mesial root concavity, longer M buccal cusp, distal root deflection)"
+            ],
+            "flags": 0,
+            "guid": "q!25.|?*-o",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.42.00 PM.png\"><br>",
+                "4-- Maxillary Right 2nd Premolar<br><br>Rounder/softer occlusal anatomy, lingual cusp tipped mesially, no mesial marginal groove"
+            ],
+            "flags": 0,
+            "guid": "LNts;2+qx",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.43.47 PM.png\"><br>",
+                "13--Maxillary Left 2nd Premolar<br><br>Why 2nd: Softer occlusal anatomy/pits closer together, cusps more equal in heigth<br><br>Why Left: root tipped distally, lingual cusp tipped mesially, MB cusp ridge shorter than DB"
+            ],
+            "flags": 0,
+            "guid": "Bh(-<*qIGT",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.46.51 PM.png\"><br>",
+                "12--Maxillary Left 1st Premolar<br><br>--Lingual cusp tipped mesially and twisted away from buccal cusp from the lingual view<br><br>Why L: Mesial marginal ridge, root distal, mesial marginal ridge"
+            ],
+            "flags": 0,
+            "guid": "x).w6B1l<b",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.50.48 PM.png\"><br>",
+                "28-- Mandibular Right 1st Premolar<br><br>(Distal marginal ridge angle 90 degree and less occlusal anatomy can be seen. Mesial marginal ridge angle 45 degrees)<br>-occlusal: buccal 2/3 of surface, distal fossa circular, mesial fossa more linear"
+            ],
+            "flags": 0,
+            "guid": "N{&Y<B{noC",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.52.59 PM.png\"><br>",
+                "28: Mandibular Right 1st Premolar<br><br>Why 1st: greater disparity in heigth of facial/lingual cusps, pointer buccal cusp, buccal 2/3 of occlusal surface<br>Why right: Shorter mesial buccal cusp, distal fossa circular and mesial fossa linear,&nbsp;<br>Mesial view: more occlusal anatomy and 45 degree angle of mesial marginal ridge, Distal marginal ridge 90 degress and less occlusal anatomy"
+            ],
+            "flags": 0,
+            "guid": "O_JX1pw2pn",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-15 at 11.55.46 PM.png\"><br>",
+                "29: Mandibular right 2nd premolar<br><br>Why mandibular: lingual tilt<div><br>Why 2nd: more square anatomy, less disparity between the heights of the buccal and lingual cusps, *presence of lingual groove</div><div><br>Why Right: lingual groove is on mesial side, can see three cusps from distal view and only two from mesial view</div>"
+            ],
+            "flags": 0,
+            "guid": "DVyw$7*!T|",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-16 at 12.00.38 AM.png\"><br>",
+                "29-- Mandibular Right 2nd Premolar<br><br>Why right: m marginal ridge (2 cusps) is higher than d marginal ridge (3 cusps), MB cusp ridge shorter<br><br>Why Mandibular: lingual tilt<br>Why 2nd: less height difference between facial and lingual cusps, three cusps, lingual groove"
+            ],
+            "flags": 0,
+            "guid": "z#LGf-4/:v",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-16 at 12.05.21 AM.png\"><br>",
+                "20: Mandibular Left 2nd premolar<br><br>Why mandibular: lingual tilt<br>why 2nd: less disparity between facial/lingual cusp heights, three cusps<br><div><br></div><div>Why left: Mesial 2 cusp/ higher marginal ridge, distal 3 cusp/lower marginal ridge</div>"
+            ],
+            "flags": 0,
+            "guid": "paHOl$Iru|",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        }
+    ]
+}
