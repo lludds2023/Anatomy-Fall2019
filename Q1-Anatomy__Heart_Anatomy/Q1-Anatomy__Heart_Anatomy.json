@@ -1,0 +1,1058 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "c5cbd2d2-f0ab-11e9-8d88-acde48001122",
+    "deck_config_uuid": "c5d25da8-f0ab-11e9-ab87-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "c5d25da8-f0ab-11e9-ab87-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 30,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    7
+                ],
+                "order": 0,
+                "perDay": 75,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "14d9cb9dc58246a7b28e3ccd9e891845-ao-1-A.svg",
+        "14d9cb9dc58246a7b28e3ccd9e891845-ao-1-Q.svg",
+        "14d9cb9dc58246a7b28e3ccd9e891845-ao-O.svg",
+        "2015d14b3367495a8316730b2eec1625-ao-1-A.svg",
+        "2015d14b3367495a8316730b2eec1625-ao-1-Q.svg",
+        "2015d14b3367495a8316730b2eec1625-ao-O.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-1-A.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-1-Q.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-2-A.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-2-Q.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-3-A.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-3-Q.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-4-A.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-4-Q.svg",
+        "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-O.svg",
+        "690a0f296415425eac41101cd4a0dddf-ao-1-A.svg",
+        "690a0f296415425eac41101cd4a0dddf-ao-1-Q.svg",
+        "690a0f296415425eac41101cd4a0dddf-ao-O.svg",
+        "822b389106104f048a976c9ad81ed180-ao-1-A.svg",
+        "822b389106104f048a976c9ad81ed180-ao-1-Q.svg",
+        "822b389106104f048a976c9ad81ed180-ao-O.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-1-A.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-1-Q.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-2-A.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-2-Q.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-3-A.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-3-Q.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-4-A.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-4-Q.svg",
+        "c2eae7f2c39b4706873ec59bd90806f8-ao-O.svg",
+        "d58d6bd761fc420eacd722f2bf64cc30-ao-1-A.svg",
+        "d58d6bd761fc420eacd722f2bf64cc30-ao-1-Q.svg",
+        "d58d6bd761fc420eacd722f2bf64cc30-ao-O.svg",
+        "paste-0308e04717e01430d72d4b138812991318dc89e9.jpg",
+        "paste-098896ee352412a368f76c8affccaff277bbe4d0.jpg",
+        "paste-0b537ce210bdffcf18330a695a62053e32f7d23e.jpg",
+        "paste-12ee91884427531dcace9cafd8f43e4de77ca716.jpg",
+        "paste-154ad4f92b459c192a55b17da84d74159fe2415d.jpg",
+        "paste-36e538af8042b4d80a63b2f7d84a4cf223932209.jpg",
+        "paste-430954bd844fd82c01621c0ece31301e590eb758.jpg",
+        "paste-432c84cc9e6d31f674702da14d92966d4998016c.jpg",
+        "paste-4b660bdab8b15804ca21dfab692f601754b3be61.jpg",
+        "paste-4d35adf72518a050db46fac37abcb33def89eca2.jpg",
+        "paste-5505815553e5a5b91261b5ba80e4eed71fb74478.jpg",
+        "paste-5606b90198ff36f1efaed289e040e6d447ce7b3d.jpg",
+        "paste-57d28c2f8187ff93ebc542c789320377ddfb4d59.jpg",
+        "paste-59f719c2bf50d4094672dafc131158e22c85268e.jpg",
+        "paste-6647929991138eebbccf0bfa763ffd4fc9fff3b2.jpg",
+        "paste-6d281b9880e11ddb6b7a160930d51c7842caa2ae.jpg",
+        "paste-70e7840905843ea6f685683e92bf14632dc7da6c.jpg",
+        "paste-74d529682fc99142519d9f6e69fc7f8251da7766.jpg",
+        "paste-754c720a222f0b39657352f51c13316dd00fef8c.jpg",
+        "paste-7cf8925493beb66a89ba15925026bef2102181d0.jpg",
+        "paste-82a54158c46d7eb5d9420de079ab4a1dea2f0a39.jpg",
+        "paste-8c710070c0052eb64853cd5f2e094cf1baa0e14e.jpg",
+        "paste-95c8a205f720c82708a4b01619706d80b5907491.jpg",
+        "paste-966ad1d5a83e46cfdd2c6ae9c2f32c859b6b7328.jpg",
+        "paste-977839a2b8303570f72fdf6bde70f60c1e9bdb85.jpg",
+        "paste-a26bcd6a6bd8e61a33e54332aa26b1beee8aeb21.jpg",
+        "paste-c2cacb414596f25a41a7726bc5233808116f78dd.jpg",
+        "paste-c4cc05cc7fc0a3577a74fbf0b8194d27bfa9876d.jpg",
+        "paste-cb4c17c21fb21e86b1bb58e2a02374468cb7276e.jpg",
+        "paste-d6235de48af73846bb40f521068d83bdbf5c0333.jpg",
+        "paste-d81ead6eb65902d42911417cb3b8b7814bdd486a.jpg",
+        "paste-d8304a872623ff5102be37d6a7a677e00fdaac50.jpg",
+        "paste-d85ae73326e5658bc8a2bcc030a73108096aef48.jpg",
+        "paste-e5341e518efa7981e25dd1c8bdc8bafaecb86205.jpg",
+        "paste-e7d8f35ad7f44613d97bd5bc689c7805ed303614.jpg",
+        "paste-e80b373d508a355d80c3812bd2978776194f19bb.jpg",
+        "paste-ec99ee3b49fb962e5dfa7c27920ac173855e70b7.jpg",
+        "paste-f42c52505e09fba2b991eedacd94cc2d54ab9ba5.jpg",
+        "tmp22onsg3t.png",
+        "tmp2ymluvxf.png",
+        "tmp6iq9nofq.png",
+        "tmpenxdmibh.png",
+        "tmps24zla2e.png",
+        "tmpv5cc9rmc.png",
+        "tmpwiilz100.png"
+    ],
+    "mid": "1570392059085",
+    "name": "Q1-Anatomy::Heart Anatomy",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-59f719c2bf50d4094672dafc131158e22c85268e.jpg\">",
+                "Vagus Nerve (Parasympathetic)"
+            ],
+            "flags": 0,
+            "guid": "Ot8S(dp4t",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-154ad4f92b459c192a55b17da84d74159fe2415d.jpg\">",
+                "Cardiac Plexus"
+            ],
+            "flags": 0,
+            "guid": "F1Sz7#rx?U",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-ec99ee3b49fb962e5dfa7c27920ac173855e70b7.jpg\">",
+                "Left AV orifice &amp; Mitral (bicuspid) Valve"
+            ],
+            "flags": 0,
+            "guid": "pY(jv>$_DI",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-74d529682fc99142519d9f6e69fc7f8251da7766.jpg\">",
+                "Cordae tendineae"
+            ],
+            "flags": 0,
+            "guid": "e}#H7Q|K<r",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-966ad1d5a83e46cfdd2c6ae9c2f32c859b6b7328.jpg\">",
+                "Papillary muscle"
+            ],
+            "flags": 0,
+            "guid": "CBjMN3CN5k",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-8c710070c0052eb64853cd5f2e094cf1baa0e14e.jpg\">",
+                "Aortic valve"
+            ],
+            "flags": 0,
+            "guid": "n>2RXB!WPz",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "690a0f296415425eac41101cd4a0dddf-ao-1",
+                "",
+                "<img src=\"tmp22onsg3t.png\" />",
+                "<img src=\"690a0f296415425eac41101cd4a0dddf-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"690a0f296415425eac41101cd4a0dddf-ao-1-A.svg\" />",
+                "<img src=\"690a0f296415425eac41101cd4a0dddf-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "L~&/]E.!gI",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "822b389106104f048a976c9ad81ed180-ao-1",
+                "",
+                "<img src=\"tmps24zla2e.png\" />",
+                "<img src=\"822b389106104f048a976c9ad81ed180-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"822b389106104f048a976c9ad81ed180-ao-1-A.svg\" />",
+                "<img src=\"822b389106104f048a976c9ad81ed180-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "DHquy8/~+0",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d58d6bd761fc420eacd722f2bf64cc30-ao-1",
+                "",
+                "<img src=\"tmpenxdmibh.png\" />",
+                "<img src=\"d58d6bd761fc420eacd722f2bf64cc30-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"d58d6bd761fc420eacd722f2bf64cc30-ao-1-A.svg\" />",
+                "<img src=\"d58d6bd761fc420eacd722f2bf64cc30-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "M7E%NF.=6M",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2015d14b3367495a8316730b2eec1625-ao-1",
+                "",
+                "<img src=\"tmpv5cc9rmc.png\" />",
+                "<img src=\"2015d14b3367495a8316730b2eec1625-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2015d14b3367495a8316730b2eec1625-ao-1-A.svg\" />",
+                "<img src=\"2015d14b3367495a8316730b2eec1625-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "v(ihlg.j/o",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-95c8a205f720c82708a4b01619706d80b5907491.jpg\">",
+                "SA nodal branch&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "v/ok91JfKm",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-e5341e518efa7981e25dd1c8bdc8bafaecb86205.jpg\">",
+                "Right marginal branch"
+            ],
+            "flags": 0,
+            "guid": "GV=%ghk6hX",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-57d28c2f8187ff93ebc542c789320377ddfb4d59.jpg\">",
+                "Posterior interventricular artery"
+            ],
+            "flags": 0,
+            "guid": "Keqd2D~qV]",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-36e538af8042b4d80a63b2f7d84a4cf223932209.jpg\">",
+                "Left Coronary Artery"
+            ],
+            "flags": 0,
+            "guid": "AdfBnmu)8(",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-5606b90198ff36f1efaed289e040e6d447ce7b3d.jpg\">",
+                "Anterior interventricular artery"
+            ],
+            "flags": 0,
+            "guid": "d|cX8U2.QE",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-82a54158c46d7eb5d9420de079ab4a1dea2f0a39.jpg\">",
+                "Circumflex branch"
+            ],
+            "flags": 0,
+            "guid": "Oi.My4e[$!",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-432c84cc9e6d31f674702da14d92966d4998016c.jpg\">",
+                "Left marginal branch"
+            ],
+            "flags": 0,
+            "guid": "e[yJtD4iSb",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-7cf8925493beb66a89ba15925026bef2102181d0.jpg\">",
+                "Sinoatrial node"
+            ],
+            "flags": 0,
+            "guid": "vf0a^`2^}p",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-cb4c17c21fb21e86b1bb58e2a02374468cb7276e.jpg\">",
+                "Atrioventricular node"
+            ],
+            "flags": 0,
+            "guid": "vG._agwSo+",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-70e7840905843ea6f685683e92bf14632dc7da6c.jpg\">",
+                "Septomarginal trabecula"
+            ],
+            "flags": 0,
+            "guid": "JD`c}mT$&R",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-4b660bdab8b15804ca21dfab692f601754b3be61.jpg\">",
+                "<b>Left Ventricle:&nbsp;</b>Trabeculae carneae&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "P{/*ti)vx{",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-430954bd844fd82c01621c0ece31301e590eb758.jpg\">",
+                "<b>Left Ventricle: </b>Thick myocardium"
+            ],
+            "flags": 0,
+            "guid": "hyHm1N(q*e",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-d85ae73326e5658bc8a2bcc030a73108096aef48.jpg\">",
+                "<b>Right Ventricle:&nbsp;</b>Pulmonary (Semilunar) Valve"
+            ],
+            "flags": 0,
+            "guid": "n=R&C-)jW|",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-d8304a872623ff5102be37d6a7a677e00fdaac50.jpg\">",
+                "<b>Right Ventricle:&nbsp;</b>Supraventricular crest"
+            ],
+            "flags": 0,
+            "guid": "DbZ6*DEG2O",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-12ee91884427531dcace9cafd8f43e4de77ca716.jpg\">",
+                "<b>Right Ventricle: </b>Trabeculae carneae"
+            ],
+            "flags": 0,
+            "guid": "bTrX#:E:bP",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-c4cc05cc7fc0a3577a74fbf0b8194d27bfa9876d.jpg\">",
+                "<b>Right Ventricle:</b>&nbsp;Septomarginal trabecula"
+            ],
+            "flags": 0,
+            "guid": "B~@PB#An:*",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-f42c52505e09fba2b991eedacd94cc2d54ab9ba5.jpg\">",
+                "<b>Right Ventricle: </b>Chordae tendineae"
+            ],
+            "flags": 0,
+            "guid": "bN4I?KcuTA",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-e80b373d508a355d80c3812bd2978776194f19bb.jpg\">",
+                "<b>Right Ventricle: </b>Papillar muscles"
+            ],
+            "flags": 0,
+            "guid": "b$zX4#$ZTl",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-5505815553e5a5b91261b5ba80e4eed71fb74478.jpg\">",
+                "<b>Right Ventricle:&nbsp;</b>Right AV orifice &amp; tricuspid valve"
+            ],
+            "flags": 0,
+            "guid": "ybEtdcwL48",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-d81ead6eb65902d42911417cb3b8b7814bdd486a.jpg\">",
+                "<b>Right Atrium: </b>Opening of inferior vena cava"
+            ],
+            "flags": 0,
+            "guid": "Mc!U$~aWNb",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-c2cacb414596f25a41a7726bc5233808116f78dd.jpg\">",
+                "<b>Right Atrium: </b>Opening of superior vena cava"
+            ],
+            "flags": 0,
+            "guid": "n*/XKD1h2n",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-098896ee352412a368f76c8affccaff277bbe4d0.jpg\">",
+                "<b>Right Atrium:&nbsp;</b>Opening of coronary sinus"
+            ],
+            "flags": 0,
+            "guid": "xwq[6+HM>d",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-d6235de48af73846bb40f521068d83bdbf5c0333.jpg\">",
+                "<b>Right Atrium:</b>&nbsp;Fossa ovalis"
+            ],
+            "flags": 0,
+            "guid": "s|EDTyGfl3",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-754c720a222f0b39657352f51c13316dd00fef8c.jpg\">",
+                "<b>Right Atrium: </b>Sinus venarum"
+            ],
+            "flags": 0,
+            "guid": "c&JcXD=GQ2",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-4d35adf72518a050db46fac37abcb33def89eca2.jpg\">",
+                "<b>Right Atrium: </b>Crista terminalis"
+            ],
+            "flags": 0,
+            "guid": "PBT^qAZ;-w",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-6d281b9880e11ddb6b7a160930d51c7842caa2ae.jpg\">",
+                "<b>Right Atrium: </b>Pectinate muscles"
+            ],
+            "flags": 0,
+            "guid": "EMZQm(KHT)",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-e7d8f35ad7f44613d97bd5bc689c7805ed303614.jpg\">",
+                "Esophageal aortic artery"
+            ],
+            "flags": 0,
+            "guid": "I28;BJgrft",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-a26bcd6a6bd8e61a33e54332aa26b1beee8aeb21.jpg\">",
+                "Bronchiol aortic artery"
+            ],
+            "flags": 0,
+            "guid": "I{FI<Y~5~#",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-0b537ce210bdffcf18330a695a62053e32f7d23e.jpg\">",
+                "Musculophrenic artery"
+            ],
+            "flags": 0,
+            "guid": "bQI.1a3V>.",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-1",
+                "",
+                "<img src=\"tmpwiilz100.png\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-1-A.svg\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "DYBdC/n}jJ",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-2",
+                "",
+                "<img src=\"tmpwiilz100.png\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-2-A.svg\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "t7AjG}T_9(",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-3",
+                "",
+                "<img src=\"tmpwiilz100.png\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-3-A.svg\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Oy9aP^.3lY",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30b9158c48ec4f14b1bd13f5b1cebdd7-ao-4",
+                "",
+                "<img src=\"tmpwiilz100.png\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-4-A.svg\" />",
+                "<img src=\"30b9158c48ec4f14b1bd13f5b1cebdd7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "E0uDNerv<:",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-0308e04717e01430d72d4b138812991318dc89e9.jpg\">",
+                "Pulmonary surface"
+            ],
+            "flags": 0,
+            "guid": "hi<ojcFmgZ",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-977839a2b8303570f72fdf6bde70f60c1e9bdb85.jpg\">",
+                "Diaphragmatic surface"
+            ],
+            "flags": 0,
+            "guid": "i<v8yVFzON",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "14d9cb9dc58246a7b28e3ccd9e891845-ao-1",
+                "",
+                "<img src=\"tmp2ymluvxf.png\" />",
+                "<img src=\"14d9cb9dc58246a7b28e3ccd9e891845-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"14d9cb9dc58246a7b28e3ccd9e891845-ao-1-A.svg\" />",
+                "<img src=\"14d9cb9dc58246a7b28e3ccd9e891845-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "BL}Gl%x9d:",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-6647929991138eebbccf0bfa763ffd4fc9fff3b2.jpg\">",
+                "Sternocostal surface (anterior)"
+            ],
+            "flags": 0,
+            "guid": "wg>i-<|?+Z",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c2eae7f2c39b4706873ec59bd90806f8-ao-1",
+                "",
+                "<img src=\"tmp6iq9nofq.png\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-1-A.svg\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "k<Fifw:)ec",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c2eae7f2c39b4706873ec59bd90806f8-ao-2",
+                "",
+                "<img src=\"tmp6iq9nofq.png\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-2-A.svg\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sn>X[4u4,r",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c2eae7f2c39b4706873ec59bd90806f8-ao-3",
+                "",
+                "<img src=\"tmp6iq9nofq.png\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-3-A.svg\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "p&0QjP:EY*",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c2eae7f2c39b4706873ec59bd90806f8-ao-4",
+                "",
+                "<img src=\"tmp6iq9nofq.png\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-4-A.svg\" />",
+                "<img src=\"c2eae7f2c39b4706873ec59bd90806f8-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "x(I.rVHx2e",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        }
+    ]
+}
