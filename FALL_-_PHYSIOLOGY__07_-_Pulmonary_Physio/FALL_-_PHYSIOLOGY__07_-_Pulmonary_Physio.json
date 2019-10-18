@@ -1,0 +1,836 @@
+{
+    "__type__": "Deck",
+    "activeTags": [],
+    "children": [],
+    "crowdanki_uuid": "fbc7092c-f17a-11e9-a59f-3c6aa78689e9",
+    "deck_config_uuid": "7ca1881f-e472-11e9-bc46-3c6aa78689e9",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "7ca1881f-e472-11e9-bc46-3c6aa78689e9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 1500,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "inactiveTags": [],
+    "media_files": [
+        "paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg",
+        "paste-16e9e0d488a382ad8a75881060a98215a1363149.jpg",
+        "paste-32649d8cd66e288e27b65bf4f5432c825f20ea05.jpg",
+        "paste-4705aead7d4806944cacd926937e153100d4dd9c.jpg",
+        "paste-48fd6bedb56941deb8ecde48ae82e079b06be997.jpg",
+        "paste-6cba4a1b69b97a4c7083d5e7e2472e6d571f6fc0.jpg",
+        "paste-6e69547e519a5058b867ba21f43256dcbb566ba4.jpg",
+        "paste-6f59a410c2312660db781aa0517879a467b78a39.jpg",
+        "paste-895919c919962d1b0756768748b57696d3bd9602.jpg",
+        "paste-a95158950ec28719b2866b37b6bab65f2adccfc4.jpg",
+        "paste-b4b2f80792cf8e1445af84fa20e42316027ea27d.jpg",
+        "paste-ff72d42d2b91cc991c2a6d97fa2ddbb093642249.jpg"
+    ],
+    "mid": "1570411054244",
+    "name": "FALL - PHYSIOLOGY::07 - Pulmonary Physio",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Explain the cilia deficiency in smokers.",
+                "The cilia loses their ability to beat and thus cannot eliminate foreign bodies out of the airway."
+            ],
+            "flags": 0,
+            "guid": "qD?fqaU`ay",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What type of collagen is the terminal airway composed of?",
+                "Type I<div><br></div><div><img src=\"paste-6f59a410c2312660db781aa0517879a467b78a39.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "pHlOKM,oRN",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is COPD?",
+                "Chronic Obstructive Pulmonary Disorder"
+            ],
+            "flags": 0,
+            "guid": "hj!u8}S[oN",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is TV?",
+                "<div>Tidal Volume: The normal breathing volume during rest</div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "M`jbt(+>!(",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is RV?",
+                "<div>Residual Volume: The air left in the lungs after expelling all available air.</div><div><br></div><div>This value is unmeasurable.</div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "tXie^dM|.4",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is ERV?",
+                "<div>Expiratory Reserve Volume: The measurable volume of air that can be expired out of the lungs</div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "AIojcP{zFl",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is IRV?",
+                "<div>Inspiratory Reserve Volume: The measurable volume of air that can is inspired into the lungs<br></div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "I{DA|BNGq|",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is IC?",
+                "<div>Inspiratory Capacity: IRV + TV<br></div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "OKKuja79%i",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is FRC?",
+                "<div>Functional Residual Capacity: ERV + RV<br></div><div><br></div><div>Cannot be measured since RV cannot be measured</div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "M~b*yln6K9",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is VC?",
+                "<div>Vital Capacity: IRV + TV + ERV<br></div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "G?3%j0c4<H",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In a spirographic record, what is TLC?",
+                "<div>Total Lung Capacity: IRV + TV + ERV + RV<br></div><div><br></div><div>Cannot be measured since RV cannot be measured</div><img src=\"paste-0544a8ec6d14143607f0a718bed6886f3c341a4a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "pOW^Vh_dO?",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What \"volume\" is increased in obstructive lung disease?",
+                "Residual Volume<br><img src=\"paste-32649d8cd66e288e27b65bf4f5432c825f20ea05.jpg\"><div></div>"
+            ],
+            "flags": 0,
+            "guid": "Q^yWpW[|hE",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What \"volume\" is/are reduced in restrictive lung disease?",
+                "All lung volumes<div><img src=\"paste-32649d8cd66e288e27b65bf4f5432c825f20ea05.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "N4wY}E[H<[",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the difference between minute ventilation and alveolar ventilation?",
+                "Minute: V<sub>T&nbsp;</sub>= TV x Breathing Rate<div><br></div><div>Alveolar = V<sub>T&nbsp;</sub>= (TV - Dead Space) x Breathing Rate</div>"
+            ],
+            "flags": 0,
+            "guid": "OWGc#dA_}",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Dead space}} is any air not exchanged between alveoli and pulmonary capillary blood.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "AkOq3XElR}",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Physiological dead space = {{c1::anatomic dead space}} + {{c1::alveolar dead space}}.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zI~@pW5~/W",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Alveolar and arterial P<sub>CO2</sub> are {{c1::inversely}} proportional to alveolar ventilation when CO<sub>2</sub> production is constant.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L*22Sgzi,z",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Each gas in a mixture of gases exerts a partial pressure of the total pressure of the gas mixture.&nbsp; Total pressure of the gases in atmospheric air at sea level is 760 mm Hg.</div><div><br></div><div>Wha law is this?</div>",
+                "Dalton's Law"
+            ],
+            "flags": 0,
+            "guid": "s_3HS+>86Y",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "We actually breath in less of the intended gas because inspired air becomes saturated with&nbsp;{{c1::water vapor}} in the airways.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oj5>*DY>XH",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the partial pressure of inspired oxygen (P<sub>IO2</sub>) at sea level?",
+                "150 mmHg"
+            ],
+            "flags": 0,
+            "guid": "wE`z!e!Xy5",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "P<sub>AO2</sub>&nbsp;/ P<sub>aO2</sub>&nbsp;/ P<sub>ACO2</sub>&nbsp;/ P<sub>aCO2</sub>&nbsp;all reach {{c1::equilibrium}} after gas exchange",
+                "<img src=\"paste-895919c919962d1b0756768748b57696d3bd9602.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "kclIO7RiET",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Non-uniformity exists in the lungs due to&nbsp;{{c1::gravity}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "u8Hz)q9uI~",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Contraction::Contraction/Relaxation}} of muscles of inspiration creates a more neg P<sub>IP</sub>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "K$Ln9m)-RU",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Expiration::Expiration/Inspiration}} occurs as muscles of inspiration relax and elastic recoil takes place.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g*RG}`iK^a",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is emphysema?",
+                "One form of COPD<div><br></div><div>Alveoli loses its elastic recoil</div><div><br></div><div>Difficulty expiring air out of the lungs</div><div><br></div><div>RESIDUAL VOLUME INCREASES</div><div><br></div><div>Common in smokers</div>"
+            ],
+            "flags": 0,
+            "guid": "odNNeT@_$k",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is transpulmonary pressure (P<sub>TP</sub>)?",
+                "Defined as the difference between the alveolar pressure and the intrapleural pressure in the pleural cavity.<div><br></div><div>P<sub>TP</sub>&nbsp;= P<sub>A</sub>&nbsp;- P<sub>IP</sub></div><div><sub><br></sub></div><div><img src=\"paste-4705aead7d4806944cacd926937e153100d4dd9c.jpg\"><sub><br></sub></div>"
+            ],
+            "flags": 0,
+            "guid": "M((}4nBZxo",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is lung compliance?",
+                "The efficiency of lung inflation<div><br></div><div>C<sub>L</sub>= ∆V/∆P<br></div><div><br></div><div>∆V: change in lung volume<br></div><div>∆P: change in lung pressure<br></div><div><br></div><div>High Compliance: Lung volume increases at relatively low lung pressure</div>"
+            ],
+            "flags": 0,
+            "guid": "Bu]ujI)]3:",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lung compliance for patient suffering from emphysema:",
+                "High lung compliance, but cannot expel air out of lungs (RV increases)"
+            ],
+            "flags": 0,
+            "guid": "Mdwe!$q}&%",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lung compliance for patient suffering from fibrosis:",
+                "Low compliance; unable to take in air efficiently"
+            ],
+            "flags": 0,
+            "guid": "gO+*cR),rW",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the Law of Laplace?",
+                "Refers to the pressure within alveoli that tends to make them collapse.<div><br>This is due to surface tension.</div>"
+            ],
+            "flags": 0,
+            "guid": "LP8V|Z0dQ)",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the purpose of surfactant?",
+                "Product of type II alveolar cells.<div><br></div><div>Secretions that help weaken surface tension within the alveoli and help them expand.</div>"
+            ],
+            "flags": 0,
+            "guid": "Kp3hxdPMYO",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>{{c1::Apoproteins}} are immunoprotective and facilitate the spreading of surfactant and its recycling.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rb1mfCuaVY",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": [
+                "pulmonary"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Obstructive lung disease&nbsp;{{c1::increases::increases/decreases}} the time constant.",
+                "<div>Thus, the time required to fill and empty the lung is increased.</div><div><img src=\"paste-48fd6bedb56941deb8ecde48ae82e079b06be997.jpg\"></div>"
+            ],
+            "flags": 0,
+            "guid": "QdFAYJ[|*n",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bronchial diameter is&nbsp;{{c1::inversly}} proportional to resistance",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pjjqcAjYZo",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The loss of the smooth, uniform airflow is called&nbsp;{{c1::turbulence}}",
+                "<img src=\"paste-b4b2f80792cf8e1445af84fa20e42316027ea27d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "qUvNec5`O8",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Parasympathetic response causes bronchio{{c1::constriction}}",
+                "Increase in resistance"
+            ],
+            "flags": 0,
+            "guid": "F+`N/tjo~,",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Sympathetic response causes bronchio{{c1::dilation}}",
+                "Decrease resistance"
+            ],
+            "flags": 0,
+            "guid": "h=7#buHQ6=",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In sympathetic response, catecholamines bind to {{c1::beta-2}} receptors",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jUatz)8fNN",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In parasympathetic response, acetylcholine binds to&nbsp;{{c1::muscarinic (M)}} receptors",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mhF-QXN=_s",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The molecules in inhalers are {{c1::beta-2-adernergic}} agonists that facilitates opening of airways during asthmatic attack.",
+                "Behaves like norepinehrine"
+            ],
+            "flags": 0,
+            "guid": "P7^XfdyLAx",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "At the end of quiet breathing, interpleural pressure (P<sub>IP</sub>) = {{c1::atmospheric pressure (P<sub>atm</sub>)}}",
+                "<img src=\"paste-6e69547e519a5058b867ba21f43256dcbb566ba4.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "HcNpXIt]X>",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The change in lung volume is&nbsp;{{c1::inversely}} proportional to the change in interpleural pressure",
+                "When the interpleural pressure is negative, lungs will take in air and increase in volume<div><br></div><div><img src=\"paste-16e9e0d488a382ad8a75881060a98215a1363149.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "DPn%&!zRgD",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Exercise can increase what volume?",
+                "Tidal Volume"
+            ],
+            "flags": 0,
+            "guid": "owfKdwP}7z",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The point where all possible effort-based expiratory curve merge is called the&nbsp;{{c1::effort-independent region}}",
+                "No matter how much effort we put in to expire air, there will alwasy be compression against the airway, which causes this region.<div><br></div><div><img src=\"paste-6cba4a1b69b97a4c7083d5e7e2472e6d571f6fc0.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "]g*u+}cB1",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "During forced expiration, airflow velocity increases as interpleural pressure (P<sub>IP</sub>) increases. Increase in airflow velocity will result in the decrease of airway pressure (P<sub>AW</sub>). This causes dynamic compression of the airway due to the&nbsp;{{c1::Bernouli}} effect.",
+                "<img src=\"paste-a95158950ec28719b2866b37b6bab65f2adccfc4.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "i[&*d4AQD.",
+            "note_model_uuid": "42ce520c-e860-11e9-b229-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is FEV<sub>1</sub>?",
+                "The forced expiratory volume in 1 second time"
+            ],
+            "flags": 0,
+            "guid": "h6pHAJ(6=#",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is FVC?",
+                "Forced vital capacity: the total measurable expired volume of the lungs (since RV cannot be measured)"
+            ],
+            "flags": 0,
+            "guid": "m{)r5AVM<+",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does FEV<sub>1</sub>/FVC measure?",
+                "Measures the efficiency of forced expiratory air:<div><br></div><div>Higher FEV<sub>1</sub>/FVC (%): expiration and the emptying of the lungs happens fairly rapidly</div>"
+            ],
+            "flags": 0,
+            "guid": "Kx:uZH-_?z",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does FEV<sub>1</sub>/FVC (%) change in patients with a restrictive lung disease (e.g. fibrosis)?",
+                "Compliance is decreased: restricts efficient inspiration of air --&gt; decrease inspirational volume<div>Therefore, FVC is decreased<br><div><br></div><div>FEV<sub>1</sub>&nbsp;is unaffected: since patient can expire normally</div><div><br></div><div><u>FEV<sub>1</sub>/FVC can be the same as normal patients or greater</u><br><div><img src=\"paste-ff72d42d2b91cc991c2a6d97fa2ddbb093642249.jpg\"><br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "HGM;*>!tqJ",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How does FEV<sub>1</sub>/FVC (%) change in patients with a obstructive lung disease (e.g. COPD)?",
+                "Compliance is unaffected: can inspire like normal patient<div>Therefore, FVC is constant<br><div><div><br></div><div>FEV<sub>1</sub>&nbsp;is decreased: since patient cannot expire efficiently</div><div><br></div><div><u>FEV<sub>1</sub>/FVC is significantly less than that of noraml patients</u><br><div><img src=\"paste-ff72d42d2b91cc991c2a6d97fa2ddbb093642249.jpg\"><br></div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "r<Q!(96QGn",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        }
+    ]
+}
