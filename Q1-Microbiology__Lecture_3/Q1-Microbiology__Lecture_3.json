@@ -1,0 +1,776 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "c93b9bb4-f756-11e9-987b-acde48001122",
+    "deck_config_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "37baff30-db35-11e9-ae8f-f2189854675e",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 300,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "987b0dd603494005996c63cec57bc630-ao-1-A.svg",
+        "987b0dd603494005996c63cec57bc630-ao-1-Q.svg",
+        "987b0dd603494005996c63cec57bc630-ao-2-A.svg",
+        "987b0dd603494005996c63cec57bc630-ao-2-Q.svg",
+        "987b0dd603494005996c63cec57bc630-ao-O.svg",
+        "Screen Shot 2019-10-25 at 10.34.02 AM.png",
+        "paste-1085b82cdd6991ba7c6d250470417655a5f1f1bb.jpg",
+        "paste-bac4cf1c2f7328181b9f93577926d3bb5da7523b.jpg"
+    ],
+    "mid": 1569894932481,
+    "name": "Q1-Microbiology::Lecture 3",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}",
+                    "scratchPad": true
+                }
+            ],
+            "type": 1,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are examples of Lower tract infections?",
+                "Bronchitis, pneumonia<div>The other ones are in the upper respiratory tract.</div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "N^&N?a5&B:",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lower respiratory tract infections are {{c1::more::more/less}} severe.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J0kY#?LlD8",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Corynebacterium (diphtheria) is gram {{c1::positive}}<div>type of aerobe/anaerobe:{{c1::facultative anaerobe}}</div><div>contains {{c1::metachromatic}} granules</div>",
+                "<img src=\"paste-1085b82cdd6991ba7c6d250470417655a5f1f1bb.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "lE92D.>,k;",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Corynebacterium diptheriae infects {{c1::superficial}} tissue.&nbsp;</div><div>Local infection usually of the {{c1::throat}}, but also the {{c2::skin}}.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DQ762|PIvC",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The {{c1::toxin}} of the&nbsp;<span>Corynebacterium diptheriae is responsible for the manifestation of the disease.</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "FPR#d>P=KP",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Corynebacterium diptheriae is spread by {{c1::respiratory droplets}}.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Ci%R`DxjQe",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>The&nbsp;<span>Corynebacterium diptheriae toxin inhibits protein synthesis in eukaryotic cells by inactivating&nbsp;</span>{{c1::EF2}}<span>&nbsp;(which inhibits translation), causing tissue destruction.&nbsp;</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "vI[BwMo7sd",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Corynebacterium diptheriae incubation period of {{c1::2-5}} days.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JJR3;HP-e*",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "987b0dd603494005996c63cec57bc630-ao-1",
+                "",
+                "<img src=\"Screen Shot 2019-10-25 at 10.34.02 AM.png\" />",
+                "<img src=\"987b0dd603494005996c63cec57bc630-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"987b0dd603494005996c63cec57bc630-ao-1-A.svg\" />",
+                "<img src=\"987b0dd603494005996c63cec57bc630-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "OW*H]VeOE#",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "987b0dd603494005996c63cec57bc630-ao-2",
+                "",
+                "<img src=\"Screen Shot 2019-10-25 at 10.34.02 AM.png\" />",
+                "<img src=\"987b0dd603494005996c63cec57bc630-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"987b0dd603494005996c63cec57bc630-ao-2-A.svg\" />",
+                "<img src=\"987b0dd603494005996c63cec57bc630-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "sV!}{Qn#hJ",
+            "note_model_uuid": "41c87a46-ebbf-11e9-9c62-f2189854675e",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-bac4cf1c2f7328181b9f93577926d3bb5da7523b.jpg\"><div>This is&nbsp;{{c1::Corynebacterium diphtheriae}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "hVoOoHD>s(",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Haemophilus significant species are&nbsp;<span>H.&nbsp;</span>{{c1::influenzae}}<span>&nbsp;and&nbsp;</span><span>H.&nbsp;</span>{{c1::ducreyi}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "QoX^D|ZDv)",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "H.influenzae type b (Hib)&nbsp;<div>Gram {{c1::negative rod}}</div><div>{{c1::non-::non/very}}motile</div><div>{{c2::Polyribophiosphate}} capsule (Hib vaccine against capsule)</div><div>Fastidious - only grows on {{c1::chocolate}} agar.&nbsp;</div><div>Factor X ({{c3::protoporphryin I9 - hemin}}</div><div>Factor V [{{c3::NAD+}}]</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v.;q|z)Us^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "The&nbsp;H.influenzae vaccine works against the {{c1::Hib capsule}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "l.,n*^q<lw",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae is&nbsp;<div>Gram-{{c1::positive}}</div><div>{{c2::alpha}} {{c1::hemolytic}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "oV-ou|ll@}",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae is among the leading causes of {{c1::death}} throughout the world.&nbsp;<br>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "kusfQhKY5o",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae is the etiological organicim in {{c1::typical lobular pneumonia}}, {{c2::otitis media}}, {{c3::meningitis}}, and {{c4::bacteremia}}.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Kr+-&)1:xe",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae<div>role of the capsule- {{c1::virulence}}<span>&nbsp;is directly dependent on the polysaccharide capsule (antiphagocytic)</span></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G_1{|mX9s)",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae releases {{c1::hemolysin}} that damages {{c2::respiratory}} epithelium.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "d3uk@oxYn0",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae: Alveoli exudes fluid, {{c1::RBCs}} and {{c1::WBCs}} leading to productive cough",
+                ""
+            ],
+            "flags": 0,
+            "guid": "P/A0mLWF|^",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae can disseminate to {{c1::lymphatics}}, {{c1::blood}}, and other tissues.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "PLQH3L8QK7",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae&nbsp;<div>diagnosis</div><div><div>{{c1::Optochin}} sensitivity (sensitive)</div></div><div>{{c2::Quellung}} Reaction</div><div>{{c3::Gram}} stain</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "D8Vy(~;dw2",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae&nbsp;<div>treatment</div><div>{{c1::penicillin}}</div><div>{{c2::vancomycin}}</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "OxT~gEN^#B",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae&nbsp;<div>Resistance is known to occur for penicillin</div><div>-this occurs by alteration of one or more of the bacteriums {{c1::penicillin binding proteins}}.&nbsp;</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gwgSZ,2/;`",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Streptococcus pneumoniae&nbsp;<div>Prevention</div><div><div>Pneumococcal conjugate vaccine against {{c1::capsule}}</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ipquxM?QLB",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Bordetella pertussis}} is also known as {{c1::whooping cough}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "v0a7nVVbV!",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis&nbsp;<div>gram {{c1::negative}}&nbsp;</div><div>structure: {{c2::coccobacilli}}</div><div>{{c3::aerobe::aerobe/anaerobe}}</div><div>virulent strain is {{c4::encapsulated}}</div><div>produce toxins</div><div><br></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H$|,)Q}#@|",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis&nbsp;<div>Three species</div><div><div><u>B. pertussis</u></div> <div></div> <div>B. {{c1::parapertussis}}</div> <div></div> <div>B. {{c2::bronchiseptica}} ({{c3::motile::motile/nonmotile}})</div><div><br></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iw4:WdR@]*",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis transmission is {{c1::respiratory droplets}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gw|=xL*5[J",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis cite of infection is at the {{c1::nasopharynx}}, {{c2::ciliated cells of bronchi and trachea}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "xE&nN1joKR",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis&nbsp;<div>Symptoms and signs</div><div><div>Similar to {{c1::common cold}} at first</div> <div></div> <div>Then prolonged {{c2::characteristic}} cough </div> <div></div> <div>{{c3::Inflammation of respiratory}} tract</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "w<E+[C|Px1",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis<div>pathogenesis</div><div>affects children under {{c1::2}} years old</div><div>organism binds to {{c1::ciliated cells in the URT}}</div><div>toxin released and spread to ciliated cells of the {{c2::trachea and bronchi.&nbsp;}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Dv4=BK7Hx5",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis<div>Pathogenesis</div><div>The toxin {{c1::paralyses}} the cells</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "qSf7VPb)1p",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis<div>Pathogenesis</div><div>The toxin inhibits {{c1::DNA synthesis}} in epithelial cells</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "uiZg(4%;Ge",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis<div>Pathogenesis</div><div>The toxin inhibits {{c1::phagocytes}} and thus {{c2::paralyses the immune system}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ENYXp]u~kh",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis<div>Prevention</div><div>{{c1::DTaP}} vaccine</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "znFz}rx&]!",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis<div>Prevention</div><div>Require a booster every {{c1::10}} years.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J<O#%I%$Cu",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Bordetella pertussis<div>Treatment</div><div>{{c1::erythromycin}}</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g.YDo/o.`>",
+            "note_model_uuid": "8eec37b4-df19-11e9-b5c4-a683e769f5fb",
+            "tags": []
+        }
+    ]
+}
