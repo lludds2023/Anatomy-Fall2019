@@ -1,0 +1,1086 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "9d690e74-f9a5-11e9-8a69-acde48001122",
+    "deck_config_uuid": "c5d25da8-f0ab-11e9-ab87-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "c5d25da8-f0ab-11e9-ab87-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 30,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    2,
+                    7
+                ],
+                "order": 0,
+                "perDay": 1000,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "20db1426e7c7435ca3a252e11bb048ca-ao-1-A.svg",
+        "20db1426e7c7435ca3a252e11bb048ca-ao-1-Q.svg",
+        "20db1426e7c7435ca3a252e11bb048ca-ao-2-A.svg",
+        "20db1426e7c7435ca3a252e11bb048ca-ao-2-Q.svg",
+        "20db1426e7c7435ca3a252e11bb048ca-ao-O.svg",
+        "2388060829d3485ba33ade2bfbfa1e19-ao-1-A.svg",
+        "2388060829d3485ba33ade2bfbfa1e19-ao-1-Q.svg",
+        "2388060829d3485ba33ade2bfbfa1e19-ao-2-A.svg",
+        "2388060829d3485ba33ade2bfbfa1e19-ao-2-Q.svg",
+        "2388060829d3485ba33ade2bfbfa1e19-ao-3-A.svg",
+        "2388060829d3485ba33ade2bfbfa1e19-ao-3-Q.svg",
+        "2388060829d3485ba33ade2bfbfa1e19-ao-O.svg",
+        "33d7ee4e47f04ba38dce9ba7e45e31b7-ao-1-A.svg",
+        "33d7ee4e47f04ba38dce9ba7e45e31b7-ao-1-Q.svg",
+        "33d7ee4e47f04ba38dce9ba7e45e31b7-ao-O.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-1-A.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-1-Q.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-2-A.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-2-Q.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-3-A.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-3-Q.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-4-A.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-4-Q.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-5-A.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-5-Q.svg",
+        "4654941f17f147e5b834799365bfe8a1-ao-O.svg",
+        "5096ed5644054006a36cd690725268c6-ao-1-A.svg",
+        "5096ed5644054006a36cd690725268c6-ao-1-Q.svg",
+        "5096ed5644054006a36cd690725268c6-ao-2-A.svg",
+        "5096ed5644054006a36cd690725268c6-ao-2-Q.svg",
+        "5096ed5644054006a36cd690725268c6-ao-O.svg",
+        "56e675e0740d4e88b4515f5785751104-ao-1-A.svg",
+        "56e675e0740d4e88b4515f5785751104-ao-1-Q.svg",
+        "56e675e0740d4e88b4515f5785751104-ao-2-A.svg",
+        "56e675e0740d4e88b4515f5785751104-ao-2-Q.svg",
+        "56e675e0740d4e88b4515f5785751104-ao-O.svg",
+        "5833feb2806241b7804467dee1f0654e-ao-1-A.svg",
+        "5833feb2806241b7804467dee1f0654e-ao-1-Q.svg",
+        "5833feb2806241b7804467dee1f0654e-ao-2-A.svg",
+        "5833feb2806241b7804467dee1f0654e-ao-2-Q.svg",
+        "5833feb2806241b7804467dee1f0654e-ao-3-A.svg",
+        "5833feb2806241b7804467dee1f0654e-ao-3-Q.svg",
+        "5833feb2806241b7804467dee1f0654e-ao-O.svg",
+        "e5bca0ae379f49c3b26ad3488a207c66-ao-1-A.svg",
+        "e5bca0ae379f49c3b26ad3488a207c66-ao-1-Q.svg",
+        "e5bca0ae379f49c3b26ad3488a207c66-ao-2-A.svg",
+        "e5bca0ae379f49c3b26ad3488a207c66-ao-2-Q.svg",
+        "e5bca0ae379f49c3b26ad3488a207c66-ao-3-A.svg",
+        "e5bca0ae379f49c3b26ad3488a207c66-ao-3-Q.svg",
+        "e5bca0ae379f49c3b26ad3488a207c66-ao-O.svg",
+        "paste-1521d0fc2f01230fffaa40a577ee3b8b7fd3f5af.jpg",
+        "paste-201d76f2ffe7dbe9dcda6ed5f0cd91850465d251.jpg",
+        "paste-34e619e51da8afb944b5dbe979974a2293286a0d.jpg",
+        "paste-3b7ef6f3edd24eb0f39aa514b97f42cecd712b2b.jpg",
+        "paste-3fc06cc4c08dc43ac438f06cc58716f647fdfd53.jpg",
+        "paste-4ccfed34101aa95477574a3ff39983a8ba53e9db.jpg",
+        "paste-58315aa0491a496c335328d5309d2ec199bf4d9b.jpg",
+        "paste-58a7d02133f7cd2948b46a9d6644e0d2a441cf9f.jpg",
+        "paste-66f650ef87f3e02d1e695840f82a052d97687705.jpg",
+        "paste-6b1393f3e80cf73e584c444ad5fe662931ab342b.jpg",
+        "paste-7dd9a69d9b219f473bd4d7b3baa723f4767894f9.jpg",
+        "paste-7f1a111b90a1b2d75554c0b50cc4e8704cb0debb.jpg",
+        "paste-83c31bb1dbe8bbc0b9e191d2371485dc291167b5.jpg",
+        "paste-860fef3c01b72a90595875318651d0b514a46dcf.jpg",
+        "paste-8a05ef787e0819744066ebf19edad0ac2418a4df.jpg",
+        "paste-94d96b387c18bb814bb7709a704b2815491531c2.jpg",
+        "paste-a61ce79a743b56a960ad32b08b58666dc5fe35de.jpg",
+        "paste-a644b3162fca08a4a51ce39e01d1510c2cf3395b.jpg",
+        "paste-c9b3bfd44e8d84b701e6206f98c7640db8b894af.jpg",
+        "paste-ca078b7ed5705a96ffbdaa9a89147ec982d6fb5f.jpg",
+        "paste-ccd7eeff6715ded908de688f8b35c310d0fbbd54.jpg",
+        "paste-d2696d042a5e130f769ce10d787b4625ff976133.jpg",
+        "paste-e7f0933e7e433e126b0636af268d0a449e2fc783.jpg",
+        "paste-ed2474a6101fca30924e927ab29771cb0cad5a15.jpg",
+        "tmpd14ntlcr.png",
+        "tmpg80vxgjy.png",
+        "tmpj66k2bpg.png",
+        "tmpq88wri7q.png",
+        "tmpum1frfyb.png",
+        "tmpwhhsirzq.png",
+        "tmpy2c0_h8h.png",
+        "tmpzof8lhr8.png"
+    ],
+    "mid": "1570392059085",
+    "name": "Q1-Anatomy::Lecture 22",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2;\n  visibility: hidden;\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n\n<script>\n// Toggle answer mask on clicking the image\nvar toggle = function() {\n  var amask = document.getElementById('io-overlay');\n  if (amask.style.display === 'block' || amask.style.display === '')\n    amask.style.display = 'none';\n  else\n    amask.style.display = 'block'\n}\n\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n\n<script>\n// Prevent original image from loading before mask\naFade = 50, qFade = 0;\nvar mask = document.querySelector('#io-overlay>img');\nfunction loaded() {\n    var original = document.querySelector('#io-original');\n    original.style.visibility = \"visible\";\n}\nif (mask === null || mask.complete) {\n    loaded();\n} else {\n    mask.addEventListener('load', loaded);\n}\n</script>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-7f1a111b90a1b2d75554c0b50cc4e8704cb0debb.jpg\">",
+                "Thymus"
+            ],
+            "flags": 0,
+            "guid": "Ia;YBfa?*A",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-8a05ef787e0819744066ebf19edad0ac2418a4df.jpg\">",
+                "Braciocephalic veins"
+            ],
+            "flags": 0,
+            "guid": "D1Dg8V..2J",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-3fc06cc4c08dc43ac438f06cc58716f647fdfd53.jpg\">",
+                "Inferior thyroid vein"
+            ],
+            "flags": 0,
+            "guid": "zlIkMiZoKe",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-66f650ef87f3e02d1e695840f82a052d97687705.jpg\">",
+                "Left phrenic nerve"
+            ],
+            "flags": 0,
+            "guid": "eH[qz^5Z9s",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-860fef3c01b72a90595875318651d0b514a46dcf.jpg\">",
+                "Left vagus/recurrent laryngeal nerve"
+            ],
+            "flags": 0,
+            "guid": "uZy%ii$)jD",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-94d96b387c18bb814bb7709a704b2815491531c2.jpg\">",
+                "Left superior intercostal vein"
+            ],
+            "flags": 0,
+            "guid": "DyHMP{w%qT",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-4ccfed34101aa95477574a3ff39983a8ba53e9db.jpg\">",
+                "Left recurrent pharyngeal nerve"
+            ],
+            "flags": 0,
+            "guid": "H`V93==)cR",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-58a7d02133f7cd2948b46a9d6644e0d2a441cf9f.jpg\">",
+                "Bifurcation of trachea"
+            ],
+            "flags": 0,
+            "guid": "G#r?z_Hiyx",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-c9b3bfd44e8d84b701e6206f98c7640db8b894af.jpg\">",
+                "Thoracic duct"
+            ],
+            "flags": 0,
+            "guid": "x=7b_(lzNh",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-a644b3162fca08a4a51ce39e01d1510c2cf3395b.jpg\">",
+                "Esophagus"
+            ],
+            "flags": 0,
+            "guid": "tcBmjzE)]3",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "33d7ee4e47f04ba38dce9ba7e45e31b7-ao-1",
+                "",
+                "<img src=\"tmpj66k2bpg.png\" />",
+                "<img src=\"33d7ee4e47f04ba38dce9ba7e45e31b7-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"33d7ee4e47f04ba38dce9ba7e45e31b7-ao-1-A.svg\" />",
+                "<img src=\"33d7ee4e47f04ba38dce9ba7e45e31b7-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "IuGQ8#@r:%",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-58315aa0491a496c335328d5309d2ec199bf4d9b.jpg\">",
+                "Cardiac nerves"
+            ],
+            "flags": 0,
+            "guid": "JzChd>fWq",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4654941f17f147e5b834799365bfe8a1-ao-1",
+                "",
+                "<img src=\"tmpum1frfyb.png\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-1-A.svg\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "z+)yN7@NtV",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4654941f17f147e5b834799365bfe8a1-ao-2",
+                "",
+                "<img src=\"tmpum1frfyb.png\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-2-A.svg\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "gD859lXZS#",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4654941f17f147e5b834799365bfe8a1-ao-3",
+                "",
+                "<img src=\"tmpum1frfyb.png\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-3-A.svg\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "DXuzUk*e*X",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4654941f17f147e5b834799365bfe8a1-ao-4",
+                "",
+                "<img src=\"tmpum1frfyb.png\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-4-A.svg\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "z$Vvh6U<#V",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "4654941f17f147e5b834799365bfe8a1-ao-5",
+                "",
+                "<img src=\"tmpum1frfyb.png\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-5-A.svg\" />",
+                "<img src=\"4654941f17f147e5b834799365bfe8a1-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "bL*x.!.b%y",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-34e619e51da8afb944b5dbe979974a2293286a0d.jpg\">",
+                "Cardiac plexus"
+            ],
+            "flags": 0,
+            "guid": "q-2_dt_P6J",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-d2696d042a5e130f769ce10d787b4625ff976133.jpg\">",
+                "Ligamentum arteriosum"
+            ],
+            "flags": 0,
+            "guid": "nYI9g@>CRP",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-6b1393f3e80cf73e584c444ad5fe662931ab342b.jpg\">",
+                "Brachiocephalic"
+            ],
+            "flags": 0,
+            "guid": "I^|:;4g1JW",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-7dd9a69d9b219f473bd4d7b3baa723f4767894f9.jpg\">",
+                "Left common carotid"
+            ],
+            "flags": 0,
+            "guid": "kLc0eMxz6`",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-a61ce79a743b56a960ad32b08b58666dc5fe35de.jpg\">",
+                "Left subclavian"
+            ],
+            "flags": 0,
+            "guid": "B;uN0,b<D?",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-3b7ef6f3edd24eb0f39aa514b97f42cecd712b2b.jpg\">",
+                "Phrenic nerve"
+            ],
+            "flags": 0,
+            "guid": "J(+klAy9Qs",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-ccd7eeff6715ded908de688f8b35c310d0fbbd54.jpg\">",
+                "Phrenic nerve"
+            ],
+            "flags": 0,
+            "guid": "K&G2?kT7ON",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-1521d0fc2f01230fffaa40a577ee3b8b7fd3f5af.jpg\">",
+                "Phrenic nerve"
+            ],
+            "flags": 0,
+            "guid": "m3+/Z#[(Un",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-201d76f2ffe7dbe9dcda6ed5f0cd91850465d251.jpg\">",
+                "Phrenic nerve"
+            ],
+            "flags": 0,
+            "guid": "cw:I-u-8&J",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-ed2474a6101fca30924e927ab29771cb0cad5a15.jpg\">",
+                "Vagus nerve"
+            ],
+            "flags": 0,
+            "guid": "MpExBF$Ppo",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-e7f0933e7e433e126b0636af268d0a449e2fc783.jpg\">",
+                "Recurrent laryngeal"
+            ],
+            "flags": 0,
+            "guid": "C`Rozq#t8@",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "e5bca0ae379f49c3b26ad3488a207c66-ao-1",
+                "",
+                "<img src=\"tmpzof8lhr8.png\" />",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-1-A.svg\" />",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "A1Mhl.,6$d",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "e5bca0ae379f49c3b26ad3488a207c66-ao-2",
+                "",
+                "<img src=\"tmpzof8lhr8.png\" />",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-2-A.svg\" />",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "e7?o(O2UTS",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "e5bca0ae379f49c3b26ad3488a207c66-ao-3",
+                "",
+                "<img src=\"tmpzof8lhr8.png\" />",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-3-A.svg\" />",
+                "<img src=\"e5bca0ae379f49c3b26ad3488a207c66-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "I_Xh4:3Q[E",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-83c31bb1dbe8bbc0b9e191d2371485dc291167b5.jpg\">",
+                "Sympathetic chain"
+            ],
+            "flags": 0,
+            "guid": "Lk:ULZoowt",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"paste-ca078b7ed5705a96ffbdaa9a89147ec982d6fb5f.jpg\">",
+                "Cervicothoracic (stellate) ganglion"
+            ],
+            "flags": 0,
+            "guid": "ChI>WVn=9n",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5833feb2806241b7804467dee1f0654e-ao-1",
+                "",
+                "<img src=\"tmpq88wri7q.png\" />",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-1-A.svg\" />",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "g}wgYc9F@%",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5833feb2806241b7804467dee1f0654e-ao-2",
+                "",
+                "<img src=\"tmpq88wri7q.png\" />",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-2-A.svg\" />",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "DNd,ztvnaw",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5833feb2806241b7804467dee1f0654e-ao-3",
+                "",
+                "<img src=\"tmpq88wri7q.png\" />",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-3-A.svg\" />",
+                "<img src=\"5833feb2806241b7804467dee1f0654e-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "wUU>W=C&;C",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "20db1426e7c7435ca3a252e11bb048ca-ao-1",
+                "",
+                "<img src=\"tmpwhhsirzq.png\" />",
+                "<img src=\"20db1426e7c7435ca3a252e11bb048ca-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"20db1426e7c7435ca3a252e11bb048ca-ao-1-A.svg\" />",
+                "<img src=\"20db1426e7c7435ca3a252e11bb048ca-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "n.]G!|f{6W",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "20db1426e7c7435ca3a252e11bb048ca-ao-2",
+                "",
+                "<img src=\"tmpwhhsirzq.png\" />",
+                "<img src=\"20db1426e7c7435ca3a252e11bb048ca-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"20db1426e7c7435ca3a252e11bb048ca-ao-2-A.svg\" />",
+                "<img src=\"20db1426e7c7435ca3a252e11bb048ca-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "LUY13nN25A",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the branches of the thoracic aorta?",
+                "Branches:<div>Posterior intercostals</div><div>Bronchial aortic artery</div><div>esophageal aortic artery&nbsp;</div><div>Pericardial branches</div>"
+            ],
+            "flags": 0,
+            "guid": "msK~mIzY(z",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2388060829d3485ba33ade2bfbfa1e19-ao-1",
+                "",
+                "<img src=\"tmpd14ntlcr.png\" />",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-1-A.svg\" />",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "mI:i9lQ%,?",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2388060829d3485ba33ade2bfbfa1e19-ao-2",
+                "",
+                "<img src=\"tmpd14ntlcr.png\" />",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-2-A.svg\" />",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "IP5A:tCciC",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "2388060829d3485ba33ade2bfbfa1e19-ao-3",
+                "",
+                "<img src=\"tmpd14ntlcr.png\" />",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-3-A.svg\" />",
+                "<img src=\"2388060829d3485ba33ade2bfbfa1e19-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "snS#/QsPI{",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Blood supply (arteries) to the esophagus includes:",
+                "Inferior thyroid arteries<div>Esophageal branches of aorta</div><div>Superior and Inferior phrenic aortic artery</div><div>Left gastric artery</div>"
+            ],
+            "flags": 0,
+            "guid": "x@IIaON5MK",
+            "note_model_uuid": "42ce6f9e-e860-11e9-8039-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56e675e0740d4e88b4515f5785751104-ao-1",
+                "",
+                "<img src=\"tmpy2c0_h8h.png\" />",
+                "<img src=\"56e675e0740d4e88b4515f5785751104-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"56e675e0740d4e88b4515f5785751104-ao-1-A.svg\" />",
+                "<img src=\"56e675e0740d4e88b4515f5785751104-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "lN4mE-o3gr",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56e675e0740d4e88b4515f5785751104-ao-2",
+                "",
+                "<img src=\"tmpy2c0_h8h.png\" />",
+                "<img src=\"56e675e0740d4e88b4515f5785751104-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"56e675e0740d4e88b4515f5785751104-ao-2-A.svg\" />",
+                "<img src=\"56e675e0740d4e88b4515f5785751104-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "D(-.@_bQee",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5096ed5644054006a36cd690725268c6-ao-1",
+                "",
+                "<img src=\"tmpg80vxgjy.png\" />",
+                "<img src=\"5096ed5644054006a36cd690725268c6-ao-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5096ed5644054006a36cd690725268c6-ao-1-A.svg\" />",
+                "<img src=\"5096ed5644054006a36cd690725268c6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "v{[Kba=cH]",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5096ed5644054006a36cd690725268c6-ao-2",
+                "",
+                "<img src=\"tmpg80vxgjy.png\" />",
+                "<img src=\"5096ed5644054006a36cd690725268c6-ao-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5096ed5644054006a36cd690725268c6-ao-2-A.svg\" />",
+                "<img src=\"5096ed5644054006a36cd690725268c6-ao-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": ":`5xr.)Ub",
+            "note_model_uuid": "42ce4b38-e860-11e9-af1f-a483e703db84",
+            "tags": []
+        }
+    ]
+}
