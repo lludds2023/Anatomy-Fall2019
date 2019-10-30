@@ -1,0 +1,259 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "eec0dd1c-fb15-11e9-8a59-a683e744b8d5",
+    "deck_config_uuid": "a563bac6-e8a8-11e9-aeb6-a683e744b8d5",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "a563bac6-e8a8-11e9-aeb6-a683e744b8d5",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    3,
+                    15
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 9999,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 90,
+                "minSpace": 1,
+                "perDay": 9999
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "Screen Shot 2019-10-30 at 5.35.13 AM.png",
+        "Screen Shot 2019-10-30 at 5.37.35 AM.png",
+        "Screen Shot 2019-10-30 at 5.38.45 AM.png",
+        "Screen Shot 2019-10-30 at 5.43.15 AM.png",
+        "Screen Shot 2019-10-30 at 5.46.27 AM.png",
+        "Screen Shot 2019-10-30 at 5.48.35 AM.png",
+        "Screen Shot 2019-10-30 at 5.52.18 AM.png",
+        "Screen Shot 2019-10-30 at 5.54.29 AM.png",
+        "Screen Shot 2019-10-30 at 5.57.25 AM.png",
+        "Screen Shot 2019-10-30 at 5.57.31 AM.png",
+        "Screen Shot 2019-10-30 at 5.57.38 AM.png"
+    ],
+    "name": "Q1-Dental Fundamentals::Tooth ID #1::Tooth ID #3",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.35.13 AM.png\">",
+                "Maxillary Left First Molar: 14<br><br>*notice cusp of carabelli on the ML cusp"
+            ],
+            "flags": 0,
+            "guid": "uGDR<=.KAj",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.37.35 AM.png\">",
+                "Maxillary Left First Molar: 14<br><br>*although diminished, cusp of carabelli on the ML cusp"
+            ],
+            "flags": 0,
+            "guid": "noPi2_JvQ:",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.38.45 AM.png\">",
+                "Maxillary Left Second Molar: 15<br><br>Why 2nd: MB root apex in line with buccal groove, <br>heart shaped occlusal table (ish), <br>diminished DL cusp<br><br>Why Left: Broader MB root, MB bulge"
+            ],
+            "flags": 0,
+            "guid": "F@5G:HeEe+",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.43.15 AM.png\">",
+                "Maxillary Right Second Molar: 2<br><br>Why 2nd: MB root apex in line with buccal groove<br>Roots tilted like trees in a wind storm<br><br>Why Right: MB bulge, broader MB root, in general, roots lean distally for the molars"
+            ],
+            "flags": 0,
+            "guid": "A5Q$[>.87J",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.46.27 AM.png\">",
+                "Maxillary Right Third Molar: 1<br><br>Why 3rd: almost 1:1 crown to root ratio, it's funky<br><br>Why Right: MB bulge, roots tilted distally, wider MB root"
+            ],
+            "flags": 0,
+            "guid": "wD&mdhvH1^",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.48.35 AM.png\">",
+                "Maxillary Left Third Molar: 16<br><br>Why 1st: 1:1 crown to root ratio<br><br>Why Max: Does not resemble the crowns of the mandibular first (5 cusp) or second (+ sign) molars<br><br>Why Left: MB bulge, broader MB root"
+            ],
+            "flags": 0,
+            "guid": "m/u7$AQSwQ",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.52.18 AM.png\">",
+                "Mandibular Left First Molar: 19<br><br>Why 1st: 5 cusps, no distinct + groove pattern on crown<br><br>Why Left: small distal cusp, <br>MB bulge, <br>wider M root"
+            ],
+            "flags": 0,
+            "guid": "HJsNo3$Zp/",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.54.29 AM.png\">",
+                "Mandibular Left First Molar: 19<br><br><u>Why 1st:</u> although diminished, 5 cusps are present, <br>central groove is straighter on the 2nd (making a more distinctive + pattern)<div><br><u>Why Left:</u> D cusp on the left of the occlusal table, <br>wider M root, <br>MB bulge, <br>roots tilted distally</div>"
+            ],
+            "flags": 0,
+            "guid": "r?tKP`Kcx#",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.57.25 AM.png\">",
+                "Mandibular Right Second Molar: 31<br><br>Why 2nd: Distinctive + pattern on crown, only 4 cusps<br><br>Why Right: Roots tilted distally, MB bulge"
+            ],
+            "flags": 0,
+            "guid": "LOSr|KHao@",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.57.31 AM.png\">",
+                "Mandibular Right Second Molar: 31<br><br>Why 2nd: distinctive + pattern on crown!<br><br>Why Right: Wider M root, <br>MB bulge, <br>roots leaning distally, <br>Mesial surface of crown is wider F-L than distal"
+            ],
+            "flags": 0,
+            "guid": "A$-T#XWijT",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2019-10-30 at 5.57.38 AM.png\">",
+                "Mandibular Right Third Molar: 32<br><br>Why 3rd: 1:1 crown to root ratio<br><br>Why Mandibular: crown resembles mandibular second molar (+ crown pattern)<br><br>Why right: Roots tilted distally, <br>Wider M root<br>Mesial half of crown is wider F-L than the distal half"
+            ],
+            "flags": 0,
+            "guid": "q)8l`4q_;Z",
+            "note_model_uuid": "a573e50c-e8a8-11e9-9b19-a683e744b8d5",
+            "tags": []
+        }
+    ]
+}
